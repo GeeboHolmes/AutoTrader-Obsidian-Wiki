@@ -1,0 +1,360 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/c9m88P3TInc
+
+00:00:00.160 Liquidity sweeps are the most powerful way to trade the market. And yet 99% of
+00:00:05.839 traders who try fail. The reason is because there are hundreds of different liquidity sweeps that happen every day,
+00:00:12.559 but most of them don't work. It's only when you truly understand which one does that they become unstoppable. It took me
+00:00:19.119 years to figure out which ones work and why. And today I'm going to share that exact blueprint with you. For you to
+00:00:26.000 truly master this idea, I'm going to break this video down into three parts. In part one, I'll be explaining exactly
+00:00:33.200 what liquidity is and how it really works. In part two, I'll explain to you
+00:00:38.480 what is a liquidity sweep versus a liquidity run and what the difference is. And in part three, I'll walk you
+00:00:45.200 through a stepbystep trade example taken today using both liquidity sweeps and
+00:00:51.280 liquidity runs. So this is the trade taken from today. Now in part three,
+00:00:57.120 this is the trade that we're going to be looking at breaking down step by step. But before I break this down, I need you
+00:01:03.760 to understand the philosophy of why I took this trade. That is why I've broke this down into three parts. So part one,
+00:01:10.159 I want to share with you a true understanding of what is liquidity and how it actually works. Now, you hear
+00:01:17.119 people talk about liquidity and they make it out to be such a complicated process when in actuality it is super
+00:01:24.080 simple. Liquidity simply refers to money. When you're looking for liquidity, what you're looking for is
+00:01:29.759 money. And here's the truth. Liquidity is absolutely everywhere in the market. The thing is, it's just in some areas
+00:01:36.640 more than others. So, when we're looking at liquidity, we want to be looking at areas of large liquidity. Now, how does
+00:01:42.560 liquidity enter the market? Liquidity enters the market in one of three ways.
+00:01:47.920 The first way that liquidity enters the market is opening a position. So, anytime that you have a buy order open
+00:01:54.720 or a sell order open, whether it's a market execute, a buy stop or sell stop or a buy limit or sell limit, when that
+00:02:02.079 gets triggered into the market like this, at that moment in time, that is your injection of liquidity into the
+00:02:09.038 market. And so let's say you're buying for example or you're buying into the market which means you're putting your liquidity into the market. There is a
+00:02:15.840 counterparty on the other side of the market who's telling the opposite side of the trade. So if you're buying you
+00:02:21.920 know 10 lots on Euro dollar. There has to be someone on the other side of the market selling you those 10 lots. That
+00:02:29.200 is usually a market maker. That is their job. A market maker is there to provide liquidity to whoever needs it to make
+00:02:36.239 sure the order book is stacked so that anybody can get access to the market and they make their money off the difference
+00:02:43.200 between the bid and ask that is a market maker. So when you enter into a buy position that is you entering buy side
+00:02:49.360 liquidity into the market. The second area of liquidity that comes into the market is when you hit let's say a
+00:02:56.160 takerit. So when you hit a takerit, which is the area that you have agreed upon to close out your trade in a
+00:03:02.480 profit, when you hit that takerit, that acts as sell liquidity. So you're buying
+00:03:09.280 your 10 lots worth of Euro dollar at this price, and you're selling back
+00:03:14.560 those same 10 lots to the market at a new price. And so at this point in time,
+00:03:19.840 10 lots of sellside liquidity come into the market. The third area that
+00:03:25.519 liquidity enters the market is when price hits your stop-loss. So, let's say you get triggered into a buy position.
+00:03:32.400 And for many of you, you may be experiencing more stop- losses than not. Every time that you hit a stop-loss like
+00:03:38.080 this, when price tags you out of that position, you are indeed selling your 10
+00:03:44.000 lots back to the market at a loss. So, you brought 10 lots here and you're selling the 10 lots back to someone else
+00:03:50.319 in the market at this price. and you net the negative difference. The same is
+00:03:56.159 true for a take profit. When you hit it, you're selling those same 10 lots at this area for a net positive dollar
+00:04:03.920 return. So that is the three different ways that liquidity enters the market. So that's liquidity. Liquidity is money
+00:04:09.680 and that money comes in either through entries, stop- losses or take profits.
+00:04:15.360 Now you have to ask yourself where is the most available liquidity? That is
+00:04:20.560 when you have to try to understand the other market participants because liquidity as we've said is orders and
+00:04:27.360 orders are placed by someone and there are commonalities in market participants
+00:04:34.000 behavior and so here are the most common areas of liquidity. So the most common is highs and lows at any time you see an
+00:04:41.680 area of price like this where price is moving in this direction. Let's say price has a little bit of a pullback
+00:04:49.040 like this. The most common areas of liquidity at this moment in time are below this low and above this high. That
+00:04:57.199 is where the most liquidity is resting in the market. The reason behind that is
+00:05:02.440 because most market participants like to put their stop- losses or their orders
+00:05:08.080 at highs and lows just the psychological element of safety. So buyers that are
+00:05:13.759 stepping into the market and expecting price to go higher when they enter the market the likelihood is is they ask
+00:05:19.759 themselves where should I place my stop loss and they are going to be looking to place their stop loss in a logical place
+00:05:25.840 which is usually below a low. Now sellers who are entering the market in
+00:05:31.199 here and they're entering sell positions in here they have the same question. Where should I be putting my stop loss?
+00:05:38.400 And then for most of them, they're going to answer the same thing in the most logical and safe position, which is
+00:05:44.400 usually above the high that they're selling from. Then you also have when these buyers are entering the market,
+00:05:50.320 they're putting their stop losses down here. Now, they have to set a take-profit level. And that take-profit
+00:05:55.360 level again usually comes at a high. So, they're saying, "I'm buying here. If it hits this point, I'll exit the trade."
+00:06:01.840 So, there is again more liquidity at that high. So now you have take profit levels and stop-loss levels and then the
+00:06:09.120 same for this low you're having stop losses and anyone who's selling from this region right a lot of people are
+00:06:15.520 placing take profit levels in this area so that is more liquidity so you have
+00:06:21.039 stop losses and take profits at the low stop losses and take profits at the high then there's another form of liquidity
+00:06:27.840 that comes in at highs and those are your breakout traders so breakout traders are typically people who look at
+00:06:35.440 getting into the market based off of a break of a high or a break of a low. So let's say for example price move like
+00:06:42.000 this and price enters into this high there will become breakout traders. So
+00:06:47.600 at this level you will see people who put buy stops in place that says if
+00:06:53.600 price trades past this level I will get entered into my buy position because
+00:06:58.720 they're expecting that if price breaks this high the trend is likely to continue. And so now you have the
+00:07:06.080 takerits of the buyers who brought in here. You have the stop- losses of the sellers who sold in here. and you have
+00:07:12.960 the entries of the potential buyers that are going to buy on the breakout. And so
+00:07:18.240 you can see how all of this liquidity starts piling above this high. The same is true on the opposite side of the
+00:07:24.400 market. If price enters down into this area and here, there are going to be sellers waiting for this price point to
+00:07:31.440 break so that they can get involved in sells and try to trade with the trend. When we trade through this area, their
+00:07:38.400 sell positions will be entered into the market at this level. So now all of a sudden at this low and at this high you
+00:07:44.720 have down here you have stop losses you have take profit levels and you have
+00:07:50.800 entry levels. So you can see how there is a lot of liquidity that rests just on
+00:07:56.479 the dependence of this low. The same is true for this high stop losses take profits and entry points. So there is a
+00:08:02.639 considerable amount of liquidity resting at highs and resting at lows as opposed
+00:08:08.080 to less liquidity that may just sit inside of the price range inside of the
+00:08:13.440 price leg. Usually most of the liquidity is going to be in the form of entries. So people who are entering inside of the
+00:08:21.039 price leg as opposed to people who are looking to break out and place their stop losses or their take profits. And
+00:08:26.720 so that's why the most common form of liquidity is going to be your highs and
+00:08:32.240 lows. Another way to look at highs and lows as liquidity is equal highs or equal lows or support and resistance.
+00:08:39.839 Pretty much the same thing. When you get price moves like this one in here and then somewhat of a reaction to the
+00:08:45.519 downside. When you get something like this, what happens is another form of market participants join in and the load
+00:08:51.680 gets even larger because as this high gets respected and starts trading away from it. Well, now you have different
+00:08:58.320 characters entering the markets. You had the old sellers that had their stop losses, you're going to have the old buyers who place their breakout trades.
+00:09:05.279 You're going to have the other buyers who place their takeprofits. Now, you're also going to have new sellers who step
+00:09:12.080 into the market because their strategy is equal highs or their strategy is an area of resistance. An old high that has
+00:09:19.200 traded back into and had a reaction induces a lot of market participants to come and trade and participate in the
+00:09:26.480 market at that level. And guess what? They too are placing stop- losses above these highs. The same again, more
+00:09:32.640 breakout traders come because now this isn't just a single high. It's equal highs. It's an area of resistance. So if
+00:09:39.920 we break out of this level, more traders will come because the breakout now isn't just a high. It's an area of resistance
+00:09:46.959 that they will hope gets turned into an area of support or the equal highs being taken out is a stronger sign of bullish
+00:09:54.560 momentum which induces more bias. So you have equal highs and then sometimes you'll have the same for equal lows like
+00:10:01.120 this. You have equal lows down here and that's going to give you the exact same. So, what you want to be looking for are
+00:10:07.399 lows, highs, equal highs, equal lows. Some other forms are, you know, trend
+00:10:14.000 lines and some really powerful sessions, right? Because not all highs and lows
+00:10:19.600 are the same. Not all highs and lows are equal. There can be prioritized highs
+00:10:24.800 and prioritized lows. I'm going to dive deeper into that in phase three. So,
+00:10:30.240 what is a liquidity sweep? And more importantly, why do they happen? Let's first start with what actually is a
+00:10:37.120 liquidity sweep. Very very simply put, a liquidity sweep is when price breaches a
+00:10:42.959 high, fails to close above that high, wicks above that high, and then closes
+00:10:49.839 back inside of the price range. The opposite can also be true in a bearish example. Now, that is what a liquidity
+00:10:56.480 sweep looks like. That's the easy part. That's what everybody understands. Everybody understands what a liquidity sweep is, but very few understand why a
+00:11:04.880 liquidity sweep happens. To understand this, you need to understand the basics of an auction market theory.
+00:11:10.959 Essentially, for every buyer, there must be a seller. Meaning, if you want to buy
+00:11:17.360 100 lots of Euro dollar, there must be someone on the other side of the market
+00:11:22.880 willing to sell a 100 lots of Euro dollar. This could be 100 different
+00:11:28.079 people all selling one lot. It could be two bigger people looking to sell 50 lots. It doesn't matter how many people.
+00:11:35.519 All that matters is how many lots are available at any one price point. Now that you understand that every buyer
+00:11:41.680 needs a seller and every seller needs a buyer, you need to understand how an institution operates. You see
+00:11:48.160 institutions when they want to place large orders in the market, they know that they have large volume. That means
+00:11:56.320 that if they want to place a position, it's going to be a big position. But for them to do that, they need somebody on
+00:12:02.240 the other side of the market to take that position. Well, what do you know? We understand that at highs and at lows,
+00:12:09.920 there are these large liquidity pockets. What is in those liquidity pockets is a
+00:12:15.120 large amount of orders. And so if an institution wanted to sell a
+00:12:22.040 100,000 lots of Euro dollar, let's say hypothetically, well, if they just sold
+00:12:27.440 at market price, here's what would happen. So this right here is the order flow. This is what's actually going on
+00:12:34.560 in the market. This is what the real market looks like. I'll throw a picture up of the real order flow right now. As
+00:12:40.240 you can see that this is a simplified version of it because I need to explain something to you. You see, every single candle that you see, every phase of
+00:12:47.760 candles, this is independent of time frame. So, if you're on a 15-minute time frame, this is a 15-minute candle. And
+00:12:54.320 inside of this 15-minute candle, you will see the 15minute order flow for that candle. Let's say that they were
+00:13:00.399 daily candles. So, inside of this would be the daily order flow. And inside of the daily order flow, you would see
+00:13:06.000 this. Now, inside the market, inside the order flow, you will see the bid and you'll see the ask. The bid is the
+00:13:12.480 demand. Those are the people who are willing to buy, right? They are bidding on price. Ask is the sellers. They are
+00:13:19.680 the ones who are selling. They are asking for the price. Hey, my asking price is this in order to sell. And then
+00:13:26.959 the price is the price. So at any one point in time, price will be sitting at any one point in price. That price is
+00:13:34.399 considered fair value by both market participants. And here's how it works. The market is comprised of two sides,
+00:13:40.240 active and passive. You have active buyers and passive buyers. An active buyer is someone who will step in at the
+00:13:47.360 current market price and execute orders. They don't care about waiting for price
+00:13:52.480 to come back down to a certain level. They want to buy right now and so they are willing to buy at a premium. Same
+00:13:58.720 for sellers. Active sellers are willing to sell at this specific price right now. They're not waiting for price to
+00:14:04.720 come back. passive buyers and passive sellers are people who are waiting for price to come into a certain area and
+00:14:11.440 then they will buy or then they will sell. So when you're looking at the order book you'll see all of these pending orders. What these are are
+00:14:19.480 potential fills meaning at any one point in time these orders can be removed unless they get triggered. When they get
+00:14:26.320 triggered then they get activated into the market. So here's how it works and here's how you see a candle actually get
+00:14:32.160 formed in real time. This candle, the new day is opening at 104 like this.
+00:14:37.920 What happens is at some point in time, let's say an active buyer steps into the
+00:14:43.120 market and they want to buy let's say 50 lots of Euro dollar. And so they want to
+00:14:50.000 buy right now 50 lots of Euro dollar. Well, there is nobody at 104 willing to sell. So what happens is the price seeks
+00:14:58.480 the next block of liquidity like this. And then you see the candle move and this then becomes a bullish candle. So
+00:15:06.320 you see that we come up into here and you see there are nine lots here. Well, what happens is these nine lots go to
+00:15:12.079 zero and whoever was selling these nine lots, they get filled on their cells. But this trader here still has 41 lots
+00:15:20.959 that are left unfilled. So then if there's no sellers here, then it's going to go to the next block of liquidity and
+00:15:27.920 then it's going to go to 106. At this point, there are 40 units to sell. And so, these 40 get consumed and they go to
+00:15:34.480 zero. And all of these sellers get triggered into their trade. But there's still one unit left unfilled. And so,
+00:15:40.240 price has to go to the next available block of liquidity to take that. And one
+00:15:45.680 of these 30 units will get triggered as a sell. And then there'll be 29 left at
+00:15:51.199 this price. But the reality is there's nobody willing to buy from them at this price point. So, they don't get filled.
+00:15:57.440 So, if sometimes you have a wonder, you take a trade and prices hit your entry, but you still don't get filled into your
+00:16:02.959 position, that's because there is no liquidity available for your order specifically to get filled at that price
+00:16:09.600 point. Then, let's say for whatever reason, this is our high. So, we're going to map out this right here as our
+00:16:16.639 highest point of price. And then, we're going to do it to the low of price right
+00:16:21.839 here. Then, let's say an active seller comes into the market. And let's say a
+00:16:26.880 seller steps in uh who's willing to sell at this specific price for 50 lots
+00:16:33.360 again. And let's say there are, you know, like four lots or something at this price point. Then what happens?
+00:16:38.560 Price goes and seeks where the liquidity is. So there's no buyers in this price
+00:16:44.720 point. So price skips this level. Inside of here, there are four lots. Those four lots get consumed by the 50. We're still
+00:16:51.360 left with 46. Then you have seven in here, nine in here and 10 in here. Not
+00:16:56.480 enough to fill the 50. So price comes into here to collect the seven, the nine, the 10, whatever it is. And then
+00:17:03.440 this is where price ends up. Now that once bullish candle then turns into a
+00:17:08.959 bearish candle and that is essentially how the candle gets formed. Now why this is important is because I need you to
+00:17:15.280 understand something. Let's say for example a large institution steps into the market and they actually want to buy
+00:17:21.599 a,000 lots worth of Euro dollar at this point right here right 1.01 that's their
+00:17:28.559 target price when institutions come into the market and they build a position because institutions don't just place a
+00:17:34.880 trade they build a position I'll explain why in a moment so they've got an intention of placing a th00and units of
+00:17:42.320 Euro dollar and they have a target of 1 02 to be their average price. Now,
+00:17:47.840 here's what happens. Let's say there's 100 in here, you know, 20 in here, 50 in here. The likelihood is is there isn't
+00:17:54.799 enough liquidity available on the other side to fill those 10,000 orders. So, instead of the institutions coming into
+00:18:01.200 the market and placing all their 1,000 at one time because what happens is if they do that, price would end up going
+00:18:07.039 from here and absolutely skyrocketing all the way up here. And then all of a
+00:18:12.480 sudden, you know, they might have got filled 20 down here, you know, 30 here,
+00:18:17.840 100 in here, 300 in here. And all of a sudden, their target of getting an
+00:18:24.160 average order value of 1.02 completely evaporates. And now they're getting 1.1,
+00:18:30.960 right? Completely out of alignment with what they wanted to. So, what they do is they slowly build a position. They'll
+00:18:37.679 put in 50 now and then it won't really move price. and then more sellers will step in and they'll put another 50 and
+00:18:43.600 another 50 and another 50 and another 50. Right? That's kind of how they build out a position. That's why you'll often
+00:18:49.280 see that institutions build positions in ranging markets. Now, here's the other
+00:18:54.960 thing that they will do. They understand that at these highs and at these lows,
+00:19:00.240 there is a lot of liquidity, right? So maybe above this high there might be a
+00:19:06.679 thousand units to sell at this level. Why? Because you have buyers take
+00:19:12.400 profits that act as sell. You have breakout traders that are acting as sellside liquidity as well. So what
+00:19:18.640 you'll see is they will sometimes strategically push price into these
+00:19:24.240 areas so that all of those units of sales get flooded into the market. And
+00:19:30.000 guess who's there ready to buy them up and absorb them? That is going to be these guys. These guys are sitting in
+00:19:36.480 here. If this institution wants to, let's say, sell, you know, a,000 units,
+00:19:42.400 for example, at this price point, right, or in and around these areas, let's say they're in here, what they'll do is
+00:19:48.080 they'll nudge price up into these liquidity pockets up in here where they know there is a large amount of buyers,
+00:19:54.480 right? There are breakout traders in here. There are takeprofit levels, there are stop-loss levels. Um, there's a
+00:20:01.360 bunch of liquidity that sits in here. So, they know that they can nudge price up a little bit, trigger all this
+00:20:08.320 liquidity, and then take the other side of it to get a good fill of their value.
+00:20:13.679 And they'll do that and they'll push price into these levels making everybody believe that the market is you know
+00:20:20.880 bullish having buyers flood to the market so that they can get their sell
+00:20:26.640 positions in. Now you'll know that this is happening when you see that price
+00:20:32.799 wicks above the high because what happens is as price approaches a high and trades above that level this is
+00:20:38.960 where the magic happens. All of the buyers that are stepping in here, this
+00:20:44.559 institution is absorbing all the sales, absorbing all the sells until eventually, guess what? There's no more
+00:20:50.400 buyers left at this price point. And so now all there is is the rest of the sellers that were sitting at this price
+00:20:57.120 point. And so price then comes back down. It closes below this previous
+00:21:02.880 high. And that is your telltale sign. Why? Because what the market is saying
+00:21:09.520 is that the market and all its participants do not agree that price
+00:21:14.720 should be trading higher than this level. They agree that price should be trading lower than this level. And so
+00:21:20.000 now the likelihood is is that we get an aggressive selloff that goes in this
+00:21:27.520 direction. That is a liquidity sweep. A liquidity sweep is when price aggressively runs a high, wicks above
+00:21:34.559 it, and then closes inside of it. But like I said, the why behind it is
+00:21:39.679 what's most important because that when we get into the next stage is going to give you a good understanding of
+00:21:45.559 context. So understanding that when we liquidate this level and close back inside of the range, that is a liquidity
+00:21:52.640 sweep. But like I said, they happen all the time and not all of them work. It's about identifying which ones work and
+00:21:58.400 most importantly why. And I'm going to get to that in just a moment. So that is a liquidity sweep and that is ultimately
+00:22:04.000 a large part as to why liquidity sweeps occur. Now we need to understand what's
+00:22:09.919 a run on liquidity. So a run on liquidity and a sweep of liquidity are
+00:22:15.360 two very different things. And the reality is is most people get these confused or they call the same thing.
+00:22:21.520 They call different things the same thing not really understanding what is actually going on and what is the
+00:22:26.559 difference. So let me explain it to you. Now you see how liquidity sweep was when
+00:22:32.000 price trades over a high and then closes back inside with a wick on the top like
+00:22:39.679 this indicating lower prices. This indicates a rejection, right? A
+00:22:45.039 rejection of the idea that price should trade higher, therefore it's likely to trade lower. It's a resistance to that
+00:22:50.799 idea. Well, a liquidity run is quite literally the opposite. A liquidity run
+00:22:56.000 is when price aggressively trades above a high and then also continues with that
+00:23:02.559 same level of momentum. Now, there's two very different dynamics that occur between a sweep and a run. And I want to
+00:23:09.200 explain that to you using kind of this um order flow in here. So, what is a
+00:23:17.120 liquidity run and why is that a lot different than a liquidity sweep?
+00:23:22.240 You see, a liquidity run is used differently because it's used to fuel a move as opposed to something else. Let's
+00:23:30.159 say, you know, you can quite clearly see that we have a low, a high, a higher low, meaning that this low is higher
+00:23:36.320 than the previous one, indicating signs of bullish order flow. Then you have a higher high, meaning this high here is
+00:23:41.919 higher than the previous one, indicating bullish signs of order flow. So the expectational order flow, right, the
+00:23:47.440 structure of price is bullish. So you're expecting higher prices. Well, we know that down here we have liquidity. Up
+00:23:54.240 here we also have liquidity. Now the market is bullish, but still there are
+00:24:00.000 obviously sellers inside of this price level. So when a seller has their position up here, well, their stop-
+00:24:07.600 losses act as buyside liquidity. And then you also have breakout traders that
+00:24:13.279 act as buyside liquidity. And so a liquidity run is when that liquidity is
+00:24:19.760 used to fuel a move, right? So let's say for example, you know, um large money
+00:24:26.559 institutions were building up a position and let's say as price is kind of ranging around in these levels in here,
+00:24:32.640 you know, they're building a position, they may give a little bit of a liquidation of an internal low whilst they're building their position like
+00:24:38.240 this. Right? Once they've built their position, they've got a nice amount of orders set to go long. Then what they
+00:24:45.760 might do is they might initiate a little bit of a bullish move because they
+00:24:51.039 understand that by doing so that is going to induce buyers to step into the
+00:24:56.320 market and allow the market to move in the direction they need to go in. Because once they've built their
+00:25:01.520 position, they can't build a position and then also move price because what
+00:25:06.559 would be the point of that? It wouldn't really make much sense for them. So what they do is they build the position, they
+00:25:12.640 start the run, and then they let the rest of the market, the herd, take their
+00:25:17.679 position where they want to go. So they've built their position in here, they'll give price a little bit of a
+00:25:23.039 nudge. Bearing in mind, we're already in bullish order flow. So the likelihood is we're going to go long anyway. And so what happens when they give that little
+00:25:29.360 nudge is that buyers start stepping into the market. And eventually when we go through this high which is the logical
+00:25:36.400 phase of price there is number one everyone who's already buying and everyone who's
+00:25:42.480 rushing to buy late. Number two all of the sellers that start to get in. That's why sometimes you see a rejection of a
+00:25:48.240 high as well because it induces more sellers to create more liquidity. Well, what happens then is when price reaches
+00:25:54.320 this level in here and all of these stop- losses get filled and all of these
+00:26:00.240 um breakout traders get into the market, what happens is
+00:26:05.559 price runs itself, right? Because the momentum of
+00:26:11.279 all the liquidity that gets filled in at this level plus nobody wants to sell price really after we break out the
+00:26:18.000 high. So there's less sellers, right? which means it's easier for price to increase and there are more buyers. So
+00:26:24.960 you have a lot of buyers, not many sellers and therefore the price rockets
+00:26:30.080 with ease. What that does is that takes this position well into profit and that is a
+00:26:38.240 liquidity run. That is when price aggressively breaks a high but uses the
+00:26:43.440 liquidity that's sitting at that high as momentum to continue. Whereas a
+00:26:49.120 liquidity sweep uses that liquidity at a high as a mechanism to get filled on the
+00:26:54.799 opposite side of their orders where you can expect price to go lower. So they're two very different things used for very
+00:27:00.720 different reasons. So now I'm going to show you how I was able to use both a liquidity sweep and a liquidity run to
+00:27:07.520 take a trade that I took today. So this is the trade that I want to break down,
+00:27:12.559 but I want to give the overall context of everything first. So, I'm going to do is I'm going to replay price to before
+00:27:19.279 the trade occurs and I'm going to put everything in place. And also, actually, let me
+00:27:25.440 quickly show you a live snippet from the video that I send my Prosperity School members hours before the trade plays
+00:27:32.000 out, showcasing that this is exactly what I wanted to see today. We're probably going to be looking to get this
+00:27:39.200 contraction, right? The downward expansion. price moves from this to this to
+00:27:47.000 expansion to maybe continuation, right? But ultimately, this is the phase that we're currently in. So, I'm definitely
+00:27:52.960 expecting lower prices uh for for euro
+00:27:58.080 today. Cool. So, here we are. It is Friday. We're into the final day of the
+00:28:04.080 week. We've had a very aggressively bearish Euro dollar on the M15 time frame. Our structure all in all is
+00:28:12.480 bearish quite clearly. We're bearish externally, bearish internally. Right? So currently, you know, internal swing
+00:28:19.200 high to internal swing low. So when I'm coming into the day, I'm already bearish. We have swing high up here. We
+00:28:27.440 have swing low down here. So I'm already bearish. Now, here's the mistake that most traders make. Most traders make the
+00:28:33.760 mistake of seeing that price is bearish but not understanding that it's not enough to be bearish. You have to have a
+00:28:40.640 liquidity run or a liquidity sweep and then confirmation to get into a
+00:28:45.679 position. Many people in London session are trying to short already because they think that everything's bearish. They're
+00:28:51.760 going to try to sell the continuation. Like no, I understand that we failed to
+00:28:56.799 take out this low. The responsibility of this high right here is to break this low. If that high does not break that
+00:29:04.080 low, that becomes weak. That's one. It's a weak high, which is liquidity. Because
+00:29:10.880 again, like I said, not all liquidity is the same. Not all liquidity sweeps work.
+00:29:16.559 Not all liquidity runs work. So now I'm going to show you what you need to stack
+00:29:21.720 contextually to make sure that a liquidity sweep will actually work.
+00:29:27.039 Number one, directional bias. We're bearish. So, I don't want to be trying
+00:29:32.880 to buy. I'm not looking for liquidity sweeps on lows. I'm looking for liquidity sweeps by side to go short.
+00:29:40.960 That's the first thing. The second thing is context. This is a weak high. Weak
+00:29:48.080 meaning the high failed to take out the low. So, it's weak. This is also Asia
+00:29:53.360 session high, which means there are more liquidity at this high. There is also
+00:30:00.159 equal highs at this high. You can see price comes in, trades away, comes in, trades away, comes in, trades away.
+00:30:06.480 There are equal highs at this low as well, right? Liquidity. So, we have a
+00:30:11.600 week high, Asia high, and equal highs all in one area. Plus, we're
+00:30:19.240 bearish. There's context as to why this is such an important high. Now, here's
+00:30:25.679 the thing. price could come all the way up here and I would still look to short
+00:30:31.039 if I got my right confirmation because we're bearish. But when I seen how sweet the sweep of liquidity was, it was like
+00:30:38.799 I said unstoppable. It was undeniable that price was going to reverse and run to this low because this is also a
+00:30:45.919 liquidity target because this low down here is the logical path of progression
+00:30:50.960 for price to run structurally. Now, the thing is is there are a lot of sellers that are using this area as their
+00:30:57.039 stop-loss. And so, when they're in this area, they're going to have to get out of their positions. There are going to
+00:31:02.320 be sellers that also look at um sorry, they're going to be buyers in this price
+00:31:08.720 leg trying to hold this position and their stop- losses are going to act as sellside liquidity. There are also going
+00:31:15.679 to be breakout traders that if we break this low, they are going to sell the market and that is going to be sellside
+00:31:21.440 liquidity. So if price comes into here, the momentum is going to take it through
+00:31:28.159 this level and that is going to be a liquidity run. A liquidity sweep is an area you're expecting a reversal from.
+00:31:35.039 Go collect the liquidity and then return to the direction here. Use the liquidity
+00:31:40.320 to fuel the move. Very, very big differences. And so what I'm waiting for
+00:31:45.760 is a confirmation of a sweep. So, if we play 15-minut time frame, you can see we're in uh
+00:31:52.030 [Music] um New York session. Now, if we pull
+00:31:57.200 back before we even get this right, this is what it looks like. You can see that
+00:32:02.640 we have obviously run the high, wicked the high, and then closed back inside
+00:32:07.840 the price point. This tells me that we've just gone and grabbed all the liquidity above this high. And now we're
+00:32:14.640 getting ready to move to the downside. My confirmation for this entry is going to be on the 5minut time frame, right?
+00:32:21.919 And what we see is we see this very, very nice liquidation, which is a
+00:32:27.120 liquidity sweep sweeping high and buy. But now I need to see confirmation that
+00:32:34.080 we're actually going to reverse from this level. So what I see straight away is that we don't have any structure, but
+00:32:39.360 we do have this fair value gap. So this fair value gap here is essentially what's currently holding
+00:32:45.880 price. And then when I see price break this fair value gap,
+00:32:52.640 meaning we've now inverted this value gap, we've destroyed it. That is my confirmation that it's confirmed. Price
+00:32:59.360 is very much likely to go lower. That aggressive momentum through this bullish fair value gap turning into potentially
+00:33:06.480 a bearish fair value gap is my confirmation. At this point, I have to be aggressive. I can't wait for price to
+00:33:12.799 come all the way back up to here and then hope it continues back lower because no, the liquidity sweep has
+00:33:18.320 happened. Now, we're going to deliver price to the sell side. So, I need to be aggressive on my entry. So, I need to
+00:33:25.360 make sure the risk-to-reward makes sense and I can get myself into this position with an execution once we close below
+00:33:33.840 this fair value gap. So, once we closed, I can look at exiting straight away. Where can I put my stop loss? I can put
+00:33:40.159 my stop loss at the high up in here. But because of the sweep, I'm extremely confident that price is not going to
+00:33:46.559 come and return to this level. If price comes and returns to you know even this
+00:33:52.720 high here. If price comes and returns to this high this high is definitely
+00:33:58.399 getting taken. So then I don't need to put my stop loss here because I can put my stop loss at this old high here even
+00:34:06.480 Asia high because I understand if price comes back up to this high here I put my stops here but if price comes back up to
+00:34:13.719 here like this then it's definitely coming up to here. So I can save myself,
+00:34:18.879 you know, an extra 10 15% um and add that 10 15% on my
+00:34:25.000 risk-to-reward. So that is where I'm able to kind of execute my order. Then I
+00:34:30.560 need a target. My target is going to be the swing low because one, we are
+00:34:36.599 bearish. Two, this is the um this is the targeted low. We also have liquidity
+00:34:44.639 across here, right? this kind of like trend line liquidity that's building. We have London session liquidity with the
+00:34:52.000 um equal lows building down there and you'll see how more liquidity gets formed in just a moment. Another thing
+00:34:58.720 when you become more a bit more of an advanced trader but you can go and see you can go and look at other potential draws on liquidity because if this low
+00:35:05.839 gets broken then the likelihood is is that we also have another very old low
+00:35:11.280 down here. Right? If you go to a 4hour time frame, you can see here that this is also a draw in liquidity. This is a
+00:35:18.240 very nice old low. We have a fair value gap in here. So, this can also be used as a secondary target, which is what was
+00:35:25.119 used. Now, we can go back into our 5minute time frame and kind of see how price plays out and kind of comment on
+00:35:31.200 it as we go because it's very, very interesting how price actually played out. So, price begins aggressively
+00:35:37.440 running to the sell side and then we get a little bit of a reaction here. Now this reaction does what? This area now
+00:35:44.079 is being used as an area of support. So now we've got a lot of liquidity that's forming down here as well. Right? Price
+00:35:50.960 is reacting to this level. You see how price is respecting this level. What it's doing is it's engineering sellside
+00:35:56.560 liquidity. That means that when price goes through here, it's going to have an easier time continuing to go lower. A
+00:36:02.480 lot of buyers are trying to protect this price level, but they're not it's not going to work. And so look how easily price is able to run through that
+00:36:08.800 because the moment it breaks the low, the aggression takes itself. Now though,
+00:36:13.920 we're also building more liquidity on the sell side with this little reaction that we have in here. Right? When price
+00:36:19.119 comes up in here, now we have one low, two lows, three lows stacked on top of each other, which means there's even
+00:36:24.560 more liquidity at this low than there was before. And you can see price literally jangles around in this area
+00:36:30.240 until eventually it breaks it. And also look at the momentum that follows through, right? That is the difference
+00:36:36.800 between a liquidity run. You see how price breaks the low and then still the
+00:36:42.960 candle just aggressively continues moving lower. Right? If you look at a one minute time frame, price breaks
+00:36:48.960 through the liquidity and all of the other liquidity enables price to go even
+00:36:55.040 further to the sell side. And so that that is the difference. That there is a
+00:37:00.480 liquidity run and that is a liquidity sweep. And that's how you can use them
+00:37:05.920 both. But the most important thing is you need context to be able to use them both. Now, if you want a guide on my
+00:37:13.440 trading outline, you can check the link in the description. I'm going to leave a free resource there for you to claim.

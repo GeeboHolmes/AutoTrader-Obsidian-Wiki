@@ -1,0 +1,402 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/1ozgmDa2Jcg
+
+00:00:00.000 No text
+00:00:00.080 I made $24,000 in a single trade trading this very simple SMC trading strategy.
+00:00:07.279 In today's video, I'm going to break down everything included in this strategy. So, by the end, you can walk
+00:00:12.480 away with this model and trade it for yourself. In the first part of this video, I'm going to take you through this whiteboard and break everything
+00:00:19.119 down so you understand it perfectly. And then, we're going to go over to the live market and show you an exact trade
+00:00:25.039 example trading this exact strategy. So what you're seeing now on the board is the actual model itself. You can see
+00:00:31.359 there are just three steps. We just need bias, a point of interest and lower time frame confirmation. And this is how
+00:00:37.280 simple this model actually looks. So the first thing we need to understand step one is bias. That's it. We just need to
+00:00:38.000 No text
+00:00:45.040 understand the highest level of success is going to be predicated on our ability to understand which direction the market
+00:00:50.879 is going to trade in this session. So, for me personally, I trade two 3hour
+00:00:56.399 long sessions per day. I trade my London window, which is 2:00 a.m. to 5:00 a.m.
+00:01:02.879 Eastern Standard Time. And then I trade my New York window, which is from 7:00 a.m. to 10 a.m. Eastern Standard Time.
+00:01:11.280 And my job is to understand what's the bias for these sessions. Are we going to trade higher or are we going to trade
+00:01:17.520 lower? And the way I do that is simple market structure. So at all times in the market price will be delivering in some
+00:01:24.400 kind of trending direction. If you see a price delivery like this essentially you can understand we have a low here. We
+00:01:29.439 have a high then we have a higher low. This low right here is higher than the previous low. Then we have a high that
+00:01:35.840 gets broken. So this is our breaker structure. If you get a breaker structure to the upside then you know
+00:01:41.360 that we're bullish. And so already at this moment this bullish structure would indicate to me that we're going to trade
+00:01:46.479 higher. Therefore I want to get involved in long positions. We make a higher high in here like this. That's essentially
+00:01:51.600 our confirmation. Price pulls back as always. And then we essentially put in again another higher low followed by
+00:01:57.840 another break of structure in here followed by another pullback. So let's say this is the picture of what's
+00:02:04.159 actually happening in the market at that moment in time. My only objective for this one specific session is to try to
+00:02:10.160 find the low of this move so that I can get involved on the upside move. Because
+00:02:15.280 as you can see, every time price puts in a new high, it's followed by lower prices back into usually into this old
+00:02:22.720 price leg and then followed by a continuation higher. And so that's all I want to do. When we find a new high,
+00:02:28.959 price will likely start trading back down. I need to identify an area of price, a point of interest, an area
+00:02:36.319 where I can trade from, and then I need to wait in here for confirmation, and then I need to buy in this level if I
+00:02:41.840 get my confirmation. and I simply just need to target this high. That is essentially the premise of the system.
+00:02:47.760 However, usually market structure doesn't look as clean as what you're seeing it as right now. So, let's go and
+00:02:53.360 dive into what usual market structure looks like. So, how market structure usually delivers is something more along
+00:03:00.400 the lines of this. It doesn't look as pretty and as simple as we just explained in the previous segment, but
+00:03:07.200 the same principles actually follow. You see the objective is simply just to find
+00:03:12.319 the high and the low that is currently in control of the market and which direction that they're trading in. So usually you have a low that you need to
+00:03:18.560 find and the high. That's your starting point. From that moment forward it's about do we break below that low or do
+00:03:25.360 we break above that high. If we break above the high then we are bullish. And so you can see in this scenario we do
+00:03:31.280 break that high. So we have a higher low followed by a higher high. Now what we have to understand is this is our
+00:03:37.599 trading range right? So from these lows down here to this high up here, right
+00:03:42.959 before price breaks out of anything, that's our trading range. And price is going to trade inside of this range. And
+00:03:48.879 if we are bullish like we are in this example, the expectation of price is to trade higher. But at first, it's
+00:03:55.840 actually going to try to find this low point. And so essentially, anything between this high and this low is
+00:04:02.640 internal market structure. The problem that many traders face is that they try to trade this structure thinking that
+00:04:08.560 this is the structure they should trade. And so they come in and they see that price starts trading lower like this and they try to trade this price action in
+00:04:15.680 here. But this price action isn't actually your structure. This is your internal structure. What you need to see
+00:04:21.600 is a confirmation that we find a low using the internal structure. So you can
+00:04:27.199 see from when price finds the high, we start trading lower, which is always expected. And we put in a low, a lower
+00:04:32.800 high, a lower low, a lower high, and then a lower low. So the internal structure is bearish. But many traders
+00:04:39.120 fail to understand that this doesn't mean that price is going to trade lower, not through this low. This is just a
+00:04:44.720 pullback of a much larger trend to the upside. And so when you see this, that's
+00:04:50.240 your confirmation. When you go from bearish internal back to bullish internal, that's your confirmation that
+00:04:56.639 the probability is is that now we're going to go and attack this high. And you can see that's what we do. We end up
+00:05:02.000 actually breaking structure to the upside up here. And we break structure and then we find this high before price
+00:05:07.919 again starts to reverse with this internal structure. At that point in time, market structure is trending from
+00:05:14.960 the swing low down here as you can see. Why? because this is the lowest point
+00:05:20.880 that price reached before breaking out of the previous trends consolidation. Once we break out of that high, our new
+00:05:28.160 high becomes the highest point of price before we reverse and our new low
+00:05:33.520 becomes the lowest point in price before we break above the high. That then gives
+00:05:38.720 us our new trading range. So, we're bullish still, but now we're bullish from this low to this high. And again,
+00:05:45.680 the job of us is to understand that as price starts pulling back, it will be
+00:05:50.880 bearish internally. We don't care about trading these internal ranges. We need to wait until we get the confirmation
+00:05:57.280 that price shifts bullish internally. And then once you have this, the probability is that now we go and attack
+00:06:04.400 on this higher here. And so if you have this, essentially your next move if you
+00:06:09.520 was trading this market would be to wait for a pullback, right? And again, the big mistake that a lot of traders make
+00:06:15.199 is they use this as their structure. And so when price breaks below this low in here, that doesn't mean anything for me.
+00:06:21.680 For me, that's just a liquidation of old lows. But for many traders, they see that as a bearish break. And now they're
+00:06:28.080 trying to sell from this level. And the reality is is what happens is this becomes liquidity as well. And price
+00:06:34.080 comes into an area of interest that I'm waiting for for price to come back in, give me this in here. So you can see
+00:06:41.199 that we're internally bearish and then we shift this here is that reversal.
+00:06:46.560 This is that confirmation. We're expecting that price will take out this high in here. Once we get this break of
+00:06:52.800 structure change of character now I can enter the market at this low here with a
+00:06:58.479 buy limit when price comes in. I'll be tagged in and my expectation is for price to just continue in that overall
+00:07:04.319 trend. And so you can see that it actually looks complicated. But if you strip it all back, it's very simple.
+00:07:09.440 From a swing perspective, we have swing low, swing high, swing low. We break
+00:07:14.560 structure. We reverse from this high. So this is our swing high. We come back in here. We break out to the high. So the
+00:07:20.400 lowest point is our swing low followed by our swing high. Price pulls back, makes this low before we break the high.
+00:07:27.360 That becomes our swing low. That's our swing high. As long as we respect this level, we want to buy above this level.
+00:07:33.840 And we want to target the weak structure because the probability indicates that price will trade higher in an uptrend.
+00:07:41.039 Of course, at some point you may get a market reversal, but the probability of that playing out is slimmer than a
+00:07:48.319 continuation. That's why when you see price action in a bullish trend, you can see that before price usually reverses,
+00:07:55.280 there's usually 1 2 3 4 plus 3 plus 5 plus in some cases continuations. So you
+00:08:02.319 can see in a bullish move there are usually anywhere between kind of four and six bullish price legs versus when
+00:08:09.120 we reverse it's just one of them. And so the probability that price will trade higher is higher. Now moving on to step
+00:08:14.000 No text
+00:08:16.879 two is all about areas or points
+00:08:22.800 of interest. What that means very simply is an area of price that we are looking
+00:08:29.199 to get involved in. It's not enough to know that price is going to trade higher. It's not enough to know that
+00:08:34.799 price is going to trade lower in a bearish market. Because what a lot of traders make the mistake of doing is let's say we have a bullish market like
+00:08:40.799 this and price is trading higher. Problem is is that so many traders will
+00:08:46.000 try to trade this breakout here. So when we break this high here in a bullish market, let's say price comes back like
+00:08:51.680 this and then it goes well or there are buyers waiting at this high because when that high gets broken, they want to
+00:08:58.800 trade the continuation up here and that's how essentially they want to try to make money. The problem is on this
+00:09:04.320 pullback here, there are so many people trying to trade this breakout, right?
+00:09:09.680 Because directionally they're correct. And so when price comes up, they try to buy at this level. They're trying to buy
+00:09:15.680 from here, but then they have to put their stop losses down here if they want to logically make sense. So, they have to put their stop losses here, their buy
+00:09:22.320 is here, and now their risk-to-reward is going to be restricted because the likelihood is is that price isn't going
+00:09:28.800 to trade all the way up here without first having a pullback. And if it does, it doesn't happen consistently. So,
+00:09:35.440 their results become inconsistent. That's the problem with breakout traders. The difference what for me is I
+00:09:40.880 want to wait for price to come back into lower prices because after every break
+00:09:47.519 there's usually a pullback. Every break has a pullback. Every break has a pullback. And our job unlike many
+00:09:54.080 traders is they want to buy up in here. I want to buy the lows. They want to buy up in here. I want to buy the lows
+00:10:01.440 because my riskto-reward is far higher. And the most important part I have a
+00:10:06.959 target. When you have breakout traders that trade this direction, they try to buy after we break these highs. Where
+00:10:12.560 are they now looking to take their profits, there's no specific area of price that there is a probability that
+00:10:18.560 it will trade to that level. Versus when you try to buy these lows in here, you can just target the next high because
+00:10:25.839 you know that we're in a trend. And so that high is very likely to be traded through. But when you're already above
+00:10:31.760 that high trying to trade, you don't really have anywhere to target. And so that becomes a problem from a
+00:10:37.760 risk-to-reward perspective. There are many traders out there who may have a 50% win rate, right? They may take 10
+00:10:44.800 trades and win five of them. Their problem is that when they win one trade,
+00:10:50.959 they might only win 0.7 times their risk or maybe one times their risk, right?
+00:10:58.640 That's a problem because if you have a 50% win rate, meaning that if you take 10 trades and you win five and on every
+00:11:07.040 trade you win, you take 1%. Right? So you take 5%. And every trade you lose,
+00:11:12.240 you also lose 5%. Well, even though you win half of your trades, you're still a break even trader. For me, that math
+00:11:19.360 just doesn't really make sense. So when you're trading this model, when you're catching the lows of price, what that
+00:11:26.000 enables you to do is increase your risk-reward. So for me, I have a 1 to5 risk-to-reward. Meaning for every 1%
+00:11:33.040 that I lose on a losing trade, I'll lose 1%. But for every 1% I risk on a winning
+00:11:39.279 trade, I will actually win 5%. And that will give me 5%. So if I let's say for
+00:11:45.760 example I have a 40% win rate which I do for every 10 trades that I take six of
+00:11:51.760 them will be losers so I will lose 6%. But the four that are winners end up
+00:11:56.880 making me 20%. Because it's four winners but every winner has 5%. So I end up
+00:12:03.600 winning 20%. So if you do the math I win 20 I lose six I'm left with a net profit
+00:12:12.079 of 14%. So it's not always about how many trades you win, it's about your riskto-reward relative to your win rate.
+00:12:19.600 So to tie all of that back into points of interest. This is where things get interesting. We have to actually
+00:12:25.120 identify in the previous price leg where we can get involved. So if market is bullish like this, right? Well, when we
+00:12:32.639 break structure now, we need to understand anywhere between this low and as price starts coming back where the
+00:12:38.639 current price is, we need to understand where to get involved in the market. And some of you have already heard about
+00:12:43.920 fair value gaps or order blocks. But I need to make you understand what they actually are and how to understand them
+00:12:50.079 beyond just pattern recognition. So, usually, pretty simply put, an order block is where you have one bearish
+00:12:57.120 candle like this, followed by a bullish candle in a bullish example like this.
+00:13:04.720 And then maybe you have another bullish candle that also creates a fair value gap. So, an order block in this example
+00:13:10.639 is going to be this bearish level, right? So, you have this area here that
+00:13:16.000 is going to be an order block. And then the expectation is is that when price comes into this level, this level will
+00:13:22.079 hold. But why? Why would price just hold on a random specific handle, right?
+00:13:28.079 What's so relevant and important about the order block? That is what we need to understand because not all order blocks
+00:13:33.440 work. If you're someone who's already tried order blocks or fair value gaps and you're still trying them right now, but for some reason your order blocks
+00:13:39.440 just don't hold up, it's because you don't understand the context of the order block. That is very, very
+00:13:45.200 important thing. So here's my understanding. Essentially the market is always moving from a rangebound price
+00:13:52.720 delivery to a expansive range price delivery back into usually some kind of
+00:13:58.160 range expansive price delivery back into expansive back into range back into
+00:14:03.760 expansive and then maybe you get a reaccumulation. These areas of price right what they are
+00:14:11.199 is they are accumulations. So accumulation and again many people
+00:14:16.320 really don't understand what an accumulation is. An accumulation is an area of price where there is a lot of
+00:14:22.800 volume but it's being traded equally. Meaning that if you have an order book,
+00:14:28.000 right, which is what the market actually looks like, if if there's an order book in here, that means for all of the sellers that are stepping into the
+00:14:33.440 market, there is a relative amount of buyers. And so that's why the price, it doesn't matter if there is a large
+00:14:39.920 amount of volume being traded in this area. price still can't go up. People have the misconception that when you see
+00:14:45.600 these massive moves like this, that equals a lot of volume coming into the market. That's not necessarily true. The
+00:14:52.480 reality is that could just be an imbalance between supply and demand. Meaning that let's say for example you
+00:14:58.240 have a rangebound price in here and let's say for example there was you know
+00:15:03.440 a hundred billion dollars transacted in this price range. a hundred billion dollars gets transacted in this price
+00:15:09.440 range and price doesn't move aggressively up or move aggressively down. That's because those hundred billion dollars that were being traded
+00:15:15.199 are relatively being traded at the same levels causing price not to have these large spike moves because there is you
+00:15:20.560 know probably you know $55 billion worth of buyers and you know $45 billion worth
+00:15:26.079 of sellers and so price kind of just stagnates in this area. That is what an accumulation actually really is. Another
+00:15:32.560 thing that people misunderstand is in these moves they think that ah this move must have way more money than a move
+00:15:40.320 like this. Again, that's not actually reality. There could still be $100 billion that is delivered in this huge
+00:15:47.760 price leg. And yet this move here was 100 pips and this range totaled around 25 pips. But there's the same amount of
+00:15:54.480 money traded. Why? It's called imbalance. It means that the hundred billion dollars that was traded, let's
+00:16:00.959 say, you know, maybe 85 to 90% of it was for one side of the market. So that's
+00:16:07.839 why price aggressively traded higher because every time a buyer wanted to step in, it needs a seller, right? Every
+00:16:13.920 buyer needs a seller. Every seller needs a buyer to facilitate the transaction. If there's a market full of buyers and
+00:16:19.839 there isn't many sellers, then price will have to keep trading higher until it finds more sellers willing to sell at
+00:16:26.560 that price to those buyers for them to buy that price point. And so that's why, you know, you get these range and expansion, range, expansion. But people
+00:16:32.959 think that in the expansion phase when price trades aggressively higher, that means that there's a huge market
+00:16:38.560 participant just stepped in. And it doesn't actually always work like that. So you have accumulation. Now what is an
+00:16:45.920 accumulation beyond what we just explained it? An accumulation is an area of price where smart money position,
+00:16:54.720 right? Okay. Why? Well, when price is in this consolidation range, that enables
+00:17:00.720 them to put in a lot of money and get a better average price. So let's say there's an institutional interest, let's
+00:17:07.199 say a trader from JP Morgan, and that trader is tasked with filling, let's
+00:17:13.199 say, you know, $100 million worth of uh euros to dollars, right? For whatever
+00:17:18.400 purpose that is. Well, his job isn't necessarily to make money. His job is to
+00:17:23.599 get that $100 million into the market at, let's say, 01.
+00:17:31.120 That's his task. And so if that's his goal, which a lot of the times it is, he's not looking to just put all those
+00:17:37.520 $100 million in the market. Let's say price right now is at 1000 0. If he puts
+00:17:43.840 that $100 million into the market at this price point, there might not be enough sellers at that price level to
+00:17:51.440 give him the trade that he needs. And so if he did that, maybe he would get 10
+00:17:56.480 million of it at this price and then the next price and next price, next price, next price, next price until after the
+00:18:02.000 entire $100 million has been positioned, his average order value may have been
+00:18:08.480 one 0 04 and he's missed his target and he's lost
+00:18:14.880 the company money because this price that they quoted is the quote that they gave to another institution that they
+00:18:21.120 can fill that order at that price point. When you see these consolidation ranges, that's a perfect area for someone to
+00:18:27.039 position themselves. This is a very very important point. And so all of the all of the sellers and they break up their
+00:18:32.960 positions. So all of the sellers that are stepping into the market, every time someone sells and price trades lower,
+00:18:38.080 that individual who has that job just buys enough to keep it stable. So $10
+00:18:44.160 million worth of sell orders comes into the market and he just buys that $10 million and then price goes like this.
+00:18:50.000 And then another person comes in and sells and he just accumulates it. It goes away. More sellers and he just
+00:18:56.640 accumulates it. And so price can't seem to trade through this level because every time it comes back to this price point, that same trader is just buying
+00:19:04.720 the rest of his position into the market. That is why it's called an accumulation because it's an area of price where a large institution or
+00:19:12.720 trader is looking to accumulate a position, right? And so after usually
+00:19:18.640 what happens after an accumulation is you have these large expansive moves to the upside. Why? Very simple. Because
+00:19:25.919 when there's a large side of demand on the market, they want to take price higher, right? They're they're putting
+00:19:31.360 in buy orders. Well, when you get into this range like this, what happens is all of the sellers that are trying to
+00:19:37.760 sell price lower at this level, eventually at some point in time, they become exhausted. And so they they're
+00:19:43.120 selling, they're selling, they're selling, and price isn't going lower. Eventually, the longer time price spends
+00:19:48.880 in this level, the less sellers there will be present because they've already taken their positions. And at some point
+00:19:55.280 in time, sellers go through something called exhaustion. And that is essentially when the sellers from the
+00:20:01.679 order book, right, the sell side of the order book, the sellers becomes thin.
+00:20:07.120 And in that moment, there are far less sellers than there are buyers. And when there is more of one side of the market
+00:20:13.039 than the other, price trades higher. And so that's the difference, right? The
+00:20:18.240 accumulation phase is the area of price where the large institutions see as a perfect opportunity to fill an order.
+00:20:24.640 The expansion phase is usually an imbalance between supply and demand. There was far more buyers in a bullish
+00:20:30.799 example than there were sellers, not in terms of people in purely in terms of contracts or lots or whatever it may be.
+00:20:37.039 And so that's why you have these large expansion levels, right? And then essentially what happens now this
+00:20:42.240 becomes a quote unquote point of interest right it becomes an order block
+00:20:48.400 because this range that you see right when you see this range like this and then you see the aggressive bullish move
+00:20:54.640 on the upside right and in fact that bullish up move usually looks like this.
+00:21:02.159 What's happening on a lower time frame? If you take this and then let's say for example that this here is a uh 15 minute
+00:21:10.400 time frame right if you look at this price action and you go to the 4our time frame on the 4our time frame it's going
+00:21:17.840 to look like this this range in here right is usually just going to be
+00:21:23.600 one slim candle like this and then this bullish movement out of that area is
+00:21:30.080 usually going to look something like this right and that is what becomes your
+00:21:37.760 order block. This exact range in here becomes your
+00:21:42.799 order block on the 15minut time frame and on the 4hour time frame it looks like this. And so that's all it is. And
+00:21:51.200 so these are the areas that we want to get involved in price. If price is moving in an uptrend, if price is
+00:21:57.760 bullish like it is in here, we want to look at where positions were accumulated in that area and then we want to trade
+00:22:03.840 from that level. So as you can see in here, we have a swing low, right? If we look at structure, we have low down here
+00:22:09.760 to high to low. We go higher high up here. Price starts reversing. This is
+00:22:16.159 now our higher high. Now that we are bullish, we want to look at the area where we see this accumulation of price
+00:22:23.919 come and get retested. And a lot of the times it comes to gets retested because of imbalance, which many of you know as
+00:22:29.760 fair value gap. A fair value gap or sometimes known as imbalance simply means that an area of price where there
+00:22:36.080 was an imbalance. It's that simple and I've just explained how that happens. When you see these large price moves to
+00:22:41.280 the upside, that is because there is an imbalance. That is because there is far
+00:22:46.720 more activity from one side of the market. So in this example here, there is far more buying than there is
+00:22:54.400 selling. And so price has to go into discovery. It has to go to new levels to
+00:23:00.000 find sellers willing to sell the price. And so what happens and why it's imbalanced is number one, it's
+00:23:05.840 imbalanced because there was far more buyers than sellers. The second thing, because price is moving so aggressively,
+00:23:11.440 there's going to be a lot of unfilled orders from buyers in this level, right?
+00:23:17.200 Because there's only so many orders that can be transacted. And let's say, for example, there are, you know, a group of
+00:23:22.799 buyers who want to buy at the price of 1
+00:23:27.840 04, right? Which is where we are right now. And then all of a sudden, a huge
+00:23:33.440 moves start coming to the market, right? Right? And then there's another group that want to want to buy at one 0 05,
+00:23:39.919 but there's only so much supply. There's only so many sellers. And so a lot of traders when they try to put their
+00:23:46.320 orders in at these levels, there's no one there to transact. And so what you have is you have an area of price where
+00:23:52.480 there's a lot of unfilled orders, a lot of people that didn't get their orders
+00:23:58.320 filled because there wasn't enough liquidity available. That's why price often times comes back into these
+00:24:04.640 imbalance areas. It comes back to rebalance price to offer the opportunity for those same market participants to
+00:24:11.760 enter their positions. That is the entire process. And the purpose of that is because the market wants to be
+00:24:16.880 efficient. The market's job is to fill orders point blank period. That is how market makers and things like this
+00:24:23.360 institutions brokers that's how they make money. They make money when liquidity gets triggered. So what we want to understand is where was their
+00:24:30.559 imbalance where are these accumulation points and
+00:24:35.679 then wait because whilst many traders are trying to buy here we want to wait
+00:24:41.120 because we understand that price is likely to come back and then this area here that's our area of interest because
+00:24:48.880 that's the accumulation point where the large institution purchased last time and then you have the imbalance of price
+00:24:54.240 in here. So what we're expecting and understanding is that when price comes back to this point of interest, these
+00:25:00.080 same market participants, right, may want to number one protect their
+00:25:05.279 positions, right? So when price is starting to come back and that you've got buyers in here, they may want to protect their positions. So by not
+00:25:12.320 allowing price to go below this low, they will protect that position. The second thing is they may want to add to
+00:25:18.960 their position because let's say you have these areas of price and let's say that person needed to fulfill $und00
+00:25:25.279 million of orders and what it was actually able to fill was $50 million of orders. Well, when price comes back into
+00:25:32.000 this level, it's able to start rebuilding that same position and maybe they get an additional amount of their
+00:25:38.240 position filled at that level. And what that looks like is when price comes into here is you start to see that same type
+00:25:44.799 of accumulation which actually takes me directly into step number three. And so step number three is all about
+00:25:47.000 No text
+00:25:51.440 confirmation from that area. And that confirmation because again we don't want to just buy off of the hopes that price
+00:25:58.320 trades high. We want to buy with confirmation. And what I'm about to share with you now is exactly how you
+00:26:04.559 understand confirmation. So when you have these moves, let's say we're bullish, right? We're bullish like this. And if you look
+00:26:11.919 at this area of price in a lower time frame, there's going to be, let's say, some kind of order block, right? So
+00:26:18.480 price comes down in here, which you can quite clearly see. There's a sell candle there on a lower time frame. And then
+00:26:24.240 you have really aggressive bullish candle like this, right? That becomes
+00:26:30.720 your order block like so, which is just what we've discovered inside of here. There's going
+00:26:35.919 to be that accumulation expansion. Then when price comes back down, obviously we're bullish. When price comes back into this level, right? Again, what we
+00:26:42.960 want to see now from this level is confirmation. We don't want to just buy from this level and hope that it holds.
+00:26:48.000 The way to get a higher win rate and higher riskreward is when you get in here, go to a lower time frame and wait.
+00:26:55.600 Wait for the market to show you that this area is of interest. Don't just
+00:27:01.679 assume and hope. Make the market prove. It's like going to the casino playing a game of blackjack. But the difference is
+00:27:08.640 is you get to wait before you bet money to see what the dealer's hand is. You
+00:27:14.480 have an unfair advantage. And so when price comes into this level, we just wait and we wait to see how the auction
+00:27:21.840 plays out. Because what will happen is on the way back down, sellers are in control of the market. But when we enter
+00:27:27.840 this area of interest, our theory is that maybe those buyers that were interested in buying price at this level
+00:27:33.679 before may want to either protect their position or add to their position. Here's the thing, though. We don't need
+00:27:39.760 to guess. We can just wait for them to prove it. How? Well, when price is coming down here on a lower time frame,
+00:27:45.840 it's going to be bearish. It's going to be putting in lower lows like this. And at some point in time, what will happen
+00:27:52.080 is you'll start to kind of have some level of consolidation. This consolidation now is the battle. This is
+00:27:58.159 the battle between buyers and sellers because you have the previous buyers who are at this level holding price up and
+00:28:04.080 you have this the present moment sellers who are trying to trade price lower or fill their orders. And so what happens
+00:28:10.000 when you get to that level is you start seeing price slow down. price goes on
+00:28:16.399 its way to that level is very aggressive and then when it gets there it starts slowing down because now we're entering
+00:28:23.360 into an area where there is a lot of activity there are a lot of buyers and a lot of sellers and the key here is to
+00:28:28.960 look at market structure again you can see here that when price comes down it puts in a low a lower high a lower low a
+00:28:36.000 lower high a lower low right and then price might start consolidating in here this is ultimately the the battle
+00:28:44.720 And what you want to see is you want to see the same thing we've seen before. You want to see exhaustion from sellers. So when price gets in here, you want to
+00:28:51.039 see that price keeps trying to trade lower and fails. Tries to trade lower and fails. Tries to trade lower and
+00:28:57.120 fails. Tries and fails. What this tells you is that this area is being protected
+00:29:02.480 right now, right? It's being held up. And every time sellers try to push price
+00:29:08.240 lower, they can't seem to push price lower. And at some point in time, what happens? sellers become exhausted,
+00:29:14.960 right? There is less sellers at this price level because they've already filled their orders. And so you just
+00:29:22.559 wait for one side of the market to flip. And when you get this lower time frame
+00:29:27.760 confirmation here where price is on the way back down inside your point of interest and then it slowly starts to
+00:29:33.200 put in these small structure points and then you get some battle and then you get the move up and you change
+00:29:39.039 character, that's your confirmation. Now you can trade this move. Now you've
+00:29:44.080 confirmed that this is the probably the area of price that price will respect and now we're expecting to trade higher.
+00:29:49.760 And so you can trade from this level, buy in that level and you can look at targeting the last previous structural
+00:29:55.520 high because that's the natural directional evolution of price. That is the three steps in theory. Now let's go
+00:30:02.000 No text
+00:30:02.960 to the market and let's show this in a live trade example step by step. So this
+00:30:08.320 right now what you're seeing on screen is the actual trade taken using this exact model in my New York session. So
+00:30:15.360 what I'll do is I'll take this back before the trade and show you everything step by step as to how we came to this
+00:30:22.080 conclusion and why in fact I was able to take this long. So here we are just as my New York session is about to begin
+00:30:29.039 and I need to be on the 15inut time frame to understand my intraday bias. I
+00:30:34.080 use the 50-minute time frame structure to tell me what direction that this session specifically is likely to trade
+00:30:40.159 into. So, as you can quite obviously see, we are in a bullish trend. And essentially, we don't need to look at
+00:30:45.440 all the intricate details. We can just understand that we broke this high up
+00:30:51.039 here. That obviously confirmed the bullish trend. We broke this high again
+00:30:56.240 right above here. And so, again, if we kind of go into the structural details, um, in fact, I'll give you the actual
+00:31:01.360 structure. My swing low was here. swing high here, a lower low. So, we became bearish, swing high, swing low, and then
+00:31:08.159 we go higher high. So, now we're bullish from this low to this high. Then you can
+00:31:13.200 see the next day price come back in here and then continue trading higher, which was expected. And we break this high.
+00:31:19.840 That's our break of structure to the upside. So, we're bullish. And so, that pretty much brings me into the day that
+00:31:25.440 we had, right? We broke structure and my London session. This is how price is. We
+00:31:30.799 are bullish from this swing low down here up until here. And then London goes and puts in this high and then has a
+00:31:37.440 pullback. Right? It meets my criteria of a structural pullback. See, price goes high, it pulls back lower, and then
+00:31:43.200 trades higher again. And so the structure changes. Now we go from this swing high to this swing low to new
+00:31:49.360 swing high. You can see here that this is a breakout structure to the upside breakup structure. So we're bullish. And
+00:31:56.640 my structural range is simple. My swing low is here. The lowest point that price
+00:32:03.039 comes from the high to break the high. My swing high is here where price begins
+00:32:09.279 to reverse from. Right? Very much quite obvious. So there we already have my directional bias. I'm coming into New
+00:32:16.240 York session and I'm expecting higher prices because the market is bullish and I'm expecting that price is not going to
+00:32:22.960 break below this low and eventually it's going to trade up into this high. That's it. That's step number one. That's my
+00:32:28.399 bias for the session. Now, I need to find my area of interest. And you can see here, what does price do? Price is
+00:32:34.240 going from this model. It's going after it puts in the high, it comes down here, and it begins to range. And so, price
+00:32:40.320 looks like this. We're bullish like this. And then we come in here and we
+00:32:46.640 put in this range in here, which is my accumulation. And then we get an aggressive move to the upside. That is
+00:32:53.120 how things look. We're bullish, we come back. This entire area of price here is
+00:32:58.399 a range and then we get the expansion. So we get the accumulation and then we
+00:33:05.279 get the expansion. And so I'm really interested in this entire area, but I can refine it. And I can refine it by
+00:33:11.600 understanding that this low here was liquidated. So what a lot of times you'll see is in these areas, right,
+00:33:17.279 when you're having these ranges and then just before price goes higher, you'll see a sweep of the lows. That's because
+00:33:23.440 there'll be a lot of sell liquidity that enters the market on the sweep of those lows. If there's an interest in an
+00:33:30.559 institution or institutions or people wanting to trade higher, smart money want to buy, they will first manipulate
+00:33:37.840 low lows, right? Engineered liquidity. They'll manipulate the lows like this
+00:33:43.120 because they understand that there is going to be the final area of sellers in here. So when all of these sellers come in and that liquidity coming in the form
+00:33:49.840 of sell stops, all of that sell liquidity goes to the market and they can have the final
+00:33:56.799 accumulation of that order and then you have the aggressive price move that break structure. So I'm interested in
+00:34:02.559 this area as a whole but I can refine my area into the area where price manipulated and then I can understand
+00:34:09.359 and just use this entire area. We also have the fair value gap, right? fair value gap simply being in a three candle
+00:34:15.040 pattern between candle one and candle three that doesn't meet that's a fair value gap and so I can basically refine
+00:34:20.320 it to the final area like this so we have the final sell to buy plus the liquidation so I want to make sure I
+00:34:26.320 keep in this low now that is very simply my area of interest right it's actually very simple you just have to understand
+00:34:32.239 the context as to why this happens because so many people will look at order blocks and they'll they'll see that we've just created a nice bearish
+00:34:38.719 fair value gap and it's inverted fair value gap and there's a really nice supply zone above the high, but they don't understand context, right? Like
+00:34:45.520 why would you want to sell from this level? They don't understand it. And that's why you need to understand the deeper intricacies of price action.
+00:34:51.440 That's why 98% of SMC traders fail is because they don't understand context. They just understand pattern
+00:34:56.480 recognition, order block, liquidity, supply and demand, all of this jargon, and they don't know how to put it all together. And therefore, they're not
+00:35:02.320 successful because it's not about the concepts. It's about your context. So what I want to see as approaching this
+00:35:08.160 level is price come into my area like this and then I want to go down to a lower time frame because now I want to
+00:35:14.320 see a battle take place between supply and demand and then at some point I want to see a shift. I want to see price come
+00:35:20.880 into this level. I want to see the battle take place between supply and demand. And then I want to see demand
+00:35:26.160 come out on top by breaking out of the highs on a lower time frame. And then I want to simply buy from that level. Then
+00:35:33.520 I want to look at longing from this level, I can put my stops in here now and I can just target this high. That's
+00:35:39.520 the trade model. And so you can quite clearly see that as the New York session opens, right? There's my New York open
+00:35:46.320 window. I'm waiting. A lot of traders are already buying above here. Doesn't make sense. Makes no sense. You need to
+00:35:53.599 wait for confirmation. When price gets in here, now I go down to my lower time
+00:35:58.800 frame. So I go down to my one minute time frame and look at what you're seeing straight away, right? price is aggressively coming down, but the moment
+00:36:05.599 that it gets here, it stops and it starts ranging. That simply means in a New York session as well at 8:00 a.m.,
+00:36:12.480 there's a lot of volume in the market. But no matter who's trying to sell, they
+00:36:17.760 can't seem to get through this price level. And so now the battle is taking place. And here's the thing, right? I
+00:36:23.200 don't know for sure that this level is going to hold. There are occasions where this exact thing will happen and then
+00:36:28.960 you'll have the range and then price will just trade down. The key difference is is I won't be involved in the markets. I won't lose any money. That's
+00:36:34.960 why we wait for the confirmation because it's the confirmation. It's what happens when you're in that area of price that
+00:36:41.280 tells you everything you need to know. I don't need to jump in the market if it's not ready. And so you can see here price
+00:36:46.400 is just literally in this range phase and there's a battle taking place. I don't know who's going to win. Right? Again, we're still really inside of this
+00:36:52.560 range. We haven't seen any major break of a high or break of a low. Right? We've had a little bit of breakout.
+00:36:57.920 We're still ranging in this area. This is all still rangebound price delivery. And then we get there. Now we have a
+00:37:05.359 break of the low down here, right? We have a run of this low. We're still inside the range. But now at least I
+00:37:12.560 know that if we break above this high that just put in this new low. If we break above that, that is my
+00:37:18.560 confirmation that I can execute this trade. And so it's it's just a waiting game. I don't need to do anything,
+00:37:23.760 right? This is all one big battle between supply and demand. But one of them are going to come out on top.
+00:37:29.920 And eventually we break the high, right? We break that high toward the buy side. Now I have confirmation because what
+00:37:36.640 we've seen here is the same thing. We've had our first range of price where we
+00:37:42.160 can't break higher. Can't break lower. We're just stuck in this level. We have our second range. Can't break higher.
+00:37:47.359 Can't break lower. Then we start breaking down lower. At this point, it's fine for me. I'm not in any longer
+00:37:52.480 positions. If price trades all the way down lower, nothing happens to me. I just don't get in the market. But then when you break the low and then you go
+00:37:58.320 and break the high, now it's confirmed because now you're seeing the buyers are
+00:38:03.440 now in control, right? No one was in control really. No one was in control really. Sellers started to take control.
+00:38:09.440 Buyers step back in, protect this area and come out on top. No sellers could push price lower. And so when you get
+00:38:15.119 that, that's my confirmation. And what I do is I look at this area and now I need to find the order block. And so the
+00:38:20.880 reality is is this entire area is really the range phase, but I need to refine it to an area that makes sense. And so you
+00:38:27.599 see price sells off here. We have this final battle before the aggressive move.
+00:38:32.640 We have this range expansion, right? Range expansion. So that if I go on a
+00:38:38.000 let's say five minute time frame, which for my order blocks I usually do, that's what you're going to see. You're going to see how that actually looks like a
+00:38:45.440 quote unquote order block, right? If we that's our area of interest. Well, now you can quite clearly see that same
+00:38:50.880 model. You have the final cell here. We have a fair value gap, but we also want to make sure we're covering this low
+00:38:57.760 down here because that's the liquidation. Now, you can see it very clearly. We range. No one can really
+00:39:03.280 take control. And then boom, it becomes evident and clear that buyers have control in this market. Now, it's my
+00:39:10.160 time to move. And I might miss this. And sometimes I do, but that's fine. That's the price of being willing to wait
+00:39:16.560 because patience is the game that wins. And so that's essentially my entry. I want to see the retest of this same
+00:39:22.320 level and then I want to see protect this low and I want to just target the high in here because logically, right,
+00:39:29.520 price is aggressively bullish. We should take this high. That's what probability
+00:39:34.640 indicates. And if we're going to take it, it's going to be from this level. And now I've confirmed that. And so now
+00:39:42.079 I get involved here and I look at getting out here. And that gives me a 1 to 6.4 risk-to-reward. And that's all I
+00:39:48.720 need to trade. That's all I need to wait for. And then you can see price eventually tags me in at this level
+00:39:54.960 pretty much to perfection, this old retested level, and then has an aggressive expansion higher. That's
+00:40:00.160 exactly what I want to see. At this point, I could look at also moving my stop loss to break even. And so if it
+00:40:05.520 comes all the way back down, I don't lose anything, don't gain anything. I'm at break even. Now, the reality is is
+00:40:11.760 this is why I'm able to show you these strategies because even if you have a trading strategy as good as this one,
+00:40:19.119 you will still struggle to make money consistently because there are other things more important than trading
+00:40:25.119 strategy. I've just made a brand new video about the three things that are more important than just trading
+00:40:30.240 strategy that will make you a profitable trader. I'm going to link that video down in the description. I highly
+00:40:35.599 recommend checking that video out if you want to consistently profit from the

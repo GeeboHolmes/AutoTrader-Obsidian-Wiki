@@ -1,0 +1,532 @@
+# tactiq.io free youtube transcript
+# The Only SMC Trading Strategy You Need To Make $10,000 / Month In 2024
+# https://www.youtube.com/watch/ThD6FO4pPxc
+
+00:00:00.120 you can use this one SMC strategy to
+00:00:03.280 become a consistently profitable and
+00:00:05.279 funded day trader in 2024 and at minimum
+00:00:09.360 start making
+00:00:10.519 $10,000 a month so there are actually
+00:00:14.080 three stages to this successful SMC
+00:00:18.560 strategy part one is understanding our
+00:00:21.680 higher time frame bias we need to
+00:00:24.599 understand what exactly is taking place
+00:00:26.160 on the higher time frames so that gives
+00:00:28.039 us what to expect to look out for step
+00:00:30.640 two is dropping down a time frame into
+00:00:33.160 our midterm Market structure we use the
+00:00:36.360 15minute time frame to determing what is
+00:00:39.200 the state of Market structure this
+00:00:41.000 allows us to frame trade setups and then
+00:00:43.680 part three is of course our lower time
+00:00:46.120 frame entry models getting in the trade
+00:00:48.520 trade criteria and take profits let's
+00:00:51.360 get into it part one is understanding
+00:00:53.960 our higher time frame bias so typically
+00:00:56.039 I use the H4 so here on the H4 time
+00:00:58.879 frame what can we see if we just zoom
+00:01:00.920 out right now we see that price is in
+00:01:03.120 heavy uptrend right so if we just map
+00:01:05.119 out our swing points you can see that we
+00:01:07.280 had the low that put in a swing High we
+00:01:09.880 had this complex pullback that finally
+00:01:12.200 put in the low down here before going
+00:01:14.640 higher high so we're in an uptrend on
+00:01:16.799 the H4 very clearly and then what you
+00:01:19.520 can see is price has had its pull back
+00:01:22.040 and then it's gone and but in a new
+00:01:23.920 higher high now here's a very very
+00:01:27.360 important distinction that I want you
+00:01:28.880 guys to look out for so there are a
+00:01:30.799 couple of different scenarios in which
+00:01:32.799 you can look at for your higher time
+00:01:35.600 frame incentive and what I'll do is I'll
+00:01:37.280 scroll over here and I'll walk through
+00:01:39.840 those with you so scenario number one
+00:01:42.320 right let's say we're in an uptrend and
+00:01:44.719 price looks something along the lines of
+00:01:46.640 this if we look at this what we can look
+00:01:49.079 at is price is bullish right we're
+00:01:52.000 coming back now into the discount of the
+00:01:55.799 premium the discount of the price leg so
+00:01:58.240 we can potentially look right now uh
+00:02:01.280 taking long positions our bias can be
+00:02:04.479 that in a moment price is going to
+00:02:06.719 probably shift if we coming from some
+00:02:08.399 sort of higher time frame point of
+00:02:09.878 interest to go and take out the highs
+00:02:12.720 bias number two right scenario number
+00:02:15.640 two what if price has just gone on put
+00:02:18.400 in a new high and is in its early stage
+00:02:20.879 pullback well then we can look at taking
+00:02:23.879 shorts to play lower into the price L
+00:02:28.319 and so really you're only ever doing two
+00:02:30.319 things you're either playing the
+00:02:32.239 pullback or the continuation and you
+00:02:34.959 will play the continuation if you're
+00:02:36.560 inside the price leg so price would have
+00:02:38.040 come down and continued moving back up
+00:02:40.319 we would only be looking for Longs in
+00:02:41.920 these areas but again key den notion
+00:02:45.560 here once we see a higher time frame he
+00:02:49.159 swing high or low take it out typically
+00:02:52.120 you will see a reversal right if we look
+00:02:54.280 at the way that price delivers itself
+00:02:56.280 we're put in a high we pull back we're
+00:02:58.080 put in a high once we break structure we
+00:03:00.560 have a pullback we're putting a new high
+00:03:03.040 once we break structure we have a
+00:03:04.680 pullback now let's actually go and look
+00:03:06.319 at the price action that we have here on
+00:03:08.120 the left hand side notice that the most
+00:03:11.440 recent break of structure what happened
+00:03:13.239 we broke structure and immediately we
+00:03:16.000 started having our pullback and so if we
+00:03:19.040 look at what's just happened right here
+00:03:20.720 we've just ran into a key higher time
+00:03:23.159 frame liquid region and so we know now
+00:03:27.080 that there's a high chance for a
+00:03:28.840 pullback so my bias is super simple
+00:03:31.000 there's no need to over complicate this
+00:03:32.840 my bias is this we've just run a higher
+00:03:35.239 time frame level we've just had a break
+00:03:36.640 of structure now it's probably likely
+00:03:39.080 that price is going to come for a
+00:03:40.159 pullback so what you want to do is
+00:03:42.280 understand where is Price likely to pull
+00:03:44.040 back to so we're going to pull out our
+00:03:45.799 low to our high inside of this price leg
+00:03:49.519 right here this our Fibonacci tool and
+00:03:51.360 what we're going to do is price is
+00:03:52.560 likely to minimum pull back the 50% so
+00:03:56.920 the 50% is always a good level we also
+00:03:59.439 have
+00:04:00.319 the 786 down here also a good level and
+00:04:03.480 we also have the 618 also a good level
+00:04:06.840 so at minimum price is going to probably
+00:04:09.879 pull down into this 50% region and at
+00:04:12.480 best probably down into this 618 or 786
+00:04:15.879 let's take a look at what that looks
+00:04:17.000 like before right what did happen price
+00:04:19.199 put in a high up in here now this one
+00:04:21.120 was an extended uh was an extended high
+00:04:24.720 but if we look at that we pull low to
+00:04:26.919 high we can see that price came back
+00:04:30.039 just below the 786 again what happened
+00:04:32.800 price break structure and if we just put
+00:04:35.000 our low to our high in here what happens
+00:04:38.840 price comes back just into our 618 786
+00:04:43.000 area and so there's essentially a high
+00:04:46.280 probability that price could come back
+00:04:47.880 into that region again so we're just
+00:04:50.080 building our higher time frame bias and
+00:04:52.160 so this is what we have so far we have a
+00:04:54.039 bullish H4 we've just taken out a key
+00:04:56.840 area right the previous swing High and
+00:04:59.639 so we could potentially be looking at
+00:05:02.039 either continuations higher or a
+00:05:05.759 pullback Okay cool so now we know that
+00:05:08.080 and we know that we've just taken a
+00:05:09.160 swing High which usually at some point
+00:05:11.479 will give us a pullback let's go and
+00:05:13.560 drop down into Stage number two which is
+00:05:15.720 our midterm Market structure so we drop
+00:05:20.000 down into the 50-minute time frame and I
+00:05:21.960 want to understand what is taking place
+00:05:23.600 we can see that we've been a hugely
+00:05:26.240 extended rally of higher highs higher
+00:05:28.680 lows and higher highs and so what we
+00:05:30.160 want to do is just we want to Mark out
+00:05:31.520 the most recent areas of Market
+00:05:34.840 structure so we're com to our most
+00:05:36.400 recent price
+00:05:37.840 leg and essentially we look at um this
+00:05:41.880 as our high you can see where is where
+00:05:44.639 is the K area that priced the lowest
+00:05:46.880 point that price pulled back it's there
+00:05:49.080 then essentially we break this high
+00:05:51.199 right so break of structure and using
+00:05:53.080 our Market structure rule that you guys
+00:05:54.680 should know by now a three candle
+00:05:56.039 pullback we have a break of structure
+00:05:58.280 does this give us a pullback one candle
+00:06:00.759 two candles three candles yes so this is
+00:06:03.520 our higher high this is our higher low
+00:06:06.199 okay and just continue into play that
+00:06:08.120 M15 Trend what happens have a break of
+00:06:11.280 structure to the upside so now we have a
+00:06:12.919 new higher high and we have a one two
+00:06:15.440 three candle pullback great so what
+00:06:18.199 happens we have another break of
+00:06:20.120 structure to the upside we have a three
+00:06:23.000 candle pullback one two no we don't
+00:06:25.720 another key piece of information here
+00:06:27.360 guys is that once you start seeing the
+00:06:30.720 price legs shift from these huge moves
+00:06:34.919 to these smaller ranges that's
+00:06:37.479 indication that the volume is beginning
+00:06:39.840 to die down and potentially price could
+00:06:42.240 at some point reverse again potentially
+00:06:44.720 is the key word in that frame so we know
+00:06:47.880 that right now we are potentially
+00:06:50.039 looking at a reversal right especially
+00:06:52.000 with how price as aggressively taken out
+00:06:54.080 the h4i but we need to ultimately wait
+00:06:57.599 for that to be in action so what would
+00:06:59.000 we need to see we would need to see a
+00:07:01.120 previous swing low taken out so as of
+00:07:03.639 right now we are in a trading range
+00:07:05.360 we're in the trading range from this low
+00:07:07.160 to this high that is our trading range
+00:07:09.400 and so price is either going to continue
+00:07:12.800 breaking out to the upside or break out
+00:07:15.360 to the downside and we just need to wait
+00:07:16.840 and see what happens in that nature so
+00:07:21.560 price does what price pushes back up
+00:07:24.720 outside of the trading range so now we
+00:07:27.879 have an extended TR TR range we've had
+00:07:30.039 the pullback three candles break of
+00:07:31.360 structure one candle two candles no one
+00:07:34.720 candle two candle three candles so now
+00:07:37.039 we've had ultimately
+00:07:39.240 the um three candle pullback candle Clos
+00:07:43.160 below here again let's see how price
+00:07:46.560 plays
+00:07:47.919 out price has give us so that's just a
+00:07:50.560 liquidation so that's not a change of
+00:07:52.840 character so we have our swing low right
+00:07:55.080 here and this our current swing high and
+00:07:57.960 so now we're inside of this tra TR range
+00:07:59.680 from this low to this High we're going
+00:08:01.319 to see what
+00:08:04.120 happens so there is our change of
+00:08:06.960 character that is very very clearly
+00:08:09.800 indicative of what lower prices price
+00:08:13.159 have just given us a change of character
+00:08:14.680 meaning our first phase of the change in
+00:08:17.599 Trend so we have our higher time frame
+00:08:20.039 bias now we have our mid time frame
+00:08:22.919 confirmation because now our 50-minute
+00:08:25.240 time frame is bearish so we are yes
+00:08:27.840 looking for shorts now the next part of
+00:08:30.680 this is we need to understand where
+00:08:33.120 price is likely to come back to and so
+00:08:36.120 again we want to just use our premium
+00:08:37.599 discount tool right we'll take our high
+00:08:39.200 up in here to where we're currently
+00:08:40.440 trading at and a good area is always
+00:08:43.440 anywhere between the
+00:08:44.959 50% and the 786 so this area so price is
+00:08:48.720 going to want to pull back into this
+00:08:50.040 area but how do we align that with other
+00:08:53.600 things well we also have what we have an
+00:08:57.480 area of supply with an imbalance so we
+00:09:00.839 have an imbalance right a fair value gap
+00:09:03.920 an area of Supply Plus we have
+00:09:09.000 a 50% 618 and 786 pullback so that's a
+00:09:14.360 point of interest but let's keep price
+00:09:16.120 playing because price could go lower
+00:09:17.440 okay so price comes straight back up
+00:09:19.600 into our point of Interest so upon that
+00:09:23.480 that is essentially our trading frame
+00:09:26.279 that's our framework now what we need to
+00:09:27.800 see step three
+00:09:29.720 is our lower time
+00:09:32.079 frame confirmation and again if we just
+00:09:34.839 go back up to the H4 time frame because
+00:09:36.320 I want to show you guys where it is that
+00:09:39.040 our first Target would be we'll pull out
+00:09:42.880 this here remember this is our 50% this
+00:09:45.399 is the the fair value Gap and the demand
+00:09:47.880 zone right we also have a bunch of
+00:09:50.399 liquidity at these lows in here but
+00:09:52.640 that's not a Target want to be
+00:09:54.160 conservative of our Target Target a
+00:09:56.079 level that is logically probable so we
+00:09:59.399 have the 50% region we have the first
+00:10:02.000 area in which momentum will come back
+00:10:03.800 into the market that is our main target
+00:10:06.440 so we drop back to the 15 minute what we
+00:10:08.959 see is price has come back into our
+00:10:11.600 point of Interest so we a drop to the
+00:10:13.440 one minute time
+00:10:14.680 frame and what we want to look for is
+00:10:17.640 what is the current one minute structure
+00:10:21.279 so from a structural perspective we have
+00:10:24.360 high low higher high lower low lower
+00:10:28.560 high
+00:10:30.200 low and low but fails to put three
+00:10:31.839 candles in succession goes lower puts
+00:10:34.680 three candles in succession fails to
+00:10:36.399 take out the low so this ends up being
+00:10:39.240 the level in here this ends up being the
+00:10:42.200 lowest point so that's a pullback which
+00:10:44.680 gives us now a lower low with equal lows
+00:10:47.760 in there as
+00:10:48.920 well let me just make sure that that's
+00:10:51.079 not cuz does that breaking close let's
+00:10:53.399 have a
+00:10:54.959 look yep so that breaks and close so
+00:10:57.600 that that was our lower low we have a
+00:10:59.440 one two three candle pullback in
+00:11:01.959 succession as you guys know now my rule
+00:11:04.480 if you do not know it's three candles in
+00:11:06.800 sucession then we go lower low and then
+00:11:09.639 we go change of character so at this
+00:11:13.399 point the M1 is bullish awesome so what
+00:11:16.560 do we need to see we need to see an M1
+00:11:19.920 shift bearish so if we look again what's
+00:11:22.160 the M1 structure we see we have a high
+00:11:25.399 up in here so higher high three candle
+00:11:27.959 pullback higher low price has gone again
+00:11:30.279 higher high once
+00:11:32.760 again and there's our change of
+00:11:34.560 character so notice how price delivered
+00:11:36.560 itself into this point of interest is
+00:11:39.320 the M1 was indeed bullish so step three
+00:11:42.120 to us is waiting for our entry model and
+00:11:43.800 our entry model is the exact same thing
+00:11:45.959 every single time if we have a key point
+00:11:48.399 of Interest right here on the 15 minute
+00:11:50.800 time frame on the one minute time frame
+00:11:52.880 we want to see price come down bearish
+00:11:55.120 and then as it comes back up to that
+00:11:56.519 point of Interest bullish right and once
+00:11:59.399 it gets in here we want to see a change
+00:12:01.800 of character essentially just a market
+00:12:04.720 structure shift right we want to see a
+00:12:07.720 higher high form a lower low that tells
+00:12:10.600 us that price is going to go lower we've
+00:12:12.279 realigned with the 50 minute time frame
+00:12:14.480 so that right there is our entry model
+00:12:18.440 so there's our change of character to
+00:12:20.800 the downside right there and then we're
+00:12:22.720 looking for an entry model so I'm going
+00:12:24.079 to go to the TW minute or even the three
+00:12:26.120 minute or even the 5 minute time frame
+00:12:27.839 to see what we could use as our area of
+00:12:32.320 Supply so for this 2 minute 3
+00:12:37.040 minute so what do we see we see that we
+00:12:40.560 have the the trading range what took the
+00:12:43.320 high this
+00:12:45.199 low is the buying momentum that took out
+00:12:48.079 the high that then changed character how
+00:12:50.480 large of a size is
+00:12:53.160 that 7.4 Pips and if we was to take a
+00:12:57.560 Shore from this in
+00:13:00.120 here covering the high 7.7
+00:13:04.279 Pips that only gives us a 1 to eight 1.8
+00:13:07.839 I need a minimum one to five right so
+00:13:11.440 I'll take my partials at 1 to five so
+00:13:14.680 that's going to be take profit number
+00:13:17.680 one and then this is going to be down
+00:13:20.040 here take profit number two which is a
+00:13:24.399 29.1 and pretty much guys that is the
+00:13:27.399 trade idea right and again I literally
+00:13:30.279 rinse and repeat this system over and
+00:13:32.639 over and over again let's see how price
+00:13:34.959 plays out so price continues moving
+00:13:37.920 lower so it comes into these lows fails
+00:13:40.959 to break the lows but that's not
+00:13:42.279 important to us but what I do see is
+00:13:44.760 what relatively equal lows key area of
+00:13:49.079 liquidity ultimately so after that price
+00:13:52.279 begins to have it pullback phase so
+00:13:54.399 price again pay close attention here
+00:13:56.240 price has not tagged us into this
+00:13:57.959 position so so we've missed narrowly and
+00:14:00.320 again this will genuinely happen
+00:14:02.240 sometimes price misses our position and
+00:14:05.240 does what gives us a new break of
+00:14:08.480 structure right lower low lower high
+00:14:12.440 lower low so now we need to reconsider
+00:14:14.560 we did not get tagged into our position
+00:14:16.440 we need to remove that order and we need
+00:14:18.240 to find another point of Interest inside
+00:14:19.959 of here in which we can take that
+00:14:21.440 position from let's drop to a 5 minute
+00:14:23.440 time frame perfect buy that liquidates
+00:14:26.680 before the change of car uh before the
+00:14:28.360 break
+00:14:29.199 structure that order block right here is
+00:14:33.639 our
+00:14:34.720 entry short at the
+00:14:36.959 open stops above 5.5 pip stop so smaller
+00:14:41.399 stop which means we could get a higher
+00:14:42.880 average RR on this position one to five
+00:14:46.079 is our partial
+00:14:48.120 right so we'll bring you up here that's
+00:14:51.040 our first take profit second 1 to 11 so
+00:14:54.240 we end up increasing the average if this
+00:14:56.240 plays
+00:14:57.680 out let's go one minute time frame and
+00:15:00.639 see how price plays
+00:15:07.000 out price tags Us
+00:15:10.160 in liquidates in the highs and we want
+00:15:12.839 to go straight to break even the moment
+00:15:15.199 that this low gets taken out if it gets
+00:15:17.839 taken out okay close below the low we're
+00:15:19.680 just want to put our stop
+00:15:21.320 loss uh Break Even we have our first
+00:15:24.519 partial down here at 1 to five that's
+00:15:26.399 going to be TP number one
+00:15:29.720 and by the way for anyone who didn't get
+00:15:31.880 involved in this position play the
+00:15:33.040 continuations what do we have we have
+00:15:34.920 low and low we
+00:15:37.319 have uh lower high now we have lower low
+00:15:40.639 so let's go to a thre minute go to a
+00:15:42.880 five minute and see where we can scale
+00:15:44.480 in right the the the main area right
+00:15:48.079 here is going to be the the buy to sell
+00:15:52.680 right you could refine that to where the
+00:15:54.319 imbalance is put a second position entry
+00:15:57.399 here stops just above that high right
+00:15:59.600 there three and 1 half Pips stop 1 to
+00:16:02.240 five as our take profit number
+00:16:05.000 one 1 to five take profit number
+00:16:09.120 one let's see where take profit number
+00:16:11.279 two is take profit number two down here
+00:16:14.639 1 to 17 right let's play that
+00:16:20.440 out play
+00:16:25.959 price okay so price doesn't come back to
+00:16:29.199 tag this
+00:16:31.560 unfortunately that position is no longer
+00:16:33.639 valid but again what have we had we've
+00:16:35.040 had another shift to the downside we can
+00:16:37.160 continue playing the
+00:16:38.800 scalings so where do we go from five
+00:16:41.199 minute time frame where's our key point
+00:16:43.040 of interest it's going to be this area
+00:16:44.720 of Supply right here characterized with
+00:16:47.160 this area of supply and
+00:16:49.319 demand again let's pull that up we can
+00:16:51.839 cover the high 6.2 let's go 1 to five
+00:16:54.639 for our TP number
+00:16:56.560 one so take profit
+00:16:59.600 one uh one two5 always the same thing
+00:17:04.280 take profit one and then take profit
+00:17:06.679 number
+00:17:08.439 two down here one to eight let's see how
+00:17:11.880 that plays out you can just keep scaling
+00:17:16.480 this so TP number one for this position
+00:17:20.039 had been hit so we've locked in right
+00:17:21.880 now 50% at 5 R so 2.5% locked
+00:17:27.400 in
+00:17:29.880 okay so what do we see right in here
+00:17:32.320 price has put in a low we've had a three
+00:17:33.960 candle pullback and a continuation now
+00:17:36.559 for me personally I would not be looking
+00:17:39.000 at entering so far down into the price
+00:17:41.679 leg on the one minute time frame because
+00:17:43.880 I just look at that as highly likely to
+00:17:47.120 be a an inducement right highly likely
+00:17:50.120 to be a liquid inducement this is where
+00:17:51.360 your level of discretion comes in for
+00:17:53.320 experience of reading the Market's time
+00:17:55.000 in time out you want to understand that
+00:17:56.520 that's likely some internal um area of
+00:17:59.360 liquidity I could be completely wrong
+00:18:00.559 and price could play out but it's not
+00:18:01.880 about individual basis it's about how
+00:18:04.799 many times what happens over a hundred
+00:18:07.679 different of these scenarios so price
+00:18:09.480 May respect this and then continue but
+00:18:11.400 I'm not interested in the one time that
+00:18:12.720 it does I'm interested in how many times
+00:18:14.480 in 100 does
+00:18:17.559 it so we'll see okay price didn't
+00:18:20.280 respect either of them uh and then
+00:18:22.440 continues trading lower again I'm not
+00:18:25.000 interested in getting involved in these
+00:18:27.919 lower moves I want to be getting
+00:18:29.679 involved at the top of the price leg
+00:18:32.880 what you have to understand is the lower
+00:18:34.400 that price comes down into this price
+00:18:36.559 leg the lower probability it becomes
+00:18:39.159 that price um respects your areas right
+00:18:42.280 so we have uh high probability setup
+00:18:46.120 number one is the change of character
+00:18:48.640 high probability high probability the
+00:18:51.000 lower that we get down the price
+00:18:53.200 leg the lower the probability because at
+00:18:55.880 some point you're probably going to see
+00:18:57.120 some sort of reversal back up before
+00:18:59.559 realigning higher probability again so
+00:19:02.520 keep that in mind when you're looking at
+00:19:04.760 trading this specific model but let's
+00:19:07.080 keep playing price
+00:19:10.559 out so what do we ultimately have we
+00:19:13.880 have the shift back up right literally
+00:19:16.919 exactly what I just shown we have play
+00:19:20.240 out so where is the structural levels we
+00:19:23.799 can see that we have lower low lower
+00:19:26.120 high lower low lower high
+00:19:29.960 lower low so we've just had a change of
+00:19:32.200 character so we've just had a bullish
+00:19:34.360 change of character back to the upside
+00:19:35.840 let's see how price plays
+00:19:38.240 out and now it's realigned itself okay
+00:19:41.880 that happens a lot internal right again
+00:19:44.799 it comes up respects this area um but
+00:19:48.039 unfortunately like that area means
+00:19:49.600 nothing to us but once we do have this
+00:19:51.520 break down here that is genuinely an
+00:19:54.240 opportunity to get involved in another
+00:19:55.640 setup the only problem is is we're just
+00:19:58.320 about to tap into take profit number two
+00:20:01.320 if we tap into
+00:20:06.840 it so we can definitely look at taking
+00:20:09.000 an entry where would I been looking at
+00:20:10.919 taking an entry the final buy right the
+00:20:14.200 final buy to sell even though it doesn't
+00:20:17.120 have perfect uh imbalance in it on a
+00:20:20.640 lower time frame it will right 3 minute
+00:20:23.480 time frame fair value Gap right just
+00:20:26.159 above here that's where I would want to
+00:20:27.600 be looking at taking the position
+00:20:29.400 from entries at the low stops at the
+00:20:32.480 high and you can see it's the same entry
+00:20:34.320 time and time and time again
+00:20:35.640 unfortunately that's 11.3 Pips stop what
+00:20:37.840 I'm going to have to do is I'm going to
+00:20:39.520 have to refine this now down to a three
+00:20:41.559 minute area of Interest right final
+00:20:45.360 liquidation just to make this a one
+00:20:50.120 to five because it has to be a minimum
+00:20:52.600 one to five rest reward so that is
+00:20:56.440 that's what I would do for a trade s and
+00:20:58.360 then what happens price tags
+00:21:02.000 in respects oh would I be a break even
+00:21:05.880 any time soon so no not a break
+00:21:13.480 even okay so the moment
+00:21:16.400 that we run this low in here we can look
+00:21:19.600 at taking this that break
+00:21:24.799 even and price runs to that so that ends
+00:21:27.760 up being a 1 to five and that also ends
+00:21:30.640 up being a 1 to 11.8 for 50% which is
+00:21:35.120 basically 6% plus 2.5 so we've done
+00:21:38.320 88.5% here and 5% here in two trades
+00:21:43.039 right so we've done 8.5 and uh five
+00:21:46.840 which gives us a grand total of like
+00:21:48.679 13.5 I think uh in one price leg right
+00:21:53.159 in what one day worth of price action so
+00:21:57.039 in one day if you pick the right setups
+00:21:59.919 that's 13 and a
+00:22:01.880 half% done and I'm going to pop up a
+00:22:04.760 screenshot right now of my student
+00:22:07.679 Stuart who in five days passed his
+00:22:11.520 account and in another five days now has
+00:22:15.880 $50,000 ready in payouts coming January
+00:22:19.559 the 5th I'll pop that up on the screen
+00:22:21.159 right now so you can see the the trading
+00:22:23.960 conditions aren't always going to be
+00:22:24.960 perfect but you can make a lot in a
+00:22:28.159 amount of time realistically speaking so
+00:22:31.279 with that being said guys hope you
+00:22:32.400 enjoyed the video if you did subscribe
+00:22:33.840 to the channel link is down below in the
+00:22:35.720 description if you want to get to know
+00:22:37.159 more about this system the ins and outs
+00:22:40.000 private Discord and whatnot down in the
+00:22:42.840 description I'll see you all later

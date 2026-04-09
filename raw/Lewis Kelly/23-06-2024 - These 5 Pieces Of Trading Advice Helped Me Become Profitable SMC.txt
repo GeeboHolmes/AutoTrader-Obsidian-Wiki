@@ -1,0 +1,375 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/_M8zwoaYrTs
+
+00:00:00.080 leis do you also use fair value Gap or
+00:00:03.480 just order blocks everything should be
+00:00:05.520 used within context so to be clear I
+00:00:08.160 don't use fair value gaps as a point of
+00:00:11.559 Interest or as an entry model or
+00:00:14.080 anything of that nature but I do use
+00:00:16.480 fair value gaps to understand that that
+00:00:19.359 is where price may want to trade back
+00:00:22.039 into right so just as a liquidity void
+00:00:24.920 as a potential Target for price you have
+00:00:26.880 to understand that you know if you do
+00:00:28.640 the test you collect the data and you
+00:00:30.400 watch you know thousands and thousands
+00:00:32.279 of days worth of price action really you
+00:00:34.920 you'll quickly understand that fair
+00:00:36.680 value gaps are often traded back into or
+00:00:39.040 they're often mitigated or things of
+00:00:40.640 that nature do we know about the
+00:00:42.320 pullback what do we look for so with a
+00:00:45.079 pullback what actually classifies a
+00:00:48.000 pullback is a three candle pattern
+00:00:51.680 essentially but a lot of people make the
+00:00:53.480 mistake in thinking that those three
+00:00:56.120 candles have to be formed a certain way
+00:00:58.039 let's say you have a high and a low
+00:00:59.640 right this is the this is the uh swing
+00:01:01.920 level now let's say price has one
+00:01:04.080 bearish candle pullback and then one
+00:01:06.000 bullish you know two bullish three
+00:01:08.400 bullish one bearish one bullish another
+00:01:11.600 bearish candle pullback right so there's
+00:01:13.520 lots of different bullish and bearish
+00:01:15.080 candles every up move is a bullish
+00:01:16.799 candle every down move is a bearish
+00:01:18.640 candle let's just say that right so you
+00:01:20.479 can see we have one bearish candle two
+00:01:22.520 bearish candles and three bearish
+00:01:23.840 candles and then a bunch of bullish
+00:01:26.200 candles in this scenario this wouldn't
+00:01:28.439 be a pullback right so if price then
+00:01:30.479 decided to continue trading higher from
+00:01:32.320 here that wouldn't be a pullback for me
+00:01:34.960 because what we notice is we have one
+00:01:36.960 bearish candle and then the second
+00:01:38.960 bearish candle doesn't close below the
+00:01:41.560 first bearish candle and then the third
+00:01:43.880 bearish candle does close below the
+00:01:45.640 first one so that would actually only
+00:01:47.159 give me two candles in total right so
+00:01:50.680 because it would only give me two
+00:01:51.640 candles in total that wouldn't be a
+00:01:53.880 pullback now let's say for example we
+00:01:56.960 had that same one and then the second
+00:01:59.360 one does and then we have a bunch of
+00:02:01.159 other bullish candles and then we have
+00:02:03.360 another bearish candle and then we have
+00:02:05.320 a pushup well now what you can see is we
+00:02:08.119 have one bearish candle the second
+00:02:10.399 bearish candle that closes below the
+00:02:12.480 first one and then the third bearish
+00:02:14.519 candle that closes below the second one
+00:02:16.400 that is a three candle consecutive move
+00:02:19.519 right there are three candles in the
+00:02:20.920 opposing Direction in between the swing
+00:02:23.080 High and the swing low therefore that
+00:02:25.120 constitutes to being a pullback so I
+00:02:27.319 hope that answers the question of
+00:02:28.920 understanding pullbacks do you suggest
+00:02:31.160 swing trades to day trading your style
+00:02:33.879 of trading can vary on so many different
+00:02:37.480 things you have your personality type
+00:02:39.720 you have your goals right if you're the
+00:02:41.519 type of person that just can't like for
+00:02:43.560 me personally I don't like to be in a
+00:02:45.519 trade for consecutive days I find that
+00:02:49.120 honestly like genuinely if I'm in a
+00:02:51.120 trade overnight and I haven't secured
+00:02:53.360 partials or things like that I genuinely
+00:02:55.560 find that I have a worse sleep because I
+00:02:58.640 have that on the back of my mind that
+00:02:59.959 I'm in a trade so I know yeah sure with
+00:03:02.480 maybe some reconditioning maybe some
+00:03:04.080 work on my psychology I could get to the
+00:03:05.959 point of handling that but I've tried
+00:03:07.879 many times holding positions overnight
+00:03:09.959 and it just plays with me and so yes I
+00:03:12.480 can do it but it affects me
+00:03:14.440 psychologically and therefore it doesn't
+00:03:16.480 work for me so I just don't do it right
+00:03:18.360 unless the only way you'll see me
+00:03:20.080 holding a position overnight right so
+00:03:22.360 for example this position that we took
+00:03:24.280 yesterday in the community you can see I
+00:03:26.000 took most of my partials at six risk
+00:03:29.000 reward right most most of my partials I
+00:03:31.159 just took at this low in here and so now
+00:03:34.159 if I leave a small position running 10%
+00:03:36.799 of the total volume 20% of the total
+00:03:38.519 volume I I don't mind leaving that open
+00:03:40.400 I have my stops at break even I've taken
+00:03:42.319 the majority of my position off at my
+00:03:44.360 partial level now I have no
+00:03:46.280 psychological investment so therefore
+00:03:49.159 it's easy for me to essentially leave
+00:03:51.840 some of that position running but if
+00:03:53.480 that was my full position right now I I
+00:03:55.920 wouldn't feel comfortable and so for me
+00:03:58.239 because of that I just prefer you know
+00:04:00.400 int session so I will typically trade
+00:04:03.319 London session maybe sometimes I will
+00:04:05.840 cross over into the New York session if
+00:04:08.040 it makes sense to again everything is
+00:04:10.079 within context if it makes sense to
+00:04:12.319 cross over into that New York session as
+00:04:14.200 I did for example yesterday uh there has
+00:04:15.920 to be a reasoning behind why I cross
+00:04:17.918 over into the New York session and yeah
+00:04:20.120 I much prefer getting into the market
+00:04:22.320 and either you know taking a stop loss
+00:04:23.919 taking a break even or hitting my first
+00:04:26.320 uh partial same day ideally same session
+00:04:30.120 right that's why you'll see me have you
+00:04:31.440 know relatively small stop losses
+00:04:33.000 relatively small targets and then some
+00:04:34.840 larger targets uh you can see right here
+00:04:37.360 we're looking for a um an old 4our low
+00:04:40.560 right just some larger targets old 4our
+00:04:42.880 low in here uh larger targets but I've
+00:04:45.919 already taken my partials off therefore
+00:04:48.520 you know it's it's very easy on me uh
+00:04:50.840 psychologically so again swing trading
+00:04:53.199 it's all depends on your personality it
+00:04:54.840 depends on your goals as well right
+00:04:56.000 goals are another thing that factor into
+00:04:57.600 it you know there are different types of
+00:04:59.680 Traders there are different people that
+00:05:00.639 are trading for different reasons you
+00:05:02.199 may be a Trader genuinely you may be a
+00:05:03.880 Trader you could be a retired
+00:05:05.120 professional who already has you know um
+00:05:07.720 a few hundred, in the bank you've
+00:05:10.120 retired and your goal really is to just
+00:05:13.840 sustain your income from your job from
+00:05:17.160 Trading well swing trading may be
+00:05:18.800 something for you because now you only
+00:05:20.600 have to make you know aim for a couple
+00:05:22.919 of percent a month to maintain that same
+00:05:25.840 level of income and maybe it's easier
+00:05:28.080 for you based on you know how much time
+00:05:29.960 you want to invest into your craft to be
+00:05:32.560 a swing Trader a more passive Trader if
+00:05:34.759 for example you are someone who is more
+00:05:36.440 aggressive and wants to you know um I
+00:05:38.840 personally I I could be completely wrong
+00:05:40.560 but I genuinely do think that you know
+00:05:42.560 scalpers or intraday Traders I I guess
+00:05:44.880 they typically make more money because
+00:05:46.880 there is more opportunities a lot of the
+00:05:48.720 time smaller stop losses because they're
+00:05:50.600 trading you know smaller time frames and
+00:05:52.919 you know that is usually equal to higher
+00:05:55.840 risk rewards so that's the reason again
+00:05:59.120 another reason I personally enjoy
+00:06:00.800 trading you know short time frames um
+00:06:03.479 yeah so really depends on your goals it
+00:06:05.039 depends on what you're looking for and
+00:06:06.319 also your personality trait factors into
+00:06:08.639 it so don't look at your you know style
+00:06:12.560 of trading from the lens of does this
+00:06:15.280 work better or does this work better
+00:06:17.360 look at it from what works best for me
+00:06:20.599 right get to know yourself right because
+00:06:22.599 at the end of the day trading is nothing
+00:06:24.319 but a mirror it's going to mirror back
+00:06:26.080 to you you know everything your
+00:06:27.840 personality traits your flaws everything
+00:06:30.199 right your insecurities all of that
+00:06:31.919 stuff why you chose free candles for
+00:06:33.560 real pullbacks and what do you think
+00:06:35.520 about entering the positions using some
+00:06:37.160 specific FIB level and not the order
+00:06:38.840 block candle great question so why did I
+00:06:41.680 decide to use three candle uh three
+00:06:44.280 candle rule for my pullbacks uh I
+00:06:46.919 experimented with a bunch of different
+00:06:48.400 things so again to go full circle the
+00:06:51.840 main reason was because like a lot of
+00:06:54.440 you guys at some point in my journey I
+00:06:58.400 was bambooz
+00:07:00.240 with Market structure because the
+00:07:02.520 reality is is that if if price delivers
+00:07:05.199 like
+00:07:06.759 this right let's just say price delivers
+00:07:09.560 like this again very random um very
+00:07:13.960 random delivery if price delivers like
+00:07:16.479 this as you see a lot of the times it
+00:07:18.039 does well I was having the issue which
+00:07:20.160 is like what a lot of you guys are
+00:07:21.280 having the issue of well how do I know
+00:07:25.479 what is a swing level and what isn't
+00:07:27.800 like how would I know if this is a swing
+00:07:29.280 level and then now we've changed to
+00:07:30.720 bullish oh wait actually we go bearish
+00:07:32.840 like how do I interpret this and there
+00:07:35.720 was so many times where I would look at
+00:07:37.360 the market and i' be like okay we're
+00:07:38.759 bearish and then I'd look again and i'
+00:07:40.919 like actually wait maybe we're bullish
+00:07:43.199 because maybe that was a high and that
+00:07:45.800 broke that so maybe that's a high and it
+00:07:48.560 just got to the point where I was like
+00:07:50.159 you know what I can't apply discretion
+00:07:54.479 to my market structure and this is a
+00:07:56.840 great Point actually because this allows
+00:07:58.520 me to kind of go a different tandem
+00:08:01.440 which is uh the importance of
+00:08:05.280 systemization and Automation in your
+00:08:07.840 trading in your earlier years right
+00:08:11.039 because at the end of the day you you
+00:08:12.960 don't have the ability when you're just
+00:08:14.639 starting out or when you only have a
+00:08:16.240 little bit of experience let's say a
+00:08:17.560 year 18 months you you don't have the
+00:08:20.360 ability because you don't have the
+00:08:21.639 experience and you don't have the wisdom
+00:08:23.639 because the wisdom comes from the
+00:08:25.199 knowledge applied turns into wisdom so
+00:08:27.639 you don't have the experience which
+00:08:28.800 means you don't have the wisdom to be
+00:08:30.720 able to make discretionary decisions in
+00:08:33.719 the market meaning decisions that
+00:08:36.679 sometimes are able to deviate from your
+00:08:38.599 rules you don't have that ability
+00:08:40.919 because you haven't spent enough time in
+00:08:43.519 the craft and it's that simple so the
+00:08:46.040 best thing that you can do in your
+00:08:48.040 earlier years and when you're just
+00:08:49.760 starting out or even if you're you know
+00:08:51.440 on your way to profitability and you
+00:08:53.080 you're still you still don't really
+00:08:55.760 properly understand the the the market
+00:08:57.800 to the point where you can really really
+00:08:59.880 understand what the what price is likely
+00:09:01.560 to do if you don't have that then it's
+00:09:04.920 ideal that you search for kind of
+00:09:08.000 mechanisms principles processes
+00:09:11.440 automations and systemization all the
+00:09:13.440 kind of same thing the the systemization
+00:09:16.800 of your Concepts and become a rule-based
+00:09:19.920 Trader so you want to make your Edge as
+00:09:23.399 systemized and Rule based as possible
+00:09:25.760 and so that's something I found out and
+00:09:27.200 that's something I was looking for I was
+00:09:28.560 looking for the perfect strategy which
+00:09:31.640 obviously doesn't exist and I wanted
+00:09:33.160 that strategy to be step one step two
+00:09:36.160 step three step four step five take this
+00:09:38.120 box take this box take this box take
+00:09:39.600 this box Buy sell right that's what I
+00:09:41.320 was looking for and that's what I wanted
+00:09:42.480 to try to build and you know there are
+00:09:44.519 pros and cons to that the cons are that
+00:09:48.360 um when you become more of a seasoned
+00:09:50.760 Trader when you have the ability to make
+00:09:52.560 discretionary decisions it it can bite
+00:09:54.640 you in your ass sometimes because your
+00:09:55.920 rules May indicate one thing and you
+00:09:57.800 know that something else is going to
+00:09:59.079 happen just through knowledge just
+00:10:00.640 through wisdom just kind of this like
+00:10:02.040 little inherent intuitive tail when it's
+00:10:04.760 really just pattern recognition
+00:10:05.880 subconsciously and then you know you act
+00:10:07.560 on your rules and you see what you
+00:10:08.640 actually play playing out so there's a
+00:10:09.920 there's a fine line at some point to
+00:10:12.000 balance um you know mechanical rule
+00:10:14.560 based systems with discretion which is
+00:10:16.160 where I am at now with my journey um but
+00:10:18.920 at some point in time I really needed
+00:10:22.320 and I still use it 95% of the time I I
+00:10:25.800 really needed some sort of rule-based
+00:10:28.480 mechanism that told told me are we
+00:10:30.279 bullish or are we bearish and I tried a
+00:10:32.480 bunch of different things I tried you
+00:10:34.240 know one candles I tried two candles I
+00:10:36.279 tried three candles four candles I tried
+00:10:38.880 certain uh FIB extensions I tried
+00:10:41.880 certain pip counts and just what I found
+00:10:45.279 to be the most consistent and the
+00:10:47.360 easiest to follow was three candles that
+00:10:50.200 break each other in in in the same price
+00:10:52.639 L uh the reason the issue with the fibos
+00:10:55.399 the Fibonacci was that too many times uh
+00:10:59.079 the variable would then change right
+00:11:01.120 because if I looked at the Fibonacci and
+00:11:02.600 I said I need to have a price pull back
+00:11:05.040 at least 50% which at some point I did
+00:11:06.839 have that as a rule price needs to pull
+00:11:08.440 back at least 50% well a lot of the
+00:11:09.959 times price would pull back 40% and then
+00:11:12.279 it would go again and well now I would
+00:11:15.200 need to let's say it look like this I
+00:11:18.079 would need to see price pull back to 50%
+00:11:21.760 of this whole whole region again right
+00:11:24.680 and not 40% of the ne uh not 50% of the
+00:11:27.680 of the current leg so what would happen
+00:11:30.440 eventually is let's say price then did
+00:11:33.519 the same thing again right let's say
+00:11:34.959 price didn't pull back to the 50% let's
+00:11:36.920 say it pull back to 40% which was 50% of
+00:11:39.040 this leg and then it went again well now
+00:11:42.160 I have to extend it and now I need to
+00:11:44.040 wait for price to pull back um to this
+00:11:47.279 50% right and you can see how time and
+00:11:49.440 time again it just becomes so
+00:11:50.760 inconvenient for it to be considered a
+00:11:52.160 pullback because a lot of the times what
+00:11:53.959 was happening was there were scenarios
+00:11:57.440 in which let's say it look like this
+00:11:58.839 right and then uh price did something
+00:12:01.000 like this pulled back 40% and then and
+00:12:02.839 then broke the lows and then if I put my
+00:12:05.399 if I put my FIB down right now look at
+00:12:08.560 what happens my 50% is higher than this
+00:12:12.279 swing high so I would I would
+00:12:15.240 essentially be trying to short in here
+00:12:17.440 when actually my rules now would be like
+00:12:19.839 no hold on a minute we've actually
+00:12:21.800 shifted bullish and my my logic would
+00:12:25.240 say that I would look at it and i' be
+00:12:26.480 like well 50% is here that's my rule but
+00:12:28.839 if I look look at this I'm pretty sure
+00:12:30.560 that if price breaks that now it's going
+00:12:32.040 to trade higher and it would a lot of
+00:12:33.600 the time and I'd have it set at the 50%
+00:12:35.920 as my mechanical Rule and then again
+00:12:38.120 time and time again price would come
+00:12:39.440 into my 50% and I would look at Short in
+00:12:42.079 and price would just take me out because
+00:12:44.760 it was actually you know flawed to begin
+00:12:47.480 with and only through testing and only
+00:12:49.920 through collecting data and only through
+00:12:51.920 getting burned will you ever get to
+00:12:53.839 these conclusions and that's why most
+00:12:55.199 Traders quit because they aren't willing
+00:12:56.760 to put in the Reps they aren't willing
+00:12:58.079 to put in the time they want it to be
+00:12:59.880 easy and at the end of the day you know
+00:13:02.199 anything worth having life typically
+00:13:04.560 doesn't come easy especially a skill set
+00:13:06.600 like trading right trading has the
+00:13:10.120 potential to be one of the most valuable
+00:13:14.079 skill sets you could possibly ever have
+00:13:16.800 in the
+00:13:17.600 world you can attract millions and
+00:13:21.519 millions of dollars and you only have to
+00:13:24.079 return a couple of percent a month and
+00:13:27.079 you can make serious Bank so of a skill
+00:13:30.240 set that's that valuable you really
+00:13:31.920 think it's going to come easy right
+00:13:34.639 because in life Money Follows value and
+00:13:37.720 the more valuable something is typically
+00:13:41.000 the harder it is to do that's why it's
+00:13:43.120 more valuable because there are less
+00:13:44.880 people doing it it's just the law of
+00:13:46.920 supply and demand the skill of being
+00:13:49.279 able to cook a meal in a restaurant is
+00:13:54.199 far less valuable than being able to
+00:13:57.759 consistently return a few percent a
+00:14:00.240 month in the market

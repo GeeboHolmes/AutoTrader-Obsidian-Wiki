@@ -1,0 +1,217 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/BipvXp-UQGE
+
+00:00:00.240 This simple scalping strategy gets me
+00:00:02.800 results like these on a consistent
+00:00:05.040 basis. And the best part is this
+00:00:06.960 strategy is easy to use, completely
+00:00:09.599 repeatable, and systematic. And in this
+00:00:11.599 video, I'm going to reveal to you the
+00:00:13.440 full strategy step by step. I'm going to
+00:00:15.679 prove it with hundreds of trades of
+00:00:17.920 data, and then I'm going to walk you
+00:00:19.600 through some back testing. Now, my goal
+00:00:22.320 is simple. I want to make you a
+00:00:24.080 consistently profitable trader. And my
+00:00:25.840 plan to do that for you in this video is
+00:00:28.400 to give you an easy, repeatable, and
+00:00:30.320 proven. Proven being the key word
+00:00:32.800 strategy. And so here, what you'll see
+00:00:35.200 is the data on the strategy that I'm
+00:00:37.200 going to be sharing with you in this
+00:00:38.239 video. You can see over 2 and 1/2 years
+00:00:40.960 of data, 577 trades taken. This is our
+00:00:45.280 equity curve over this 2 and 1/2 years.
+00:00:47.600 This is proof that this strategy
+00:00:49.920 actually works. You see all these
+00:00:51.360 strategies online and the reality is is
+00:00:53.280 everybody just shows you a couple of
+00:00:54.399 trades. Well, here's two and a half
+00:00:56.480 years of data proving it and it's
+00:00:58.559 completely mechanical. Let's go through
+00:01:00.160 the rules and then let's go through some
+00:01:01.920 trade examples. Now, this strategy can
+00:01:03.840 be understood in three simple steps. The
+00:01:07.040 first thing that you need to understand
+00:01:08.479 is there are two time windows to trade
+00:01:10.240 the strategy. The first time window is
+00:01:12.080 our 2 to 5 a.m. Eastern Standard Time.
+00:01:14.720 That is our London window. The second
+00:01:16.640 one is the 7 to 10:00 a.m. Eastern
+00:01:19.280 Standard Time window. It's going to be
+00:01:20.720 our New York session. This is the time
+00:01:23.840 that this strategy has been proven and
+00:01:26.159 tested with. So, dialing straight in
+00:01:28.320 into step one. Step one is a sweep of
+00:01:31.759 previous days low. So, here we are as
+00:01:34.240 you can see. Now, the first thing you
+00:01:36.000 have to do is identify the previous
+00:01:37.680 day's low. So, the day starts at 5:00
+00:01:40.880 p.m. Eastern Standard Time. That is the
+00:01:42.479 daily close and daily open. So we can
+00:01:44.560 see here this low was created at 3 p.m.
+00:01:47.280 and after that there was no lower prices
+00:01:49.200 that were put in. So this day began up
+00:01:51.759 here at 5 and the day finished here and
+00:01:56.159 the lowest point of this entire day is
+00:01:58.479 here. So this is the previous day's low.
+00:02:00.560 The lowest point of the previous day's
+00:02:02.320 price action. So when we come into the
+00:02:04.000 next day, what we want to see for step
+00:02:06.479 one is a sweep of this level. We need to
+00:02:08.639 see price trade into this level. Once
+00:02:10.720 you get that, as you can see here,
+00:02:12.480 right, we have traded below this low. We
+00:02:15.440 have breached this low. So that is step
+00:02:17.760 one complete. That leads us straight
+00:02:19.520 into step two, which is drop to the 1
+00:02:21.920 minute time frame and wait for a market
+00:02:23.760 structure shift. So when we get below
+00:02:25.760 this low, we need to go to the 1 minute
+00:02:27.440 time frame. So you can see this is the
+00:02:29.440 same previous day's low. Once we get
+00:02:31.280 below that, and again, you have to be
+00:02:33.120 inside of this 2 to 5:00 a.m. or 7 to
+00:02:35.840 10:00 a.m. You can see here 2:00 a.m.
+00:02:38.319 session starts and it is currently 3:30
+00:02:41.040 a.m. So, this is my London window. So,
+00:02:42.720 what we can see here is we need to wait
+00:02:44.560 for a market structure shift. A market
+00:02:46.319 structure shift is simply just an area
+00:02:48.239 of price that had some type of
+00:02:49.920 structural level. So, if we mark out
+00:02:51.440 different types of structure, we can
+00:02:53.040 mark out high here, low here, high here,
+00:02:56.560 right? None of this because it needs to
+00:02:57.680 be at least two candles. high and then
+00:02:59.680 low, right? So these little points of
+00:03:01.920 price are our structure levels. So you
+00:03:03.680 can see the most recent area of
+00:03:05.200 structure is here. So if price trades
+00:03:07.599 through this level, that would be a
+00:03:09.840 market structure shift. That is what
+00:03:11.840 we're waiting for. So after this sweep
+00:03:13.920 has happened, it's simply just a waiting
+00:03:15.680 game. Now once we break this high, now
+00:03:19.440 we have a market structure shift. Now we
+00:03:21.680 can move on to step number three. And
+00:03:23.360 step number three is simply just an
+00:03:26.959 entry on an area of interest and to
+00:03:29.920 target three risk-to-reward. It is so
+00:03:32.720 simple that I could genuinely teach my
+00:03:34.959 little sister to trade this strategy. We
+00:03:36.640 have shifted this level. Now I need to
+00:03:38.239 look for an area of interest. What I
+00:03:40.080 usually do is go to a 15 or a 5minut
+00:03:42.400 time frame. So on the 15-minut time
+00:03:43.760 frame it's a little bit of a large area.
+00:03:45.680 So I'll drop down to the 5minut time
+00:03:47.360 frame. On the 5minut time frame it's
+00:03:49.120 much cleaner. The first thing that I can
+00:03:51.040 see is that we have this really nice
+00:03:53.760 fair value gap in here. So that's an
+00:03:55.760 area of interest. This fair value gap.
+00:03:57.599 What I also see is the final sell to buy
+00:04:00.879 which is an order block as this area in
+00:04:03.680 here. So that's my area of interest. I
+00:04:05.519 have two areas of interest that overlap
+00:04:07.200 each other. I can simply just take my
+00:04:08.879 entry on this sell to buy which is my
+00:04:11.519 order block, right? And we can just mark
+00:04:12.959 that out. So from this high to this low
+00:04:16.238 and I want to just make sure that I'm
+00:04:17.600 covering this low as my stop loss and
+00:04:19.918 then I just need to target three
+00:04:21.759 riskto-reward.
+00:04:23.360 So one to three and that one to three is
+00:04:27.360 here. That is literally it. Step one we
+00:04:30.000 sweep previous days low. Step two we
+00:04:32.080 have a market structure shift and step
+00:04:33.919 three we set this order and we wait for
+00:04:36.479 three risk-to-reward. And if you play
+00:04:38.240 price out
+00:04:40.560 you'll see we've been tagged into this
+00:04:42.400 trade. A really nice reaction out of
+00:04:44.400 price.
+00:04:46.240 Aggressive push toward the buy side.
+00:04:51.840 New York session opens and we hit our 1
+00:04:54.560 to3 riskreward and that's the position
+00:04:56.479 closed. That is literally how simple
+00:04:58.240 this system is. Let's show you another
+00:04:59.600 example. So here you can see we are in
+00:05:01.360 the next day. So where is our previous
+00:05:03.280 day's low, right? The low from
+00:05:04.720 yesterday. Well, if we remove all this,
+00:05:06.639 the lowest point that price reached is
+00:05:08.960 this London low. The highest point that
+00:05:11.600 price reach is the high that was traded
+00:05:14.080 just after New York. That's my previous
+00:05:15.759 day's high, previous days low. So, we
+00:05:17.120 now need to wait for this low to be
+00:05:19.280 breached. That is step number one. So,
+00:05:20.960 it's just a waiting game. Now, you can
+00:05:23.360 see in our London session, we have
+00:05:26.160 breached this low. So, now we can go to
+00:05:27.919 a one minute time frame and move on to
+00:05:30.160 step number two, which is wait for a
+00:05:31.840 market structure shift. That market
+00:05:33.520 structure shift in this instance is
+00:05:35.199 going to be here. So, we simply just
+00:05:37.280 wait for this price to get traded
+00:05:39.280 through. And you can see price doesn't
+00:05:40.960 trade through it. So we can just move
+00:05:42.560 our price leg down. That becomes our new
+00:05:45.039 structural high. And it's just a waiting
+00:05:47.199 game. You can see again we failed to do
+00:05:48.880 that. So what happens? We find a new
+00:05:50.880 structural high. And now we need this
+00:05:53.039 level to be traded through. And we wait.
+00:05:59.600 This is the 5:00 a.m. So now we have
+00:06:02.080 exceeded our London session window. We
+00:06:04.479 can no longer trade. Now we have to wait
+00:06:06.639 for New York session. So, here's the
+00:06:08.479 open of New York, right? 7 a.m. And you
+00:06:11.440 can see here that we have shifted London
+00:06:13.600 lower again. And if we drop to a 1
+00:06:15.440 minute time frame, we're just waiting
+00:06:16.960 for a shift of structure. And you can
+00:06:18.960 see that that shift of structure comes
+00:06:20.720 already. We've shifted this level in
+00:06:22.560 here, which is a market structure shift
+00:06:24.319 with a bunch of other highs as well,
+00:06:25.759 like this one, this one, this one, and
+00:06:27.039 this one. So, we've clearly had a market
+00:06:28.639 structure shift. We're clearly below
+00:06:30.240 previous days low, and we're clearly in
+00:06:32.240 our window between 7 to 10:00 a.m. So,
+00:06:34.639 it's the same thing again. five minute
+00:06:36.479 or 50 minute time frame to try to find
+00:06:38.880 an area of interest. Again, the area of
+00:06:41.120 interest is very similar like the last
+00:06:42.639 one. We have a nice fair value gap in
+00:06:45.600 here that we've just created. So, I can
+00:06:47.759 go ahead and take my trade at this fair
+00:06:50.319 value gap level, put my stop loss just
+00:06:53.199 below this level in here, and then
+00:06:56.880 target a 1 to3 risk-to-reward, and then
+00:07:00.160 just see how price plays out on the
+00:07:02.160 5minute time frame.
+00:07:04.080 You can see we have a really nice tag
+00:07:06.240 perfectly from this fair value gap and
+00:07:08.000 we start getting an immediate reaction
+00:07:10.080 toward the buy side. Now this is the
+00:07:12.560 strategy in a nutshell. However, there
+00:07:14.639 are multiple variations of this system.
+00:07:17.280 So this previous day's low sweep is just
+00:07:19.680 one of five different variations that I
+00:07:21.919 have for this strategy. Now, if you want
+00:07:23.440 to learn more about this strategy and
+00:07:25.199 all of the step-by-step rules and the
+00:07:27.120 variations, and maybe you even want to
+00:07:28.720 trade live with me and my inner circle
+00:07:30.960 members on a daily basis, then below
+00:07:33.440 this video, I'll leave a link. You can
+00:07:35.199 fill out a short form to apply to work
+00:07:37.199 with me and my team and we will make you
+00:07:39.280 a profitable trader.

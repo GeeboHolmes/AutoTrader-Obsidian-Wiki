@@ -1,0 +1,449 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/IQHoLIinfJ4
+
+00:00:00.080 All traders want the same thing. We want to take more winning trades and less
+00:00:05.200 losing trades. I've been trading now for over 5 years. And this has been something that I have obsessed over. How
+00:00:10.960 can I lose less and win more? And after testing thousands of trades, there's one
+00:00:17.440 concept that I use that enables me to take more winning trades and less losing
+00:00:22.960 trades. And in this video, I'm going to break down that one simple concept for you. So, for us to understand this
+00:00:29.359 concept, I'm going to be breaking down the anatomy of a candlestick. Now, before you start thinking, oh, a
+00:00:35.520 candlestick, this is super beginner, blah, blah, blah. You hear people online talking about candlesticks, and to be quite frank, they have absolutely no
+00:00:41.760 clue what they're talking about. When you really dive deep into the anatomy of a candlestick, it's a completely
+00:00:46.800 different game. You see, as a trader, you are trading candlesticks. That is what you are trying to read. Now, a
+00:00:52.719 candlestick is just the physical manifestation of the order book inside.
+00:00:58.800 And so, you may be asking, what's the order book? Well, the order book is this here. This is what the order book looks like. And so, on every single time
+00:01:06.119 frame, one candle represents the start and finish of that time frame. So, if
+00:01:12.640 you're on a 15-minute time frame, each candle represents 15 minutes of trading. And in that 15 minutes of trading, the
+00:01:19.119 buyers and the sellers, the activity inside of that price leg forms a candle. And that tells you everything that you
+00:01:25.360 need to know about what's actually happening in the market right now. And what happens is inside of this candle is
+00:01:33.000 this. And this right here is the order flow. So I'll show you an actual image of an orderflow, but for the purpose of
+00:01:38.960 this, we're going to simplify it because it's pretty much the same concept. Now first let's quickly understand the four
+00:01:46.079 important points of a candlestick. So this is a bullish candle. We have the high, we have the close, we have the
+00:01:52.399 open, and we have the low. The high represents the highest point that price reached in that time period. So if we're
+00:01:59.040 on a daily time frame, it's going to be the highest point that price reached in that day. The close of a bullish candle
+00:02:06.560 is going to be here. This is where price closed. So at the end of the day when we
+00:02:12.720 go and form the new candle, the close is going to be where we were at that moment
+00:02:17.760 in time. The open which is the low of the body is going to be where price
+00:02:23.760 opened on that day. So when the new day began, we open with a new candle and
+00:02:29.200 that is your open. And then the low is the lowest point that price reached in
+00:02:35.120 that day. So we have high, open, low and close. For a bearish candle, pretty
+00:02:40.959 similar, but a little bit different because a bullish candle goes from here up to here. That's what makes it
+00:02:46.879 bullish. Well, a bearish candle goes the opposite. It opens here and finishes down here. That's why it is a bearish
+00:02:53.599 candle because price moves lower. So, for a bearish candle, you have the high, which is the highest point that price
+00:02:59.120 reached in that time period. You have the open. Now unlike the bullish one that opens lower and closes higher, a
+00:03:05.680 bearish one opens higher and closes lower. So the open is here, the close is
+00:03:12.959 down here and the low is down here. Very very simple stuff. What we want to understand is what's the actual process
+00:03:19.680 that's taking place as a candle forms because the formation of that candle shows to you what's happening inside the
+00:03:26.720 order book. and what's happening inside of this order book and what's happening in this candle are one and the same thing and it's telling you everything
+00:03:32.720 you need to know about the current ideology and sentiment from everybody
+00:03:38.319 who's participating in this market. Now let's take a look at how we can get the
+00:03:43.360 next candle to form and what's going to happen inside of that day. Let's use this candle to be our previous day. So
+00:03:50.159 each candle represents one day. This candle was our last day for Euro dollar. So we had a bearish day. We opened price
+00:03:56.720 up in here. This was the high of price. We had a very aggressively bearish day.
+00:04:01.760 We closed down here and this was the low of price. So, how that happens is a lot of the times when you see a bearish
+00:04:07.280 candle, this bearish candle may have started bullish, maybe started like this, right? The candle opened, we had a
+00:04:14.480 run up to the buy side like this. A lot of the times this happens and then after
+00:04:20.238 we've kind of liquidated something or something like that, then we come back down and then we turn into a bearish
+00:04:26.720 candle and then it comes all the way down to here like this, right? And then
+00:04:31.919 it's a bearish candle and then it comes back up a little bit and then this is where it's closed. That is how the high
+00:04:40.240 to the low and then back to the close is formed. And so understanding this candle
+00:04:46.000 is understanding what's going on inside this order flow. So let's say we're going to look at the next day and how
+00:04:51.520 that next day is going to form. Well, if this is the close of the previous day, then the next day is going to open here.
+00:04:58.560 Regardless of whether it's a bullish or bearish day, it's going to open here because the close of the previous candle
+00:05:05.600 is the open of the next candle. If it's a bullish day, so you know it looks like
+00:05:11.160 this, then the open will be down here, right? Cuz this is where we open
+00:05:16.199 regardless. Same as a bullish model, we open down here and the close would be up
+00:05:22.000 here and that would be a bullish day. Well, let's say it was a bearish day. Let's say, you know, price opens here.
+00:05:30.080 We have a runup in price here. So, this would be the highest that price reached and then it comes back down like this.
+00:05:37.600 and then trades lower down in here and ends up closing out as a bearish candle.
+00:05:43.680 Maybe price reached down to this price in here having a bit of a retracement back up during the
+00:05:49.320 day and then it closes there. That would be the open, the high, the low, and the
+00:05:56.960 close. That's the formation. Now, how does this get built? What happens during that day? So, let's go back to the
+00:06:02.880 beginning of the day. So, we're starting a new day. And so this is the close of the previous day. And so the new day is
+00:06:08.000 going to be opening at this price point. Or inside of the order book, it's going to be here. The new day is opening at
+00:06:13.360 let's just say05. That is the price. So in the order book, we have the price. We have
+00:06:20.240 the bid, which is essentially another word for demand, right? Or buyers. And then we have the ask, which is another
+00:06:26.880 word for sellers. Just think of it as bid is people willing to bid on something. So you're willing to buy
+00:06:32.319 something. and ask, you are asking for something in return. So, you're selling something. The current price at any one
+00:06:40.000 moment in time is what is deemed as fair value. It's because that price right now
+00:06:45.600 is what the market agrees is the fair price for this specific thing at this
+00:06:50.880 specific time. It cannot be any other way. If it was to be any other way and
+00:06:56.240 the market didn't deem this as a fair value area, then the market would do something about it. So if for example
+00:07:01.840 this was the price and buyers disagreed heavily with that price well what they
+00:07:07.280 could do is they could buy at this price in the order book there are let's say
+00:07:12.800 five lots of sells willing to be sold at this level because at any point in time
+00:07:19.039 there are two market participants. You have passive and you have aggressive. Your passive side of the market are the
+00:07:24.960 people who put their orders in. So think about your limit orders right or your stop orders. Passive order is
+00:07:30.800 essentially a intention to do something. So if you see order book like this and
+00:07:37.039 you see you know 124 lots of orders up here what that is is that's a person or
+00:07:42.080 a group of people who have the intention of selling at that price point. At any
+00:07:47.120 point in time they can remove their orders before they get triggered. The same is true for the buy side. These orders that you see resting in here they
+00:07:53.520 are your passive orders. Then you also have your aggressive orders. Your aggressive orders are the orders that
+00:07:58.960 come in at market value from people who aren't willing to wait. So what they
+00:08:04.800 will do is they aren't willing to wait for price to come back down to here to buy. They want to buy right now at this
+00:08:10.479 price. They don't care. They're going to accept it. That is what's called the premium. So they're going to buy and place that order. Now let's say there
+00:08:17.039 are five orders in here, 12 orders in here. And let's say someone comes into the market with 20 lots of buy orders.
+00:08:24.800 And they're not going to wait. They're just going to buy right here, right now. And so here's what happens. 20 orders
+00:08:30.479 come into the market. Now, there is nobody here at this price point willing
+00:08:36.000 to sell 20 orders. So what happens? The market goes to the next available block
+00:08:42.080 of liquidity, which is the price that has sellers willing to sell what this buyer is asking for. So these 20 lots of
+00:08:50.320 buy orders, five of them will get filled at this level. So not all 20 will get
+00:08:56.160 filled because there's no one on the other side. Right? For every buyer, there must be a seller. Five get filled from here. Taking this five here from
+00:09:04.000 five to zero. So now there are no more orders at this level. So what happens?
+00:09:10.320 Well, now the current price moves from 5 to 106. That is the last active area of
+00:09:19.480 transaction. That simply means that this is now the accepted value of price. And so what happens to the candle in this
+00:09:26.720 event? Well, it opens here right at 10005 where it's supposed to open and
+00:09:32.640 then it trades up to 06. And so this
+00:09:38.399 begins to start looking like a bullish candle. But we're not done yet because there were 20 orders that came into the
+00:09:44.880 market at 10005, but there were only five available and they were available
+00:09:50.240 at 06. That means there are still 15 outstanding orders. So what happens?
+00:09:56.240 Well, price then goes to the next available block of liquidity. And here there are 12 orders. So all of these 12
+00:10:04.240 orders get fulfilled and the 12 orders that were sitting there go down to zero.
+00:10:09.360 And so the fair value of price moves to 17. And so too does the candle begin to
+00:10:17.440 form to the next price point. Now we go into 1 07. And so now there were 20
+00:10:25.079 orders. Five got filled leaving 15 remaining. Then 12 got filled. That
+00:10:31.120 leaves three remaining. And so those next three orders get triggered
+00:10:37.160 at 08. And so the 33 orders that were in there, three of those orders get filled,
+00:10:43.440 taking this to 31. And so then they have absorbed the orders. And very likely
+00:10:48.880 price is heading back up into this one8. And so that's how you see price
+00:10:53.920 started in here and then traded up until here. And what happens as well in real
+00:10:59.920 time very very fast inside the order book is that these spots start to fill up very quickly. People come back into
+00:11:06.399 the market and then you'll see a five in here, you see a 10 in here, you see a 30
+00:11:13.040 in here. These fill back up, right? You see an 11 in here. You see a 12 in here.
+00:11:18.480 Right? For example, now what happens? Let's say that we get into this price and this is the exact price that there
+00:11:25.519 are now 31 passive sellers who want to get into the market are at. And let's
+00:11:32.320 say, you know, let's say there wasn't 30 in here. There were 15. Let's say there were 10 buyers in
+00:11:40.600 here. Say there were four in here. So here we have 15 lots of buys, 10 lots of
+00:11:48.079 buys, and four lots of buys. So when we reach this level, now we have the passive 31 orders that are sitting at
+00:11:55.519 this price point. Well, a portion of them were just filled if you remember.
+00:12:00.640 So now let's say you were a person who had a short position at 08. Here's how
+00:12:08.720 it works. Usually it works in a hierarchical structure. Meaning if you
+00:12:15.040 were the first person to put your order in at this price point, then just a
+00:12:21.440 moment ago when the three orders got filled from this level, you would have been one of them. Let's say you had two
+00:12:26.720 of your orders. Your two would have got filled. But let's say you were the 30th person. Well, you may have an order at
+00:12:34.200 10008, but you didn't get filled because there was no one at that price point willing to take. Remember these are
+00:12:40.079 passive orders and so as of right now there is no one willing to buy at this specific price point. So there are still
+00:12:45.920 31 orders at this price point but no one is taking them. No one is offering the
+00:12:51.600 other side. And so that's why sometimes price just stays still. And then you may have an active buyer who comes into the
+00:12:59.200 market and that active buyer may want to take 15 orders. And so 15 buy orders
+00:13:06.639 come in at 10008 and then 15 sell orders get activated at 10008 leaving 16 orders
+00:13:13.440 remaining. Now we've had transactions but price hasn't moved. Price has stayed the same. That is fair value. That is
+00:13:20.880 the agreed upon acceptable rate at this moment in time. That is fair value. So
+00:13:26.480 at any point in time wherever the market is that is where it's supposed to be at that given time. Now, let's say those 31
+00:13:32.880 orders now drop down to 16, right? Because now the other lot of orders were
+00:13:40.160 filled by the person who just came into the market. Well, now let's say an active seller steps into the market. And
+00:13:47.680 let's say that seller is a big whale and he wants to initiate 100 lots of that
+00:13:53.279 position. Well, now guess what? This candle in here is going to change
+00:13:58.480 because those 100 cells that come in at 10008, 15 of them get triggered here. 10
+00:14:07.440 get triggered here, four get triggered here, seven here, eight here, five here,
+00:14:12.800 the other 35 in here, and then let's just say there were 150 orders at one.
+00:14:18.880 Well, now what happens? These 100 orders flood to the market and all of a sudden we go from being here and then as these
+00:14:26.480 100 orders get filled, 15 get filled here, 10 get filled here, four here, 7
+00:14:32.880 here, 8, 5, 35, and then we get into here. And so now we've shifted from a
+00:14:38.880 bullish candle to a bearish candle. And this now goes to red. And now we're at
+00:14:44.480 this area because these 100 orders that came into the market filled at this specific price point. And then this
+00:14:50.480 where we are right now is the current fair value. And then let's just say for math's sake, you know, 30 people come
+00:14:55.920 into here and then 100 people come into the market actively, right? It's active
+00:15:01.360 people that move the market. They fill those 30. They fill the other 30 in here and then there's 100 in here. Let's just
+00:15:07.680 say as those orders come into the market, price comes back up, right? So
+00:15:12.800 we can take this. This is the lowest point that price reached. Price goes from here. 100 come in. 30 get filled
+00:15:19.040 here. 30 get filled here. The rest of the orders get filled in here. And then let's say the day closes. Well, that is
+00:15:25.760 how the daily candle would be formed. And it's formed off the back of what takes place in the order book. So all of
+00:15:31.920 the orders that are being transacted at these prices that tells you exactly what
+00:15:37.519 is in the minds of people because now we have the high, the
+00:15:43.320 open, the low and the close. We have a
+00:15:48.560 bearish candle. As you look at that bearish candle, you think that there is selling momentum. So sellers may be in
+00:15:55.199 control. And that's exactly what is happening. But we've seen it firsthand inside of the actual order book. We have
+00:16:01.440 seen that sellers have outweighed buyers today because more sellers came into the
+00:16:07.519 market. There were more orders and the buyers could not handle it. They couldn't support it. So, they got filled
+00:16:13.839 and we ended up opening here. We started bullish and then sellers took back control of the market and pushed price
+00:16:19.839 down. That is what's actually going on in the moment when you see a candlestick get formed. Now that you understand
+00:16:26.720 that, you will never look at a candlestick the same again because now you will understand what's actually
+00:16:32.880 going on inside of the candle. Now, in this segment, I just wanted to give you
+00:16:37.920 the framework of understanding of the candlestick. I still haven't even got to the concept yet, but for me to give you
+00:16:43.600 the concept, it's very important that you understand how a candlestick gets formed and what happens inside of that
+00:16:51.199 candlestick. Because if you want to be a profitable trader consistently long-term, you have to really understand
+00:16:57.600 what the market is doing. And the market is the collective of millions of minds who are making decisions. You have to
+00:17:03.519 understand what that collective mind is doing. Not just what the candlesticks are saying, but what the people are thinking as each candlestick gets
+00:17:10.559 printed. That's what's going to make you a profitable trader. Now let me take you into the concept and how by
+00:17:16.000 understanding this and applying one very important thing is what enabled me to win more trades and stop taking trades
+00:17:22.240 that resulted in more losses. Now let's imagine the next day was very bullish. We had a bearish day then we had another
+00:17:29.120 bearish day but less momentum less aggression more of a neutral day. Now
+00:17:34.640 what you can see is you can see that the lows down here the high is up here. This is more of a neutral. Now it's more
+00:17:41.280 neutral slashbearish because we do end up closing lower. The key point you have to understand is that this was the close
+00:17:47.840 of the previous day, right? And then this is the close of the day after. So if the close of the day after is lower
+00:17:53.520 than the close of the previous day, then it's fair to assume the market agrees
+00:17:59.280 that lower than this is fair value, right? That's exactly how it goes. But it's less aggressive. Then let's say the
+00:18:06.400 next day we have this aggressively bullish candle like this. So buyers are obviously in control with price. We have
+00:18:13.520 a little bit of a of a wick on the buy side, but pretty strong aggressive bullish candle. We've broken above and
+00:18:20.559 closed above the previous days high. And then let's say as the next day comes in, sellers begin pushing price down like
+00:18:27.919 this. So we open here. It looks to be starting bearish like this. This is the
+00:18:34.160 lowest point that price reaches. And then price shifts to go high and then we
+00:18:40.240 get a run of the highs. And so at that moment in time, we've just broken above
+00:18:45.919 this old swing high. This is now a bullish candle. So the market is
+00:18:52.240 agreeing that price is bullish, that we're supposed to be above this price. But then let's say sellers don't agree
+00:18:59.440 with this price and so they step in. They think that this is a wrong accusation. Then what happens is we
+00:19:04.799 start to see a rejection, a move out of this price point and maybe even back to
+00:19:12.640 the sell side like this. And then this is where market closes. So we had the
+00:19:19.160 open, we had buyers who pushed price up believing that price was supposed to go higher. Sellers had nothing to say about
+00:19:25.600 it. For a moment there was a time where the market agreed that higher than this previous high was fair and then sellers
+00:19:32.480 completely disagreed with that and so they pushed price down outweighed the buyers and then this is what the candle
+00:19:38.559 looks like. And so now what we have is a liquidation. This is a rejection. The
+00:19:43.919 fact that price cannot break above this high and close above it being the key
+00:19:50.080 word and the fact that it's also done the same with the previous day's candle. The likelihood of price continuing to
+00:19:57.120 trade higher is very slim. So just off the basis of understanding the logic behind price, sellers are controlling
+00:20:04.320 this price. We've tried to take out this high. It's been met with rejection from
+00:20:10.039 sellers. The market has closed down here. That simply means the auction of the market agrees that price is not
+00:20:18.160 supposed to be above this high. So immediately we have a frame for an
+00:20:23.520 understanding of price. The problem that many people make is they see this wick here and they believe that this is a
+00:20:29.919 break of structure. And so what do they do? They think that this is indicative of higher prices. They think that that
+00:20:36.720 is a bullish sign. So when they come into the market the next day and they see that they're trying to buy price.
+00:20:42.880 And so when they go into a lower time frame, as the next daily candle forms, there's a lot of people out there
+00:20:48.640 thinking that this is actually bullish price action. And what makes it worse is the common trait of price here is to
+00:20:56.000 open here, give us a move to the upside like this, right? Starting out to be
+00:21:02.559 bullish and then a lot of the times you'll see the continuation. You'll see
+00:21:08.320 the real rejection of price. And this usually ends up to be something that
+00:21:15.200 looks like this. A very bearish next move. This is what I want to be sharing
+00:21:20.400 with you. You have to understand that if a price fails to close above an old
+00:21:26.960 high, it is very highly likely that the next candle that gets printed is going
+00:21:32.640 to be a bearish one. It's also a lot of the times when we take it one step further, which we're going to do in just
+00:21:38.000 a moment, it also gives contextual understanding to something even deeper,
+00:21:43.039 something that you could maybe anticipate. And so what you'll often see in a time like this is, you know, if
+00:21:48.080 price was in a scenario where we had a move up to create this pullback to push higher, failure to break this high. A
+00:21:55.360 lot of the time the responsibility of buyers who are propping up these moves
+00:22:01.039 is to overpower the sellers that stepped into the market here. There's a power struggle at play between sellers and
+00:22:07.760 buyers. As always, supply and demand. Now, when buyers move like this, try to attack this high, fail to break it, the
+00:22:16.000 reason they fail to break it is because they push it past momentarily and then sellers step back in and regain control
+00:22:21.760 of the market. Many people think that this is a sign of bullishness when a lot of the times it's actually not. The fact
+00:22:26.960 that we closed back inside this range is very indicative that this low down here
+00:22:32.880 is now weak and could even be look to be targeted because then you'll have a
+00:22:37.919 candle like this and then you're going to have another day that's aggressively
+00:22:43.440 bearish again and you may see that price starts to prop up. Buyers try to take control of the market. This looks like
+00:22:50.000 it's starting to print green only for the sellers to take back control of the
+00:22:55.200 market and push price lower. This is what you will see a lot of times. You'll see that these candles that have these
+00:23:01.440 large wicks, they start bullish and then or at some point they get bullish and then they continue moving to the
+00:23:07.919 downside. And then when you see a candle close like this one and you look at it and you see that it's being broken and
+00:23:15.600 closed below that is when you can confirm that this actually is a bearish
+00:23:21.200 market. When you have this confirmation because this is telling you that the market buyers and sellers regardless of
+00:23:28.480 what they think because someone can think something or it's supposed to be like this but the reality is
+00:23:34.640 objectivity. The reality is no matter whether people think that price should be higher, the market is agreeing that
+00:23:41.760 price should be lower than this old low. So sellers are in control. The market is
+00:23:48.000 overall bearish. Now you have a low to a high to a new lower low that is actually
+00:23:55.840 confirmed. It's confirmed because we close below it. The difference is that
+00:24:01.200 once upon a time price reached above this high. It couldn't hold itself. the market closed below it. The market close
+00:24:08.799 is very important because that tells you this is what the market agrees on at the end of this day, at the end of this
+00:24:15.600 15-minute period, at the end of this 1 hour period. This is right. This is fair value. Then you can start building ideas
+00:24:22.799 based off of true moves. Because once you have a clear break of a low, now you
+00:24:28.559 understand direction. And then what you can start to do is then you can really start to get involved in these types of
+00:24:34.240 moves because now you can find something like this, a nice order block like this,
+00:24:39.279 a nice supply zone in here. And then you can look at using this level, right?
+00:24:46.159 That has a nice fair value gap inside of it.
+00:24:51.679 You can use this level to look at building trade ideas because then even if price makes its way back
+00:25:01.000 up, it's likely going to make its way back down because it's the footprint,
+00:25:07.600 the flow of orders that make up your structure, right? It's the flow of
+00:25:14.480 orders that make up the overall dynamic of price. And so when the flow of orders
+00:25:20.960 in consecutive fashion are moving lower like this, the logic is is that we move
+00:25:27.840 lower. So let's go and apply this now to some real world examples to show some of the mistakes that people make using this
+00:25:34.880 and also how I use it to approach certain conditions that enable me to
+00:25:40.720 pick the right trades, pick the right areas and most importantly avoid losses and make sure that I'm capitalizing on
+00:25:47.039 winning opportunities. So here we are on the 1 hour time frame, right? Euro dollar. You can see that at this moment
+00:25:52.960 in time price is bullish. You can see that price is moving in this direction,
+00:25:58.400 right? You can see obviously that price is bullish. Now, you can see that the current high is all the way up here. The
+00:26:05.200 current low, how we identify that is look at what was broken. So, here's the highest point that was broken in this
+00:26:11.120 price leg. Okay. Now, where's the lowest point before that break? So, I can just
+00:26:16.400 go here to here and pull it across. Okay. The lowest point is here. This is
+00:26:23.760 the lowest point. So we go from higher high, right? Like this from higher high to higher low to
+00:26:31.760 higher high. So we're bullish. The trend is overall bullish. Very obvious and confirmed with this break of this high.
+00:26:38.559 Then what happens is price comes back in here. Looks to go and attack this high.
+00:26:44.000 So we have a high up in here that is going under attack. This is the high. As
+00:26:49.840 price plays out, you can see we go for the high, but we fail to break it. We
+00:26:56.720 actually close back inside of the range. We take the high, but we close down
+00:27:02.880 here. So therefore, it's evident that the market has agreed price isn't
+00:27:09.039 supposed to be above this high. And yet still, people will sit there and try to
+00:27:14.720 think that this is a break of structure and they'll try to buy from somewhere like this, right? an order block in
+00:27:20.000 here. They'll put their entries on. They'll put their stops in a safe logical position. They'll try to target
+00:27:25.520 the old high like this, not realizing that the likelihood is is if market is
+00:27:30.720 not accepting this area, then this order block is invalidated. This low down here
+00:27:37.440 is probably a target because the responsibility of this low, if the low from here wants to take control of this
+00:27:43.200 market, it needs to break this high and close above it with conviction to claim
+00:27:48.880 it. And so, kind of fast forward to see what plays out. Price trades again. We
+00:27:54.559 start coming back to a pullback and then you can see we have another break of the
+00:28:00.480 high without a close. And anyone who was trying to buy from this area just got
+00:28:06.000 destroyed. Now you can see price tried again. We tried to break it. We failed to do so. Closed back inside of the
+00:28:12.559 range and then had the aggressive sell off and then we close down here. At this point it's very obvious that the market
+00:28:18.159 is not accepting this low to be in control. It's not accepting that price
+00:28:23.360 should be above this high. And so now we have a low down here which is very
+00:28:28.799 likely to be targeted. Now bearing in mind this is the mistake that people make because for me we are bullish from
+00:28:35.760 the low down here to the highest point price reached up here. That's my
+00:28:40.799 structure. So I'm looking to buy for example let's say you know you have this old breaker block in here. Right? You
+00:28:47.520 have an old breaker. You can remove this part that's already been mitigated. So you're looking at an area like this.
+00:28:54.080 This is a logical area that price could potentially react from this old breaker level. Right? You also have this
+00:29:00.720 potential order block that price could react from. These are the areas that I would be expecting for price to trade
+00:29:06.880 out from because we're still bullish. But the problem is is that people are
+00:29:12.480 trying to long from here thinking these are breaks and they're not. that gets you stuck on the wrong side of the market. And then again, price starts
+00:29:18.960 trading higher. And so every man and their dog start flocking to the market thinking that price is going to break higher when the reality is is price has
+00:29:25.360 just shown us that it does not accept to be higher than that price point at this moment in time. If it breaks and closes
+00:29:31.120 above it, then we can reassess things. But until it does, it's not. And you can see price ends up coming back down and
+00:29:38.159 does exactly what price ends up breaking below this low. not closing below it, which is key for right now, but we've
+00:29:44.799 taken out this low. And so now what happens? Well, so many of people in the market now are seeing the price like we
+00:29:50.720 have a high, we have a low, we have a high up here, we have a new low down here. Okay, now I'm going to look for
+00:29:55.760 short positions. Maybe they're looking at, you know, the order block in here. Maybe they're looking at the fair value
+00:30:02.799 gap in here, right? Even kind of ICT or SMC traders, right? They're looking at positions like this where they can look
+00:30:09.760 at selling. Maybe they put their stop loss at the body closes in here, right? And then they're trying to target maybe
+00:30:15.600 the next draw on liquidity or something down here. These are the types of trade ideas that people are getting off the
+00:30:20.640 basis of this when the reality is is the market has not accepted this price to be higher. So if you kind of continue
+00:30:26.720 playing price out, price begins finding an area of support at this old breaker level,
+00:30:33.600 right? We begin rounding off. Now some traders are trying to get involved in shorts.
+00:30:38.720 Some traders have just been tagged into their shorts and they get tagged straight out. Now, we are still not
+00:30:44.320 above this high. So, until price can prove that we can break from this high,
+00:30:49.919 it still doesn't matter. And again, you can see that price begins rejecting from this high.
+00:30:56.559 Still a break, nothing. Expecting the next candle to be bearish. It's
+00:31:03.159 expected. Same thing again, right? Price cannot break the high. price is agreeing
+00:31:08.720 that price shouldn't be higher. And so now the problem is is that everyone again, same thing. They just got stopped
+00:31:16.080 out of their positions above these highs in here. And so now what do they have?
+00:31:22.559 They don't have anything. They've just been stopped out once, stopped out twice, right? And they're just on the
+00:31:27.919 consistently wrong side of the market. And then price gets the break.
+00:31:34.720 And then price gets the close and that is when we've confirmed that we're ready
+00:31:40.159 to go higher. And so now we actually have the break, but most importantly the close. You can see the difference in the
+00:31:48.480 market. Huge difference between price just wicking a high and closing back in
+00:31:53.840 versus breaking above and closing with momentum. This clearly tells you that
+00:31:59.360 buyers are in control of the market and that market is likely to go higher. little kind of pieces of data that tell
+00:32:05.519 you so much once you understand the actual order book. Once you understand what's going on in the order book, it
+00:32:11.279 makes reading a price chart so much more powerful. But we still have a problem because there's a lot of the market
+00:32:17.200 that's looking at this and they're like, "Okay, you know, this was a shift of the high and then there's a little pullback and then we break." And so they at this
+00:32:24.559 moment in time, they're actually looking at this and thinking, "Okay, my way works. We had a break. We had a comeback
+00:32:30.960 down here and we shifted higher. So great, it worked. It's a break. We pull back. We go higher. Well, guess what
+00:32:36.799 they do now? They use this as their new low. And then they use this as their,
+00:32:42.159 you know, high. And so now what they're trying to do is they're going to be trying to long from like this. They're
+00:32:47.919 going to be looking like, well, I'm in the premium of the price, the discount of the price, like we have an order block here. Price going to come back
+00:32:54.000 into here and trade higher. That's their idea. They're going to do something like this. Maybe they put it down here. Maybe
+00:32:59.600 they put it on the low and then they want to go, you know, somewhere up in here. Who knows? But this is somewhat of
+00:33:06.080 their idea. But again, they're completely flawed because how I'm seeing this is it's not a high until it's
+00:33:11.440 broken. So we have a high, right? Price goes high, low up into here, we pull
+00:33:17.440 back, we don't break because we don't break. This is the high. We failed to break it. So this becomes the high,
+00:33:22.960 right? Failed to break it. So now this is the high. very very
+00:33:29.120 different concept. We do a low to a high to a low to a high. Very very different
+00:33:37.679 concepts. So this is my low and then this is the possibly current high if it comes back. If it
+00:33:44.240 continues going higher, the high will go higher. But this is what the price looks like. So some people are seeing like
+00:33:49.679 this. This is the mistake they're making because they don't wait for candle closes. They're trying to long thinking this is their protected low. Now because
+00:33:56.159 I know that so many people in the market are doing that to me this is liquidity this is liquidity so I can
+00:34:03.039 expect that price will probably trade through this level and then you can look at areas like you know we have a fair
+00:34:08.960 value gap in here that's the only real level kind of have this inverted fair
+00:34:14.159 value gap and so you could build a trade idea off that you could build a long position again this isn't exactly how I trade I'm just kind of giving you the
+00:34:20.560 frameworks of understanding candlestick concept because regardless of how you trade if you can understand how to actually get a bias and what highs and
+00:34:27.119 lows to use and how to confirm them. You can trade anything as long as it makes sense. And so you could be more aligned
+00:34:32.879 with something like this where you're taking the open of the F value and you're still targeting the highs. Play
+00:34:38.760 price begins reversing. Now this is where most of them are trying to get involved in the
+00:34:43.879 market and the market sits in their area. Sits in their
+00:34:50.599 area. Now they're getting an absorption. So maybe they're thinking that the momentum is slowing down. They get a little run in here. This is probably
+00:34:57.440 enticing more people into the market because they believe that this is their low, but for me it's liquidity, right?
+00:35:02.640 That that's not the actual low. Then price runs through, gives them another little bit of a reaction and then
+00:35:12.119 eventually takes them straight out,
+00:35:17.400 right? And then you get a reaction like that. Like it's not lucky. It's not. It's just it's logic. You confirm
+00:35:24.880 something when it breaks. It's confirmed when it's broken.
+00:35:29.920 The low to the high. That's my structure. The only possible area that could be of interest in this bullish
+00:35:35.920 price leg is the fair value gap. There's no fair value gap in here. There's no fair value gap anywhere other than this
+00:35:41.280 fair value gap of these order blocks. And you can use the the body closes. So, it looks perfect. It looks hand
+00:35:47.520 selected. It looks amazing. like it just the logic of following the order flow. But you must use the wicks again. You
+00:35:54.720 can see it here. Again, we have a low down here. Look at how price doesn't break below that low. It wicks it, comes
+00:36:01.119 out, wicks, it comes out, wicks, it comes out, telling us that it doesn't agree that price
+00:36:06.800 should be lower than this price leg. It believes that price should be higher than this level. But this is just a pocket of liquidity for price to fish
+00:36:12.400 into before we go. And now we're going to look at an actual trade that's aligned with my actual strategy and
+00:36:19.200 showcasing the importance of this break. So what you can see right now is we're on the 50-minut time frame. Now if I
+00:36:24.960 just pull us back just a little bit before we get any of these moves. This is the 50-minut time frame. This is how
+00:36:30.160 everything is looking. Now structurally, you know, we were bullish, we had a range, we had another shift, then we had
+00:36:35.839 a change of character. So we had a higher high, lower low, but then we had another higher high. So at this point in
+00:36:41.520 time we shift back to bullish. So at the moment of luck in this in New York session we are bullish. We have a swing
+00:36:48.079 low down here. We have a swing high up in here. We're expecting higher prices.
+00:36:53.839 Then we also have bear in mind we have NFP on this day. So of course I'm not trading it. This is just pre-context.
+00:36:59.680 NFP does this. Now, for those who don't know NFP, what NFP often times does is
+00:37:04.960 it fishes liquidity above highs to collect liquidity to be able to operate in the opposing direction. Unless
+00:37:11.359 there's a clear intentional macro reason as to why NFP would do a certain thing, it's all the time going to fish for
+00:37:16.720 liquidity in one side and then fish for the liquidity the other side. But notice that we don't get a break above this high. So, we wick it aggressively. And a
+00:37:24.079 lot of people think that that means that we should be expecting higher prices. How many people had buy stops above this
+00:37:29.200 high as it gets raided? how many people as it gets raided are trying to buy in that move until it's been confirmed. It
+00:37:36.400 isn't. And so we have that aggressive low. We close back into the price range. Shows us a obvious and clear rejection
+00:37:43.040 that the market doesn't agree that price should be above this high at this moment in time. And so what most people do is
+00:37:48.480 they use this high and then they use this low and now they have a new high.
+00:37:53.680 And maybe they're trying to long from here. Maybe they're not, right? But if they are trying to long, well, they get
+00:37:58.960 into their position. They have a great little move higher, everything's going well, and then they get destroyed. And
+00:38:04.000 here's what happens to them because now what they do is now they think that they're bearish. And so now they think
+00:38:09.280 that they should sell, right? And again, even a broken clock is right twice a day. So doesn't mean that they're every
+00:38:16.000 single time going to be incorrect. It just means that trading is about edge. It's about having a consistent edge over the market. Consistent being the key
+00:38:22.880 word, not occasional. So we break to the highs, they're bullish. They break to the lows, they're bearish. They're expecting lower prices.
+00:38:30.960 price begins trading off to the sell side. But now, guess what? They are still bearish on price,
+00:38:38.800 right? So, we come into the market in London session. So, this is the session that I'm trading, London session, 2 a.m.
+00:38:44.720 to 5:00 a.m. EST. This is before the clock changed. They are looking at the market or a lot of people that make this mistake are looking at the market as
+00:38:52.079 bearish. I'm not. I understand that this isn't a break. I understand that the structural level is still like this. So,
+00:38:58.320 we are bullish to the high. So, I'm looking for long positions, but there are more than just candlestick closures
+00:39:03.599 in my strategy. So, I'll walk you through that. Firstly, if you haven't watched any of my videos, I break my strategy down a lot of times. Pretty
+00:39:09.680 simple. Overall, we look for a directional bias. So, what direction is the market going to go using market
+00:39:14.720 structure? We're bullish. So, I know that in London session, we're bullish right now. I'm expecting to trade
+00:39:20.800 higher. That's my expectation. Then, I need areas of interest to trade from. So in this scenario, the first thing I do
+00:39:26.480 is understand liquidity. I understand that we have buy side liquidity, which is amazing because that's liquidity for
+00:39:32.400 me to take trade into. I see a lot of sellside liquidity across these lows. We
+00:39:37.680 have one low, two lows, three lows, four lows on Asia low on this kind of
+00:39:43.119 intermediary uh New York PM session, lunch session low of the previous day.
+00:39:48.560 So what I don't want to do is get trapped like most of the market by chasing going long at London open
+00:39:55.280 because there is a lot of stop- losses below this low and the entire purpose of
+00:40:00.400 the market is going to gravitate to collect orders. That is how the market maker makes money. It needs liquidity.
+00:40:06.640 It needs to facilitate orders. So I do not want to get trapped. So I need to look at something that is below this
+00:40:12.880 low. That's when I can start looking at areas of interest. Now, for me to get an area of interest, I'm looking at a couple different things. Sometimes it's
+00:40:18.720 clean and beautiful, sometimes it isn't. So, I'm looking at these ranges in price, right? You kind of have these
+00:40:24.880 ranges before you get the aggression. So, you have from this low to this high. That is a range. But, we have something
+00:40:31.640 interesting. We have midnight open. Actually, the clocks went back. So, the midnight open is here. We have midnight
+00:40:39.680 open. And we also have a very small and picture perfect order block. Now, I'm not a fan for picture perfect. I don't
+00:40:45.839 think the market ever operates picture perfect, but in this scenario, it is. We have a picture perfect block. We have
+00:40:51.040 true day open and we have this range in here. So, pretty much I'm looking for a run into these lows or into these lows
+00:40:57.920 or into these lows, a reaction, and trade long. That's what I'm looking for. Now, I don't get into my positions just
+00:41:04.480 by risk entering. I don't like to set my position just like this and then put my
+00:41:09.520 stop loss where here, here, here, here. doesn't make sense to me. I like confirmation. So what I do is when price
+00:41:15.440 gets into my areas of interest. I have a directional bias. I expect price to go in this direction. I have an area of
+00:41:21.599 interest. If price gets into this level, then I will take a deeper look at it. When it gets into these levels, I go to
+00:41:27.839 a one minute time frame because remember how we just looked and kind of understood the concept of the order
+00:41:33.520 book. Yeah. Well, it's the same thing. If I go to the one minute time frame, I understand what's really going on right
+00:41:40.400 now inside of the order flow. I already have my higher time frame understanding. Now I need to understand the specific
+00:41:47.119 details. What I like to see is seller absorption. When price comes into my area, it usually comes in bearish
+00:41:54.000 because I like to play continuations. I don't like to trade breakouts. I trade continuations. So when price comes back
+00:41:59.440 into my areas, it's usually bearish. So when it gets into my area, I want to see seller absorptions. What is that? You
+00:42:06.640 have an area, price is aggressively bearish coming into your area, but once it gets in there, all of the sellers get
+00:42:12.880 absorbed by buyers. You start to see some stagnation and then you get a
+00:42:18.119 reaction. So, what it means is sellers try to overdominate this area, but they
+00:42:23.359 can't get past the kind of roadblock, the block that buyers put in this area to protect it. And eventually, what they
+00:42:29.040 do is they stop taking shots. And when they stop taking shots at this area, now
+00:42:36.319 it's easier for anyone who's buying to push price up because as we looked at the order book, there isn't as many
+00:42:42.319 orders and so the market is able to flow higher easier. That is what I'm looking
+00:42:48.319 for. I'm looking for absorption from buyers to sellers and then a flip from
+00:42:53.920 sellers being in control to buyers. And so you can see we're in our area now and we're starting to get that absorption.
+00:42:59.839 If we go back to the 15-minute and we kind of put our area of interest back in this level, kind of this entire region,
+00:43:05.839 price is aggressively bearish, it comes in and then we start slowing down because now we're getting seller
+00:43:11.000 absorption, right? Aggressively bearish starts slowing down. But slowing down
+00:43:16.160 isn't enough for me. I need to see a shift. So, you can see here we run this low. We don't break it, but it's enough
+00:43:22.640 to understand that price traded below it. If we can get a run on this high, that for me would be good confirmation
+00:43:28.480 that the order flow shifted. Again, you can see seller absorption and then sellers step back into the market. So,
+00:43:34.960 why would I ever want to be trying to buy if sellers are still in control? Doesn't make sense for me. So, I would
+00:43:40.960 sit and I would wait and then you can see we get a reaction from buyers. And this that's occurring right here, this
+00:43:47.359 entire thing really is an absorption, right? We're absorbing orders and then what happens? aggressive buying
+00:43:53.839 momentum. Sellers stop trying to attack this level. And when they stop trying to attack, it allows the buy side to take
+00:44:00.240 over. Now it's confirmed. Now the present moment order flow is in control. So I can go to a 5minut time frame. I
+00:44:06.640 can go to a 50-minut time frame. And pretty much I can just identify the area of interest. It's the same thing. I'm
+00:44:12.800 looking for, you know, the sell to buy if it's not too large of a stop size. If it is, I'll look to kind of refine it.
+00:44:18.319 So how large is our stop size? Stop size is 17 and a half pips. Me I would rather
+00:44:23.760 go for something smaller. You look at longing from in here. Look at protecting your downside. 11 and a half pip stops.
+00:44:29.200 It's not too bad. And then what are you looking for really and truly? You're just looking for the swing low. All I'm
+00:44:35.200 looking for is orderflow continuation. We're bullish. I'm expecting another leg. But
+00:44:42.480 attention to detail. Understanding I don't get trapped by these fake wicks. I don't get trapped by these inducements.
+00:44:49.359 And so a kind of 15-minute time frame, kind of see how it plays out because what you'll notice is we get an
+00:44:55.200 aggressive move, but we haven't breached the high. So this trade is still technically on. We have overlap and fair
+00:45:01.359 value gap in this area as well. And so that's pretty much it. You can continue watch play out. Now notice that there
+00:45:07.920 was no news right in this area. This very sharp, aggressive open in New York
+00:45:14.720 session tags straight into the trade that there was no news. It It was pretty wild. But such an aggressive move like
+00:45:20.560 that with at least no news, no red folder news or anything like that, but perfectly into this area and then
+00:45:26.319 trading out of it again, it's almost too good to be true. I want to say perfect understanding of the market, but I'm not
+00:45:31.599 going to make out like I'm a genius. I just have an edge and the edge plays out enough for me to make money. And so we
+00:45:38.640 invalidate the fair value gaps. We respect them. We respect the order block and we continue trading higher until
+00:45:43.680 eventually and it does take some while because you can see after we do
+00:45:49.200 get the reaction price does start kind of rounding back down into this area. Asia opens little bit kind of round uh
+00:45:57.160 rangebound. Now London's beginning to open. We have a manipulation on south side of Asia and then aggressive move
+00:46:04.720 out of London and we take out the key level, right?

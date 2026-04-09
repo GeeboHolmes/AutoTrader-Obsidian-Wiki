@@ -1,0 +1,1114 @@
+# tactiq.io free youtube transcript
+# Why All Trading Strategies Fail (How to FIX it)
+# https://www.youtube.com/watch/pwTQkjxBOic
+
+00:00:00.080 No matter what trading strategy that you
+00:00:02.639 try, you just can't seem to make it
+00:00:05.440 work. You can't make money over a long
+00:00:07.919 period of time. You've probably blown
+00:00:09.360 accounts, failed funded challenges, and
+00:00:11.360 tried multiple trading strategies, and
+00:00:13.599 you're still stuck where you are now,
+00:00:15.599 which is why you're watching this video.
+00:00:16.880 You've likely tried one of these
+00:00:18.240 strategies and maybe many more. Smart
+00:00:20.480 money concepts: ICT, support and
+00:00:22.960 resistance, order flow, candlestick
+00:00:24.880 patterns, the list goes on. And yet, no
+00:00:26.960 matter what you tried or who taught you,
+00:00:29.679 nothing seemed to work. And you see all
+00:00:31.920 these traders online trading the exact
+00:00:33.920 strategies that they're telling you to
+00:00:35.680 trade and they're making hundreds of
+00:00:37.520 thousands of dollars. And you're left
+00:00:39.120 wondering, why does this not work for
+00:00:41.520 me? What am I doing wrong? Or maybe, are
+00:00:44.960 any of these traders even legit? Is this
+00:00:47.200 all one big scam? Well, essentially, I
+00:00:49.280 want to explain to you that there's
+00:00:51.039 something more important than just the
+00:00:54.079 trader strategy. In fact, there are
+00:00:55.760 three things that any trader who takes
+00:00:58.559 any trading strategy, if they don't do
+00:01:01.120 these three things, they will never see
+00:01:04.000 success with any strategy. That's why
+00:01:06.240 I'm here to tell you that strategy is
+00:01:07.840 not the number one thing. So, 98% of
+00:01:10.720 traders get stuck in this one failure
+00:01:14.240 cycle. And it goes something like this.
+00:01:16.080 You start out, maybe you go to YouTube,
+00:01:18.479 you open YouTube, and you see a shiny
+00:01:21.360 trading strategy. Someone who promises
+00:01:23.280 an 80% win rate that makes a $100,000 a
+00:01:26.400 month. And although you're a little bit
+00:01:29.040 skeptical, a part of you is excited. And
+00:01:32.320 so you go, you check it out and you
+00:01:35.040 become interested. Then you see that
+00:01:37.119 trader break down this strategy in so
+00:01:39.920 much detail. why it's so powerful, how
+00:01:42.720 it works, how you can trade it just like
+00:01:45.840 them, step by step. Maybe they even show
+00:01:48.000 you some live examples of them taking
+00:01:50.000 trades using this exact strategy. Then
+00:01:52.640 you head into the trap. This is step
+00:01:56.159 number three. Without any preparation,
+00:01:58.320 you just go to the live markets. You had
+00:02:00.479 a good understanding. Everything was
+00:02:02.240 clicking. Everything made sense when he
+00:02:03.840 was explaining it. Now, it's your job to
+00:02:05.600 replicate that same edge. You go to the
+00:02:07.920 live market. You start taking trades.
+00:02:10.560 You take one trade, it's a winner. When
+00:02:14.080 you win that trade, that gives you so
+00:02:16.319 much euphoria. You're at a point now
+00:02:18.560 where you think, "Maybe I've got it.
+00:02:20.959 Maybe this is the strategy. Maybe this
+00:02:22.959 is what's going to solve all of my
+00:02:24.599 problems." Maybe you take another trade.
+00:02:27.599 Maybe it's another winner. At that
+00:02:29.360 point, you're so confident in this
+00:02:31.520 strategy, maybe you begin going to
+00:02:33.360 search for funded accounts. Maybe you
+00:02:35.519 begin funding your own personal account.
+00:02:37.599 But at some point the inevitable
+00:02:39.920 happens. You will go on a losing streak.
+00:02:44.080 That's point number four. What happens
+00:02:46.000 is you go on a losing streak. You take a
+00:02:48.239 couple of trades. You take a trade. You
+00:02:49.840 take a loss. No problem. I'm still
+00:02:51.599 profitable. Another trade. Another loss.
+00:02:54.080 Third trade. Another loss. By the third
+00:02:56.080 trade, you're starting to doubt things.
+00:02:59.360 How could this be happening? This is an
+00:03:01.120 80% win rate. I don't understand. Maybe
+00:03:03.040 I'm doing something wrong. Maybe the
+00:03:04.400 strategy doesn't work. Maybe he lied to
+00:03:05.760 me. This is where all the problems start
+00:03:07.680 coming back in and before you know it,
+00:03:09.760 you're a couple of weeks into trading
+00:03:11.120 the strategy and you've blown a funded
+00:03:12.800 account. You've lost half of your
+00:03:14.560 personal account and you're back to
+00:03:16.720 square one. This is a very depressing
+00:03:20.159 point to reach because this isn't your
+00:03:22.080 first time. This is your fifth time,
+00:03:24.319 your sixth time, your seventh time
+00:03:26.560 finding a strategy online, thinking that
+00:03:29.040 it works, but then being proved wrong by
+00:03:32.799 the market. And eventually what happens
+00:03:35.200 you'll end up back in the same cycle.
+00:03:37.120 You'll end up finding another strategy,
+00:03:38.799 giving someone else another chance,
+00:03:40.480 another video another chance. Now the
+00:03:42.799 issue is is any strategy can work. The
+00:03:49.120 problem is is that you're doing it
+00:03:51.760 wrong. You see, there are three things
+00:03:54.319 that you have to do in order to validate
+00:03:57.599 any strategy or validate your ability to
+00:04:00.720 trade that strategy. You will not make
+00:04:02.640 money unless you do these three things.
+00:04:04.799 So the first thing is you must validate
+00:04:07.920 that system. So you must validate that
+00:04:10.799 system. Now what validation looks like
+00:04:15.120 in the sense of a system is
+00:04:18.320 understanding the stepby-step strategy.
+00:04:21.279 You must know all of the rules involved
+00:04:24.080 with that trading plan. But here's the
+00:04:26.320 kicker. The problem is is instead of
+00:04:29.199 validating the system, you just go and
+00:04:30.800 trade it at the live market. Well, now
+00:04:32.800 you have a huge problem because all of
+00:04:35.199 those losses that you took, even all of
+00:04:37.199 those wins that you took, you don't
+00:04:38.960 actually know whether this system is set
+00:04:41.840 to make returns consistently. Because
+00:04:43.840 here's what many traders can do,
+00:04:45.360 especially online. They can tell you an
+00:04:48.000 80% win rate strategy. They can make a
+00:04:50.160 YouTube video on it and they can show
+00:04:52.479 you live trades of that strategy. Here's
+00:04:54.960 the kicker. Maybe they show you five
+00:04:57.040 trades. Maybe four of those five trades
+00:04:59.600 win. The problem is, do you want to be
+00:05:02.240 profitable over five trades or do you
+00:05:04.800 want to be profitable over five years?
+00:05:07.600 That's the big difference. You see, you
+00:05:10.000 don't know that that strategy is
+00:05:12.240 profitable until you've validated it.
+00:05:15.759 Now, here's the kicker again. Most
+00:05:17.600 traders simply just do not know how to
+00:05:19.680 validate a system. That's why they don't
+00:05:21.360 do it. They think this person's already
+00:05:23.520 validated the system, so I don't need to
+00:05:25.360 validate the system. That's mistake
+00:05:27.199 number one. Because until you validate
+00:05:29.199 the system, you don't know whether
+00:05:31.039 you're trading the system, right? You
+00:05:33.039 don't know whether it's actually going
+00:05:34.320 to work. And the problem then becomes
+00:05:37.039 every loss that you take with that
+00:05:38.880 system hurts a million times more. This
+00:05:42.000 leads to doubt, frustration. Now, here's
+00:05:44.960 the thing with trading. You see, the
+00:05:48.479 biggest killer of a trader isn't losses
+00:05:53.479 necessarily. It's not necessarily
+00:05:56.320 blowing a funded account. You see, for
+00:05:59.360 me personally, the most difficult thing
+00:06:02.240 to deal with is the doubt, the
+00:06:05.960 uncertainty. It's the not knowing what
+00:06:09.199 I'm actually doing. It's this gut
+00:06:12.080 feeling inside of you that's screaming,
+00:06:16.080 "I'm lost. I don't actually know what
+00:06:19.440 I'm doing." And there's this sense of
+00:06:23.240 hopelessness because the more you try
+00:06:26.680 something, it doesn't work, the more you
+00:06:30.400 reinforce that same self-doubt. And so
+00:06:33.039 the doubt and the
+00:06:35.800 uncertainty is what creates the
+00:06:38.400 discomfort. It's what creates the
+00:06:41.240 anxiety. It's what makes most traders
+00:06:43.680 quit. I've been so close to quitting on
+00:06:47.199 so many occasions. Not because of the
+00:06:49.440 lost trades, not because of the blown
+00:06:51.440 accounts. I can deal with that. Yes, it
+00:06:53.840 sucks. Yes, it's painful. But nothing
+00:06:56.479 comes close to
+00:06:58.840 hopelessness. When you reach a point
+00:07:01.360 where you just feel like you're trying
+00:07:02.800 and trying and trying and nothing seems
+00:07:05.280 to be working, that's the most difficult
+00:07:07.120 place to be in trading. And it's a place
+00:07:09.280 where I've been many of times and every
+00:07:11.919 time I feel like quit. And obviously I
+00:07:13.680 look back and I'm super grateful that I
+00:07:15.199 didn't because all of those painful
+00:07:17.919 moments led to the eventual success. You
+00:07:20.400 see the difficult thing is that trading
+00:07:22.479 doesn't give you that same linear
+00:07:24.639 progression that society tells us that
+00:07:26.800 is so good. Like in the normal world,
+00:07:28.720 let's say for example, right? In the
+00:07:30.479 normal world, you have a pretty simple
+00:07:34.160 system. You have your
+00:07:37.880 inputs and you have your
+00:07:42.120 outputs. Society tells you work hard, go
+00:07:45.919 to school, get a good paying job,
+00:07:48.000 progress up the corporate ladder, and
+00:07:49.840 then you'll be happy. And so what
+00:07:51.520 happens? You come, you take that same
+00:07:54.319 mindset into trading. Now, in the real
+00:07:56.879 world, your inputs are pretty linear to
+00:08:00.960 your outputs. You get a job and your job
+00:08:04.000 pays you an hourly rate. So you
+00:08:06.080 understand that one hour of your time
+00:08:09.879 equals X amount of dollars, right? The
+00:08:13.599 more you work, so the more input, the
+00:08:17.919 more output, right? That's what society
+00:08:20.879 tells you. Trading isn't like that and
+00:08:24.080 people aren't used to that. See, trading
+00:08:26.479 is technically somewhat of the opposite.
+00:08:30.479 So this is your kind of normal 9-to-f5
+00:08:33.599 standard society job. Safe, easier. But
+00:08:37.919 the problem is is that your output is
+00:08:40.679 extremely limited. There's only so much
+00:08:44.240 money you can make working a job.
+00:08:46.399 There's only so much freedom that you
+00:08:47.760 can have. There's only so much freedom
+00:08:49.279 financially, so much freedom to travel,
+00:08:51.519 and so much freedom with your actual
+00:08:52.959 time. So in life, typically speaking,
+00:08:56.640 the bigger the reward, the higher the
+00:08:59.279 risk. And usually the harder the thing
+00:09:00.959 is to achieve. So trading looks more
+00:09:03.680 like this. You
+00:09:06.680 have your output
+00:09:09.000 capability and your inputs, right? So
+00:09:11.760 this is let's say this is
+00:09:14.680 trading. Here you have output and output
+00:09:18.240 can essentially be dollar, right? And
+00:09:22.120 input this is kind of your capital. This
+00:09:25.440 is your time. Trading them more
+00:09:27.920 something like this.
+00:09:29.519 You actually may start like this and
+00:09:32.480 you're putting in all this work and this
+00:09:35.640 here is a very difficult place to be.
+00:09:39.760 Essentially this is what I call the
+00:09:42.399 valley of despair. This is why because
+00:09:46.160 in normal
+00:09:47.480 life it looks something like this.
+00:09:49.839 Right? So you can see from the
+00:09:52.360 beginning, which is where a lot of
+00:09:54.399 people start, which is where everyone
+00:09:57.080 starts, you're immediately used to
+00:09:59.920 getting results. Trading is not like
+00:10:02.240 that. You see, trading requires delayed
+00:10:04.920 gratification. And so this area here
+00:10:07.839 where your inputs from trading are not
+00:10:11.279 matching what you think or feel like you
+00:10:13.920 deserve, you've been trading for a year
+00:10:16.079 now. You've tried multiple different
+00:10:17.440 strategies. You spent countless hours
+00:10:19.120 trying to do it. and you haven't made a
+00:10:20.640 single dollar. In fact, you've spent
+00:10:22.800 money, right? So, you are at a net loss
+00:10:25.200 in trading. You put all this time in,
+00:10:27.360 all this effort, all this money, and you
+00:10:29.680 got nothing back. Whereas, flip it.
+00:10:32.160 Everybody around you telling you you're
+00:10:34.000 borderline crazy. Everyone around you
+00:10:36.000 who's got normal, safe, secure paying
+00:10:37.839 jobs, they're saying, "Why are you
+00:10:39.120 wasting your time? Get a second job if
+00:10:41.360 you want more money. Spend more time
+00:10:43.120 with your kids. Spend more time with
+00:10:45.040 your wife. Go and get a partner. Live a
+00:10:47.120 life. Have friends." Right? But you're
+00:10:49.279 tunnel visioned. You see, you don't want
+00:10:52.000 normal. You don't want average. You want
+00:10:55.079 superior. And so trading is your
+00:10:57.279 vehicle. But again, in the beginning,
+00:10:59.200 it's difficult because no matter what
+00:11:00.959 you're doing, you're just not getting
+00:11:02.560 the results, right? And it looks like
+00:11:04.839 this. Here's the difference. At some
+00:11:07.600 point in time, a shift happens.
+00:11:11.839 that moment that you know exists but you
+00:11:14.320 haven't quite got yet that you're
+00:11:15.920 waiting for that people like me are
+00:11:18.000 telling you exists and trying to show
+00:11:20.000 you how to get there. It happens and
+00:11:22.880 when it
+00:11:24.519 happens this
+00:11:26.279 happens. Now all of a sudden your input
+00:11:31.279 can be the same level as what it was at
+00:11:35.519 the beginning maybe even less. Right?
+00:11:37.360 Maybe you're putting less time in than
+00:11:39.519 you were at the beginning, but your
+00:11:41.760 outputs, what you're actually achieving,
+00:11:44.800 are far superior to anything that you
+00:11:48.079 could imagine with a normal job or even
+00:11:50.079 anything that you could have imagined
+00:11:51.519 when you first started out. And so
+00:11:54.480 that's a huge misconception and that's
+00:11:57.600 the difficult part. But hear me out,
+00:12:00.480 getting through this, that's the test,
+00:12:03.200 right? If you see trading differently,
+00:12:05.920 if you see trading as my ability to
+00:12:10.399 endure the pain and get through the
+00:12:13.120 valley of despair, that is success in
+00:12:15.360 trading. If you can have that mindset
+00:12:17.440 instead of when I make x amount of
+00:12:19.120 dollars, when I buy this car, when I
+00:12:21.040 retire my this, when I retire my that,
+00:12:23.040 instead of those being the goal, instead
+00:12:25.600 make it let me follow the process, stick
+00:12:27.839 to it long enough until I eventually
+00:12:29.760 escape the value of despair. That's when
+00:12:31.839 you'll see the real results. So tying
+00:12:34.160 this then back to why it's so important
+00:12:38.720 to validate the system because the
+00:12:41.600 problem is you want to get out of this
+00:12:43.519 valley of despair as soon as possible. I
+00:12:46.560 mean obviously everybody wants to be
+00:12:49.760 rewarded for the effort that they're
+00:12:51.680 putting in and in an ideal world they
+00:12:54.160 want to be rewarded more for their
+00:12:56.560 effort than their effort in something
+00:12:58.560 else. Here's the problem. As much as I
+00:13:01.760 believe in working hard, as much as I
+00:13:04.800 believe in, you know, the grind and
+00:13:08.320 discipline and sacrifice, I also believe
+00:13:12.480 in working smart. You see, I still want
+00:13:15.839 to get the maximum amount of output for
+00:13:19.200 every moment that I invest. Of course, I
+00:13:22.639 mean, who wouldn't? So that's why it's
+00:13:25.600 so important to validate the system
+00:13:27.519 because if you continue trading all of
+00:13:30.560 these strategies that you think work but
+00:13:34.560 you haven't validated, you are wasting
+00:13:37.920 time because you're essentially
+00:13:39.519 gambling. You're hoping that this
+00:13:41.760 strategy works. And I'm going to tell
+00:13:43.360 you now, hope isn't a good strategy.
+00:13:46.480 Proof, data, that's a good strategy. So
+00:13:50.000 you need to move from a gambler to a
+00:13:54.279 proper data scientist when it comes to
+00:13:57.199 trader. And I throw that term around
+00:13:58.480 data scientists and it sounds difficult.
+00:14:00.639 Actually, it's very simple. Just most
+00:14:02.240 people don't understand how to test a
+00:14:04.959 system, collect the data of that system,
+00:14:06.880 refine that system. And that is what you
+00:14:09.440 need to do in order to validate a
+00:14:11.519 system. And that's essentially exactly
+00:14:13.839 what I teach my members. Now I'm someone
+00:14:16.880 who teaches my members a trading
+00:14:18.639 strategy. the same way that you'll be
+00:14:20.160 learning trading strategies online. The
+00:14:22.000 difference is is that I prove mine works
+00:14:24.560 long term. You see, I have a 15-month
+00:14:28.360 verified live day in day out back tested
+00:14:32.240 track record. And I could go way longer,
+00:14:34.160 but 15 months to show every single day,
+00:14:36.880 every trade taken, wins, losses, break
+00:14:39.279 evens, the entire thing, just to prove
+00:14:41.920 that the strategy works. So that
+00:14:43.760 validates the system in of itself. But
+00:14:45.760 most importantly, I show the members how
+00:14:48.639 to validate the system themselves.
+00:14:51.519 That's the key differentiator. Which
+00:14:53.279 moves me onto point number two. Let's
+00:14:55.440 say you validate a system. You know that
+00:14:58.800 the system works, but now you have to
+00:15:03.040 validate yourself. So
+00:15:06.360 validating yourself is
+00:15:09.959 essentially proving that you can
+00:15:13.920 adequately follow that system because
+00:15:16.399 it's one thing having a trading plan.
+00:15:18.160 This is why I say all the time so many
+00:15:20.399 traders can have a trading plan. I've
+00:15:22.320 worked with thousands of traders. Some
+00:15:24.560 of my students have gone on to get seven
+00:15:26.720 figures in funding, make hundreds of
+00:15:28.639 thousands of dollars, life-changing
+00:15:29.920 amounts of money. And some of them
+00:15:31.440 struggle for a long time until they
+00:15:34.600 eventually validate themselves. It's
+00:15:37.120 something that so many traders overlook.
+00:15:39.360 And again, similar to validation of
+00:15:41.440 system, traders don't understand how to
+00:15:43.920 validate themselves. They don't have
+00:15:45.680 operating systems. You see, trading
+00:15:47.839 isn't as simple as just having a plan,
+00:15:49.839 showing up to the markets, and taking
+00:15:51.120 trades and making boatloads of money.
+00:15:53.519 Not how the game works. You need to move
+00:15:56.399 like an operator. You need to treat
+00:15:58.639 trading like a business. Trading is a
+00:16:03.600 business. Trading is just a solo
+00:16:06.959 business. So trading is a business. Now
+00:16:11.600 you need to treat trading like a
+00:16:15.360 business. So can you imagine any
+00:16:17.519 business in the world not knowing their
+00:16:20.000 numbers? Can you imagine any business in
+00:16:22.399 the world having a business plan, having
+00:16:24.800 a strategy, but then never reviewing
+00:16:28.160 their performance? You know, all
+00:16:30.720 companies in the world, if you work for
+00:16:32.639 a company, you know this. You have
+00:16:34.160 goals, you have targets, you have
+00:16:36.240 reviews, you have monthly reviews,
+00:16:38.399 quarterly reviews. And what's that all
+00:16:40.240 about? That's about understanding where
+00:16:42.399 your performance as an individual, as a
+00:16:44.959 collective, as an entire company, where
+00:16:47.040 the performance deviates from the actual
+00:16:50.079 goal itself. Did you hit the target?
+00:16:52.000 Exceed it? Did you fall below it? Okay,
+00:16:54.240 what happened? Why didn't we hit it?
+00:16:56.480 Okay, let's fix those problems. That's
+00:16:59.040 operational. That's problem analysis,
+00:17:01.839 problem solution. Traders don't do that.
+00:17:04.000 For some reason, traders just think that
+00:17:05.439 becoming a profitable trader is going to
+00:17:07.359 YouTube, finding a trading strategy,
+00:17:09.679 seeing someone make money with it, and
+00:17:11.520 then taking it to the markets
+00:17:12.559 themselves, thinking they'll make money,
+00:17:15.280 not making money, and then doubting the
+00:17:17.919 strategy or doubting the person who
+00:17:19.919 taught them when actually maybe the
+00:17:22.480 issue is you. Now, what would you tell
+00:17:24.480 me if I said to you that I was
+00:17:28.200 someone, right? That's me. And I've
+00:17:32.480 tried these seven different ways to lose
+00:17:37.039 weight. And all of these seven different
+00:17:39.120 ways were taught by people who had a
+00:17:44.240 track record of helping other people
+00:17:46.160 lose weight. In fact, they even have
+00:17:50.440 themselves stories, pictures, images,
+00:17:54.520 proof that they've gone from where they
+00:17:57.200 were to where they are. And they're
+00:17:59.120 telling you follow this framework. And
+00:18:02.320 if you just do these things, that's how
+00:18:04.559 you will lose weight. Now, what if I
+00:18:06.160 come into you and tell you like, "Hey,
+00:18:07.520 man, like I just can't lose weight. all
+00:18:10.559 these seven experts have told me how to
+00:18:13.760 lose weight and for some reason I just
+00:18:16.400 can't seem to do it. What would you say?
+00:18:19.280 You would probably say something along
+00:18:21.120 the lines of, "Hey man, like maybe
+00:18:24.000 you're the problem. Like maybe you're
+00:18:27.039 doing something wrong." It's just
+00:18:30.280 too coincidental that all of those
+00:18:33.600 people with all of that proof and all of
+00:18:35.360 that track record is giving you the
+00:18:37.360 information and somehow you think you're
+00:18:39.360 so special that it doesn't work for you.
+00:18:42.720 Right? That's an ego thing. Imagine if
+00:18:44.799 we flipped it for a second so you can
+00:18:46.320 psychologically process what I'm
+00:18:47.679 explaining for you. Imagine for a
+00:18:49.440 second, right, we're talking about the
+00:18:52.240 lottery. Now, I'm against the lottery. I
+00:18:54.720 don't believe in gambling. I'm a trader.
+00:18:56.720 It doesn't make sense to I'd rather put
+00:18:58.240 my money somewhere where I have a
+00:18:59.679 control over my return. But imagine,
+00:19:02.400 let's take the lottery for example,
+00:19:04.440 right? Now, one person, one person out
+00:19:09.360 of a million or tens of millions of
+00:19:13.679 people, hundreds of millions of people
+00:19:14.960 in the world play the lottery and one of
+00:19:17.919 them win mega money. Now, what do you
+00:19:21.440 say when that one person wins that
+00:19:24.400 lottery? It's a miracle. they're
+00:19:26.880 extremely lucky. It's impossible. Those
+00:19:29.840 are the things that you would say if
+00:19:31.280 someone said like, "I'm gonna win the
+00:19:32.799 lottery next week and there's 10 million
+00:19:35.280 100 million people competing." You're
+00:19:36.960 like, "Bro, that's impossible. No way."
+00:19:39.760 Right? Well, that's essentially what
+00:19:42.080 you're doing. When you're
+00:19:44.200 telling yourself that something that has
+00:19:47.679 worked for so many people just doesn't
+00:19:51.039 work for you, you're essentially saying
+00:19:53.120 the same thing. And so it doesn't
+00:19:54.960 actually make sense. You have to look at
+00:19:56.799 something else, which is
+00:19:58.919 why it's about validation of the self.
+00:20:02.880 Now again, validation of the self is
+00:20:04.799 essentially your ability to trade that
+00:20:08.280 plan properly. That's the issue. The
+00:20:11.200 thing is is there's a huge
+00:20:12.960 misunderstanding in the trading space.
+00:20:15.039 People think just because a strategy
+00:20:18.200 works then that automatically qualifies
+00:20:21.440 them to make money with that strategy.
+00:20:25.120 That's not entirely the truth
+00:20:28.679 because trading has this funny thing
+00:20:31.919 that's called
+00:20:34.280 a performance
+00:20:36.919 gap.
+00:20:40.120 Right? Performance gap. A performance
+00:20:42.799 gap is the difference
+00:20:46.280 between your expected returns. So if you
+00:20:49.600 have a strategy and it's proven to be
+00:20:51.280 profitable in back testing, maybe it
+00:20:52.960 made 100% in that one one year. Well,
+00:20:57.120 the performance gap is when you come to
+00:20:58.960 the live market, how much of that 100%
+00:21:02.400 are you able to capture? The goal as a
+00:21:04.880 trader is to maximize the potential of
+00:21:08.400 their strategy and that comes with their
+00:21:10.320 ability to follow their rules and
+00:21:12.320 understand their trading plan. Don't
+00:21:14.240 deviate. The problem is is the
+00:21:15.600 performance gap comes in when a trader
+00:21:17.360 comes in and only captures 10% of their
+00:21:22.480 actual edge. Right? That happens so many
+00:21:25.440 times. In fact, some people, maybe
+00:21:27.600 you've experienced this yourself, which
+00:21:29.039 you probably have if you're here. You've
+00:21:31.280 had a strategy that has returned 100% in
+00:21:34.240 a year, right? I have strategies on on
+00:21:36.799 YouTube that I show that have returned
+00:21:38.960 100% last year. Guaranteed track record
+00:21:42.520 proven. Returned 100%. The strategy is
+00:21:45.600 there. And yet somehow there are
+00:21:48.720 thousands of traders that have tried
+00:21:50.720 that strategy and got a negative
+00:21:53.360 performance gap. Instead of making 100%
+00:21:56.320 with that strategy, they lost 20%. And
+00:21:59.280 so it's not a strategy problem, it's a
+00:22:01.840 you problem. And the problem is that you
+00:22:03.840 keep running around in this same loop of
+00:22:07.760 trying a strategy. Strategy doesn't
+00:22:10.240 work. Find the new strategy. This one
+00:22:12.080 doesn't work either. That one doesn't
+00:22:13.280 work either. It's not the strategy.
+00:22:15.520 Maybe it's you. That's why I'm here to
+00:22:17.120 tell you that you can make any strategy
+00:22:19.440 work, but you must first validate the
+00:22:23.120 strategy. No one wants to be trading a
+00:22:24.640 strategy that doesn't work. You have to
+00:22:26.159 validate the strategy. And the way you
+00:22:27.520 do that is by properly testing a
+00:22:29.919 step-by-step if this then that system, a
+00:22:32.960 rule, a playbook on historical data.
+00:22:35.679 Most people don't do that. That's again
+00:22:37.200 what I've said. This is something that I
+00:22:38.640 teach hundreds of people that I've gone
+00:22:40.480 on to get multiple seven figures in
+00:22:42.559 funding, hundreds of thousand dollars in
+00:22:43.919 payouts. I'm doing it every single day.
+00:22:46.080 Validate the system. Step number two,
+00:22:48.080 validate the self. Your ability to
+00:22:50.400 execute on your edge to reduce this
+00:22:53.840 performance gap. That's the difference.
+00:22:55.760 I see traders that come into my
+00:22:57.360 mentorship all the time. They come in,
+00:22:59.679 they jump on live session. They're like,
+00:23:01.039 "Hey, man. Like, uh, I've been through
+00:23:03.679 the content. I understand everything.
+00:23:05.919 There was some things I was missing.
+00:23:07.360 That's amazing. But actually, the
+00:23:09.120 strategy is is pretty similar to to what
+00:23:11.200 I already seen." Okay, cool. Great. But
+00:23:13.919 for some reason, when I was not doing
+00:23:16.480 the things that you're now explaining
+00:23:18.159 and helping me do, I was losing money.
+00:23:20.400 And now I've learned how to validate the
+00:23:22.960 system myself, which gives you
+00:23:24.080 confidence and the ability to know that
+00:23:25.760 you can show up and do it. You know how
+00:23:27.280 to trade it. You don't have the doubt.
+00:23:29.120 You don't have the uncertainty. You have
+00:23:30.720 the confidence, the clarity, the
+00:23:32.400 conviction every single day that you
+00:23:34.720 should take that trade. Huge problem
+00:23:36.640 again. Well, the one of the biggest
+00:23:38.159 mistakes that you're making right now
+00:23:39.440 that's causing you to have this
+00:23:40.799 performance gap is hesitation. You see a
+00:23:42.960 trade, you know that you should take it,
+00:23:44.960 and you don't take it. You don't take
+00:23:46.640 it. The trade plays out. It runs to
+00:23:48.400 profit. The next trade shows up. This
+00:23:50.799 one, you're like, "Damn, the last one
+00:23:51.919 won. I should have taken. Now I'm going
+00:23:53.120 to take this one." You take the trade.
+00:23:55.200 What happens? The trade hits your
+00:23:58.360 stop-loss. You only have to do that a
+00:24:00.480 couple of times until you've completely
+00:24:02.400 ruined the performance of your strategy.
+00:24:04.400 Because if you just take the losing
+00:24:07.039 trades in a strategy, bear in mind,
+00:24:08.640 every single trading strategy loses a
+00:24:11.200 lot of trades. The best strategies in
+00:24:13.600 the world have maybe
+00:24:16.520 50%
+00:24:18.360 60% win rate, right? Meaning that if
+00:24:22.000 they take, you know, a 100 trades, 60 of
+00:24:26.320 them will win. Maybe 50 of them will
+00:24:28.400 win. Again, win rate is not the biggest
+00:24:30.400 indicator of the success of a strategy.
+00:24:32.320 I personally know traders that have made
+00:24:34.159 millions of dollars trading a
+00:24:37.159 30% win rate strategy. 30%. Meaning that
+00:24:41.520 every 10 trades they take, they know
+00:24:44.000 they're going to lose seven trades and
+00:24:45.919 they still make hundreds of thousands of
+00:24:47.760 dollars. Right? My strategy personally
+00:24:50.480 over the last one and a half years has
+00:24:53.039 averaged at a
+00:24:55.080 42% win rate. Meaning for every 10
+00:24:58.159 trades I take, I am going to lose six of
+00:25:01.600 them. And yet I'm still able to make
+00:25:04.880 hundreds of thousands of dollars. Right?
+00:25:07.120 That's the power of win rate. But the
+00:25:09.039 issue is is none of this matters unless
+00:25:12.640 you validate yourself. And to validate
+00:25:15.520 yourself, you must have an operating
+00:25:18.159 system the same as a business does. You
+00:25:20.240 must be able to see every single trade
+00:25:22.640 that you're taking. The reason why
+00:25:25.520 you're taking that trade, you must
+00:25:28.640 understand and be able to see where
+00:25:30.960 you're going wrong. Because I'm telling
+00:25:32.720 you now, you are most likely the
+00:25:34.960 problem. You're making mistakes. And Ray
+00:25:36.960 Dalio, he's the owner or he stepped down
+00:25:40.480 now but was the owner of the world's
+00:25:42.080 largest institution hedge fund um
+00:25:45.200 Bridgewater Associates right
+00:25:47.799 Bridgewwater now absolute huge hedge
+00:25:51.600 fund one of my personal favorite mentors
+00:25:53.919 and he had this principle and this is a
+00:25:56.320 principle that I live by and I tell all
+00:25:58.960 of my students he says
+00:26:02.360 pain
+00:26:04.600 pain plus
+00:26:12.039 reflection
+00:26:18.440 equals progress. And he has that in a
+00:26:22.159 loop. And so what he does is he says we
+00:26:24.480 go through life, we take action, we make
+00:26:27.919 mistakes, we go through painful things,
+00:26:29.919 we begin to reflect on them, we make the
+00:26:32.000 changes required, we go to a new level.
+00:26:34.080 At that new level, we make more
+00:26:36.400 mistakes, we go through more pain, we
+00:26:38.240 reflect, and we grow. And
+00:26:40.840 this
+00:26:42.600 this is the growth that Ray Dalio says
+00:26:46.400 that all humans go through. And I would
+00:26:49.279 take his word for that. Something that I
+00:26:50.880 personally experienced myself. The
+00:26:52.720 problem is you right now, you're going
+00:26:55.760 through pain after pain after pain. And
+00:26:58.480 you're not reflecting. Instead, you're
+00:27:00.559 escaping. you're going to find the new
+00:27:02.799 shiny object. It's like being in a toxic
+00:27:05.200 relationship and you've been in that
+00:27:06.960 relationship for too long and eventually
+00:27:09.760 the relationship ends. You don't go and
+00:27:12.720 get into another relationship and expect
+00:27:14.480 a different outcome. Einstein said the
+00:27:17.200 definition of insanity is doing the same
+00:27:19.520 thing over and over again expecting
+00:27:22.159 something different. Huge different.
+00:27:24.320 Same thing, same actions lead to the
+00:27:28.240 same results. That is stagnation, right?
+00:27:32.400 You're stuck doing the same thing trying
+00:27:35.440 to get different results. Not going to
+00:27:37.440 happen, right? Dalio is sure you can
+00:27:40.960 make mistakes but when you reflect on
+00:27:44.880 those mistakes and you find out the
+00:27:47.760 where you went wrong and then you use
+00:27:50.640 that as an opportunity to learn and grow
+00:27:54.000 from those mistakes then you will start
+00:27:56.799 to see progress and that is what
+00:28:00.720 validation of self is all about. So I
+00:28:03.840 can guarantee you don't have a personal
+00:28:06.399 operating system set up right now for
+00:28:08.520 trading. That is a system with processes
+00:28:12.240 where every single trade you take, you
+00:28:14.720 are reviewing that trade, why you took
+00:28:16.720 it, when you took it, the confluences
+00:28:19.520 behind it, was it a A+ setup, was it a
+00:28:22.559 B-level setup, right? What was the
+00:28:24.960 expected return of that trade? Did you
+00:28:27.279 make any mistakes? Did you close it too
+00:28:29.200 early? You don't know. You could ask me,
+00:28:32.600 "Hey, how much money did you make on
+00:28:35.679 February the
+00:28:37.640 22nd in 2024?" I'll go and find out.
+00:28:42.000 I'll go pull up that data, tell you the
+00:28:44.559 exact trades I took, why I took them,
+00:28:47.200 how much money I made from those trades,
+00:28:49.760 if I made any mistakes from those
+00:28:51.600 trades. That's the level of detail that
+00:28:54.080 you need to have to validate yourself.
+00:28:56.320 Because listen, trading is very simple.
+00:28:59.919 People all the time tell me trading is
+00:29:02.559 hard. Let's debunk this right now.
+00:29:05.039 Trading is
+00:29:07.080 hard. Wrong. You know what's hard? A
+00:29:10.799 rocket scientist is hard. Being a
+00:29:13.559 neurosurgeon is hard. Right? Those are
+00:29:16.559 hard things. Trading is finding
+00:29:18.960 something that works. And there are
+00:29:20.399 people out there like myself that will
+00:29:22.480 show you what works. All you have to do
+00:29:25.760 is do it and not make mistakes.
+00:29:29.360 Hello. It doesn't get much easier than
+00:29:31.840 that. The problem is you. You're lazy.
+00:29:34.720 You don't want to do the work. Or for
+00:29:36.559 most people, I understand you don't know
+00:29:38.799 what to do. Again, like I said, that is
+00:29:41.919 what I am here to do. This is exactly
+00:29:44.640 what I help traders do. With Prosperity
+00:29:47.279 School, which is a program that we have,
+00:29:49.039 this is the thing that we do. We give
+00:29:51.200 people systems, two trading strategies,
+00:29:53.760 years of data, step by step, day in day
+00:29:57.200 out, proof, every single trade taken,
+00:30:00.559 recorded
+00:30:02.200 myself, analyzed all of the data over
+00:30:05.360 and over again to make this system work.
+00:30:07.600 Two, the validation of self build your
+00:30:10.679 personal
+00:30:13.799 trading operating system. Right? You see
+00:30:16.640 this all the time. This OS, you see
+00:30:18.240 Apple have it, all these companies have
+00:30:19.679 it. an OS, an operating system. You need
+00:30:21.600 an operating system. You need a system
+00:30:23.600 that you operate from that enables you
+00:30:25.679 to stay aligned with your progress.
+00:30:28.640 Again, trading isn't as simple as just
+00:30:31.919 finding a strategy, thinking that it's
+00:30:33.600 going to work. I'm going to go do it,
+00:30:34.559 and then it works. No, you have to make
+00:30:37.279 sure the strategy works, which is the
+00:30:39.039 first thing that people go wrong with.
+00:30:40.960 There's so many gurus on YouTube that
+00:30:43.919 will tell you this five minute trading
+00:30:46.480 strategy that will make you a million
+00:30:48.480 dollars. And the reality is is most of
+00:30:49.760 them don't even make money from trading.
+00:30:51.200 Just the truth. You need to validate the
+00:30:53.080 system. The second is okay cool. Now you
+00:30:55.840 have a winning strategy. Now you need to
+00:30:57.440 validate yourself. Your ability to
+00:31:00.320 follow that plan. Which leads me on to
+00:31:02.640 my third point which is ultimately
+00:31:05.600 deviance. Right? I touched on it briefly
+00:31:08.480 in the validation of self. But the
+00:31:10.880 purpose of valid validation of self was
+00:31:13.120 to help you understand the trading
+00:31:14.320 operating system. Your trading operating
+00:31:16.399 system is the system you're going to use
+00:31:20.000 to validate yourself.
+00:31:22.840 Deviance, devian is different. Devian is
+00:31:26.240 your inability to follow that. Because
+00:31:29.760 the problem is is there are things that
+00:31:32.640 are happening that are causing you to
+00:31:35.640 deviate. So it's very simple. If you
+00:31:38.559 have a profitable strategy, right, we'll
+00:31:40.480 mark that in green. If you have a
+00:31:42.480 profitable strategy that is proven to
+00:31:45.200 work, other people are trading it, it it
+00:31:47.840 works, the data is there, but for some
+00:31:50.080 reason you are unable to make money with
+00:31:53.840 it or you're only able to, which is a
+00:31:57.760 problem that I had in the beginning. And
+00:31:58.799 I had a strategy that worked great, but
+00:32:01.120 the potential of that strategy, I was
+00:32:03.519 only capturing a very small percentage
+00:32:06.960 of that potential, which in reality
+00:32:09.279 doesn't really change your life. Right?
+00:32:11.519 So, you have two problems. You have a
+00:32:16.000 complete deviance, which is just
+00:32:18.000 straight gambling. You are literally
+00:32:19.760 just not following your plan at all. Or
+00:32:21.600 you have inefficiency, which is you're
+00:32:24.320 not able to maximize the potential of
+00:32:26.799 your strategy. That's what devian is.
+00:32:29.039 Now, we have to ask the
+00:32:31.159 question,
+00:32:33.880 why? Great. You know what it is. Devian
+00:32:37.120 is I should take this trade. It meets my
+00:32:39.279 plan. I don't take it. Devian is I'm in
+00:32:43.039 a trade right now, right? I'm entering
+00:32:46.720 the market. I enter the market. Price is
+00:32:49.760 sitting at my entry level. It comes
+00:32:51.840 down. It's near my stop loss. What do
+00:32:54.080 you do? You get scared. You get anxious.
+00:32:56.559 You look at this. You're like, if I if
+00:32:58.399 this level gets hit, I'm going to lose
+00:32:59.760 $2,000. Right now, I'm only down $1,000.
+00:33:02.720 I think the market is going to trade
+00:33:04.080 lower. Okay, it. I'm just going to
+00:33:06.080 close the position. You close the
+00:33:07.519 position. You lose $1,000 only to watch
+00:33:10.880 price go all the way to your profit
+00:33:13.279 target where you would have just made
+00:33:15.360 $10,000. That's devian. And those things
+00:33:18.720 happen because of
+00:33:21.880 your mind.
+00:33:25.760 because of your mindset, your
+00:33:27.120 psychology, because the truth is the
+00:33:29.440 mind that you were born with is not
+00:33:31.600 designed to make you win in the game of
+00:33:34.159 trading. Trading is essentially going
+00:33:37.039 against your
+00:33:38.600 biological response to danger. You are a
+00:33:42.399 biological animal, if you will, if we're
+00:33:44.720 going to get real with it. We're animals
+00:33:47.360 and we have these instincts that we've
+00:33:50.000 eventually kind of evolved through,
+00:33:51.679 right? We have our own survival
+00:33:53.000 mechanisms and our job as humans, the
+00:33:55.919 number one goal is to not die. It's to
+00:34:00.000 preserve and reproduce. That's our goal.
+00:34:02.320 Our goal is safety, right? That's all we
+00:34:05.519 want as humans, right? We complicate
+00:34:08.800 life a lot. But really, all we really
+00:34:11.839 want everything we do, even money for
+00:34:14.399 example, right? You want money not
+00:34:17.918 because, and this is on a deep level
+00:34:19.440 that most people don't even understand.
+00:34:21.359 You want money not just for the freedom,
+00:34:24.879 right? Because why do people who achieve
+00:34:27.199 financial freedom keep going? Why do
+00:34:29.280 these people that have made $100 million
+00:34:32.159 don't stop? They can't stop. It's not
+00:34:34.879 about freedom. They could have had
+00:34:36.159 freedom years ago. It's about something
+00:34:37.918 deeper. It's about safety because money
+00:34:42.960 essentially has the potentiality to keep
+00:34:45.280 you safe. Think about all of the
+00:34:47.760 experiences in the world where money
+00:34:49.839 could ultimately keep you safe. And then
+00:34:52.239 on top of that, we also have the desire
+00:34:54.320 to essentially
+00:34:56.040 reproduce, right? We are designed
+00:34:58.560 biologically to want to reproduce. So we
+00:35:00.640 want to stay safe and reproduce. That is
+00:35:03.440 us deep inside. And so everything we do,
+00:35:07.520 unless we've properly cultivated
+00:35:09.280 ourselves, we've come to a level of
+00:35:11.200 self-awareness within ourselves, able to
+00:35:13.599 understand our actions and reactions,
+00:35:16.079 everything that we do stems from these
+00:35:18.160 two things. The desire to be safe and
+00:35:20.079 the desire to reproduce. That's it. And
+00:35:22.160 so what happens when you're taking a
+00:35:24.160 trade, right? You're taking a trade
+00:35:26.640 right now. Price comes into this level
+00:35:28.400 and price is going down and you're
+00:35:29.760 looking at your chart and you're seeing
+00:35:31.760 your money fluctuate. It's down $100.
+00:35:35.119 It's down $1,500. Right? Logically, you
+00:35:41.000 know that that's fine. If you've done
+00:35:44.400 these two steps, you know that your
+00:35:46.760 system, you don't get tagged into your
+00:35:48.880 trade and then it just goes. Sometimes
+00:35:50.640 you might sit around in this area where
+00:35:52.800 your entry is. You may be looking at
+00:35:54.320 your MetaTrader or your C trader or
+00:35:56.160 whatever you're using and you're seeing
+00:35:57.680 your your P&L fluctuate. It's going up,
+00:36:00.960 it's going down, right?
+00:36:02.800 Logically, you know that's part of your
+00:36:04.240 plan. You know that all you need to do
+00:36:06.000 is just get in that trade and follow
+00:36:07.599 your rules. On a physiological level,
+00:36:10.320 what's happening inside is there's this
+00:36:12.720 little chimp. There's this little animal
+00:36:16.359 that's trying to do everything it can to
+00:36:20.079 make you close this position because it
+00:36:21.760 can't handle it. It can't handle this
+00:36:24.480 because the loss the loss here is
+00:36:28.079 triggering so much pain and so much
+00:36:30.640 unsafety. if I lose this money d your
+00:36:33.920 your brain isn't able to think logically
+00:36:35.200 at that moment right there's a there's
+00:36:36.480 real biological um occurrences that are
+00:36:39.280 taking place essentially if we put it
+00:36:41.280 very simply right your brain like this
+00:36:43.280 when information comes into your brain
+00:36:46.480 right what happens is and again this is
+00:36:49.040 evolution of of humans right you go back
+00:36:53.280 100 years ago 200 years ago 300 years
+00:36:54.800 ago whatever it is and you're a human
+00:36:58.040 and you're hunting or whatever and you
+00:37:00.800 see a saber-tooth tiger. Now, your your
+00:37:05.200 brain has wired itself to see that and
+00:37:09.520 before you can even think, you're
+00:37:11.440 already in fight or flight. You're
+00:37:13.520 already, I'm going to fight it or I'm
+00:37:15.280 done. That's it. And for the most part,
+00:37:17.839 you see it, boom, gone, danger. Or the
+00:37:21.520 other way around, maybe you see it and
+00:37:23.200 it's actually time to engage with it,
+00:37:24.800 right? That's your fight orflight
+00:37:25.839 response system. So, what happens?
+00:37:27.839 information comes into the brain and
+00:37:29.599 information is your perception of
+00:37:31.280 reality. So when you're sitting there
+00:37:32.560 and you're trading and you're saying
+00:37:33.520 your P&L down 1,500, 1,700, 1,300,
+00:37:38.079 right? That is essentially data, bits of
+00:37:40.400 information that have been coming into
+00:37:41.760 your brain. Now, instead of using the
+00:37:44.079 CEO of your brain, which is your
+00:37:45.680 decision-making functionality, which is
+00:37:47.280 your neoortex, what happens is a little
+00:37:49.520 area in the back of the brain called the
+00:37:51.280 amygdala. And that information goes
+00:37:54.079 straight to the amygdala and the
+00:37:56.040 amygdala immediately starts freaking
+00:37:58.640 out. Now, unless you understand
+00:38:01.440 everything that I'm telling you now, and
+00:38:02.400 I'm touching the surface. This is
+00:38:03.839 something that I go so deep into inside
+00:38:07.040 of Prosperity School with my members.
+00:38:09.040 Again, this is something that I truly
+00:38:10.640 believe you have no chance of becoming a
+00:38:12.480 profitable trader unless you can rewire
+00:38:14.480 your mind to think like a trader. But
+00:38:16.160 again, I want to show you the things
+00:38:18.160 that are holding you back from traders.
+00:38:19.599 So you just at least get out of that
+00:38:21.440 cycle of just keep trying the same thing
+00:38:23.440 and not getting the results. Because
+00:38:25.520 I've seen traders traders have come to
+00:38:27.040 us been trading for seven years. Seven
+00:38:30.560 years no results within six months
+00:38:32.560 hundreds of thousands of dollars in
+00:38:33.760 funding, $10,000, $20,000 payouts within
+00:38:37.040 within months have been with us. Why?
+00:38:41.040 Not because we're amazingly great and
+00:38:44.160 superior and we have some secrets and
+00:38:46.880 stuff like that. No, it's just because
+00:38:48.480 for seven years he was doing the wrong
+00:38:50.520 things. Like if you want to get a
+00:38:52.560 result, you have to do the things that
+00:38:53.839 get the results. That's why I hate the
+00:38:55.599 idea that people just say like it's
+00:38:57.119 about time. How long you spend trading,
+00:38:59.359 you need the experience. It's like I was
+00:39:01.040 profitable before so many other traders
+00:39:03.280 because I've been doing this stuff for
+00:39:05.520 such a long period of time, especially
+00:39:06.720 the psychology stuff. So, I was able to
+00:39:09.680 get ahead of the expected average time
+00:39:13.920 for a trader to become profitable.
+00:39:15.440 Granted, I had a lot of improvement over
+00:39:17.839 time. But yeah, again, back to the
+00:39:20.480 point, deviants essentially, if if
+00:39:23.920 you're not able to control your mind,
+00:39:25.359 which most of you simply aren't because
+00:39:27.359 you don't understand what's happening,
+00:39:28.880 you can't solve a problem that you don't
+00:39:31.440 know exists. I think there's a lot of
+00:39:33.119 people out there that say like a problem
+00:39:35.560 identified is a problem halfsolved. So
+00:39:39.119 there's we as humans, we have so many
+00:39:41.480 problems that because we haven't
+00:39:44.000 actually identified them, they just eat
+00:39:45.839 at us inside and it causes us so much
+00:39:48.160 discomfort. And the reality is if you
+00:39:50.000 just get a pen and paper out and you
+00:39:51.040 just list out all of the problems that
+00:39:52.640 you have, well now you have power
+00:39:54.079 because now you can decide what you want
+00:39:56.160 to do with those problems. You have the
+00:39:58.320 power to solve those problems. So that's
+00:40:01.440 essentially it. Your final problem is a
+00:40:04.400 devian. And I I could talk about
+00:40:06.480 deviance for hours. In fact, I do. I
+00:40:08.760 have over well over 20 modules. I think
+00:40:11.920 it's like 27 or 30 or something like
+00:40:13.839 that modules of me talking about things
+00:40:17.280 like deviance and psychology and the
+00:40:19.359 biological wiring and the beliefs that
+00:40:21.200 you hold, the neuroscience behind
+00:40:22.880 trading. like such deep details of why
+00:40:25.599 traders sabotage themselves, for
+00:40:27.079 example, and why traders just can't seem
+00:40:29.920 to follow their trading plan, why
+00:40:31.359 hesitation, why fear, why greed, and get
+00:40:33.440 to the root cause of them. Moving from
+00:40:35.599 how to think like a normal person,
+00:40:38.240 because normal doesn't win in trading,
+00:40:40.320 to how to think like an actual
+00:40:41.599 professional trader. And the biggest
+00:40:44.000 problem we're solving here is deviance,
+00:40:46.000 which is your inability to follow your
+00:40:48.480 rules and do what you need to do to get
+00:40:50.640 the results. So to summarize,
+00:40:52.920 essentially any strategy can work. You
+00:40:55.760 can give me any concept in the world. I
+00:40:57.440 personally trade smart money concepts
+00:40:58.960 because I think it's superior. I
+00:41:00.720 personally am the type of person who
+00:41:02.160 really likes to understand the why
+00:41:04.319 behind price. I'm obsessed with
+00:41:06.000 understanding the institutional order
+00:41:08.079 flow, the intricacies of how the market
+00:41:12.000 actually operates, the liquidity, the
+00:41:13.760 actual absorptions and exorions in the
+00:41:15.520 market, how supply and demand inter
+00:41:17.359 relates with each other, the actual
+00:41:18.800 order flow of price. I'm obsessed with
+00:41:21.040 getting to the root cause of things. And
+00:41:23.280 so for me personally, smart money
+00:41:24.880 concepts is the way that I like to
+00:41:26.240 trade. But you can give me anything. You
+00:41:27.760 can give me candlestick patterns. You
+00:41:29.200 can give me trend lines. You can give me
+00:41:31.200 anything. I will find a way to make that
+00:41:34.240 strategy make money. That doesn't
+00:41:36.079 necessarily mean I'm going to use it
+00:41:37.359 because I have a way superior system in
+00:41:39.680 my opinion. But you can give me any
+00:41:42.079 strategy and by applying this framework,
+00:41:45.040 by validating the system. And by the
+00:41:47.040 way, validating the system, someone can
+00:41:48.880 teach a strategy. Doesn't mean it's
+00:41:50.160 necessarily profitable. I need to go and
+00:41:52.240 test that system. I need to break it
+00:41:54.240 down into all of the different
+00:41:55.520 variables, right? I have a trading
+00:41:56.960 strategy. It's one playbook and there's
+00:41:58.920 20 22 different variations of that
+00:42:02.079 setup, and they're all graded based off
+00:42:04.000 of their actual performance with proper
+00:42:06.160 tracking and detailing. It sounds
+00:42:07.920 complicated, but it's really not. I need
+00:42:09.520 to take that system apart, go and test
+00:42:11.520 it, split it into its variables, and
+00:42:13.760 then go and test the entire system. And
+00:42:15.200 I'm only needing to do that four or five
+00:42:16.480 times until I eventually get a model
+00:42:19.440 that is as efficient as I would like it
+00:42:22.000 to be. That's first thing. I could
+00:42:23.760 validate it because I can I I know how
+00:42:25.920 to build a system. I know how to build
+00:42:27.280 an edge, right? It's not about the
+00:42:29.280 concepts. It's about being able to
+00:42:30.960 validate the concepts into a playbook.
+00:42:33.440 Then it's about validating the self. The
+00:42:35.200 validation of self is just simple. My my
+00:42:36.960 personal operating system, I already
+00:42:38.400 have one. It's something that I teach to
+00:42:39.760 all of my members. I know how to track
+00:42:43.359 everything, how to review everything.
+00:42:45.599 Um, because it's super important. Again,
+00:42:48.079 pain plus reflection equals progress.
+00:42:50.079 You have to know when you're making
+00:42:52.160 mistakes because if you don't if you
+00:42:54.319 don't know whether 3 weeks ago you were
+00:42:58.400 making mistakes and that's why your your
+00:43:00.400 strategy is not performing or whether
+00:43:01.839 your strategy is just inefficient,
+00:43:03.440 you're not going to be able to make the
+00:43:04.560 best decisions. You don't know whether
+00:43:05.680 you should try a different strategy if
+00:43:07.040 you don't know whether the actual
+00:43:08.000 strategy is the problem or whether
+00:43:09.040 you're the problem. So you have to
+00:43:10.640 validate it, your ability to follow that
+00:43:12.880 plan, which is what I use my personal
+00:43:14.160 operating system for. And then finally,
+00:43:16.400 devian, right? I can control myself. I'm
+00:43:19.599 not perfect. I'm not a robot. Sometimes
+00:43:21.280 I make mistakes, but it's about becoming
+00:43:23.520 as efficient as possible. I'm able to
+00:43:25.520 control myself because I just understand
+00:43:27.280 my edge. I understand my numbers. I
+00:43:29.119 understand my data. I understand the
+00:43:31.200 likely scenario of if I take a 100
+00:43:33.200 trades that I'm going to be profitable.
+00:43:34.560 So I don't mind if I lose three trades
+00:43:36.079 in a row. I don't avoid the fourth
+00:43:37.839 trade. I also equally don't double up on
+00:43:40.480 the fourth trade because I have the
+00:43:41.760 gamblers gamblers fallacy that the next
+00:43:44.400 trade should make money. That's not how
+00:43:46.319 it works either, which a lot of traders
+00:43:47.760 do. I just understand I take each trade
+00:43:50.079 as it comes and I take it according to
+00:43:52.240 my system and I do my very best. My
+00:43:55.040 definition of success is my ability to
+00:43:58.240 follow my process. It's not about how
+00:44:00.880 much money I make. It's not about how
+00:44:02.240 many Lambos I buy. It's not about how
+00:44:04.160 much money in the bank. It's about my
+00:44:07.520 obsession with mastery. That's the
+00:44:10.240 reality. And if you can get to that
+00:44:12.160 level, then it's impossible that you
+00:44:15.200 won't make a boatload of money. It's
+00:44:17.040 impossible you won't achieve the freedom
+00:44:18.400 that you want to achieve. But in order
+00:44:19.760 to do that, please, please, please
+00:44:21.760 figure out how to validate your system.
+00:44:23.599 Figure out how to validate yourself and
+00:44:25.599 figure out how to get beyond deviants
+00:44:27.280 because if you don't, you're never going
+00:44:28.560 to achieve the level of success. And
+00:44:30.319 again, if you would like my help and my
+00:44:32.079 team's help in doing this, in setting
+00:44:34.480 this up, in guiding you, walking you
+00:44:36.160 through it, in the link in the
+00:44:37.680 description, I'll leave an application.
+00:44:39.599 You can book a call, speak to one of my
+00:44:41.119 team, and we'll hold your hand through
+00:44:42.800 this entire process. Or feel free, go
+00:44:45.359 and try and figure it out yourself. But
+00:44:47.359 hopefully you enjoyed, you took the
+00:44:49.040 value and get out of that trap.

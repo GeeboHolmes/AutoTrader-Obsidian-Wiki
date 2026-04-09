@@ -1,0 +1,748 @@
+# tactiq.io free youtube transcript
+# Market Structure Made Simple - The ONLY Video you Need
+# https://www.youtube.com/watch/Gt30tmzihks
+
+00:00:00.080 almost all traders fail because of one
+00:00:02.960 huge mistake how many times have you
+00:00:05.359 placed a trade everything looks perfect
+00:00:07.600 look like a great setup only to watch
+00:00:10.000 price fly straight through your stop
+00:00:11.920 loss in the opposite direction only to
+00:00:14.160 leave you feeling lost confused and
+00:00:16.560 wondering how that even happened 90% of
+00:00:19.279 the time this happens because you're on
+00:00:21.279 the wrong side of the market you're
+00:00:23.039 expecting that price will trade higher
+00:00:25.199 but actually the truth that it was going
+00:00:27.199 to trade lower was staring at you
+00:00:29.439 straight in your face but you just
+00:00:31.279 couldn't see it what you need is a
+00:00:33.280 framework a proven step-by-step process
+00:00:36.320 that can tell you exactly what direction
+00:00:39.200 the market is most likely to trade in
+00:00:41.200 and in this video that is exactly what
+00:00:43.120 I'll be sharing with you i'll share the
+00:00:44.960 most important things that you need to
+00:00:46.719 know to make sure that you're on the
+00:00:48.480 right side of the market more often than
+00:00:50.399 not at the end of this video I'm
+00:00:52.079 actually going to be breaking down this
+00:00:53.760 step-by-step trade breakdown of the
+00:00:55.680 trade that I took a couple of days ago
+00:00:57.440 now that netted me just under $6,000 and
+00:01:01.359 most importantly why what I'm going to
+00:01:03.920 be sharing with you today is actually
+00:01:05.680 the main reason that I was able to take
+00:01:07.760 this trade so let's go and get into how
+00:01:10.400 to understand directional bias let me
+00:01:12.560 ask you a question if this is the chart
+00:01:14.080 that you were looking at would you be
+00:01:16.000 interested in buying so going long and
+00:01:18.159 expecting price to trade higher or would
+00:01:20.000 you be looking at selling expecting
+00:01:22.320 price to go lower or how about now if
+00:01:24.720 this was your chart would you be looking
+00:01:26.640 to buy and go long or would you be
+00:01:29.520 looking to sell and go short or maybe
+00:01:32.000 how about now would you be looking to go
+00:01:33.520 long or would you be looking to go short
+00:01:35.439 if you answered anything other than I
+00:01:38.320 don't know because I need more
+00:01:40.079 understanding of what's really going on
+00:01:42.079 then I can almost guarantee that you
+00:01:44.320 aren't a consistently profitable trader
+00:01:46.159 because the truth is you can know all
+00:01:48.000 the concepts in the world you can know
+00:01:49.759 about order blocks and fair value gaps
+00:01:51.840 or indicators chart patterns whatever it
+00:01:54.320 may be you can know it all but if you
+00:01:56.799 don't have a repeatable systematic
+00:02:00.240 rule-based plan on exactly how you
+00:02:02.880 define whether you should be trading
+00:02:04.799 higher or whether you should be trading
+00:02:06.479 lower the reality is is everything else
+00:02:08.878 is useless at that point you're just
+00:02:10.800 gambling because every day that you come
+00:02:12.879 into the market the first question that
+00:02:15.520 you have to understand is should I be
+00:02:17.680 looking at higher prices or should I be
+00:02:19.520 looking at lower prices and the only way
+00:02:21.920 to get that clearly is market structure
+00:02:24.640 and what most people do is they gamble
+00:02:26.560 and they guess one day they can look at
+00:02:28.959 something and they'll think that price
+00:02:30.560 will go lower a week later they could
+00:02:32.800 see that same or similar chart with
+00:02:35.040 everything how it was before and maybe
+00:02:36.959 they think that it's going to go higher
+00:02:39.120 and this randomness causes inconsistency
+00:02:42.160 in your results so you can know all the
+00:02:44.480 fancy gimmicks but the most valuable and
+00:02:47.040 most important piece of anything is your
+00:02:50.080 market structure and more importantly a
+00:02:52.560 proven systematic and repeatable system
+00:02:56.000 that enables you to know whether you
+00:02:58.319 should be long or whether you should be
+00:03:00.080 short and not coming here and trying to
+00:03:02.000 guess whether it's bullish or whether
+00:03:04.080 it's bearish which is what 90% of people
+00:03:06.319 do whether they know it or not i'm
+00:03:07.920 telling you this is something that I've
+00:03:09.599 struggled with immensely when I started
+00:03:11.680 trading i mean I've been trading for
+00:03:13.360 over 5 years now and I really became
+00:03:16.080 consistently profitable when I built a
+00:03:18.560 rule-based process for how I read market
+00:03:21.519 structure i tested thousands and
+00:03:23.360 thousands of trades so many different
+00:03:26.000 ideas and that's what it actually
+00:03:27.680 requires to get a statistical edge over
+00:03:31.120 understanding when we go higher or when
+00:03:33.120 we go lower so the truth is if you don't
+00:03:35.040 have that and if every day you get to
+00:03:36.959 the market and you have to guess whether
+00:03:38.640 we're going higher because your rules
+00:03:40.480 don't tell you so or you have some rules
+00:03:42.959 but they're not really consistent
+00:03:44.640 they're not objective then the reality
+00:03:46.640 is is that your results will be
+00:03:48.959 incredibly inconsistent when I get to
+00:03:51.120 the markets in the morning the first
+00:03:52.720 question I ask is are we bullish or
+00:03:54.239 bearish am I looking for longs or shorts
+00:03:56.000 and I don't answer that question my
+00:03:57.760 rules answer that question for me and
+00:03:59.519 that is why I'm able to achieve the
+00:04:01.439 consistency of success this is also
+00:04:03.519 exactly what I share to my clients
+00:04:05.200 inside of Prosperity School i share this
+00:04:07.040 step-by-step frameworks plans proven
+00:04:10.159 systems that enable them to remove the
+00:04:12.319 guesswork from their trading remove the
+00:04:14.799 randomness remove the inconsistency and
+00:04:17.358 let their rules and objectivity and most
+00:04:20.000 importantly proven data handle their
+00:04:22.880 decision-m for them because the truth is
+00:04:25.040 as humans we aren't great traders but we
+00:04:28.000 are able to build systems and our
+00:04:30.080 systems if they've been built properly
+00:04:32.400 with data they'll be able to do the work
+00:04:34.240 for us and then our job is just to
+00:04:36.479 follow the rules so if you're coming to
+00:04:37.759 the market every single day and you're
+00:04:39.440 guessing and hoping and wishing and
+00:04:41.520 praying on market direction and entries
+00:04:44.160 and exits and all of these things you've
+00:04:46.160 got it all wrong and you're watching
+00:04:47.680 YouTube videos consistently hoping that
+00:04:50.400 you'll find the magic system or the
+00:04:51.919 magic edge when in reality is you've got
+00:04:54.320 your entire framework of thinking wrong
+00:04:56.720 so let's walk through this trade that I
+00:04:59.520 took which is right in here this long
+00:05:01.360 position that netted me just under
+00:05:03.280 $6,000 in a couple of hours and give you
+00:05:05.199 the framework as to how I knew with a
+00:05:08.160 probable edge that the market would do
+00:05:10.320 this if you look at the market and you
+00:05:12.000 zoom out we're on the 15-minut time
+00:05:13.520 frame here on Euro Dollar now if we go
+00:05:15.840 to the 4hour time frame which again is
+00:05:18.240 important you need to have multiple time
+00:05:20.639 frame analysis to be able to understand
+00:05:22.240 on what's going on on one time frame you
+00:05:24.560 need to understand how it relates to
+00:05:26.080 another so we're here now on the 4hour
+00:05:27.919 time frame many people see this right
+00:05:30.080 and they see that price is bullish now I
+00:05:32.160 also see that price is bullish but
+00:05:33.840 here's where it gets interesting if this
+00:05:35.759 was to happen right if we was to break
+00:05:39.039 this low down here for me we turn
+00:05:42.400 bearish because that's what my rules say
+00:05:44.639 there is a specific framework that
+00:05:46.720 occurs inside of this pullback that
+00:05:48.880 tells me that this is now the new swing
+00:05:50.800 structure so whilst most people look at
+00:05:53.360 this and this is their low and this is
+00:05:55.280 their high for me no the low is here and
+00:05:57.919 the high is here and actually this high
+00:06:00.320 and this low don't count so this isn't a
+00:06:03.199 pullback this isn't a high and yet this
+00:06:06.000 is a high and this is a low and this is
+00:06:07.840 a high because my rules tell me so
+00:06:10.000 because this is the exact system that
+00:06:12.319 I've developed over the past 5 years
+00:06:14.479 with thousands of trades testing
+00:06:16.319 multiple hypothesises this is what has
+00:06:18.720 worked for me 4 hours bullish we're
+00:06:20.880 inside of the discount now what is
+00:06:24.720 premium and discount very simply put
+00:06:26.319 market structure moves like this at all
+00:06:28.639 times you have a premium and a discount
+00:06:30.639 so you can take the fib if you're
+00:06:31.919 bullish you can map it out from the low
+00:06:33.199 to the high and anything that is below
+00:06:36.560 50% so in here that is discount anything
+00:06:40.560 that is above 50% is a premium it's a
+00:06:43.759 very simple concept imagine for example
+00:06:45.840 you wanted to buy something would you
+00:06:47.680 rather buy something at a premium
+00:06:49.440 meaning more expensive or would you
+00:06:51.680 rather buy something at a discount
+00:06:53.759 meaning less expensive the likelihood is
+00:06:55.680 is you would rather get a discount and
+00:06:57.520 really that's how the entire market
+00:06:59.440 looks at price so buyers want to be
+00:07:02.720 buying at a discount and sellers sellers
+00:07:05.440 want to be selling in a premium so when
+00:07:07.599 price reaches past old highs and
+00:07:10.639 continue trading higher now we're in
+00:07:12.560 premium pricing territory this is where
+00:07:14.720 sellers are most likely to step in the
+00:07:16.319 market because they know that they are
+00:07:17.840 selling price at a premium price hasn't
+00:07:20.319 even come to this level in a very long
+00:07:23.039 time so we know that we're at a premium
+00:07:24.880 so at this point we know that there are
+00:07:26.080 likely to be more sellers than there are
+00:07:28.160 buyers now the moment that we get into
+00:07:30.160 this 50% right below the 50% which if we
+00:07:33.280 take that and have a look and our charts
+00:07:36.000 from this low to this high the moment
+00:07:38.400 that we get below this 50% we are
+00:07:40.479 essentially good this is the area that
+00:07:42.639 you ideally most of the time want to be
+00:07:44.639 longing so we are inside of a bullish
+00:07:47.360 4hour time frame on the 15minut time
+00:07:49.759 frame this is how price looks you can
+00:07:52.080 see here that price was bullish so we
+00:07:55.759 essentially put in these legs we had a
+00:07:57.199 rangebound price delivery we had a new
+00:07:59.199 high a pullback and then a new high
+00:08:01.199 again my edge tells me this here isn't a
+00:08:04.400 high it doesn't meet my criteria for a
+00:08:06.639 pullback i need to see multiple candles
+00:08:08.800 inside of my pullback so this is my
+00:08:10.639 swing high this is my swing low and this
+00:08:13.520 is my swing high for the 50-minut time
+00:08:15.599 frame so if we come back just before we
+00:08:18.479 were looking at taking this trade at
+00:08:20.240 London session open 2 a.m est this is
+00:08:22.400 how the market looked we are bullish on
+00:08:24.800 the 50-minut time frame so my job when
+00:08:27.120 I'm coming into the markets in the
+00:08:28.319 morning is to understand what is the
+00:08:30.319 objective of the day and most of the
+00:08:32.080 time the objective of the day is
+00:08:33.919 primarily based off of structure with a
+00:08:36.320 couple of little pieces inside of that
+00:08:38.958 so what I want to identify is my
+00:08:41.200 structural leg well I've already done
+00:08:42.799 that i have my swing low down here and I
+00:08:45.279 have my swing lay up here as an intraday
+00:08:47.360 trader meaning I'm primarily focused on
+00:08:50.560 one to two sessions per day given you
+00:08:53.040 know 3 hours in each session those are
+00:08:55.760 my windows of opportunity so what I need
+00:08:57.839 to do is I need to identify what is the
+00:09:00.160 likely move of that session so when I'm
+00:09:02.720 coming into the markets I have a low
+00:09:04.480 down here I have a high up here i'm
+00:09:06.320 coming into the market in the morning
+00:09:08.000 already biased to go long we have our
+00:09:10.240 swing low we have our swing high and
+00:09:11.920 where are we if we take our low down
+00:09:14.000 here we take our high up here we're
+00:09:16.480 already below the 50% so anything below
+00:09:18.800 here is inside of the discount this to
+00:09:21.839 me is liquidity so we have equal lows
+00:09:25.200 right liquidity is also a very important
+00:09:27.120 thing less important than market
+00:09:28.880 structure but once you have market
+00:09:30.959 structure it becomes extremely important
+00:09:32.800 liquidity alone without the
+00:09:34.160 understanding of true market structure
+00:09:35.519 is useless but we have liquidity here so
+00:09:38.720 I know that I shouldn't be buying before
+00:09:41.120 we've taken out this liquidity so I know
+00:09:43.040 I need to buy underneath this liquidity
+00:09:45.600 well now I need to identify an area of
+00:09:47.120 interest so we have a very clean order
+00:09:49.200 block in here right an area of demand
+00:09:51.120 why is this an area of demand well what
+00:09:53.120 you want to look for when identifying
+00:09:54.800 supply and demand is when price goes
+00:09:57.200 bullish like this you have aggressive
+00:09:58.959 bullish move to the upside what you will
+00:10:01.519 usually see before we get that is this
+00:10:03.760 here which is a seller so sometimes it
+00:10:06.560 looks like this where you have a push up
+00:10:08.880 a push down past an old low and then
+00:10:11.440 aggressive run up giving you a break of
+00:10:13.279 structure well if you look at price here
+00:10:14.800 you'll see that price was come down we
+00:10:17.040 pushed up we come down we pushed up we
+00:10:20.000 come down and then we go up aggressively
+00:10:22.240 especially in small trading ranges is
+00:10:24.160 you want to be looking for the sell to
+00:10:25.920 buy the order block here this takes the
+00:10:28.720 liquidity of the old low so we have a
+00:10:30.800 really nice liquidation of price in here
+00:10:32.560 and it gives us a break of structure
+00:10:35.120 this is the area I'm interested in most
+00:10:37.200 people are looking at this area and this
+00:10:39.680 is where they go wrong most people look
+00:10:41.519 and they think that no this is the high
+00:10:44.480 this is the low and this is the high and
+00:10:46.720 therefore we're bullish from here and
+00:10:48.560 therefore I expect price to go long from
+00:10:51.120 here and they see a beautiful order
+00:10:53.920 block in here right the sell before the
+00:10:55.839 momentum and this is the area that they
+00:10:57.760 want to use and then London session
+00:10:59.839 opens and now look how London session is
+00:11:01.760 opening london session is opening with
+00:11:03.600 bullish price movement so what do you
+00:11:05.680 think everybody who looks at the market
+00:11:07.760 as it's bullish from here and we're
+00:11:09.760 bullish from here is looking at in this
+00:11:12.079 moment even a lot of smart money traders
+00:11:14.399 we've had a nice manipulation of Asia
+00:11:16.240 session low we've had a nice internal
+00:11:18.320 market structure shift so many traders
+00:11:20.320 are looking at this as a buying
+00:11:21.839 opportunity but my market structure
+00:11:23.519 rules tell me that this isn't a pullback
+00:11:26.240 right it's rulebased it's not subjective
+00:11:28.800 it's not random it's following specific
+00:11:31.600 set of guidelines that tell me that
+00:11:33.600 we're bullish from here not from here so
+00:11:36.640 as London session opens I'm looking for
+00:11:38.880 a manipulation of these lows into this
+00:11:41.360 area of price manipulation into here
+00:11:43.760 lower time frame shift and then trade
+00:11:45.680 longer that is my game plan that is
+00:11:47.519 exactly what I was looking for in fact
+00:11:49.279 I'll even just play a short clip of me
+00:11:52.000 live forecasting this exact piece of
+00:11:54.160 price to my members just before it
+00:11:56.480 happened if we could take a sell side
+00:11:58.560 first into here and we have the buy side
+00:12:00.720 still to take it increases the
+00:12:02.800 likelihood in my eyes that we end up
+00:12:04.560 targeting that area and so for me that's
+00:12:07.200 kind of what I want to be getting
+00:12:08.399 involved in and that is ultimately what
+00:12:10.320 I do share to my clients inside of
+00:12:12.000 Prosperate School i give them the rules
+00:12:14.399 the frameworks the systems step-by-step
+00:12:16.800 processes on exactly what to do and how
+00:12:19.120 to do it and then daily I give these
+00:12:21.200 outlooks because I walk my talk i give
+00:12:23.920 the outlooks on exactly what I'm looking
+00:12:25.839 at today in price according to my rules
+00:12:28.160 i see so many traders that struggle to
+00:12:30.720 achieve consistency and even
+00:12:32.639 profitability in general because they
+00:12:34.880 don't trade rule-based they trade random
+00:12:37.600 they're guessing they're emotional and
+00:12:39.839 most of the emotions come because you
+00:12:42.320 don't have certainty you don't have
+00:12:44.240 confidence you don't have clarity you
+00:12:45.839 don't know what to expect and so that is
+00:12:48.560 ultimately what I help my clients inside
+00:12:50.000 a prosperity school overcome it's the
+00:12:51.839 lack of clarity so by giving them a
+00:12:53.600 framework giving them a step-by-step
+00:12:55.200 process a blueprint on exactly how to
+00:12:57.440 read the market to have an edge that
+00:12:59.920 leads to consistent profitability and
+00:13:01.839 ultimately when you have that then
+00:13:03.760 trading becomes a lot easier no longer
+00:13:06.160 do you have so much emotion because now
+00:13:08.720 you're trading through clarity you know
+00:13:10.800 what you're looking at you know why
+00:13:12.000 you're looking at it you have the data
+00:13:13.279 to tell you that it works so you don't
+00:13:15.600 need to guess and worry and take random
+00:13:18.240 action when you're inside of a trade
+00:13:20.079 because you have the information you
+00:13:21.600 know the likelihood of this playing out
+00:13:22.959 and so that allows you to be less
+00:13:24.800 emotional less guessing and most
+00:13:26.800 importantly that is consistency now if
+00:13:29.120 you would like to work with myself and
+00:13:31.839 closely with my team so that we can give
+00:13:33.600 you our step-by-step processes and
+00:13:35.600 systems and rules you can book a call
+00:13:37.360 with one of our team members to see
+00:13:38.800 whether or not we could possibly help
+00:13:40.880 you in your current situation by giving
+00:13:43.440 you the frameworks the tools the systems
+00:13:46.079 the processes and the rules to enable
+00:13:48.079 you to trade consistently so if that
+00:13:49.600 sounds like something you're interested
+00:13:50.720 in you can go ahead and book that call
+00:13:52.399 down below after I give this to the
+00:13:54.320 Prosperity School clients once price
+00:13:56.880 lands inside of this level my job now is
+00:14:00.959 precision the reason that I don't just
+00:14:02.639 long from this specific area in here for
+00:14:05.360 one reason you know sometimes it can
+00:14:07.199 give you lower risk rewards so I ended
+00:14:09.360 up taking a decent amount of my position
+00:14:10.959 off around this level and some of the
+00:14:13.440 position off around this level now
+00:14:15.600 sometimes it can give you a higher
+00:14:16.880 riskreward to do what I'm about to show
+00:14:18.399 you but the most important part is the
+00:14:20.399 confirmation think about it if you
+00:14:22.079 needed to make a decision and you have
+00:14:23.600 two choices you have option A and you
+00:14:25.519 have option B now with option A they
+00:14:27.920 tell you that this could work and option
+00:14:30.880 B tells you that this not only could
+00:14:33.120 work but it's very likely that it will
+00:14:35.760 work what option would you choose you
+00:14:38.079 would likely go with option B because
+00:14:40.000 there's more certainty behind it well
+00:14:42.160 that's exactly why I use lower time
+00:14:44.160 frame confirmations so when we get into
+00:14:46.399 this area that I think will hold price
+00:14:49.120 there's a good chance that it will but
+00:14:51.120 when we get in there to confirm it to
+00:14:53.600 get more clarity I can go to a 1 minute
+00:14:56.480 time frame and then when we're in the 1
+00:14:58.079 minute time frame inside of here right
+00:15:00.399 we take it just a little bit back before
+00:15:02.079 we get into this level you'll see that
+00:15:04.160 as price is coming down the 1 minute
+00:15:06.560 time frame looks extremely extremely
+00:15:08.480 bearish and so it looks like I'm buying
+00:15:10.480 a falling knife now instead of just
+00:15:13.120 buying on here and hoping that this
+00:15:15.120 price holds I can wait for the
+00:15:17.199 confirmation that this price is likely
+00:15:19.920 to hold and the way that I can do that
+00:15:21.360 is when we get into here we drop down to
+00:15:23.360 our 1 minute time frame and then we see
+00:15:25.360 how price reacts so we want to see
+00:15:27.920 basically a slowdown of volume so what
+00:15:30.880 you can see is that price is
+00:15:32.320 aggressively coming into this area what
+00:15:34.399 I want to see is I want to see a little
+00:15:36.079 bit of a stagnation this shows me
+00:15:38.160 absorption this shows me that people
+00:15:39.920 that are coming into the market in
+00:15:41.360 London open there's a lot of aggressive
+00:15:43.040 selling momentum the people that are
+00:15:44.880 supposed to be controlling price from
+00:15:46.399 here right smart money large money big
+00:15:48.639 money that are supposed to be protecting
+00:15:50.320 this area of price i want to see them
+00:15:52.160 step back into the market and regain
+00:15:54.160 control what they'll have to do to do
+00:15:55.600 that is defend it so when price comes
+00:15:57.519 into here and the sellers are trying to
+00:16:00.079 push price lower what buyers have to do
+00:16:02.399 is they have to absorb those orders and
+00:16:04.480 so for every time that a seller tries to
+00:16:07.199 sell a $und00 million worth of Euro
+00:16:09.519 dollar the buy side of the market has to
+00:16:11.600 buy those hund00 million worth of orders
+00:16:13.759 so that price starts moving sideways and
+00:16:15.759 this is kind of what we perceive to be
+00:16:17.440 fair value so I want to see price start
+00:16:20.079 accepting this area and then when it
+00:16:22.399 accepts this area I want to see sellers
+00:16:24.399 stop trying to attack this price and
+00:16:26.959 then allow buyers to take price back up
+00:16:29.040 in the direction and so what that looks
+00:16:30.720 like objectively is that we'll start
+00:16:33.040 ranging and then we will advance out and
+00:16:36.160 then I want to see confirmation usually
+00:16:38.079 I'll use my specific method on how I get
+00:16:41.120 in with a certain criteria on what is
+00:16:44.480 deemed a high and a low but I also have
+00:16:46.320 a rule that if that is not available
+00:16:49.519 close to my entry then I can do X again
+00:16:53.440 everything is rule-based it's objective
+00:16:55.360 it's systematic my usual rules I would
+00:16:58.959 have to see this high get broken for it
+00:17:01.120 to be a confirmation but I have the rule
+00:17:03.600 that if it doesn't make logical sense to
+00:17:06.480 have to wait that long then go for an
+00:17:09.760 alternative and the alternative is
+00:17:11.679 always a market structure shift so a
+00:17:13.599 market structure shift would be when
+00:17:15.839 price comes down and puts this low and
+00:17:18.079 then has a bullish reaction and then
+00:17:19.839 puts in a new low well that right there
+00:17:22.160 would be my fractal right that would be
+00:17:24.640 my market structure shift if we break
+00:17:26.319 this high I would get a bullish market
+00:17:28.640 structure shift and if we break this
+00:17:30.240 high I would get an official change of
+00:17:32.640 character they are two different things
+00:17:34.799 defined by two different rules so if I
+00:17:37.919 get the break of this high then I can
+00:17:40.400 enter and so that's what I'm doing and
+00:17:42.480 you can see that price slowly stagnates
+00:17:45.600 we have you know sellers try to push
+00:17:47.120 price off buyers step back in sellers
+00:17:49.360 try to push price back down buyers are
+00:17:51.039 absorbing it so this right here is
+00:17:52.799 called acceptance so when we see this
+00:17:54.799 absorption eventually what will happen
+00:17:56.880 is as price stagnates going sideways
+00:17:59.200 like this sellers will realize that they
+00:18:01.760 aren't having the effect that they want
+00:18:03.440 to have and so they will stop selling at
+00:18:05.280 this price point they will know inside
+00:18:07.039 of the order book that there are buyers
+00:18:09.039 willing to protect this price and so it
+00:18:11.039 no longer makes sense for them to fight
+00:18:12.720 this war and so they're happy to step
+00:18:14.240 out close their positions as soon as
+00:18:15.679 possible and wait for a different
+00:18:17.200 opportunity at that point when those
+00:18:18.960 sellers step out it requires less buying
+00:18:21.200 activity to push price higher and so
+00:18:23.120 then I want to see the overpower i want
+00:18:25.520 to see buyers overpower sellers and that
+00:18:28.000 right there is exactly that so when
+00:18:30.240 price comes into my area I see
+00:18:32.080 stagnation and then I see confirmation
+00:18:34.000 of a reversal what that does for me is
+00:18:36.559 that that confirms that this is the area
+00:18:39.200 that I want to work with if I go back to
+00:18:41.039 the 15-minut time frame and I look at it
+00:18:43.360 now it's still the same thing low to
+00:18:45.960 high but now we've confirmed that this
+00:18:49.280 area right here is the area that I want
+00:18:51.600 to be working with and so now I have a
+00:18:53.520 higher chance of this trade playing out
+00:18:55.360 in my favor as opposed to just trying to
+00:18:57.120 buy here and put my stop loss here
+00:18:58.720 because sometimes price likes to change
+00:19:00.880 character it happens that is why rules
+00:19:03.600 and systems are so important to make
+00:19:05.919 your decisions for you so now I have my
+00:19:08.720 confirmation we're bullish that's my
+00:19:10.720 bias that's what tells me what I should
+00:19:12.240 do today then I have my liquidity which
+00:19:15.280 tells me where I should avoid getting in
+00:19:17.520 i have my order block which tells me
+00:19:19.120 where I should get in so now I have a
+00:19:20.799 full picture i know that I should long
+00:19:23.039 okay now I know I should long the next
+00:19:24.960 obvious question is where do I long from
+00:19:27.440 well to find out where I should long
+00:19:28.720 from I should first figure out where I
+00:19:30.320 shouldn't long from right charlie Munger
+00:19:31.840 inverted thinking so then I asked myself
+00:19:33.600 well where wouldn't I long from well I
+00:19:35.440 wouldn't long above this low because of
+00:19:37.760 this liquidity great therefore I would
+00:19:39.919 long below it okay what else well I
+00:19:42.880 would like to see an order block okay
+00:19:44.960 order block great what else well that's
+00:19:47.200 everything so now I have I should
+00:19:49.640 long and I should long from here this is
+00:19:53.120 the sequence of thinking it's all
+00:19:55.039 obvious logic flows i should long I
+00:19:57.760 should long from here then what when
+00:19:59.600 should I long that's my confirmation
+00:20:01.840 well we've just seen that in the lower
+00:20:04.080 time frame so now I should long okay I
+00:20:07.360 should long i know where I should long
+00:20:08.799 from now is the time to long where do I
+00:20:11.600 long to when do I get out of this trade
+00:20:13.840 do I get out here here here here here
+00:20:17.760 here right where do I get out of this
+00:20:20.000 position well for me on this specific
+00:20:21.600 day you can see it's Wednesday 12th of
+00:20:23.520 March later in New York session we have
+00:20:25.440 inflation we have CPI which is a very
+00:20:27.679 volatile news event so I need to be sure
+00:20:31.200 that I'm not swinging for the fences
+00:20:33.280 this is the problem so many traders will
+00:20:35.120 get into a trade and then they'll try to
+00:20:36.559 hold it for a one to 100 risk-to-reward
+00:20:38.799 trade and then they just watch price
+00:20:40.240 come all the way back down to them you
+00:20:41.919 have to understand what's going on i
+00:20:43.120 know that in a few hours we're going to
+00:20:44.400 have a CPI data release i don't want to
+00:20:46.559 be in the market when that happens so
+00:20:48.240 what I want to do is identify okay
+00:20:50.240 where's price going to go now if there
+00:20:51.840 was no CPI I would be expecting that
+00:20:53.760 price will trade into this high up here
+00:20:55.520 that would be my expectation but because
+00:20:57.360 there is CPI well I don't know if price
+00:20:59.919 is going to have enough time to get
+00:21:01.280 there and given that it's CPI we may
+00:21:04.400 expect that New York may be more
+00:21:06.039 consolidative why because people don't
+00:21:08.080 want to risk when CPI is coming out they
+00:21:10.159 would rather wait for it and then act so
+00:21:12.159 I'm taking all of this information in
+00:21:13.840 and it's all part of my system it's my
+00:21:16.159 process i don't even have to think these
+00:21:17.520 things my system does it for me and so
+00:21:19.600 now I have to understand where should I
+00:21:21.120 long and so what I'm going to do is I'm
+00:21:23.039 going to long into obvious areas of
+00:21:24.640 liquidity if you've heard me talk about
+00:21:26.240 liquidity before you'll know that trend
+00:21:28.799 lines and Asia high are my two favorite
+00:21:32.159 areas of liquidity so we have a trend
+00:21:34.080 line forming across here we have Asia
+00:21:35.840 high forming across here and we also
+00:21:38.559 have this fair value gap i won't go too
+00:21:40.799 into detail today about fair value gaps
+00:21:42.880 because I don't want to give you too
+00:21:43.840 much to kind of overwhelm you but we
+00:21:45.360 have a fair value gap here and a fair
+00:21:46.640 value gap is important because it shows
+00:21:48.320 market imbalance it shows inefficiency
+00:21:50.240 and so these are areas where price is
+00:21:52.080 likely to retrace to at some point in
+00:21:54.159 time so now I have my understanding of
+00:21:56.880 where price should target i know what
+00:21:59.039 direction I want to trade in i know
+00:22:00.559 where from I want to trade i know when I
+00:22:02.960 want to trade and now I know where to
+00:22:04.960 and so now my trade idea is complete and
+00:22:07.440 I haven't had to think about any of this
+00:22:09.280 because my system does it all for me i
+00:22:11.760 just have to wait and look at price and
+00:22:13.360 go yes this has happened cool and then
+00:22:16.559 that's happened great and now this is
+00:22:18.400 happening awesome and so now I'm going
+00:22:20.159 to do this and so now we've got this i
+00:22:22.080 need to find an area to enter and so
+00:22:23.679 where do I want to look at entering i
+00:22:25.200 want to look at entering from a order
+00:22:27.840 block or FI gap so 5 minute doesn't
+00:22:29.919 really have anything for me although I
+00:22:31.919 could have probably gotten in this order
+00:22:33.440 block in here i didn't the 3minut time
+00:22:35.760 frame doesn't really have anything for
+00:22:37.440 me at this moment in time but 1 minute
+00:22:40.080 time frame right this is also just
+00:22:41.440 before we get there because price comes
+00:22:43.120 back down 1 minute time frame what do we
+00:22:45.039 have we have the range and the shift we
+00:22:47.679 have the last sell before the buy and so
+00:22:50.240 logically I'm just going to indicate
+00:22:52.000 that I'm going to use this entire range
+00:22:54.960 right this is the range that I want to
+00:22:56.720 use why because we have the sell the
+00:22:59.919 range and the aggressive move out i just
+00:23:02.480 want price to retrace back into the
+00:23:05.360 aggressive right as price trades out of
+00:23:08.080 this level it trades back in collects
+00:23:10.000 new liquidity trades out collects new
+00:23:12.000 liquidity trades in collects new
+00:23:13.520 liquidity that is why the market forms
+00:23:15.120 like this and so I just want to get back
+00:23:16.960 in after the confirmation and so my
+00:23:19.600 longs go in here my stops go below the
+00:23:23.120 lows in here and now I'm looking for my
+00:23:25.600 targets and so my target or where I want
+00:23:28.880 to be looking for is up in these highs
+00:23:31.520 in here i think I had a little bit of a
+00:23:32.880 larger stop just to make sure that I got
+00:23:34.480 into the position so the targets I want
+00:23:36.000 to be looking for are inside of these
+00:23:39.039 Asia session highs and also we can look
+00:23:42.559 at the Asia session highs we can also
+00:23:45.760 look at the fair value gap up in here
+00:23:48.320 that is the overall trade idea and so
+00:23:50.480 now in the 1 minute time frame we just
+00:23:52.400 wait for price to react we wait for
+00:23:55.120 price to give us what we need and so if
+00:23:56.960 you play price you'll see that
+00:23:58.159 immediately I get tagged in to the
+00:24:00.000 position we have a little bit of a nice
+00:24:02.280 reaction price breaks the high but we
+00:24:04.480 still have open areas of
+00:24:06.840 demand price comes back in and price
+00:24:08.960 goes right these are the natural es and
+00:24:10.720 flows of price price then comes back
+00:24:13.799 in expands back
+00:24:17.880 out and then somewhere around here my
+00:24:21.279 first level of takeprofit you can see
+00:24:24.080 here my first takeprofit gets hit
+00:24:26.000 somewhere in this region so just before
+00:24:28.320 price absolutely reversed I got out at
+00:24:30.320 the top of this move then we have this
+00:24:32.640 aggressive
+00:24:33.880 pullback right but not before an
+00:24:36.919 aggressive reaccumulation and then as we
+00:24:39.360 broke the high a little bit more of my
+00:24:40.640 position comes off and then we trade
+00:24:42.559 perfectly into this fair value gap and
+00:24:44.640 then I kept on a very small amount of my
+00:24:47.039 position as you can see here right a
+00:24:49.120 small amount of my position was kept
+00:24:50.960 open why because of the anticipation
+00:24:54.159 that it's possible that CPI may want to
+00:24:56.799 take us higher so maybe we were able to
+00:24:59.679 reach for this high because this is the
+00:25:01.120 logical next step for structure so maybe
+00:25:03.840 if we trade up into this level it would
+00:25:05.679 add a nice higher average risk-reward
+00:25:08.000 that was a bet that I was willing to
+00:25:09.520 take and it was just a very small amount
+00:25:11.120 of my position and then from there that
+00:25:12.880 pretty much didn't play out we had that
+00:25:14.799 reaction and then this is where I got
+00:25:16.960 taken out the rest of my position right
+00:25:18.240 as New York opened I wanted to secure
+00:25:19.840 myself i didn't want to get any slippage
+00:25:21.200 in CPI or anything like that and then
+00:25:24.159 CPI comes out and then price is finished
+00:25:26.880 and so at this point for me when this
+00:25:28.880 low gets broken down here now we shift
+00:25:30.960 bearish here's the next day now what we
+00:25:33.200 have is I'm coming into this day and I'm
+00:25:34.960 expecting lower prices because we've
+00:25:36.799 shift structure no longer am I expecting
+00:25:38.799 price to trade up here now I'm expecting
+00:25:40.880 price to trade down here right into this
+00:25:43.440 new low and so what I'm telling my
+00:25:45.120 clients when I come into the market in
+00:25:46.880 the morning is if London session open
+00:25:49.440 can breach above these highs right
+00:25:51.760 because very important liquidity and
+00:25:53.919 fair value gap and order blocks sit
+00:25:55.840 above them if we can get this move and
+00:25:58.240 then we can get this move then I can
+00:26:00.559 look at selling as you'll see that
+00:26:02.799 didn't end up playing out for me right
+00:26:04.960 we didn't end up getting what we needed
+00:26:06.799 to see in order to be able to get
+00:26:08.720 involved in the shorts so that's just
+00:26:12.000 the game we're not able to catch every
+00:26:14.080 single move even if we know what the
+00:26:15.440 direction is but the most important
+00:26:16.960 takeaway here knowing the direction is
+00:26:19.520 the most important thing and everything
+00:26:21.440 else comes after that if you have a
+00:26:23.760 consistent process that enables you to
+00:26:26.400 understand which direction the market
+00:26:28.159 will go nine times out of 10 then you
+00:26:30.720 can add everything else on that is the
+00:26:32.640 most important thing for your system so
+00:26:34.240 again if you want to work with me more
+00:26:36.799 intimately more directly and get access
+00:26:38.480 to all of my systems processes and plans
+00:26:42.240 then below this video I'll leave a link
+00:26:43.760 you can go book a call speak to one of
+00:26:45.600 my team members and see whether or not
+00:26:47.360 we can help you in your current
+00:26:48.480 situation

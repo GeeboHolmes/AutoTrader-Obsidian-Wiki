@@ -1,0 +1,844 @@
+# tactiq.io free youtube transcript
+# This 1 Thing Changed My Trading Forever
+# https://www.youtube.com/watch/UcCfVMCAt0w
+
+00:00:00.160 There is one killer mistake that you are
+00:00:02.960 making that is stopping you from
+00:00:05.040 becoming a consistently profitable
+00:00:06.960 trader. And in this video, I'm going to
+00:00:08.800 reveal that mistake. And I'm also going
+00:00:11.360 to be sharing with you how to actually
+00:00:13.759 solve it. And I'm just going to tell you
+00:00:15.040 straight away that the mistake is what I
+00:00:18.160 call analysis
+00:00:21.840 paralysis. Now, I know what you may be
+00:00:24.400 thinking. Oh, great. You know, I've
+00:00:26.080 heard that a hundred times. Maybe you
+00:00:27.840 have, maybe you haven't. But I'm telling
+00:00:29.920 you, the way that I'm going to be
+00:00:31.199 explaining it to you today is completely
+00:00:34.399 different to the generic analysis
+00:00:36.160 paralysis that you've probably heard
+00:00:37.760 before. Now, if I'm right in saying
+00:00:40.960 that, if you have heard of analysis
+00:00:44.160 paralysis, it's likely been that
+00:00:46.320 analysis paralysis is essentially just
+00:00:48.239 overanalyzing a chart and not being able
+00:00:51.039 to, you know, understand what's going on
+00:00:52.719 or not being able to actually be confirm
+00:00:55.440 any bias, for example. And that's a very
+00:00:57.840 very small part of it. But analysis
+00:00:59.760 paralysis is so much deeper than that.
+00:01:02.480 And so this is the actual mistake that
+00:01:04.319 you're making. But you need to actually
+00:01:06.400 understand what this is. This isn't you
+00:01:08.799 get to the markets and not knowing what
+00:01:10.720 to do. So, the best way I think for me
+00:01:13.119 to kind of share this with you and the
+00:01:15.920 reason I'm so confident that this is the
+00:01:18.479 number one mistake that you're making is
+00:01:20.000 by sharing my personal story of how I
+00:01:22.640 went from probably exactly where you are
+00:01:24.479 right now, which is kind of just
+00:01:26.000 constantly consuming YouTube videos or
+00:01:28.000 buying courses and hoping that something
+00:01:30.640 clicks, right? Maybe you already have a
+00:01:32.880 decent understanding of how to read the
+00:01:35.439 market, but you're just not able to make
+00:01:36.960 money. You're not able to consistently
+00:01:38.640 place trades. you don't have a proven
+00:01:41.200 profitable trading strategy, you're kind
+00:01:42.960 of just finding yourself, you know,
+00:01:44.560 showing up to the markets, analyzing
+00:01:46.320 price, but not really being able to
+00:01:48.479 consistently take trades and obviously
+00:01:50.399 consistently make money. And that's why
+00:01:52.079 you're on YouTube. You're on YouTube
+00:01:53.680 because you're likely just searching
+00:01:55.520 for, you know, new concepts or new
+00:01:58.399 strategies, hoping that you'll just
+00:02:00.960 stumble across one video that would just
+00:02:02.640 kind of make everything make sense, and
+00:02:04.079 then that one video will make you money.
+00:02:06.399 And I'm here to tell you uh that was the
+00:02:08.479 exact path that I was on and it didn't
+00:02:10.479 really go well. There was something that
+00:02:12.720 I realized on that journey and that's
+00:02:14.080 what I want to share with you in this
+00:02:15.200 video. And I think that when you
+00:02:17.200 understand it, it will change everything
+00:02:19.040 as it did for me. At least that's my
+00:02:20.640 hopes anyway. For me, right, I started
+00:02:22.640 trading, you know, with the same goal
+00:02:24.400 that you probably have right now, which
+00:02:25.680 is I want to make money from trading and
+00:02:27.599 I want to experience the freedom and
+00:02:29.280 that's why we all get into trading. We
+00:02:31.040 want money and we want freedom. We don't
+00:02:32.640 want to have a boss telling us what to
+00:02:33.920 do. want to be able to do what we want
+00:02:35.599 and still be able to make a lot of
+00:02:37.519 money. The thing is is we don't really
+00:02:40.000 know how to get to that goal. At least I
+00:02:42.640 didn't. You know, I thought that if I
+00:02:45.519 wanted to make money trading, then all I
+00:02:47.440 had to do was understand how to read the
+00:02:49.760 market. Right? When I first started
+00:02:51.440 trading, I was like, &quot;Okay, I want to
+00:02:52.800 make money with this thing. Okay, what
+00:02:54.160 do I need to do?&quot; Okay, well, I need to
+00:02:55.599 understand how it works. If I can read
+00:02:57.280 it, if I know where it's going to go,
+00:02:58.959 then I'll be able to make money, right?
+00:03:00.160 I'll just buy at this level and sell at
+00:03:01.440 that level or I'll sell here and then
+00:03:03.040 you know close the position here
+00:03:04.480 whatever it is. So that's what I thought
+00:03:06.800 and so like you did and maybe you
+00:03:08.720 probably are still at this point in
+00:03:10.640 time. I started with
+00:03:15.280 information.
+00:03:19.599 I would go to YouTube and I would watch
+00:03:22.080 YouTube videos and at the beginning as
+00:03:23.599 cringey as it sounds I started off with
+00:03:25.200 all these kind of lifestyle guys
+00:03:27.120 flashing their Lamborghinis promising
+00:03:29.040 you know the world and that's kind of
+00:03:30.400 what got me into it and those are the
+00:03:31.680 videos I kind of watched in the
+00:03:33.519 beginning over time I started to kind of
+00:03:36.000 you know understand that that's not
+00:03:37.519 really what's going to make you money
+00:03:38.720 you know someone else's lifestyle isn't
+00:03:40.400 going to teach me how to trade I need to
+00:03:41.920 actually understand how to read the
+00:03:43.120 markets and so then I would just
+00:03:44.720 constantly be looking for technical
+00:03:46.560 videos right how do I actually read the
+00:03:48.959 markets That was my only goal when I
+00:03:51.200 first opened the markets and I can
+00:03:52.879 imagine you was pretty much the same
+00:03:54.400 thing. You're just here and you're
+00:03:55.760 absolutely confused, right? You have
+00:03:59.040 this big audacious goal of making money
+00:04:00.959 from this financial market, but when you
+00:04:03.280 open up Trading View or whatever
+00:04:04.799 charting software you're using, it's
+00:04:07.040 like you're looking at a completely
+00:04:09.519 foreign language. And that's what it was
+00:04:10.879 like for me at least anyway. And so I
+00:04:12.959 realized that I needed information
+00:04:14.959 because I was confused. And if I had
+00:04:16.798 information, then I wouldn't be confused
+00:04:18.238 anymore. and if I'm not confused, then
+00:04:19.839 I'll make money. So, as I said, I
+00:04:21.759 started learning technical analysis and
+00:04:24.240 it was excruciatingly painful at the
+00:04:26.800 beginning. I would watch YouTube videos
+00:04:28.320 and they would make it seem so simple
+00:04:31.040 and so easy and it just made sense until
+00:04:33.680 I tried it, right? Until I actually went
+00:04:35.919 to the market myself and try to do these
+00:04:38.479 things I was seeing in these videos. And
+00:04:41.360 at that point, I realized, okay, this
+00:04:44.240 may be a little bit harder than it
+00:04:47.360 looks. may take a little bit more time,
+00:04:48.960 but that's something I was okay with.
+00:04:50.560 So, I did. I spent countless months
+00:04:54.000 every single day, 8, 10, 12 hours a day.
+00:04:57.360 I didn't have a job at the time. I was
+00:04:58.960 just all in on learning how to trade.
+00:05:01.840 And so, I did. And eventually, you know,
+00:05:04.080 I started to see a little bit of
+00:05:05.840 progress. Right? At the beginning, I
+00:05:07.840 didn't know anything, right? I was
+00:05:10.080 completely fresh. I was a complete
+00:05:12.560 beginner. I didn't understand what a pip
+00:05:15.280 was. I didn't understand what a tick
+00:05:17.280 was, what a contract was, I understood
+00:05:19.199 nothing, right? But after kind of just
+00:05:21.759 continuously showing up and putting the
+00:05:24.000 reps in and, you know, kind of just day
+00:05:25.680 by day like this and I was just, you
+00:05:28.000 know, making progress and I was starting
+00:05:31.680 to be able to see this market
+00:05:34.240 differently. And about three months into
+00:05:36.479 my journey, if I compare that with the
+00:05:39.360 beginning of the journey, I had made a
+00:05:41.360 huge change because now I was able to
+00:05:45.039 start seeing things, right? So I would
+00:05:47.520 mark some things up on the charts and
+00:05:49.199 then I would come back later and I would
+00:05:50.960 see that those things had start
+00:05:53.440 happening. Now, of course, a lot of the
+00:05:55.280 things didn't, but the fact that I was
+00:05:57.520 able to think something would happen.
+00:05:59.440 And even if once out of 10 times it
+00:06:01.680 happened, that gave me an massive
+00:06:04.240 confidence boost in essentially my
+00:06:06.160 journey. And that's kind of what kept me
+00:06:07.280 going. Those small little progresses
+00:06:09.840 that made me feel like I was developing,
+00:06:12.400 that's what kept me going. And so that's
+00:06:14.000 what I did. I just literally sponged
+00:06:17.759 countless YouTubes. I brought a bunch of
+00:06:22.400 courses.
+00:06:23.919 A lot of them not great. Some of them a
+00:06:26.479 little bit better than others. But
+00:06:27.919 eventually, I'd say probably somewhere
+00:06:30.319 around maybe the six month mark, right?
+00:06:33.680 I was finally starting to get a lot of a
+00:06:37.759 better grip on price, right? I had found
+00:06:40.639 my little kind of way that I wanted to
+00:06:42.960 read the market and I was, you know, all
+00:06:44.560 in on smart money concepts. Id forgot
+00:06:46.560 anything else that had learned prior and
+00:06:48.639 I was starting to really, you know, be
+00:06:51.280 able to see things before they happened.
+00:06:53.520 And it got to a point where I felt like,
+00:06:56.880 you know, maybe I'm ready to start going
+00:06:59.039 to make money. And I think it was a
+00:07:00.639 little bit premature of me, but I guess
+00:07:02.160 we all kind of have that, you know,
+00:07:03.680 eagerness to do such. So that's what I
+00:07:06.160 did. I purchased my first funded
+00:07:08.639 account. And again, really bad idea. I
+00:07:11.599 don't advise purchasing a funded account
+00:07:13.360 unless you're actually ready. But I
+00:07:15.360 didn't know any better. I would show up
+00:07:16.880 every single day to the markets, London
+00:07:18.960 session, New York session, and I would
+00:07:20.880 try to trade and I would get to the
+00:07:22.800 market and I would try to analyze the
+00:07:24.880 market, but I didn't have any level of
+00:07:27.680 confidence in my analysis like like such
+00:07:31.039 low level confidence in actually
+00:07:33.120 thinking that something was going to
+00:07:34.160 play out. It's completely different ball
+00:07:35.599 game when you're just marking things up
+00:07:37.199 on the charts versus now you're ready to
+00:07:39.120 really start taking trades on an
+00:07:41.199 account. Becomes a different ball game.
+00:07:42.720 And so that's when I faced my first kind
+00:07:45.440 of you know big problem with analysis
+00:07:47.599 paralysis. And the way I experienced it
+00:07:51.120 is I guess hesitation. So I would come
+00:07:53.360 to the market you know before London
+00:07:55.039 session would start and I would mark out
+00:07:56.960 all my zones and you know all my
+00:07:59.039 analysis for the day and like okay if
+00:08:00.800 this happens I'm going to try and do
+00:08:02.080 this and then price would start playing
+00:08:04.400 out. Maybe there'd be an opportunity
+00:08:06.160 where it was possible that I could get
+00:08:08.000 involved in the market right now. But
+00:08:09.520 you know the little voice in my head
+00:08:10.879 every time that happened is like just
+00:08:12.879 kind of made me hesitate. I was like I
+00:08:14.639 don't know whether I should actually
+00:08:15.680 take this trade. I mean am I seeing it
+00:08:17.440 right? Like is this actually correct? I
+00:08:18.960 would start panicking and I would start
+00:08:20.240 hesitating and what would happen is I
+00:08:22.400 would end up hesitating to the point
+00:08:25.919 right where I would maybe not take that
+00:08:29.280 trade and so I would avoid taking a
+00:08:31.599 trade and that trade then would end up
+00:08:34.880 let's say winning. Now all of a sudden
+00:08:37.279 I'm looking at it. I'm like, &quot;Well, I
+00:08:38.640 seen this opportunity. I was going to
+00:08:40.640 take the trade, but I wasn't confident.&quot;
+00:08:42.719 Which again is completely
+00:08:44.480 understandable. It is impossible to have
+00:08:47.040 any level of confidence in your trading
+00:08:48.959 if you don't have a proven profitable
+00:08:51.680 trading strategy. I should not have been
+00:08:54.560 trading a live account, either your own
+00:08:57.120 money or a prop firm like I did. You
+00:08:59.279 should not be trading that if you don't
+00:09:01.279 have an edge. I don't care what anybody
+00:09:02.880 tells you. And so I had no confidence
+00:09:04.560 because I don't have an edge, which is
+00:09:06.480 obvious now that I look at it backwards.
+00:09:08.399 But that trade, for example, would run
+00:09:10.240 into a win. And then I'd be thinking in
+00:09:11.839 my head like, oh, if I would have just
+00:09:13.040 taken that trade and I would have risked
+00:09:14.640 this much money, then I would have
+00:09:15.760 passed this account. And all of a
+00:09:16.880 sudden, you know, in 3 weeks from now,
+00:09:18.560 I'd be, you know, as we do, our
+00:09:20.399 imaginations went wild, what's possible.
+00:09:22.160 But then what would happen is then I
+00:09:24.880 would go searching and hunting for
+00:09:26.640 another opportunity because I just
+00:09:28.240 missed this one. And so then I would
+00:09:29.440 start to try to force the things that I
+00:09:31.440 knew, right? I try to make things
+00:09:33.120 happen. Oh, there's an order block here,
+00:09:34.640 for example. Right. Oh, there's an order
+00:09:36.560 block here. And actually, it broke this
+00:09:37.760 level. Oh, okay. Maybe I'll just take a
+00:09:39.440 trade from here. And so then all of a
+00:09:41.600 sudden, because I had missed out on this
+00:09:44.640 and hesitated on this, then I would
+00:09:46.800 essentially have FOMO, right? And then I
+00:09:49.440 would start taking below
+00:09:52.560 average
+00:09:55.600 trades, right, in hindsight. And then
+00:09:58.640 what I would end up experiencing was
+00:10:00.240 probably a loss.
+00:10:03.279 And this happened for a while. You know,
+00:10:04.959 I would sometimes take a trade and
+00:10:06.480 sometimes not take a trade. And
+00:10:07.760 eventually, you know, I ended up blowing
+00:10:09.279 the account multiple times. You know, I
+00:10:11.279 was doing all this random action. And
+00:10:13.040 again, like I said, some of the trades I
+00:10:14.720 would take, obviously, I would win. Like
+00:10:16.079 I wasn't losing every trade. And those
+00:10:18.160 little wins, you know exactly what I'm
+00:10:20.079 talking about. You're going through it.
+00:10:21.519 Those little wins, that's what gives you
+00:10:23.040 the hope that you know what, no, I do
+00:10:24.959 actually understand something here. like
+00:10:26.560 a I do get it. It's just something's
+00:10:29.440 missing. And that's the conclusion that
+00:10:30.880 I came to. I came to the conclusion that
+00:10:32.959 okay, well, I have something, but
+00:10:36.000 something's missing. So, I need more
+00:10:38.240 information. That's fine. Let's go back
+00:10:40.399 to the drawing board. Right? So, after
+00:10:43.120 repeating that specific cycle for too
+00:10:46.399 long, and this time, you know, I'm still
+00:10:48.320 I'm still watching videos. I'm still
+00:10:50.399 learning. I'm still trying to figure it
+00:10:51.839 out, but I'm really trying to also spend
+00:10:53.920 as much time as I can actually trading
+00:10:55.920 and kind of chasing the market, if you
+00:10:57.680 would. That's the reality of what's
+00:10:59.200 happening. But I would then be like,
+00:11:01.040 &quot;Okay, you know what? I'm not going to
+00:11:02.160 take another fun challenge.&quot; I'd already
+00:11:03.600 spent thousands of dollars and wasted
+00:11:05.120 thousands of dollars on funded
+00:11:06.000 challenges. I was already pretty pissed
+00:11:08.560 at myself. I was like, &quot;Okay, I'm going
+00:11:09.920 to go back to YouTube and I'm going to
+00:11:13.279 go and find another trading strategy,
+00:11:15.519 right? Let me go and search more trading
+00:11:17.040 strategy videos.&quot; And so I would I would
+00:11:18.480 go back to YouTube, right? I would go
+00:11:21.600 back to YouTube
+00:11:23.680 and I would look for more strategies and
+00:11:26.720 then I would watch more strategies. And
+00:11:28.320 in these strategy videos, they're
+00:11:29.680 talking about different concepts that I
+00:11:31.600 hadn't already, you know, learned of.
+00:11:34.000 And then I'd be like, okay, well, what's
+00:11:35.360 that concept? Okay, now let me, you
+00:11:36.959 know, go and learn what's that new
+00:11:38.399 concept. And then I would go and find
+00:11:40.720 videos on that new concept. And then the
+00:11:42.800 person talking about that concept will
+00:11:44.399 also be talking about a different
+00:11:45.360 concept. And then all of a sudden, you
+00:11:46.640 know, I'm down this rabbit hole again
+00:11:48.640 where now I'm just learning all of these
+00:11:51.839 new things. And then what happened was,
+00:11:54.240 you know, I felt like I was making
+00:11:55.920 progress at the time because now I was
+00:11:57.680 like, &quot;Oh my god, like I didn't know
+00:11:59.279 these things before. Like, okay, I've
+00:12:00.480 definitely made progress now. Okay, now
+00:12:02.240 I'm ready to go back again.&quot; And so I
+00:12:03.519 did. And so I took all the new
+00:12:05.440 information that I'd learned on top of
+00:12:06.959 anything that I'd already previously
+00:12:08.399 learned as well. And I went back to the
+00:12:10.639 markets again. Very silly mistake of
+00:12:12.959 mine. I just thought I was ready. And
+00:12:14.480 unfortunately, no one was telling me not
+00:12:16.079 to do it. I really wish someone did. I
+00:12:18.160 wish, you know, I had this type of video
+00:12:20.240 when I was starting, but no one told me
+00:12:22.880 not to. And so I did. I went again and I
+00:12:25.519 was purchasing challenges and I would do
+00:12:27.120 the same thing. So I would, you know,
+00:12:28.800 purchase a funded account.
+00:12:32.480 Right.
+00:12:34.320 And then I would, you know, I thought I
+00:12:36.000 had this strategy. I would have in my
+00:12:37.519 notebooks, you know, okay, I'm going to
+00:12:38.720 trade this time. Okay. When I see this,
+00:12:40.880 I'm going to do that. And it's all just
+00:12:42.800 very vague. There was no rules for okay
+00:12:45.839 this is this that is that there was no
+00:12:47.680 data absolutely not and so I'd purchase
+00:12:49.600 the account and again I would go back to
+00:12:52.800 live trading
+00:12:55.600 but this time
+00:12:58.800 to my absolute shock to be honest with
+00:13:01.279 you it was even harder than the first
+00:13:02.880 time and the reason that it was harder
+00:13:05.600 than the first time is because I was
+00:13:07.680 experiencing a new level of analysis
+00:13:11.440 paralysis because Now I was hesitating
+00:13:14.720 before but now I would start to see so
+00:13:18.000 many things going on right I'll see
+00:13:20.000 structure on this end and I'll see this
+00:13:22.000 liquidity here and this version of
+00:13:24.639 structure looks like this and this time
+00:13:26.560 frame says this and there was so much
+00:13:29.519 information that is the typical analysis
+00:13:32.000 paralysis right and that's what I was
+00:13:33.200 getting I was getting to the point where
+00:13:35.839 it was even more confusing than the
+00:13:38.639 beginning because now I would see what I
+00:13:40.639 thought was an opportunity and so I'd
+00:13:42.399 get ready and get everything set up. And
+00:13:43.920 then I've already got a lot of fear
+00:13:46.320 around taking trades because I'd blown
+00:13:48.079 so much accounts. So it's like, okay, I
+00:13:49.760 really need to make sure that, you know,
+00:13:51.040 I get this one right. And so, you know,
+00:13:53.519 I would kind of look for opportunities,
+00:13:56.000 right?
+00:13:57.760 I would seek opportunity.
+00:14:01.360 And then when I found opportunity, just
+00:14:04.000 as much opportunity that I found, I
+00:14:06.480 found reasons as to why I shouldn't take
+00:14:09.279 this trade. And so I was analyzing the
+00:14:11.360 market and I was like, &quot;Okay, you know,
+00:14:13.120 that looks good. Maybe I'll do this.&quot;
+00:14:14.480 And then it get time to do it and I'd
+00:14:16.880 start, you know, placing order something
+00:14:18.000 and I'm have my order on and I'm looking
+00:14:19.600 at the markets whilst I'm waiting for
+00:14:20.880 price to come back and tag me in or
+00:14:22.160 something and I'm like, &quot;But actually,
+00:14:24.320 you know, if I go to the 3-hour time
+00:14:25.920 frame, there's this little and maybe I
+00:14:28.560 shouldn't take this trade.&quot; And, you
+00:14:30.079 know, it was just a whole cycle that I
+00:14:33.120 was going through. And because I didn't
+00:14:35.680 know where to go from there, I didn't
+00:14:37.600 know again I'm going to tell you where
+00:14:39.199 you need to go. I'm just going to
+00:14:40.639 outline the journey that I took and the
+00:14:42.480 problems I faced. And maybe you kind of
+00:14:44.480 resonate a little bit. Maybe you're
+00:14:45.680 facing these challenges right now or
+00:14:47.440 maybe you have faced them. Trying to
+00:14:48.880 kind of outline that so we can get to
+00:14:50.480 the solution and how I finally made
+00:14:52.639 everything click because fortunately
+00:14:55.600 something did click and what it was that
+00:14:57.600 clicked is what I want to share with you
+00:14:59.440 today in this video. So yeah, that was
+00:15:02.320 happening. And again, because I didn't
+00:15:04.880 know anything other than, you know, just
+00:15:08.160 learn more information, I basically got
+00:15:10.560 so caught up in this idea of being able
+00:15:14.639 to read the market that I kind of lost
+00:15:17.680 touch with the idea of how you actually
+00:15:20.959 make money in the market, right? And I
+00:15:22.959 didn't realize that until later on. But
+00:15:25.199 now I look back on it, I realize that,
+00:15:27.040 you know, it's not information that's
+00:15:29.360 going to make you money. It's not
+00:15:30.560 knowing a bunch of concepts. It's not
+00:15:31.920 being able to perfectly read the market
+00:15:33.279 that makes you money. I mean, heck, I
+00:15:34.959 make money some days and I'm wrong.
+00:15:37.199 That's real trading. And so, again, it
+00:15:39.279 wasn't until later that I discovered
+00:15:40.480 that, but we'll get to that point. So, I
+00:15:42.959 was at that point and I was probably
+00:15:44.959 feeling more lost than ever before,
+00:15:47.519 right? And my journey was kind of like
+00:15:48.880 this. You start off here,
+00:15:51.600 right? This is kind of you at
+00:15:52.800 neutrality. you have this goal of um
+00:15:55.519 making money from trading and you start
+00:15:57.279 learning and you start actually seeing
+00:15:59.199 progress, right? That's what happens to
+00:16:01.600 you. You start seeing progress and this
+00:16:03.360 is kind of your mood. You you get
+00:16:04.720 euphoric. I'm making progress. Soon I'm
+00:16:07.360 going to be able to buy a lampo.
+00:16:08.560 Whatever it is, retire my parents or
+00:16:10.160 quit my job or, you know, take my family
+00:16:12.320 on that vacation. Whatever your goal is
+00:16:14.560 is you feel like you're getting closer
+00:16:17.120 to that goal. And then again, like I
+00:16:19.839 said, what happens is at some point you
+00:16:21.360 start to realize, actually, this is a
+00:16:24.560 lot harder than I thought it was. It's
+00:16:28.720 going to take a lot more than I thought
+00:16:30.240 it was. And then you start going through
+00:16:31.759 all of these trials and tribulations
+00:16:33.120 when you start to really try and do it
+00:16:35.120 properly. And then you end up in this
+00:16:37.199 place, right? So you start, you're
+00:16:38.800 pretty neutral. You're like, &quot;Hey, like
+00:16:40.079 I'm going to try this thing out. Like
+00:16:41.440 this is the goal.&quot; D. You start and
+00:16:43.839 everything's great because I mean, how
+00:16:45.759 can anything not be great when you're
+00:16:47.360 right at the beginning? All you can do
+00:16:48.639 is make progress. But the problem is is
+00:16:50.399 then you want to try to turn that
+00:16:52.079 information into money. And that's when
+00:16:53.600 you realize that actually
+00:16:56.079 I don't know what I'm doing. And this
+00:16:57.519 area here is a very dark place to be.
+00:17:00.800 And maybe some of you are there right
+00:17:02.160 now. Maybe some of you are heading into
+00:17:03.839 that area. Or maybe some of you are just
+00:17:05.919 kind of coming out of that area. And
+00:17:07.599 again, I've been through this entire
+00:17:09.599 period. And so yeah, that's kind of
+00:17:11.839 where you end up. And this is where that
+00:17:13.599 area really was for me. I was just lost.
+00:17:16.880 I mean, I thought that all this
+00:17:18.799 information was working, but at the end
+00:17:21.280 of the day, like the information wasn't
+00:17:23.199 paying the bills, right? Time was going
+00:17:24.799 on. I invested months and months and
+00:17:26.640 months into this craft and I had nothing
+00:17:29.600 to show for it, right? I was kind of
+00:17:31.520 ashamed with my progress. I mean
+00:17:33.679 everything else I tried in life I'd seem
+00:17:37.120 to achieve some level of success you
+00:17:39.679 know pretty quickly because in life
+00:17:42.559 unlike trading with most things you can
+00:17:45.440 start seeing you know results quickly
+00:17:47.520 trading doesn't really work like that
+00:17:48.960 results in trading is money made and I
+00:17:50.960 always say trading is the hardest easy
+00:17:54.160 money that you will ever make in your
+00:17:55.760 life it's so hard to get to the point
+00:17:57.520 that it's easy but once it's easy like
+00:17:59.679 it's just easy right it's crazy so yeah
+00:18:02.080 this is kind of the area I was I was
+00:18:03.600 lost. I was confused. I didn't know
+00:18:05.280 where to go from here. The only thing
+00:18:07.200 that I could think of was just more,
+00:18:09.919 right? And this is what this you can
+00:18:12.160 kind of see how how this ends up
+00:18:13.840 affecting us, right? Because it's just
+00:18:16.080 constant analysis paralysis. It's
+00:18:18.160 constantly the the need for more, right?
+00:18:20.640 You're searching more information, more
+00:18:22.720 strategies, and you're thinking and
+00:18:25.679 hoping that the information that you
+00:18:27.600 find is what's going to fix your
+00:18:29.039 problems. And the reality is is that's
+00:18:31.039 not what it is. But again, we're going
+00:18:32.960 to get to that. So that's what I did,
+00:18:35.039 right? I went back to the drawing board
+00:18:37.440 again because I didn't know any other
+00:18:39.280 way. And so then I got to a point I was
+00:18:40.880 like, you know what? Maybe what I'm
+00:18:42.400 doing does work, but maybe it's just
+00:18:44.320 kind of in theory. Maybe there's a
+00:18:46.080 better way to do it. Back to YouTube,
+00:18:48.640 more strategies, more concepts, more of
+00:18:51.679 the same things. And I think it was
+00:18:53.840 Einstein who said it, the definition of
+00:18:55.840 insanity is doing the same thing over
+00:18:58.320 and over again and expecting different
+00:19:00.640 results. And I didn't obviously
+00:19:02.480 understand that at that time. I didn't
+00:19:04.000 think I was doing the same thing over
+00:19:05.360 and over again until I look back on it
+00:19:07.039 and realize like, oh yeah, that's just
+00:19:08.400 the same cycle that I was repeating. I
+00:19:10.400 think we all go through this. This is
+00:19:12.240 why I say that it's the number one
+00:19:14.160 mistake because it's not necessarily,
+00:19:16.640 you know, just one thing that you do.
+00:19:18.400 It's really just the process of kind of
+00:19:20.720 how you end up eventually achieving
+00:19:22.480 success. Hopefully, you know, if you
+00:19:24.240 find how to actually get out of this
+00:19:25.840 pitfall, which again I'm going to share
+00:19:27.280 with you and I'm super grateful that I
+00:19:29.120 was able to discover. So again, like I
+00:19:31.600 said, I went back just for more, more
+00:19:33.360 strategies, more videos, more
+00:19:34.960 everything, blah blah blah blah blah,
+00:19:37.200 more inconsistency, more failed
+00:19:39.600 challenges. And it was extremely
+00:19:42.480 difficult for me. And then at some point
+00:19:44.640 along the way, I realized that I
+00:19:47.520 actually have so much information. I
+00:19:50.559 actually like do know all of these
+00:19:52.880 concepts on how to read the market. Like
+00:19:54.400 if you if you sit me down with someone
+00:19:56.720 who you know is fairly new to to trading
+00:19:59.039 or doesn't really know too much like I
+00:20:01.039 could start telling them so many things
+00:20:02.799 about the markets and you know this
+00:20:04.799 structure and this delivery and all
+00:20:06.559 these different time frames and how it
+00:20:08.000 all correlates and you know liquidity
+00:20:09.840 and stop losses and I had a lot of
+00:20:12.559 information but what I didn't have I
+00:20:15.520 didn't have any results right I didn't
+00:20:17.360 have any money and I didn't have
+00:20:21.280 an edge
+00:20:24.000 Right? And so somewhere along the way, I
+00:20:27.360 realized that I had all this
+00:20:29.679 information. So my problem wasn't
+00:20:32.640 information. I mean, what I know does
+00:20:36.400 work, right? But I'm just not applying
+00:20:40.799 it in the way that it works. That was
+00:20:43.520 the big epiphany for me. And that is,
+00:20:45.840 you know, kind of part of the solution.
+00:20:48.720 And so I had this realization, got all
+00:20:51.360 this information, I'm just not applying
+00:20:53.120 it. Like, okay, well, how do I apply it?
+00:20:55.200 Like, how do I how do I make sense of
+00:20:57.360 all of this noise and all of this mess?
+00:20:59.840 I think I was reading a book, Trade in
+00:21:01.360 the Zone, like you don't have to be
+00:21:02.960 right to make money. That realization
+00:21:04.960 that you don't have to be right to make
+00:21:08.640 money wouldn't leave me alone. It's
+00:21:10.880 like, you don't have to be right to make
+00:21:12.320 money. At the beginning, I was like,
+00:21:13.679 that's just ridiculous. Like, what do
+00:21:15.120 you mean you don't have to be right to
+00:21:16.960 make money? of course you have to be
+00:21:18.159 right to make money. I like well I mean
+00:21:20.640 technically if you expect the price to
+00:21:22.480 go all the way there and it didn't. It
+00:21:23.919 only got halfway and you took the trade
+00:21:25.600 and you made money wasn't technically
+00:21:28.000 right. Again still not really don't want
+00:21:30.400 to accept it. Doesn't want to sit with
+00:21:31.840 me. And that's when I had the
+00:21:33.440 realization that somewhere along the way
+00:21:36.400 I got stuck in this idea of acquiring
+00:21:40.720 information. And I didn't realize that
+00:21:44.559 information acquisition is the first
+00:21:47.280 thing you do. And so I see this all the
+00:21:48.720 time. I see traders who have been
+00:21:49.919 trading five years and they are still
+00:21:52.720 stuck in information acquisition.
+00:21:55.360 They're still looking for new concepts.
+00:21:56.880 They're still looking for new magic
+00:21:58.559 strategies. They're still looking at
+00:22:00.000 videos on how this person flipped this
+00:22:02.000 account to this account. They're still
+00:22:03.919 looking for information and their
+00:22:06.480 problem isn't information. It's that
+00:22:07.760 they don't know what to do with that
+00:22:09.440 information. Right? If you sit down with
+00:22:10.880 some of these people, I mean, we've had
+00:22:12.480 it ourselves inside of our inner circle.
+00:22:14.799 Traders have come for 5 years. You sit
+00:22:16.640 down and talk to him. He comes like,
+00:22:18.000 &quot;Yeah, you know, I know this. I know
+00:22:20.480 market structure. I know D. How are you?
+00:22:23.039 How are you where you are?&quot; And it's
+00:22:24.799 because they don't know how to take all
+00:22:27.120 of that information and organize it and
+00:22:30.960 sift through it till you get to a point
+00:22:33.679 where you just have something that makes
+00:22:35.520 money. And that was the disconnect. The
+00:22:38.000 thing was is that I didn't need to be a
+00:22:41.520 perfect master of the market. At some
+00:22:43.679 point along the way, I got lost and I
+00:22:46.080 got had this idea that in order to make
+00:22:48.559 money, I have to be able to read the
+00:22:51.440 market perfectly. I have to be able to
+00:22:53.520 predict every single day's price action.
+00:22:56.240 I needed to predict pinpoint accuracy.
+00:22:58.400 It's going to come from here and then
+00:22:59.600 return to here. I felt like I needed to
+00:23:02.320 master the system, but that's not
+00:23:04.640 actually how you make money in trading.
+00:23:06.000 You see, trading is just an inefficient
+00:23:08.960 operating machine that you can get in
+00:23:11.600 the middle of its inefficiency and make
+00:23:13.200 money in between. All you really need is
+00:23:15.440 a playbook, right? You just need a
+00:23:17.520 playbook that works, right? And many of
+00:23:20.080 you may be thinking like, what's a
+00:23:21.360 playbook? yada yada yada. Or maybe
+00:23:22.880 you're thinking, you know, oh, I know
+00:23:23.840 what a playbook is. You know, isn't that
+00:23:25.200 just a strategy? Or, hey, I've like seen
+00:23:27.520 a million playbooks or, hey, I've seen a
+00:23:29.200 bunch of playbooks. Really is. You
+00:23:30.559 haven't. You've seen more of the the
+00:23:33.520 first phase, which is just information
+00:23:35.200 just kind of unorganized into a bunch of
+00:23:38.400 random rules. No, what you need is you
+00:23:41.520 need to be able to take all the
+00:23:42.720 information that you have and then
+00:23:44.240 properly organize it, sort it out, and
+00:23:47.280 start making a real edge. Because to
+00:23:50.159 make money in trading, you just have to
+00:23:52.640 have something that works enough to make
+00:23:56.880 money. And then once you have something
+00:23:59.360 that has an edge, which is a statistical
+00:24:01.520 probability. So if you take a 100
+00:24:03.840 trades, at the end of those 100 trades,
+00:24:06.480 there will be a profit. If you have
+00:24:08.720 that, then it becomes all I need to do
+00:24:11.520 is make money is to just be able to
+00:24:12.880 follow that. But nobody teaches you how
+00:24:16.400 to build the edge. Everybody just
+00:24:18.960 teaches you these fancy concepts and
+00:24:21.840 these fancy strategies because again,
+00:24:23.679 like I said, it's just so much more
+00:24:24.880 attractive. Like the video that I'm
+00:24:26.640 creating right now, this is for real
+00:24:28.960 traders who are actually making progress
+00:24:31.120 and you've watched it this far. You're
+00:24:32.559 obviously probably deeply into it. And
+00:24:34.159 so, it's for traders like you who are
+00:24:36.799 actually serious about trading. There's
+00:24:38.559 not many of you. There are a lot more
+00:24:41.760 people who want to just watch videos of
+00:24:44.159 people buying Lamborghinis with trading
+00:24:45.679 profits because they're just stuck in
+00:24:47.279 this fantasy land of hope. Or there's a
+00:24:49.200 lot of these, you know, people that just
+00:24:50.400 want to look for the magic strategy and
+00:24:52.080 the magic concept that's going to make
+00:24:53.440 the money. I could easily make other
+00:24:54.880 videos on this this strategy that made
+00:24:56.640 me a million dollars in the last 12
+00:24:58.159 months. It's going to get way more
+00:24:59.279 clicks, but it's not really going to
+00:25:00.159 give any value because you're not going
+00:25:01.679 to be able to do anything with it. So,
+00:25:03.279 what you need to know is this. You need
+00:25:04.640 to make that transition. You need to
+00:25:06.320 move from analysis paralysis into just
+00:25:10.720 organizing your information into
+00:25:13.039 building a system, right? A system
+00:25:18.400 that makes you money. It's a system that
+00:25:21.360 makes you money. And again, like I said,
+00:25:23.520 that's the realization that I had. And
+00:25:25.919 when I had that realization, I went
+00:25:28.159 away. And honestly, it no one really
+00:25:31.360 taught me how to do it. slowly but
+00:25:33.120 surely figured it out myself. But I
+00:25:36.159 figured out how to actually build a
+00:25:39.200 system, something that had an edge,
+00:25:41.360 something that I could come to the
+00:25:42.720 market with and just follow the rules
+00:25:46.240 and not have to obsess over whether, you
+00:25:50.000 know, I think this is going to play out
+00:25:51.520 or there's this other information. I
+00:25:53.440 needed something that just worked and
+00:25:56.000 worked enough to the point where if I
+00:25:58.080 just followed it, I would make money.
+00:26:00.080 That's what I needed. And that's when
+00:26:02.320 you know after god knows how long that's
+00:26:05.120 when eventually I created my toos right
+00:26:09.440 my trader operating system and this was
+00:26:14.799 the big shift for me this changed
+00:26:17.360 everything my trader operating system
+00:26:20.640 was able to take me from being
+00:26:22.640 constantly stuck in just trying to
+00:26:25.440 acquire new information right new
+00:26:29.840 concepts new this, knew that, right?
+00:26:32.240 Thinking that that was the answer. And
+00:26:34.159 instead of that, I realized I have all
+00:26:35.679 this information. What I need is a
+00:26:37.279 system. I need to be able to do
+00:26:39.039 something with all this information and
+00:26:40.640 turn it into money. And so, I built the
+00:26:42.240 traders operating system. When I ran
+00:26:44.320 that through that system is what enabled
+00:26:46.960 me to take all the information I have
+00:26:48.720 and on the other end of that toos, I was
+00:26:52.240 able to come out with an actual proven
+00:26:56.960 profitable playbook, right? a proven
+00:27:00.400 trading strategy. What happened is I
+00:27:01.840 ended up discarding so many of the
+00:27:04.159 concepts that I'd learned, right? I
+00:27:06.080 learned all of these concepts, right? I
+00:27:08.080 could literally now so many concepts
+00:27:10.159 that I don't use because I don't need it
+00:27:13.200 because making money in trading isn't
+00:27:14.880 about knowing all the concepts. Making
+00:27:17.039 money in trading is just about having
+00:27:18.640 something that has an edge and then
+00:27:20.000 doing it, right? And so that's
+00:27:22.400 essentially what I did. I eventually
+00:27:24.240 figured out how to build a playbook. I
+00:27:26.799 eventually once I had built a playbook I
+00:27:28.960 realized that there was actually a
+00:27:30.080 couple more issues like psychology and
+00:27:32.320 stuff and then I built a system around
+00:27:35.600 you know how to actually manage and
+00:27:38.080 operate myself and then I built another
+00:27:40.720 system right it basically is three
+00:27:43.120 systems my toos is three systems and
+00:27:46.960 within these systems
+00:27:49.600 it organized my entire trading and so I
+00:27:52.400 was no longer needed more information I
+00:27:54.559 just cut out everything that didn't
+00:27:56.080 work, focused on what did work and made
+00:27:58.799 sure that it worked by actually testing,
+00:28:02.080 by actually collecting data, right? By
+00:28:04.399 actually building something that if I
+00:28:06.399 just follow it, it works. And that's
+00:28:08.320 when that's when it hit me was that you
+00:28:10.159 don't have to be right in order to make
+00:28:11.440 money. You just need to have something
+00:28:13.120 that works well enough and just follow
+00:28:14.559 your rules. And if you do it long enough
+00:28:16.399 period of time, you will eventually make
+00:28:17.760 money. And so that is again what I said,
+00:28:20.000 that's why I built my trade operating
+00:28:21.279 system. And in fact, I have an entire
+00:28:24.799 45inute free video if you want it. I'll
+00:28:28.000 link it down in the description.
+00:28:29.360 Basically just me breaking down this
+00:28:31.760 entire trader operating system. Like I
+00:28:33.840 said, it's completely free. It will take
+00:28:35.200 you, you know, through all of the
+00:28:36.640 different pillars of my system. And
+00:28:39.039 again, like I said, the toos is what
+00:28:41.279 transitioned me from just everything
+00:28:43.840 that I just explained to you, all the
+00:28:45.520 analysis paralysis, all the problems
+00:28:47.200 that I went through of what you're going
+00:28:48.799 through right now. Because the reality
+00:28:50.000 is, if you're watching this video, it's
+00:28:52.159 probably because you're still in that
+00:28:54.080 cycle. That's why you're still watching
+00:28:55.200 YouTube videos. I'm saying, you know,
+00:28:56.720 you'd never catch me watching a YouTube
+00:28:58.960 video on a concept or a trading strategy
+00:29:01.279 because I don't need to. I have all the
+00:29:03.440 information I need to be able to
+00:29:05.360 consistently build systems, right? And
+00:29:07.679 consistently collect data and know all
+00:29:09.440 the information about my trading. I'm
+00:29:10.880 completely self-sufficient, independent.
+00:29:12.399 I don't need anything else. It's not
+00:29:14.240 more information that's going to get you
+00:29:15.760 that in terms of new concepts, new
+00:29:18.399 strategies, right? It's it's having a
+00:29:20.880 system. It's what I call the toos. I'll
+00:29:22.559 kind of leave that link in the
+00:29:23.760 description because that is what will
+00:29:25.600 break down everything. And if you
+00:29:27.440 thought what I shared with you just now
+00:29:30.240 will help you. That is what this is
+00:29:32.720 really about. The real solution to
+00:29:35.919 analysis paralysis will be so much
+00:29:38.320 deeper in the traders operating system.
+00:29:40.000 Again, I'll link that in the
+00:29:40.880 description. It's completely free. So
+00:29:42.720 yeah, enjoy.

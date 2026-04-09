@@ -1,0 +1,478 @@
+# tactiq.io free youtube transcript
+# Ultimate SMC Order Block Trading Strategy (Step by Step) | Forex
+# https://www.youtube.com/watch/O9czLS8lv4U
+
+00:00:00.040 if you're anything like 99% of people
+00:00:02.800 trying to trade order blocks then your
+00:00:05.240 trades probably look something like this
+00:00:08.000 everything looks great got an order
+00:00:10.080 block set up you get tagged into your
+00:00:11.799 entry everything looks like it's going
+00:00:14.120 well and then out of nowhere for no
+00:00:17.160 reason known to you you just get stopped
+00:00:19.560 out so that's an issue you're facing and
+00:00:22.720 in this video I'm going to be sharing
+00:00:24.439 how to actually find profitable order
+00:00:27.039 blocks that work in this video I'm going
+00:00:28.880 to be sharing four key things number one
+00:00:32.598 what is an order block number two how to
+00:00:36.239 identify an order block number three
+00:00:39.160 what are the three things that I look
+00:00:41.160 for when hand selecting an order block
+00:00:44.239 and finally number four I'm going to be
+00:00:46.039 sharing with you the exact stepbystep
+00:00:48.360 strategy that I personally use on a
+00:00:51.079 consistent basis that is proven
+00:00:53.800 profitable without further Ado let's go
+00:00:56.120 ahead and get into it an order block is
+00:00:58.640 essentially an a of price where there
+00:01:01.359 are large resting orders waiting to be
+00:01:05.199 triggered and so when you see price
+00:01:07.720 trade into these areas into these order
+00:01:11.560 blocks you will be expecting to have
+00:01:13.920 some reaction out of that order block
+00:01:16.840 now the key is in selecting the correct
+00:01:20.000 order blocks okay so how do we actually
+00:01:23.960 identify an order block here's what you
+00:01:26.960 want to be looking for essentially you
+00:01:29.640 want to to find number one the first
+00:01:31.640 thing is where do you see a large amount
+00:01:34.079 of volume kick into the market
+00:01:37.280 essentially that can be identified as a
+00:01:39.520 very aggressive candle either in One
+00:01:41.759 Direction or the other so for this
+00:01:43.920 example of identifying a bullish order
+00:01:46.200 block we can see that we have this
+00:01:48.439 aggressive bullish candle that moves to
+00:01:51.399 the upside from there on out what you
+00:01:53.880 want to be identifying is this final
+00:01:57.360 candle just before that impulsive move
+00:02:00.360 right we call this the sell to buy
+00:02:02.439 candle this is what is going to be
+00:02:05.640 characterized as your order Block it's
+00:02:08.080 essentially the area of price that first
+00:02:10.440 sells into the buy and then we have the
+00:02:13.760 aggressive move out of it now to
+00:02:16.720 identify this your order block should
+00:02:18.760 always have a fair value Gap ultimately
+00:02:21.840 an area of imbalance what we can see
+00:02:23.879 here is this first candle right here
+00:02:27.519 followed by the second impulse bullish
+00:02:30.760 candle right here and then we have one
+00:02:33.080 more bearish candle now the key here is
+00:02:36.160 to notice that the first candle the wick
+00:02:40.040 the highest Wick of the first candle
+00:02:42.599 right in here does not meet with the
+00:02:46.120 third Wick right so we have one candle
+00:02:48.760 two candles three candles this Wick does
+00:02:50.959 not meet this Wick and that leaves a gap
+00:02:53.640 right a fair value Gap if you can notice
+00:02:56.120 a fair value Gap then the likelihood is
+00:02:58.280 there is an order block somewhere around
+00:03:00.400 that level and how you identify that is
+00:03:03.159 you're just going to use the final down
+00:03:06.040 candle before that up candle in a
+00:03:09.319 bullish order block scenario or what you
+00:03:11.920 can do is if you want to identify a
+00:03:14.480 bearish order block essentially what you
+00:03:16.239 want to be looking for is the final Buy
+00:03:19.319 before you have the aggressive sell
+00:03:20.799 candle but remember the candles of the
+00:03:23.799 first and third must not meet in this
+00:03:26.840 scenario right here you can see very
+00:03:29.000 clearly that this first candle and this
+00:03:32.120 candle right here they both touch each
+00:03:34.000 other therefore that does not give you a
+00:03:36.360 fair value Gap therefore that does not
+00:03:38.840 give you a bearish order block so if we
+00:03:41.280 can just continue playing price out what
+00:03:44.879 you will
+00:03:45.720 notice
+00:03:47.599 is we have a buy candle in here right
+00:03:52.920 and then we have a cell candle then we
+00:03:55.079 have another cell candle and then we
+00:03:56.640 have a third cell candle now again we
+00:03:58.840 want to be identifying
+00:04:00.360 this candle right here and this candle
+00:04:03.799 right here that is essentially your fair
+00:04:06.280 value Gap and wherever there is a fair
+00:04:07.959 value Gap there is going to be an order
+00:04:10.360 Block in there somewhere and so how we
+00:04:12.640 want to identify that is just looking at
+00:04:14.840 the final buy to sell candle that forms
+00:04:18.918 just before the aggressive momentum and
+00:04:21.079 what you can do is you can use the
+00:04:22.880 bottom Wick of this and the top Wick of
+00:04:26.479 this and that will create your bearish
+00:04:29.320 order block okay so here are my three
+00:04:32.759 rules that I go to when I'm trying to
+00:04:35.720 Mark out high probability order blocks
+00:04:39.440 so rule number one and arguably the most
+00:04:42.919 important rule is you must be Pro Trend
+00:04:46.479 time and time again Traders are trying
+00:04:48.080 to trade bearish order blocks when the
+00:04:50.280 order flow is bullish it makes no sense
+00:04:53.400 so make sure that you have this external
+00:04:56.520 swing structure aligned like this and
+00:05:00.160 you can see that price makes low high
+00:05:03.199 higher low meaning this low here is
+00:05:05.479 higher than the previous low and then we
+00:05:08.160 have a higher high so at that point it's
+00:05:10.440 already indicated that price is bullish
+00:05:12.639 we have this bullish breakout structure
+00:05:14.759 like so and then price is going to
+00:05:17.000 respect this area in here and I can
+00:05:19.479 guarantee you there is some type of
+00:05:21.840 order block inside of here that price
+00:05:24.400 then is able to react from so that is
+00:05:27.960 number one make sure you are PR
+00:05:31.600 Trend number two is you want to wait for
+00:05:34.759 some sort of run on liquidity from that
+00:05:38.080 sell to buy level so what we can see
+00:05:40.000 here is we have this bullish structure
+00:05:42.400 and then as price pulls back you can see
+00:05:44.319 it puts these internal lows in now
+00:05:46.759 notice that this Final sell right here
+00:05:50.919 this Final sell to buy actually causes a
+00:05:55.639 run on liquidity so we actually run on
+00:05:58.240 the lows in here right so we have a
+00:06:00.560 Liquidation in here so you want to see a
+00:06:03.199 run on some sort of liquidity before
+00:06:06.120 that order block is formed and then
+00:06:08.120 don't forget make sure that this order
+00:06:09.720 block this sell to buy has a fair value
+00:06:13.160 Gap from candle one to Candle three
+00:06:15.199 there's your fair value Gap great now
+00:06:18.000 you know how to identify your order
+00:06:20.199 block now final one and my golden rule
+00:06:24.080 number three is make sure that that
+00:06:27.240 order block was something that led to a
+00:06:30.319 break of structure that order block
+00:06:32.000 itself doesn't have to break structure
+00:06:34.240 but there has to be a break of structure
+00:06:36.240 in that price leg for example what we
+00:06:38.199 see right here is now we are bullish
+00:06:39.960 right we have our swing low down here
+00:06:43.080 and we have our swing high up in this
+00:06:46.240 region so as long as we stay inside of
+00:06:49.360 that price leg this order block is valid
+00:06:52.520 but if we do something like this for
+00:06:54.319 example let's say we now pulled back
+00:06:56.840 like this and then we went and did
+00:06:59.199 higher high and we had a new break of
+00:07:00.800 structure well this order block no
+00:07:03.199 longer becomes valid what we'd actually
+00:07:05.199 be then looking at is probably some sort
+00:07:07.800 of sell to
+00:07:09.840 buy inside of this price Le in here that
+00:07:12.599 leads to a break of structure so make
+00:07:15.680 sure that the break of structure has a
+00:07:19.120 order block inside of make sure the
+00:07:20.520 order block you're looking for has a
+00:07:22.440 break of structure inside of it so from
+00:07:25.440 there there's the three rules on how to
+00:07:27.160 identify the order block and if you have
+00:07:28.560 something like this where you you have a
+00:07:29.960 prot trend move right we have higher
+00:07:31.960 highs higher lows higher highs price
+00:07:34.160 pulls back gives a run on liquidity this
+00:07:36.560 bearish sell to then buy gives the
+00:07:38.960 engulfing candle and then break some
+00:07:41.360 sort of structure that is a high
+00:07:43.840 probability area for price to then be
+00:07:45.680 able to come back to something like this
+00:07:48.280 before putting in some sort of high high
+00:07:51.319 and this is exactly where you would
+00:07:53.800 trade from so let's take a look at what
+00:07:57.039 this order block scenario looks like in
+00:07:59.720 the markets themselves here we are and
+00:08:02.520 what we can see right here is that price
+00:08:05.919 is bullish so step number one is where
+00:08:08.360 is your directional bias you can see we
+00:08:10.080 had this low in here puts in a high
+00:08:13.479 price pulls back right respects what
+00:08:17.039 respects the previous bullish order
+00:08:19.680 block that we were talking about and
+00:08:21.400 then what does price do price then has
+00:08:23.759 this aggressive move out of this price
+00:08:26.240 range breaks structure right we have a
+00:08:28.960 break structure to the upside like this
+00:08:31.800 so there we have our prot Trend we are
+00:08:34.760 trading with the trend we have our break
+00:08:37.039 of structure that was come from this
+00:08:39.839 bullish order Block in here and then
+00:08:41.360 finally what else do we have we have our
+00:08:44.000 run on liquidity right you can very
+00:08:46.160 clearly see that we have a old low in
+00:08:48.240 here then we have this Final sell into
+00:08:52.080 this liquidity relative equal lows sell
+00:08:54.519 into liquidity and then aggressive buy
+00:08:56.720 out so we've ticked all three boxes
+00:08:58.720 we're prot trend right we're clearly in
+00:09:00.519 a bullish Trend we have taken a run on
+00:09:04.600 liquidity and then we've broken
+00:09:07.079 structure so that means that our order
+00:09:09.160 block is inside of the structural price
+00:09:12.079 leg that we're currently trading inside
+00:09:13.959 of our current trading range then what
+00:09:15.720 you can do is you can map out your area
+00:09:18.519 of order block your bullish order block
+00:09:20.800 and then you can just wait and see how
+00:09:22.480 price
+00:09:23.360 reacts so you can see price has a
+00:09:25.959 reaction a bullish reaction drops down
+00:09:28.440 deeper to m and then begins aggressively
+00:09:31.880 advancing out of that level and takes
+00:09:34.399 out the continuation right another break
+00:09:36.800 of structure just continuing in the
+00:09:38.720 overall trend that price is currently
+00:09:40.880 trading in now we're going to take
+00:09:42.720 everything that we've just learned about
+00:09:44.200 the basics of order blocks and we're
+00:09:45.959 going to apply that into my step-by-step
+00:09:48.399 profitable order block trading strategy
+00:09:50.760 I'm going to give you exact rundown of a
+00:09:52.720 trade that I took using the exact
+00:09:54.640 strategy that I'm going to be sharing
+00:09:56.120 with you okay so now let's walk through
+00:09:58.880 this trade on Euro US doll during London
+00:10:02.680 session so first thing I'm going to do
+00:10:04.480 is I'm going to switch on my session
+00:10:06.560 indicator this allows me to outline the
+00:10:08.880 exact sessions so you know that this is
+00:10:11.519 Jo in the London session now step number
+00:10:14.680 one is we need to identify what is the
+00:10:18.160 trend Direction and so you can very
+00:10:20.000 clearly see that price was aggressively
+00:10:22.399 bearish we put in a lower low a lower
+00:10:24.880 high a lower low giving us a break of
+00:10:28.560 structure to the downside followed then
+00:10:32.440 by a change of character so you can see
+00:10:34.640 we've changed the trend here we were
+00:10:36.720 indeed bearish put in a series of lower
+00:10:38.519 lows and then we've put in a higher high
+00:10:41.120 meaning this high that we've just placed
+00:10:42.839 in here is higher than the previous High
+00:10:44.959 therefore we have now shifted bullish so
+00:10:47.760 we no longer want to be looking at any
+00:10:49.760 bearish order blocks anything of that
+00:10:51.240 nature we want to be paying attention to
+00:10:53.320 the present moment Trend right so we
+00:10:56.440 want to make sure that we are trading
+00:10:58.320 inside of this trading range so our bias
+00:11:01.639 is indeed bullish we are looking to take
+00:11:04.000 long positions now step number two is I
+00:11:06.839 need to find an order block that makes
+00:11:09.160 sense to trade from right and this is
+00:11:11.440 going to be my point of Interest my
+00:11:13.560 higher time frame point of Interest
+00:11:15.399 right so what we're want to be looking
+00:11:16.880 at is this particular session in here
+00:11:19.680 this is Asia in this blue box from here
+00:11:22.079 it's from 8 till midnight EST this
+00:11:25.720 represents the Asia session range now as
+00:11:28.560 you guys know the highs and the lows of
+00:11:31.800 this Asia session range are extremely
+00:11:34.160 liquid so what we want to see is coming
+00:11:37.040 into our London session we want to have
+00:11:38.880 a clear directional bias which I have I
+00:11:41.480 am bullish I want to have a clear point
+00:11:44.760 of Interest below Asia session low if
+00:11:48.480 I'm buying I want to be buying below
+00:11:50.720 that Asia session low right so where in
+00:11:53.639 here can you
+00:11:54.920 see that we have a clear area of order
+00:11:59.560 block well you can see very clearly in
+00:12:01.760 here right this Final sell to buy candle
+00:12:05.480 that has a fair value Gap you can see
+00:12:07.279 the first candle in here does not meet
+00:12:09.600 with the third candle in here that is
+00:12:11.639 our clear and obvious fair value Gap you
+00:12:13.920 can see that it runs an area of
+00:12:15.639 liquidity right so the Final sell runs
+00:12:18.959 the previous candle's low which is a run
+00:12:21.720 of liquidity and then we have this
+00:12:23.920 aggressive push out it's inside of the
+00:12:27.720 area it's ins inside of the prot trend
+00:12:30.639 move right we've already had our break
+00:12:32.600 of structure this order block is inside
+00:12:34.279 of that break of structure price leg and
+00:12:36.839 what we want to see is price all back
+00:12:40.440 liquidate Asia low Drop into here and
+00:12:44.320 then when I get into this area I don't
+00:12:46.959 want to just take a risk entry on here
+00:12:49.600 right and besides even if I was to take
+00:12:51.480 an entry on here and Target our Target
+00:12:54.560 which is our Asia session High that's
+00:12:56.720 going to give me 3.3 R reward which
+00:13:00.120 might seem decent to a lot of you guys
+00:13:01.639 but some of you who know and have been
+00:13:03.160 around here for a long time you know
+00:13:04.839 that my minimum risk to reward is one
+00:13:07.880 125 right so what I want to do is I want
+00:13:10.800 to get into this area then I want to
+00:13:13.079 drop down to the one minute time frame
+00:13:15.480 and then I want to take my entry there
+00:13:17.440 so let's see how that plays out first
+00:13:19.639 thing is waiting for price to get into
+00:13:21.920 this area and there is the objective
+00:13:23.920 complete right we have equal lows in
+00:13:25.880 here we have Asia low in here which is a
+00:13:28.720 prime area for a sweep on liquidity
+00:13:31.120 we've now run the liquidity we have our
+00:13:33.720 point of Interest we are prot Trend
+00:13:35.600 looking for buys time for our entry
+00:13:38.440 confirmation so what we're going to do
+00:13:41.240 is we're going to drop down to the one
+00:13:43.000 minute time frame and now we need to
+00:13:44.720 establish what is our directional Trend
+00:13:47.560 at the moment so you can quite clearly
+00:13:49.600 see that we are bearish right we're in
+00:13:51.480 this heavy downtrend and we can see that
+00:13:54.160 this was our swing low price pulled up
+00:13:56.560 swing High then we went lower low
+00:13:59.600 right lower low lower high and what you
+00:14:02.800 can just notice price has just what run
+00:14:06.000 on liquidity this
+00:14:08.199 low this low that was supporting this
+00:14:10.560 bullish move up has now been liquidated
+00:14:13.360 so what we would need to see is a
+00:14:14.920 reignment a market structure shift Above
+00:14:17.800 This high displacing this high and then
+00:14:21.040 that would be our confirmation the one
+00:14:23.199 minute time frame is now ready to go in
+00:14:25.920 the same direction as that 30 minute
+00:14:28.519 time frame so if we just play price
+00:14:31.759 out there is your displacement right
+00:14:34.480 there's your Market structure shift and
+00:14:36.079 your displacement price is putting in a
+00:14:37.399 series of lower lows lower highs
+00:14:39.160 liquidation of the low run of the high
+00:14:42.000 giving us a realignment displacing above
+00:14:45.320 the previous high and now what do we
+00:14:47.600 want to see we want to see an area of
+00:14:51.920 demand we want to see bullish order
+00:14:53.519 block so what do we need to see well we
+00:14:55.600 need to see this move right here this
+00:14:58.360 sell to buy the breaks structure that's
+00:15:02.240 coming from our higher time frame point
+00:15:03.880 of interest that has taken an area of
+00:15:06.160 liquidity right any low or any High an
+00:15:09.160 opposite example is a run of liquidity
+00:15:11.680 but not only is this a run of liquidity
+00:15:14.120 this down here is also a key run on
+00:15:17.199 liquidity so we had a run on liquidity
+00:15:19.240 here price pushes up reacts to this
+00:15:22.279 bearish order block pushes down and then
+00:15:25.160 buyers outweigh the market giving us a
+00:15:27.440 sell that liquidates price
+00:15:29.480 and then break structure to the upside
+00:15:32.160 now we just want to look at this as our
+00:15:35.519 bullish order block you can see has F
+00:15:37.399 value Gap Candle One Candle three
+00:15:40.600 doesn't meet we have a f value Gap that
+00:15:42.880 is where we want to look at taking our
+00:15:45.120 position from going to put our stop loss
+00:15:47.680 below this low in here and I know what
+00:15:49.959 you're thinking that is a pretty tight
+00:15:51.720 stop loss and it is so let's continue
+00:15:56.040 and see where are we going to take this
+00:15:58.120 trade to well we want to always be
+00:16:01.199 trading in alignment with the trend so
+00:16:04.160 if we know that we're bullish we want to
+00:16:06.240 just take price to the next logical high
+00:16:09.160 that makes sense so we want to go for a
+00:16:10.560 minimum of 1 to five right so there's
+00:16:12.920 our 1 to five there is our displacement
+00:16:16.040 now it's time to enter and this is where
+00:16:18.000 we're going to be entering from so price
+00:16:21.600 continues trading continue trading
+00:16:23.480 higher price
+00:16:25.319 ranges okay price is now at this point
+00:16:28.120 creating what creating a range what do
+00:16:30.360 we understand about ranges in price a
+00:16:33.000 range in price is creating liquidity on
+00:16:35.079 both sides of the market so when you see
+00:16:37.199 a range occur like this that is
+00:16:40.560 ultimately building liquidity on the buy
+00:16:42.920 side and on the sell side and what
+00:16:44.800 you'll see a lot of times happen is
+00:16:46.440 you'll see a run first on the buy side
+00:16:48.959 liquidity inducing all of these buyers
+00:16:51.759 everybody is now looking to buy because
+00:16:53.480 everybody's perceiving this as a
+00:16:55.639 breakout and then price runs the actual
+00:16:58.480 liquidity that it wants to run and then
+00:17:00.639 goes into it the direction that it
+00:17:03.279 really wants to trade into so pay
+00:17:05.599 attention for that schematic right there
+00:17:07.799 when we break this down right what do we
+00:17:09.959 see we have equal highs across
+00:17:12.799 here
+00:17:14.319 okay price runs the equal highs what do
+00:17:17.720 we have across here we have relatively
+00:17:19.480 equal
+00:17:20.480 lows so price has now run the buy side
+00:17:23.559 of the liquidity okay now it's created
+00:17:27.280 what more equal lows across here stacked
+00:17:30.520 lows equal lows here lows here again
+00:17:33.559 running buy side liquidity so this trade
+00:17:36.600 becomes invalid if we break this high if
+00:17:40.520 we hit the take profit before we have
+00:17:43.799 been tagged in obviously this trade then
+00:17:46.039 becomes obsolete there's no need to take
+00:17:47.679 it anymore however if it doesn't then we
+00:17:50.640 still trade it as is so there you can
+00:17:54.280 see there is the aggressive liquidation
+00:17:57.440 of this low and here there's your
+00:17:59.440 liquidation so at this point price may
+00:18:01.720 or may not tag you in again just keeping
+00:18:04.360 the order
+00:18:05.360 open so price does tag in and if for
+00:18:08.679 whatever reason you would have removed
+00:18:10.520 your order then you can pay attention to
+00:18:13.280 the details by reconfirming this area of
+00:18:16.080 price because what do we notice in here
+00:18:18.440 well you can see as price pushes up
+00:18:21.080 right and then break structure these
+00:18:23.640 tiny little swing points are dictating
+00:18:26.400 the order flow and so you can see that
+00:18:28.840 price is printing this lower internal
+00:18:34.240 Trend right even again you can see it's
+00:18:37.320 printing this lower internal Trend we
+00:18:40.200 have low high lower low lower high lower
+00:18:44.320 low low high
+00:18:47.320 liquidation and then what do we have
+00:18:49.760 it's the exact same thing over and over
+00:18:52.000 and over again right so we have had no
+00:18:54.640 break of structure yet so we would need
+00:18:56.000 to see some sort of break of structure
+00:18:59.360 but there when you have your break of
+00:19:00.960 structure what do you now have right
+00:19:04.000 again price I'm going to zoom in to pay
+00:19:07.200 attention to detail right again these
+00:19:09.880 are the little details that people
+00:19:11.679 Overlook what do we see we see that
+00:19:13.480 price is printing lower lows lower highs
+00:19:16.840 lower lows lower highs lower lows
+00:19:20.840 liquidation higher high right there is
+00:19:25.159 our order block our bullish order block
+00:19:28.480 that break structure number one it
+00:19:31.600 breaks structure it liquidates and it's
+00:19:34.799 aligned with the overall trend so if for
+00:19:37.520 whatever reason you wasn't able to
+00:19:39.039 capitalize on the original move you can
+00:19:41.400 put another position in I would cover
+00:19:43.520 the same stop right so stops on this
+00:19:46.600 same low in here just in case it does
+00:19:48.919 want to come a little bit deeper and
+00:19:51.039 then where do you target you just
+00:19:52.679 looking at the exact same area because
+00:19:54.600 the bias is to take price into this area
+00:19:57.120 that's a one to six .85 then keep
+00:20:00.280 playing price out so price aggressively
+00:20:02.880 moves out of this level and then
+00:20:04.679 eventually price runs to full take
+00:20:06.720 profit with two potential profitable
+00:20:09.280 positions one for one to five risk
+00:20:11.000 reward and one to 6.85 risk to reward

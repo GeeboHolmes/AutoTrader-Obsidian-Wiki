@@ -1,0 +1,803 @@
+# tactiq.io free youtube transcript
+# The ULTIMATE supply & demand trading guide (step by step)
+# https://www.youtube.com/watch/c4CQIzRoNOs
+
+00:00:00.240 If you can master supply and demand,
+00:00:02.320 you'll be able to trade alongside smart
+00:00:04.880 money. Stop getting caught on the wrong
+00:00:07.040 side of the market and take loads of
+00:00:09.440 high riskreward trades with high levels
+00:00:12.080 of accuracy. [music] In this video, I'm
+00:00:13.679 going to reveal to you the five truths
+00:00:16.000 about supply and demand that 99% of
+00:00:18.720 other traders will never understand and
+00:00:20.880 that my students have collectively used
+00:00:22.880 to go on and make hundreds of thousands
+00:00:25.199 of dollars in verified trading profits.
+00:00:27.920 This video will tell you what is [music]
+00:00:30.240 supply and demand, how to read
+00:00:32.960 institutional order flow, how to
+00:00:35.360 accurately draw your supply and demand
+00:00:37.440 zones, how to find high probability
+00:00:39.600 zones that actually work, and then
+00:00:41.920 finally, how to enter and exit trades
+00:00:45.040 for large profits. Okay, so first things
+00:00:47.840 first, I want to explain to you what is
+00:00:50.160 supply and demand and how it actually
+00:00:52.559 controls the price of everything. So, in
+00:00:54.160 case you didn't know, supply and demand
+00:00:55.520 is literally pretty much what controls
+00:00:57.360 the price of absolutely everything that
+00:00:59.280 you can think of, right? Bar maybe some
+00:01:01.280 luxury goods that are based on
+00:01:02.559 psychological scarcity. So, let me
+00:01:04.239 explain to you supply and demand using
+00:01:05.840 this simple chart that we have right
+00:01:07.280 here and also how it directly relates to
+00:01:09.680 trading. On the left here, we have
+00:01:11.439 price. Along the bottom, we have
+00:01:13.360 quantity. Every market that you trade,
+00:01:15.920 forex, indices, crypto, whatever it may
+00:01:18.320 be, lives on this exact relationship.
+00:01:21.360 This downward line here, this line here
+00:01:24.320 is demand. And demand represents buyers.
+00:01:27.680 The higher that price goes, the fewer
+00:01:30.240 buyers are willing to buy. And the lower
+00:01:33.040 that price goes, the more buyers are
+00:01:36.079 willing to step in. This is why demand
+00:01:39.119 slopes downwards. This line here
+00:01:41.920 represents supply and supply represents
+00:01:45.360 sellers. At low prices, sellers aren't
+00:01:48.720 interested. At higher prices, sellers
+00:01:51.520 are motivated. This is why supply slopes
+00:01:54.640 upwards. At this point in the middle,
+00:01:57.040 this is what we call fair value. This is
+00:01:59.680 the only price where buyers and sellers
+00:02:02.000 agree. In trading terms, this is
+00:02:04.799 balance. When price goes above fair
+00:02:07.439 value, sellers are happy, but buyers
+00:02:10.318 aren't. There's too much supply and not
+00:02:12.800 enough demand. So, naturally, price
+00:02:14.959 wants to move down. When price trades
+00:02:17.520 far below fair value, buyers are excited
+00:02:20.720 but sellers aren't. And therefore, there
+00:02:22.720 is too much demand and not enough
+00:02:24.640 supply. And so naturally, price wants to
+00:02:27.599 move up. And so you can visually
+00:02:29.200 represent this like this, right? Let's
+00:02:30.800 say we have a price shock. When price
+00:02:32.480 gets too far above perceived fair value,
+00:02:35.200 so when we go into this exploration
+00:02:36.959 phase after a range, essentially at this
+00:02:38.959 point of time, buyers aren't really
+00:02:41.200 interested. They're not really motivated
+00:02:42.640 to keep buying. But sellers sellers are
+00:02:45.040 very interested and motivated to sell.
+00:02:47.200 So because supply outweighs demand,
+00:02:49.280 price naturally gravitates back to fair
+00:02:51.519 value. When we trade below fair value,
+00:02:54.160 typically what we see is that buyers are
+00:02:57.040 ultimately very motivated to buy in
+00:02:59.200 here. But sellers are less motivated to
+00:03:01.599 sell at these levels. And so naturally
+00:03:03.680 price will start to gravitate more
+00:03:05.519 toward fair value. This is ultimately
+00:03:08.080 how a market is created, right? It's
+00:03:09.840 what a chart looks like. Behind the
+00:03:11.519 candlesticks that you see there is a
+00:03:13.200 story that we are being told about
+00:03:14.959 supply and demand and its relation to
+00:03:17.120 price. This is literally the entire
+00:03:19.360 reason that a market moves. Price does
+00:03:21.680 not move randomly. It moves to correct
+00:03:24.000 imbalance and pauses at balance. That's
+00:03:26.640 again why you see price move in such a
+00:03:29.519 way where once it becomes imbalanced,
+00:03:31.680 price naturally wants to correct back to
+00:03:33.599 balance. And you know a balanced price
+00:03:35.760 range when you see a lot of price
+00:03:39.200 ranging around. When you see a range in
+00:03:41.519 price, usually this means that price is
+00:03:43.440 pretty balanced. Sellers and buyers are
+00:03:45.440 both pretty happy. And this is what we
+00:03:47.360 call fair value. The moment that price
+00:03:50.000 moves away aggressively like so price
+00:03:52.480 becomes imbalanced, right? It's above
+00:03:54.720 fair value. And if you've ever seen a
+00:03:56.480 fair value gap, then essentially this is
+00:03:58.879 what we're referring to. A fair value
+00:04:00.319 gap is an indication of an imbalanced
+00:04:02.799 market. The market is always going from
+00:04:04.959 areas of balance to areas of imbalance
+00:04:07.120 and its job is to find new balance at
+00:04:10.159 this level or to rebalance at old
+00:04:13.439 balanced levels. This is why the market
+00:04:15.599 always looks like this. As traders, it's
+00:04:18.720 not our job to predict the future. We
+00:04:21.120 are simply identifying where supply or
+00:04:23.759 demand is likely to overwhelm the other
+00:04:26.560 and positioning ourselves around those
+00:04:28.960 areas. That is literally it. Every
+00:04:31.360 strategy, every indicator, and every
+00:04:33.199 model that you've ever seen is built on
+00:04:35.199 this foundation. If you understand this,
+00:04:37.680 you understand markets. And from there,
+00:04:40.320 everything else is the smaller details
+00:04:42.560 and refinements that allow you to trade
+00:04:44.880 profitably, consistently. And those are
+00:04:46.639 the details we're going to go into right
+00:04:48.479 now. Okay, let's take a quick break just
+00:04:50.320 for one second cuz I want to share a
+00:04:52.000 golden opportunity. You see, after you
+00:04:54.160 finish this video, I've left you another
+00:04:57.120 free master class, a 45minute masterass,
+00:05:00.080 and how you can guarantee that you'll
+00:05:01.520 become profitable this year, I'll leave
+00:05:03.840 the link down in the description. Enjoy
+00:05:05.919 this video and after, go ahead and check
+00:05:07.840 it out. So, now we're going to be
+00:05:09.680 looking at institutional order flow,
+00:05:11.759 right? This is how a market actually
+00:05:14.000 works behind your candlesticks. So, this
+00:05:16.479 is what the order book actually looks
+00:05:18.560 like. When you see a candlestick going
+00:05:21.520 up or a candlestick going down beneath
+00:05:24.880 this candlestick is this right which is
+00:05:27.759 what we call the depth of market or the
+00:05:29.680 order flow whatever you want to refer to
+00:05:31.120 it as in the order book we have the bid
+00:05:33.919 which is the buyers and we have the ask
+00:05:37.039 which is the sellers right just think of
+00:05:38.720 it as if you are a bidder you're bidding
+00:05:40.720 on something you're buying that thing or
+00:05:43.039 you're willing to buy that thing if
+00:05:44.639 you're setting an ask price you're the
+00:05:46.080 one that's selling for something you're
+00:05:47.360 asking for this amount for the product
+00:05:49.360 that you have. So you already have the
+00:05:51.360 thing and as a bidder you don't have the
+00:05:53.120 thing. Right? Very simple terms. When
+00:05:55.039 someone hits the bid they are wanting to
+00:05:56.880 buy. When someone hits the ask they are
+00:05:58.400 wanting to sell to a bidder. Obviously
+00:06:00.240 for a market to work every bid must have
+00:06:02.800 an ask and every ask must have a bid.
+00:06:04.960 Right? It's how a market works. You
+00:06:06.479 cannot have a market where you have only
+00:06:08.479 the ask and no bid. So at any one point
+00:06:11.600 of time we have two participants in the
+00:06:14.319 market. We have the aggressive and we
+00:06:16.629 [snorts] have the passive. Passive
+00:06:19.199 liquidity looks like this. So the
+00:06:21.759 current price is 1.5. Let's just say
+00:06:24.560 this is the current price. Let's say you
+00:06:26.720 were an aggressive buyer and let's say
+00:06:29.759 price was 1.5 right now. If you were an
+00:06:32.479 aggressive buyer, you would essentially
+00:06:34.560 have to go and find the most readily
+00:06:36.960 available seller. And so you would have
+00:06:39.360 to go and meet a seller of this, which
+00:06:41.600 is the ask. So, if you were an
+00:06:43.600 aggressive bid, you would go and bid on
+00:06:46.080 the most recent ask, which in this case,
+00:06:48.319 let's say it's 1.6. So, let's say we
+00:06:50.560 have a passive seller, right, who is
+00:06:52.880 sitting at 1.6. And at 1.6, let's say
+00:06:56.400 they have seven lots available. And
+00:06:58.800 let's say there's another passive seller
+00:07:01.120 at 1.7 who has three lots available,
+00:07:05.120 right? So, if you were an aggressive
+00:07:06.800 buyer, priced at 1.5, and you want to
+00:07:09.520 hit the bid for 10 lots, here's what
+00:07:11.840 would happen. You would get filled your
+00:07:13.599 first seven lots at 1.6, right? And then
+00:07:17.120 these seven lots in here become zero.
+00:07:20.960 Then your next lot of liquidity, which
+00:07:24.639 is the three lots that are remaining,
+00:07:26.400 would get triggered at 1.7, right? And
+00:07:29.360 then this would get cleared and this
+00:07:31.360 would be left at zero. And now the
+00:07:33.199 current price would be at 1.7 which is
+00:07:36.560 like this, right? This is how you see a
+00:07:38.080 candle. You have the open of the candle
+00:07:39.840 and you have the current high of the
+00:07:41.199 candle. Now let's say the bid starts
+00:07:43.599 filling back up with more passive
+00:07:44.960 buyers. So you was the passive buyer at
+00:07:46.880 1.3. You see that price is increasing.
+00:07:49.680 Now maybe you change your mind. For
+00:07:51.039 example, now let's say you're like, &quot;Oh
+00:07:52.720 crap, I'm probably not going to get my
+00:07:54.400 order filled at this price point. Let me
+00:07:56.319 add my passive order. Let's go to 1.5.&quot;
+00:07:59.680 And so now let's say you place your
+00:08:01.599 order again at 1.5. You would be now
+00:08:04.240 sitting here in the order book. Now
+00:08:05.919 let's say for example we get an
+00:08:08.479 aggressive seller step into the market
+00:08:11.199 at 1.7. And let's say this aggressive
+00:08:13.520 seller has 15 lots that it wants to
+00:08:17.520 transact. So that seller will transact
+00:08:20.400 those 15 lots to the most recent bits,
+00:08:23.919 right? The passive liquidity that sits
+00:08:25.440 in the bits. And so where would that be?
+00:08:27.680 Well, we're at 1.7. Let's say there was
+00:08:30.319 zero lots available at 1.7. Price would
+00:08:34.080 skip from 1.7 down to 1.6. Let's say
+00:08:38.479 there's no liquidity at 1.6. Price would
+00:08:40.399 skip back down to 1.5, right? And then
+00:08:43.279 you would see a wick form. Notice that
+00:08:45.519 there's a wick at price. [snorts] This
+00:08:47.200 represents the highest level that price
+00:08:48.720 has been at. Now, we have that wick
+00:08:50.160 form. And so, you're available at 1.5,
+00:08:53.440 right, for 10 lots. So now your 10 lots
+00:08:57.040 get triggered. You get filled at your
+00:08:59.120 price that you wanted to get filled at
+00:09:00.560 and price continues going lower to the
+00:09:02.640 next available liquidity. Let's say it's
+00:09:04.000 at 1.4 and let's say there are five lots
+00:09:06.480 available. Price would travel like so
+00:09:09.519 down to this 1.4 level. This candle
+00:09:12.080 would then become a bearish candle with
+00:09:14.320 a wick on the buy side. That's how a
+00:09:16.080 candle is formed. Now we're at 1.4,
+00:09:18.640 right? Which is where the aggressive
+00:09:20.800 seller got their entire position filled
+00:09:22.720 at. So they wanted to sell at 1.7 and
+00:09:26.640 their entire order was filled and the
+00:09:29.760 the filling of that order was finished
+00:09:31.600 at 1.4, right? Giving them somewhere in
+00:09:35.360 the average fill value of around 155
+00:09:39.279 something along those lines. That is
+00:09:40.800 essentially what we experience when we
+00:09:42.000 get slippage. You get slipped when there
+00:09:44.480 isn't the available liquidity for you at
+00:09:46.880 your specific point, right? That's why
+00:09:49.120 we experience slippage. And this is how
+00:09:51.279 a market is made. That's how a
+00:09:52.880 candlestick is formed. That's how a
+00:09:55.040 candle goes up and down, up and down.
+00:09:57.519 Now, on a lower time frame, let's say
+00:09:59.440 for example, this was the daily candle
+00:10:03.040 that was forming on a lower time frame.
+00:10:05.519 What's actually happening is price
+00:10:07.519 started at 1.5, right? And then it made
+00:10:10.880 its way up to 1.7 and then it traded its
+00:10:14.880 way back down to 1.4.
+00:10:18.240 And so on a daily time frame, you just
+00:10:20.880 get this one candle build now. But on a
+00:10:23.120 lower time frame, what we're seeing is
+00:10:25.839 what we've just gone through on a
+00:10:28.079 massive scale. So instead of it just
+00:10:30.480 being me and a couple of others bidding,
+00:10:32.320 we're talking about thousands, if not
+00:10:34.320 millions of different transactions
+00:10:36.240 coming in. And so now you can see how
+00:10:38.399 this becomes complicated between the
+00:10:40.079 supply and demand. And also how we see
+00:10:43.600 all of these small little ticks in price
+00:10:46.320 every second. That's because what is
+00:10:48.480 going on in this very simplified
+00:10:50.560 explanation that I've just walked you
+00:10:51.760 through is going on on a massive scale
+00:10:54.800 deep inside of the order book, right,
+00:10:56.720 with millions of market participants.
+00:10:58.640 And so that is how a candlestick is
+00:11:00.399 formed. And that is also how one
+00:11:02.160 candlestick is formed. If you zoom into
+00:11:04.079 that candlestick, you will see on the
+00:11:05.600 lower time frames, you'll see an entire
+00:11:08.399 narrative of price performing with
+00:11:10.480 structure and highs and lows and all
+00:11:12.160 this sort of stuff. That is how price
+00:11:14.560 moves. And all of this is simply the
+00:11:18.240 supply and the demand. The supply is the
+00:11:21.760 ask and the demand is the bid. And there
+00:11:24.560 are two different types. There is
+00:11:26.320 aggressive and there is passive. The
+00:11:28.320 aggressors attack the ask. If you're an
+00:11:31.120 aggressive buyer, you attack the ask.
+00:11:32.800 You don't wait for price to come to you.
+00:11:34.399 You go to price and you're willing to
+00:11:36.240 buy at that price right now. If you're a
+00:11:37.920 passive buyer, you're sitting and
+00:11:40.640 waiting for price to come to you. And
+00:11:42.399 vice versa. If you are an aggressive
+00:11:44.959 seller, right, you're attacking the bid.
+00:11:47.279 You're going to find the most recent
+00:11:49.279 buyer. You're showing up to him and
+00:11:51.040 you're presenting your offer to him. If
+00:11:52.880 you're a passive seller, you're waiting
+00:11:55.040 for the buyer to come and find you. And
+00:11:56.720 if they don't find you, no problem. I
+00:11:58.800 don't get filled on my position. If they
+00:12:00.079 do find me, I do. Right? That is the
+00:12:01.920 difference. And the price the aggressive
+00:12:03.920 participants have to pay is usually some
+00:12:06.079 form of slippage or could be some form
+00:12:07.839 of slippage. Okay? So, if all of that
+00:12:09.519 was maybe a little bit confusing, hang
+00:12:11.519 in there with me because I'm about to
+00:12:13.040 simplify it so much more. So, now we're
+00:12:15.040 going to walk through how to identify
+00:12:17.360 institutional levels of supply and
+00:12:18.800 demand in a simple price action chart.
+00:12:21.760 So, it's very simple. What we just
+00:12:23.839 explained is that price is always going
+00:12:25.920 from balance to out of balance. So, how
+00:12:29.440 to identify supply and demand is very
+00:12:32.000 simple. In this instance, we can see
+00:12:33.680 that price is trading higher, which
+00:12:35.600 means that demand is in control. Now all
+00:12:37.839 you need to identify a range in price
+00:12:40.639 followed by an aggressive expansion.
+00:12:42.720 This will give you a demand zone because
+00:12:44.240 what we can see here is that this range
+00:12:46.480 in price as we've already explained
+00:12:48.959 there is a relative equal level of
+00:12:54.000 supply and demand at this level. The
+00:12:56.560 reason that price is ranging so well is
+00:12:58.800 because buyers and sellers are agreeing
+00:13:00.720 on price at this level and a lot of
+00:13:02.720 transactions are able to take place.
+00:13:05.120 This is an area of balance, right? When
+00:13:09.120 price is like this, this is usually an
+00:13:11.360 area of balance. And then what happens?
+00:13:13.360 Out of nowhere, price aggressively runs
+00:13:16.079 into one direction, completely moving
+00:13:18.959 out of balance and into expansion. In
+00:13:22.000 this instance, that expansion is
+00:13:23.440 bullish. So price is trading higher,
+00:13:25.600 which simply means there is more demand
+00:13:27.680 than there is supply. That is why price
+00:13:30.160 is continuously moving higher. Price is
+00:13:32.880 going to try to find [snorts] sellers,
+00:13:35.120 right? There is an abundance of buy
+00:13:38.000 liquidity that is available in the
+00:13:39.760 market. Price needs to go and balance
+00:13:42.000 that buy liquidity with sellside
+00:13:44.160 liquidity. And so price is hunting for
+00:13:46.800 sellers to fill their orders at. That is
+00:13:48.800 why we move out of balance into
+00:13:50.639 imbalance. Now what we do is we take the
+00:13:53.120 trading range in here that we were
+00:13:55.920 gravitating towards. We take the trading
+00:13:57.920 range that we were gravitating inside
+00:13:59.440 of. This was the previous area of fair
+00:14:01.360 balance. This area now becomes a demand
+00:14:04.639 zone. Right? Why? Because demand
+00:14:07.760 originated from here. This is where the
+00:14:10.320 area of demand originated from. And I'll
+00:14:12.160 tell you a little something. When you
+00:14:13.760 understand institutions, large level
+00:14:16.639 players, these are institutions that are
+00:14:18.720 trading with so much capital that it's
+00:14:21.839 very difficult for them to fill their
+00:14:23.680 orders. What I mean by that is we just
+00:14:25.519 explained how the market works. So if
+00:14:28.079 you was a institution and let's say you
+00:14:30.639 had, you know, 10,000 lots that you
+00:14:34.639 needed to trade and you had a target for
+00:14:36.639 those 10,000 lots, you can't just go to
+00:14:38.959 the market and dump your 10,000 lots
+00:14:40.880 into the market and buy 10,000 lots of
+00:14:43.040 your dollar. Why? Because of your 10,000
+00:14:45.279 lots, you'll probably get some here,
+00:14:47.120 some here, some here, some here, some
+00:14:48.399 here, some here, some here, some here.
+00:14:49.920 Because it's such a large volume, you
+00:14:51.920 will end up taking the market from down
+00:14:54.160 here to up here for you to trade this
+00:14:56.880 10,000 lots. Because for you to buy
+00:14:58.959 10,000 lots, you need to find 10,000
+00:15:01.839 lots in supply. And there may not be
+00:15:04.160 10,000 lots in supply right here. There
+00:15:05.920 may be a,000 here, 1,000 here, 1,000
+00:15:08.959 here, 1,000 here, 1,000 here, 1,000
+00:15:10.880 here. So if you deploy it all right now,
+00:15:12.720 the price is just going to explode
+00:15:14.320 because it's just going to keep running
+00:15:16.320 up on the ask side to say, &quot;Hey, who's
+00:15:18.800 got lots for me?&quot; Essentially, it's
+00:15:20.800 going into discovery phase. Who's got
+00:15:22.720 the lots for me? I need to fill my
+00:15:24.480 trade. And this trader then who's
+00:15:26.079 trading these 10,000 lots inside of this
+00:15:27.839 institution gets a very bad fill. Let's
+00:15:29.760 say they wanted to fill, they have a
+00:15:31.760 target. They get into the markets in the
+00:15:33.199 morning. They say, &quot;Hey, today my
+00:15:34.880 objective is to fill 10,000 lots at one
+00:15:38.399 EU, right?$1.&quot; And if they just dump all
+00:15:41.839 their order in at one, they'll probably
+00:15:44.320 get their average order value at let's
+00:15:48.399 say for example 1.5. That's a terrible
+00:15:51.519 job. So they didn't hit their target of
+00:15:53.279 getting filled at one. They got fil.5
+00:15:55.279 because they dumped all their liquidity
+00:15:56.720 in. Now instead what these institutions
+00:15:59.440 will do, they will find an area of
+00:16:01.600 balance where price is accepting and
+00:16:03.759 what they will do is they will slowly
+00:16:06.480 sneak their orders into this area of
+00:16:09.120 balance. They'll place a th00and in
+00:16:10.720 here, wait a little bit, price finds
+00:16:12.800 balance, a th00and in here, price shoots
+00:16:14.800 up, it's respected, we find more
+00:16:16.720 balance, they'll put a,000 in. And so
+00:16:18.800 they load up in these areas. This is the
+00:16:20.880 load up phase for a large institution to
+00:16:22.959 fill a large order. That's the only way
+00:16:25.199 that they're going to get all of their
+00:16:27.120 order filled at the price they want it
+00:16:28.880 to be filled at. And then once their
+00:16:30.240 order is filled at that level, that is
+00:16:32.560 when their job is complete. And so in
+00:16:35.279 these areas of ranges, this is where you
+00:16:38.560 will see institutions build upon price.
+00:16:40.720 And then let's say that trader was on
+00:16:43.120 the right train, right? Price then
+00:16:44.959 extrapolates into this direction. It
+00:16:47.519 expands into this bullish direction. Now
+00:16:49.920 this area of price holds a level of
+00:16:53.519 demand because there is a lot of demand
+00:16:56.480 for price at this level, right? As
+00:16:58.320 clearly seen. And the fact that price
+00:17:00.639 aggressively expands so high insinuates
+00:17:04.079 that all of the demand was not filled at
+00:17:06.720 the best available price. So let's say
+00:17:08.640 in another scenario, this same trader
+00:17:10.799 with the same goal of filling 10,000
+00:17:12.880 lots at this level, which is what
+00:17:14.880 happens most of the time. They get that
+00:17:16.640 target and price is in balance and
+00:17:18.959 whilst price is inside of this balance
+00:17:21.520 maybe he only gets to expend 6,500 lots
+00:17:26.240 and then all of a sudden because he was
+00:17:28.400 buying so much there wasn't any sell
+00:17:30.240 liquidity at this level anymore. Sellers
+00:17:32.240 become exhausted. There's no one willing
+00:17:34.080 to sell this level anymore and so price
+00:17:36.240 goes into search for sellers. That
+00:17:38.400 trader is not happy about trying to fill
+00:17:40.960 the rest of his order in this price leg.
+00:17:42.960 So, what he does is he waits and he sets
+00:17:45.919 himself as a passive buyer at this same
+00:17:48.799 price point for his remaining 3,500
+00:17:52.080 lots. What happens? Price goes outside
+00:17:54.480 of the balance range. Price usually
+00:17:56.320 gravitates back toward the balance
+00:17:57.679 range. And when price hits this level,
+00:18:00.240 guess who is there waiting? Mr. 10,000
+00:18:02.640 lots is still not triggered his whole
+00:18:04.960 order. So when price comes back in and
+00:18:07.200 sellers are moving through the price,
+00:18:08.640 there is just this large 3,500 lot order
+00:18:12.640 holding this price until eventually the
+00:18:14.799 sellers who were trying to push price
+00:18:16.640 lower and sell at these levels get
+00:18:18.559 exhausted. Once they get exhausted, the
+00:18:21.200 sell side of the order book becomes thin
+00:18:23.360 and buyers instinctively just push price
+00:18:27.039 higher and that just happens as an
+00:18:29.280 automatic process. That is why these
+00:18:31.440 demand zones when you find the correct
+00:18:33.440 ones they hold and you will know it's an
+00:18:35.679 institutional level of supply and demand
+00:18:37.679 if you see these large ranges and then
+00:18:40.000 massive expansions out of that level.
+00:18:42.080 That is how you actually identify an
+00:18:44.799 area of institutional supply and demand.
+00:18:46.799 Now let me show you this in a real
+00:18:48.240 example. Okay, let's take this price
+00:18:50.320 chart here. What do we see that has
+00:18:52.960 happened right here? I will tell you
+00:18:55.120 very simply what we see is that price
+00:18:56.880 was in a range of balance
+00:18:59.520 in a range of balance and then price
+00:19:02.960 boomed up into here moving price out of
+00:19:06.240 balance. That it's as simple as that. We
+00:19:08.640 had fair value and we moved out of fair
+00:19:11.039 value. Who is dominating in this
+00:19:12.799 transaction? Obviously buyers, right?
+00:19:14.960 Demand outweighs supply. That's why
+00:19:17.360 price has gone and traded higher, right?
+00:19:20.640 So then this level in here would be your
+00:19:25.679 demand level, right? And this is how I
+00:19:28.720 would draw it. This in here would be
+00:19:30.720 your area of demand. And so you can draw
+00:19:33.919 this across here. And notice that price
+00:19:36.559 goes from searching, failing to find new
+00:19:40.559 accepted balance, and it comes back into
+00:19:44.240 this area of demand. And then what
+00:19:47.760 happens at this level? Here is our
+00:19:49.440 demand. Here is our expansion out. Price
+00:19:51.840 comes back to this level, right? Sellers
+00:19:54.320 are trying to attack this level. Failure
+00:19:56.480 to do so. And then price has the
+00:19:58.799 continuation expansion from this area of
+00:20:01.840 price. This area of price is very
+00:20:04.799 clearly and obviously an institutional
+00:20:07.360 area of demand. Okay. Now, what I'm
+00:20:09.760 going to show you is how [snorts] to
+00:20:11.760 identify high probability supply and
+00:20:14.799 demand. Simply put, supply and demand
+00:20:16.960 zones are everywhere in the market. How
+00:20:19.360 can we truly understand which ones have
+00:20:21.840 a higher chance of working than others?
+00:20:24.720 And the way that I have found through
+00:20:26.320 years of the data that I have gathered
+00:20:28.240 on this specific concept, I found one
+00:20:30.320 thing stands out above all else about
+00:20:33.039 how to truly understand whether a supply
+00:20:34.960 and demand zone will actually work. And
+00:20:37.600 that is structure institutional order
+00:20:41.200 flow, right? The actual market structure
+00:20:43.679 of price. And so notice in this price
+00:20:46.159 level here, what do we have? Price
+00:20:48.080 starts up here, right? Price comes down.
+00:20:52.240 We have a low. There's a low in price.
+00:20:55.120 Price puts in a lower high. This high is
+00:20:58.320 lower than the previous high. That's
+00:21:00.159 already a bearish indication. Price then
+00:21:02.400 puts in a lower low. This low is lower
+00:21:05.600 than the previous low. At this point in
+00:21:07.120 time, it is very clear and obvious that
+00:21:09.440 price is bearish. So, the overall flow
+00:21:11.760 of orders are bearish. So, we have a
+00:21:13.280 lower low. Price comes in again. Price
+00:21:15.200 puts in a lower high. or in fact price
+00:21:17.679 doesn't put in a lower high, price
+00:21:19.679 liquidates the high. That's an even
+00:21:21.679 clearer sign for me. When price takes
+00:21:23.520 out an old high, but with a wick and we
+00:21:27.039 then close down here, that to me is a
+00:21:30.159 massive indication of market reversal.
+00:21:32.000 So we have bearish trend plus a market
+00:21:34.240 reversal indication and then we have
+00:21:36.960 another take of the low. So when I'm
+00:21:39.200 coming into the market each day, I want
+00:21:40.799 to understand just a simple current
+00:21:42.960 trend. So we have a swing high and we
+00:21:45.039 have a swing low down here. Now I find
+00:21:47.760 that the best way to do things, right?
+00:21:49.600 Let's say I play price out like this.
+00:21:51.360 What you'll notice here, there is both a
+00:21:52.960 demand zone and a supply zone, right?
+00:21:55.520 Very clearly. How do I know that? Well,
+00:21:57.360 you can see that price was in a very
+00:22:00.080 tight range in here and then had a very
+00:22:02.159 aggressive sell-off. So this is going to
+00:22:04.320 be our supply zone. You can just take a
+00:22:06.480 low to a high inside that range and pull
+00:22:09.120 that across. That's going to be your
+00:22:10.559 supply zone. Then at the bottom of this
+00:22:12.720 supply zone, price finds another range.
+00:22:15.360 We'll take the low to the high of the
+00:22:16.799 range and then we have aggressive buy
+00:22:19.280 out of that level. So we have demand in
+00:22:21.440 here and we have supply in here. And so
+00:22:24.080 let's say the supply trader has their
+00:22:27.440 levels in here and they want to take out
+00:22:30.000 this low. And let's say the demand
+00:22:32.320 trader has their levels in here and
+00:22:34.480 wants to take out the sellers. Right?
+00:22:37.039 This person's betting on demand. This
+00:22:39.600 person is betting on supply. Now the
+00:22:42.400 higher probability of who is going to
+00:22:44.640 win this battle is the one who is
+00:22:46.400 trading with the trend. Right? Very
+00:22:48.400 simply put. So the trend here is
+00:22:50.559 bearish. So therefore the higher
+00:22:52.559 probability is that the supply level is
+00:22:54.799 the one that holds and the demand level
+00:22:57.440 is the one that gets traded through. Now
+00:22:59.760 this demand might hold momentarily
+00:23:02.799 but eventually
+00:23:04.880 this demand zone will lose and that's
+00:23:07.280 what we see happen in this example.
+00:23:13.280 We see that the supply zone is reached
+00:23:23.760 on multiple occasions. This supply zone
+00:23:25.840 gets reached. We reach in, buyers try to
+00:23:29.120 attack it again and both of the times
+00:23:31.919 they fail. Now we find ourselves
+00:23:33.760 approaching this demand level. Demand
+00:23:36.640 reacts and immediately trade straight
+00:23:39.360 through it. And so if we remove both of
+00:23:41.440 these, we will see that the supply
+00:23:43.919 that's in alignment with the trend will
+00:23:45.919 always outweigh the demand that is
+00:23:48.159 against the trend. Here's another
+00:23:50.159 example that happens shortly after. What
+00:23:52.559 we can see here is that price is very
+00:23:54.799 clearly bullish, right? We have a break
+00:23:56.960 of structure
+00:23:58.799 across here. And so we have our swing
+00:24:01.919 low and our swing high. Notice that
+00:24:05.280 price in general in this area is in
+00:24:07.600 pretty much a balanced price range. At
+00:24:09.760 some point in time, price becomes out of
+00:24:13.200 balance, right? We've gone from the
+00:24:15.840 range of this level to out of this
+00:24:18.480 level. What we'll notice is that there's
+00:24:21.039 this massive range and the expansion.
+00:24:23.520 And so you can literally take right
+00:24:25.679 whatever of this range you would like to
+00:24:27.440 take. You can take this entire level if
+00:24:29.039 you would like to. This is going to be
+00:24:31.200 your demand zone. And again very clearly
+00:24:33.600 if you're a buyer of this demand zone
+00:24:36.000 and simply just taking out the highs
+00:24:37.600 again obviously I do not trade with a
+00:24:39.200 1:1 risk-to-reward ratio. It's just the
+00:24:40.960 purpose of showing you. You'll notice
+00:24:43.360 that price comes straight into our
+00:24:45.200 demand zone and then straight out of the
+00:24:47.279 demand zone. Notice that again even this
+00:24:49.120 in of itself right price has had this
+00:24:51.200 long range for a while and now it's
+00:24:53.440 expanded out above this highs. Even this
+00:24:55.360 entire zone in general this is an
+00:24:57.760 institutional level of demand. And so
+00:25:00.080 it's expected that this level will
+00:25:02.159 probably hold itself and continue
+00:25:05.039 trading higher from this specific level.
+00:25:15.600 Right? And that's ultimately what
+00:25:17.679 happens because this entire level in
+00:25:19.679 here really acts as a demand range that
+00:25:22.640 builds up, we expand out, we come back
+00:25:24.799 in, we build up, we expand out. Okay.
+00:25:27.440 Now, we'll put everything together and
+00:25:29.360 walk through how we will actually enter
+00:25:31.360 and exit using everything that we have
+00:25:33.919 just learned here in this video. So,
+00:25:35.600 before we actually even identify supply
+00:25:37.679 and demand, as we explained, how to
+00:25:39.600 identify high probability supply and
+00:25:42.000 demand is based actually on the market
+00:25:44.159 structure. So the first thing that you
+00:25:46.080 must do when you come into the market is
+00:25:48.559 identify your current trend. And so I
+00:25:50.240 like to use the 15-minute time frame on
+00:25:51.919 Euro US dollar. And so what we can see
+00:25:53.520 is that price was actually very bullish.
+00:25:55.360 Right? We see that price puts in a high,
+00:25:57.200 a low, higher high, higher lows. Right?
+00:25:59.919 It's putting in consistently higher
+00:26:01.440 prices until eventually we have a high
+00:26:03.440 in here that puts in a low down here
+00:26:05.760 that puts in a new high up here. Right?
+00:26:08.080 So this is a bullish break of structure.
+00:26:10.159 At this point, price was very bullish
+00:26:11.840 and then price breaks those lows down
+00:26:14.720 here and we actually shift bearish. So,
+00:26:17.039 we were bullish and now we're actually
+00:26:19.120 bearish. The high in here and the low
+00:26:21.520 down here. So, first things first, we
+00:26:23.919 take out this and we're going to put our
+00:26:25.760 low in here and our high in here. Now,
+00:26:27.760 to me, nothing matters other than me
+00:26:31.440 being a seller of this market. And how I
+00:26:34.000 want to do that is first identify the
+00:26:35.919 trend, which we've just done. Second,
+00:26:37.679 then identify the area of supply. And
+00:26:40.080 for me, in this instance, the supply is
+00:26:42.480 obvious, right? What do we have? We have
+00:26:44.240 a very rangebound price before
+00:26:46.559 aggressive expansion. So, we have
+00:26:48.080 everything. We just looked for a range
+00:26:50.320 and then expansion. So, inside of our
+00:26:52.640 range is our institutional area of
+00:26:54.640 supply. But I'm not going to just try to
+00:26:57.120 take this level, right? Cuz I would be
+00:26:58.799 basically trading this my stop loss here
+00:27:01.440 and my execution up in here, right?
+00:27:03.919 That's not really what I'm looking for.
+00:27:05.440 1 to 1.57 risk-to-reward. That's not
+00:27:07.840 what I want. I don't want to risk $1,000
+00:27:09.600 to make $1,570.
+00:27:11.760 No way. So, what I do is I mark out
+00:27:14.480 these zones like this, right? I will
+00:27:16.720 just mark out this as a supply zone,
+00:27:19.840 right? Very easy area of supply and I
+00:27:22.240 will just wait for price to get into
+00:27:24.159 that zone. So, here you can see that
+00:27:25.679 price gets into my zone. And instead of
+00:27:27.600 just trading from this level, right,
+00:27:29.279 which is what we just looked at, instead
+00:27:30.880 of just taking this trade, which is very
+00:27:32.559 lowrisisk reward, what I will do is I
+00:27:35.279 will wait for confirmation. And so I
+00:27:36.960 will go to a 1 minute time frame and
+00:27:39.039 I'll look at the market structure on the
+00:27:40.640 one minute time frame. Notice that as
+00:27:42.400 price makes its way up to this gray box,
+00:27:44.559 which is our supply. Notice that the one
+00:27:46.240 minute time frame is very bullish,
+00:27:48.960 right? And so what I wait for is I wait
+00:27:51.039 for a shift. I wait for price to tell me
+00:27:54.080 that this area of price is confirmed.
+00:27:56.320 And so price is bullish, right? And then
+00:27:59.840 eventually when price shifts, that would
+00:28:02.240 be my confirmation. And at this point,
+00:28:05.600 that's when I can be a confirmed seller
+00:28:07.760 of price. And so now I need to find my
+00:28:10.080 level. And my level is very simple. I'll
+00:28:12.399 go to a 5m minute time frame and I will
+00:28:14.640 just use this specific order block,
+00:28:17.600 right?
+00:28:19.200 This final buy to sell because this is
+00:28:22.159 the area that everything changed. This
+00:28:24.559 is the area that price went from demand
+00:28:27.840 in control to supply in control. And I
+00:28:31.679 want to find the last level of demand
+00:28:33.919 that was in control and where the supply
+00:28:37.279 came in. And that's what I want to use.
+00:28:39.039 I want to use this level as my entry
+00:28:41.200 point, right? And so that becomes my
+00:28:43.840 entry just like this. And I'm pretty
+00:28:47.279 sure, yeah, price doesn't even hit it.
+00:28:51.919 So I wouldn't even guide the trade. And
+00:28:54.080 so this tells me that the order flow has
+00:28:56.480 shifted because remember the order book
+00:28:58.159 that we showed earlier. What we're
+00:28:59.919 seeing here is that demand is
+00:29:01.520 consistently taking control, right?
+00:29:03.200 Price is just going higher and higher
+00:29:05.679 and higher in the order book until
+00:29:08.720 sellers take control, right? Which is
+00:29:11.120 this high here. And then all I need to
+00:29:12.960 really do is just find the area. You can
+00:29:15.279 literally just use the entire range. I
+00:29:17.919 can take the low to the high of this
+00:29:20.880 level like this. draw this across and I
+00:29:22.559 can use that as my entry point. That can
+00:29:24.320 be my entry, right? There's no problem.
+00:29:26.080 That's a five pip stop loss. And so now
+00:29:27.840 notice the difference. Nothing changes.
+00:29:29.760 I'm taking the same target, right? And
+00:29:32.480 pretty much all of my trades are 1 to5
+00:29:34.240 riskreward. And so nothing's changed.
+00:29:35.919 It's the exact same idea, right? We are
+00:29:38.159 bearish. This is our area of supply, but
+00:29:40.880 instead of taking this trade where I
+00:29:42.880 would just open the trade here and put
+00:29:44.559 my stop loss up here and take out this
+00:29:46.480 low for a one, I'm waiting for
+00:29:49.360 confirmation. So, this makes my supply
+00:29:51.440 and demand even higher probability
+00:29:53.600 because I'm not just taking it. I'm
+00:29:55.120 waiting for price to come in and clearly
+00:29:57.760 reject this level. You can see we come
+00:29:59.840 in bullish and now we're shifting
+00:30:02.000 bearish. You can see the clear
+00:30:03.360 rejection. Once we get the clear
+00:30:04.960 rejection, then I take my entry and I
+00:30:07.600 just do the same thing that I would in
+00:30:09.120 this one, but instead of getting in
+00:30:11.039 here, stops here, I get in here and
+00:30:13.360 stops here. It's a much more refined
+00:30:15.200 area of price. And we can see how that
+00:30:17.039 plays out by looking at the 5m minute
+00:30:19.279 time frame.
+00:30:21.039 It's a beautiful entry in price starts
+00:30:24.080 moving away.
+00:30:28.480 Even in here as well, notice what's
+00:30:30.000 happening, right? This supply and demand
+00:30:32.000 is existing everywhere. Price sells off.
+00:30:34.799 Price finds a new level of acceptance,
+00:30:37.120 right? Price ranges and then expands.
+00:30:39.600 Every time frame this is occurring. What
+00:30:41.760 happens? Price expands out. Price comes
+00:30:43.520 back into this supply and price starts
+00:30:45.600 moving away once again
+00:30:55.360 and eventually we'll run through and
+00:30:56.880 this supply zone holds the entire time
+00:30:59.200 and that would be your trade idea
+00:31:01.600 complete. Now if you want to guarantee
+00:31:03.600 that you'll become profitable this year,
+00:31:05.760 I've left for you a free training below
+00:31:08.320 this video. You'll see the link. Click
+00:31:10.320 the link, watch the video. You will not
+00:31:12.159 regret

@@ -1,0 +1,668 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/uvHKORRe2dE
+
+00:00:00.000 in today's episode I'm going to be
+00:00:01.979 walking you through step by step how we
+00:00:04.680 was able to find and identify this 28
+00:00:08.340 risk to reward opportunity in London
+00:00:11.400 session okay guys let's get into
+00:00:13.679 everything so I want to first start by
+00:00:15.900 demonstrating the exact model that we
+00:00:18.480 use to get into this position first
+00:00:20.460 theoretically with the lines that you
+00:00:22.380 can see now before I do that I want to
+00:00:24.359 genuinely give a full disclaimer the
+00:00:26.640 average R multiple is not 28 in here at
+00:00:30.539 Prosperity Academy in fact these trades
+00:00:32.759 are very rare indeed however they do
+00:00:35.160 occur from time to time and this was one
+00:00:37.320 of those opportunities in August that
+00:00:39.300 presented itself one of those larger
+00:00:41.280 price moves and there are many reasons
+00:00:42.899 behind why price sometimes up offers
+00:00:45.420 something along the lines of 28r and
+00:00:47.340 then other times offer something more
+00:00:48.600 along the lines of 7R or 9R or 10r which
+00:00:51.480 are more usual are multiples let's get
+00:00:54.600 into the video so
+00:00:57.180 the first stage of this strategy is
+00:01:00.420 understanding the market structure and
+00:01:02.100 specifically Market structure on the
+00:01:03.600 50-minute time frame so uh by applying
+00:01:05.939 our mechanical model of how we interpret
+00:01:09.180 Market structure it's going to look
+00:01:10.200 along the lines of something like this
+00:01:11.460 price has a low we come up we put in a
+00:01:14.460 high from there we just understand that
+00:01:16.439 we have a low and a high until the high
+00:01:18.659 gets broken or the low gets broken we
+00:01:20.340 don't know whether we're bullish or
+00:01:21.540 bearish so what we need to do is
+00:01:22.740 understand Mark out our high on our low
+00:01:25.380 like this and we're just waiting for a
+00:01:27.960 breakout of either the high or the low
+00:01:29.580 in this scenario as you can see price
+00:01:31.920 breaks to the high so we have a breaker
+00:01:33.780 structure to the upside which of course
+00:01:35.280 indicates that we are indeed bullish
+00:01:37.619 from there essentially we've had a
+00:01:40.079 higher high higher low and then higher
+00:01:42.600 high so prices continually putting in
+00:01:44.759 this bullish price action
+00:01:46.380 from there what happens is price Comes
+00:01:49.140 Down You're Expecting of course a higher
+00:01:52.439 low and then higher high right that's
+00:01:54.299 your expectation order flow but what
+00:01:56.579 process is it puts in its higher low and
+00:01:58.560 then comes up and puts in a lower high
+00:02:00.119 and so then once price starts moving
+00:02:03.540 away from there essentially you can
+00:02:05.460 already kind of conclude that this High
+00:02:07.380 has not been taken up by this load so
+00:02:10.020 that is typically the first sign of a
+00:02:11.879 reversal when price sits in a range and
+00:02:14.879 is indecisive so when price comes up
+00:02:17.879 comes out doesn't break the low doesn't
+00:02:20.700 break the high when prices are playing
+00:02:22.739 with that sort of price action that's a
+00:02:24.599 typical indication that price is about
+00:02:26.520 to shift because what price is doing in
+00:02:28.680 that area is essentially either
+00:02:31.020 re-accumulating positions or getting
+00:02:33.300 ready to distribute and a distribution
+00:02:35.220 of positions
+00:02:36.599 in this scenario what we can see is
+00:02:38.040 price comes back down into an area of
+00:02:41.280 demand then has a reaction back into the
+00:02:44.340 prominent area of supply and then we
+00:02:46.680 actually break structure to the downside
+00:02:48.720 giving us a change of character of
+00:02:50.700 course change of character is being the
+00:02:53.340 shift from one market direction to the
+00:02:55.500 other if you use the analogy of the
+00:02:57.360 characters of the bear and the ball then
+00:02:59.580 essentially those two are your
+00:03:01.739 characters at all times and essentially
+00:03:03.959 if the bull is in control IE price is
+00:03:05.819 putting in higher highs and higher lows
+00:03:07.440 and then all of a sudden we're putting
+00:03:09.180 lower lows and we shift to bearish from
+00:03:10.620 another bear is in control that's just a
+00:03:12.420 shift a change of those two characters
+00:03:13.980 that's the best way that I can put it
+00:03:15.959 from there we have our change of
+00:03:17.400 character now prices shifted bearish so
+00:03:19.319 we're no longer looking for longer
+00:03:20.640 opportunities of course now our bias is
+00:03:22.500 shifted and we're looking for short
+00:03:23.700 opportunities so there are a couple of
+00:03:26.220 different ways we can play it the the
+00:03:27.540 first one is playing the
+00:03:30.060 um the level in here that actually
+00:03:32.340 caused the breaker the change of
+00:03:33.780 character and then there are occasions
+00:03:35.159 where you may play the origin if this
+00:03:38.040 High gets liquidated but in this
+00:03:39.599 specific scenario we play the origin and
+00:03:43.440 then from there this is we have an area
+00:03:46.019 of Supply our point of interest and then
+00:03:47.640 as price makes its way back up into this
+00:03:50.760 area what you will typically see is this
+00:03:53.640 entry model right here on the right hand
+00:03:55.739 side on a lower time frame and then
+00:03:57.959 essentially on the one minute time frame
+00:03:59.459 we'll have this bullish price action
+00:04:01.280 exactly the same this is all fractals
+00:04:03.959 price is moving bullish
+00:04:06.239 and then it shifts to bearish and then
+00:04:08.519 we get in and then we go down it's the
+00:04:10.260 exact same thing price is bullish
+00:04:12.239 changes character to bearish we get in
+00:04:14.400 and then we play the down move and so
+00:04:15.900 essentially what we're waiting for is as
+00:04:18.000 price has just broke structure to the
+00:04:19.798 downside right change character as price
+00:04:21.959 comes back up
+00:04:23.460 correction on the lower time frame it's
+00:04:26.280 going to be bullish right that's just
+00:04:27.479 how fractal Market structure works and
+00:04:29.759 so what we need to see is an area of
+00:04:32.400 Interest B
+00:04:34.160 tagged and also respected
+00:04:37.380 and of course we understand and
+00:04:39.060 interpret that respect based off of our
+00:04:42.720 lower time frame shifts and so what we
+00:04:45.000 want is a lower time frame realignment
+00:04:47.040 as we will call it inside of a higher
+00:04:49.680 time frame relative to point of interest
+00:04:52.080 and from there what we've done is we've
+00:04:54.840 confirmed this area and this structural
+00:04:57.479 high with our lower time frame which
+00:04:59.280 gives us an additional layer of con
+00:05:01.919 confirmation that price is ready to move
+00:05:04.740 to the downside and take out this
+00:05:06.060 Lowdown here and that is when we're able
+00:05:07.560 to execute this up in this area right
+00:05:09.900 here and get out down here so that's the
+00:05:12.300 exact step-by-step of this and then I'm
+00:05:14.400 going to essentially demonstrate now
+00:05:16.080 what that's going to look like in real
+00:05:17.880 market conditions
+00:05:22.020 so here we are on gu the 50 minute time
+00:05:25.680 frame now of course to understand where
+00:05:27.660 we presently are which is in this range
+00:05:29.699 right here we have to understand where
+00:05:31.800 it is that we've come from so if we just
+00:05:34.440 come back a little bit and let's say we
+00:05:36.900 just go from
+00:05:38.940 the most obvious structural range we
+00:05:41.100 have a low here and a high in here and
+00:05:44.280 what that what this High has done is
+00:05:46.320 we've broken structure to the upside
+00:05:48.300 right
+00:05:49.440 so we're breaking structure to the
+00:05:50.880 upside great so at that point now we
+00:05:53.039 understand that we are bullish so we
+00:05:54.960 have our bias step one and then it's
+00:05:57.120 really just about following price until
+00:05:58.800 we
+00:06:00.120 um continue or reverse so what we want
+00:06:03.180 to do is typically what I will do is
+00:06:05.160 draw the range on like this from the
+00:06:07.320 high to the low of the range and then
+00:06:09.180 price will break out of one side because
+00:06:10.560 that way you know that anything inside
+00:06:12.300 of this low and this high is indeed just
+00:06:16.080 internal range so we're going to map
+00:06:17.940 this out right here as our swing low and
+00:06:21.060 we're going to map this out up here as
+00:06:23.280 our swing high now there's something
+00:06:25.080 very important that happens here
+00:06:27.419 and I want to give you guys this gem it
+00:06:29.880 is the the swing High gets liquidated
+00:06:31.680 right you can see that it gets broken
+00:06:33.419 and it gets broken with a a wick right
+00:06:37.860 so here at Prosperity Academy we have a
+00:06:39.840 very mechanical rule-based system for
+00:06:41.940 how we interpret Market structure and
+00:06:43.680 everything for that nature so in our
+00:06:46.080 plan in our
+00:06:47.880 um mechanical system for us price has to
+00:06:50.940 break and close above the previous high
+00:06:53.100 in order for it to be a break and in
+00:06:55.440 this situation right here again you can
+00:06:57.120 see attention to detail if we go right
+00:06:59.400 there
+00:07:00.240 and we pull it down straighten it
+00:07:02.940 you can see that price does not break
+00:07:05.759 that high with a close it actually just
+00:07:08.880 Wicks it so that to us is a liquidation
+00:07:11.220 if this happens then it equals this
+00:07:13.080 right and then what we get essentially
+00:07:16.380 from there is the high we need to be
+00:07:19.560 very accurate in making sure that we
+00:07:22.020 understand did price break and close
+00:07:24.720 Above This High yes or no so we put
+00:07:27.660 touched it right on there we're going to
+00:07:29.039 straighten it and then we're going to
+00:07:30.539 conclude
+00:07:32.220 yes price did break and close above the
+00:07:34.919 high here great so that is our break of
+00:07:37.680 structure out of that price range and
+00:07:39.240 that's exactly how we do things
+00:07:40.259 everything has a rule-based mechanism
+00:07:42.599 behind it so that being said what's
+00:07:45.660 happened is we've had a higher high
+00:07:48.900 ER low
+00:07:50.220 this is not a higher high because this
+00:07:51.720 is a liquidation this does not count
+00:07:53.819 price pulls back that's all internal
+00:07:55.319 then we break structure right up here
+00:07:57.000 higher high
+00:07:58.139 and that indeed is our break of
+00:08:01.259 structure breaker structure to the
+00:08:03.180 upside awesome so now we have higher
+00:08:05.940 high higher low higher high now notice
+00:08:08.699 that this right here produces what a new
+00:08:11.639 higher low how do we know that because
+00:08:13.860 it meets our rule-based mechanical
+00:08:16.919 system of understanding structure again
+00:08:18.599 we have very set parameters in place
+00:08:20.639 that tell us is this a pullback here so
+00:08:22.500 no and this one meets our parameter
+00:08:24.240 which is three candles in the opposing
+00:08:26.460 direction that succeed each other that's
+00:08:28.080 our principle if it meets that then it's
+00:08:29.879 a pullback if it doesn't meet that it's
+00:08:31.199 not a pullback and again you have to
+00:08:33.120 have these mechanisms in place if it is
+00:08:36.919 accuracy and consistency that you're
+00:08:39.120 looking for so from there we have a
+00:08:40.979 breaker structure we have a pullback and
+00:08:42.659 then we have another break of structure
+00:08:45.360 to the upside
+00:08:46.860 so we're just following price action at
+00:08:48.420 this point we have a breaker structure
+00:08:49.620 now notice that this isn't our higher
+00:08:52.200 high because it doesn't give us the
+00:08:53.399 pullback that meets our
+00:08:56.519 um mechanism then we go to the next high
+00:08:58.620 does it mean it one two three yes it
+00:09:00.420 does great so that's our new higher high
+00:09:02.279 so we've gone from higher high higher
+00:09:03.959 low higher high this is our higher low
+00:09:05.940 because it meets our pullback and then
+00:09:07.620 this ends up being a higher high this
+00:09:09.300 does not meet our pullback
+00:09:11.640 so that is our current market structure
+00:09:13.920 range and then from that moment right
+00:09:15.360 there you have your swing low
+00:09:19.200 that at the moment is a strong swing low
+00:09:21.180 because it's just done what
+00:09:23.399 broke structure to the upside
+00:09:26.519 breaker structure and we have our swing
+00:09:29.940 high now if Market is going to continue
+00:09:32.459 moving in the same direction that it's
+00:09:34.860 been moving in we're going to expect
+00:09:36.959 some sort of
+00:09:39.980 lower high or higher low sorry
+00:09:43.560 and more than likely a respect of this
+00:09:46.620 area of demand price will come into it
+00:09:48.839 and then go and put in a higher high
+00:09:49.980 well notice that price comes into it
+00:09:52.560 and respects it and then pushes out from
+00:09:54.899 it which we're expecting but then what
+00:09:56.519 happens is price also comes into an area
+00:09:59.640 of
+00:10:00.660 Supply and respects the supply and so
+00:10:04.019 that's the exact analogy that we had and
+00:10:06.360 so what happens is now it's really
+00:10:08.399 understanding that if price is going to
+00:10:10.500 do this it's more than likely price is
+00:10:12.540 going to is accumulating because it's
+00:10:13.980 sitting in a range or it's going to be a
+00:10:17.339 reversal because price should not be
+00:10:19.380 respecting areas of Supply if we're
+00:10:21.300 going to continue moving to the upside
+00:10:22.620 so what happens price break structure we
+00:10:24.660 come in we collect our demand we come
+00:10:26.220 back up does the supply and supply ends
+00:10:28.440 up overriding that area so in there we
+00:10:33.120 have our change of character and again
+00:10:34.740 it's just the process of going from
+00:10:36.120 bullish to bearish in this specific
+00:10:37.680 situation now again we have to
+00:10:39.959 understand our pullback rule so does
+00:10:42.660 this count as our lower low well we need
+00:10:44.279 to go in and monitor price very closely
+00:10:46.860 and understand do these three candles
+00:10:48.720 break and close above each other in
+00:10:50.820 succession one yes two yes three yes
+00:10:53.880 okay cool so that is our pullback
+00:10:55.680 because it meets the exact plan that we
+00:10:57.839 have lined out for it so this is our
+00:11:00.060 lower low lower high
+00:11:02.820 and then lower low and then this lower
+00:11:04.800 low produces this complex pullback so at
+00:11:07.380 that moment
+00:11:08.519 in time and again this is just building
+00:11:10.380 the story all of this is building the
+00:11:12.180 narrative to understand where we are in
+00:11:14.100 the present moment because to understand
+00:11:15.600 where we are right now we have to
+00:11:17.100 understand where we've come from and to
+00:11:18.839 understand the whole picture we have
+00:11:19.980 past present and future right so we have
+00:11:22.200 to understand where we've come from
+00:11:23.760 to where that puts us now to where
+00:11:25.680 that's going to send us and then our job
+00:11:27.480 is to get involved in the end part which
+00:11:29.519 is based on where we are now where are
+00:11:31.380 we going based on where we've come from
+00:11:32.640 and that's the whole three-part story of
+00:11:34.980 price and so what you see is we have a
+00:11:37.200 lower low lower high and lower low
+00:11:39.360 so now we have a new swing High
+00:11:43.920 up in here and a new swing low
+00:11:48.360 and so essentially prices just ranging
+00:11:50.880 between that high and that low and if
+00:11:52.740 price wants to continue moving bearish
+00:11:54.779 as it's just proven it does then we're
+00:11:57.300 gonna get a respect of this high and
+00:11:59.640 then a continuation of the low right and
+00:12:02.100 that's exactly what happens you can see
+00:12:03.360 the price puts in a low right here and
+00:12:05.459 then we have a complex pullback and
+00:12:07.380 inside of this complex pullback we have
+00:12:09.000 our internal structure so we have our IC
+00:12:11.700 higher high
+00:12:17.300 is our internal price action and then we
+00:12:20.160 have the shift in here this internal
+00:12:22.019 shift right here going from higher high
+00:12:24.240 to lower low internally
+00:12:26.060 indicates to us that this swing low is
+00:12:28.440 now ready to go and that's exactly what
+00:12:30.060 happens but it does it with such an
+00:12:31.620 aggressive force of momentum there was
+00:12:34.260 no opportunity to get involved in this
+00:12:35.640 price lag so from there we've had what a
+00:12:38.880 break of structure to the downside
+00:12:41.399 breaker structure to the downside now
+00:12:44.160 what we've had is now we have a new well
+00:12:48.000 swing High
+00:12:50.519 swing
+00:12:51.839 now we have a new swing High and a new
+00:12:54.000 swing low so that is currently our
+00:12:56.100 trading range and again this is going to
+00:12:57.959 indicate and show you why this was such
+00:13:00.120 a large trade so we have swing low down
+00:13:02.820 here
+00:13:04.079 and we have swing high up here the risk
+00:13:07.079 to reward there are multiple that we
+00:13:09.779 take in a trade is irrelevant of
+00:13:12.839 anything other than Market structure
+00:13:14.339 it's simple we are if we are bearish we
+00:13:16.800 are looking to show in the higher part
+00:13:19.440 of the leg into the weak lot if we're
+00:13:21.899 bullish it's the opposite so notice when
+00:13:24.060 you're looking in here look at some of
+00:13:25.920 these trading ranges right some of these
+00:13:28.200 Trader managers are super small trading
+00:13:30.120 ranges and those are you know the more
+00:13:32.339 typical trading ranges that you'll see
+00:13:33.720 the small to medium size that's where
+00:13:35.880 you'll get your five R's your 7rs your
+00:13:39.060 nine hours and your 10 hours and then
+00:13:40.980 there will be occasions where your price
+00:13:43.380 leg the range of price is so large for
+00:13:46.980 example this High to this low is huge in
+00:13:49.500 comparison to this high this low this
+00:13:51.660 high this low right this one price leg
+00:13:54.839 is larger than both of these price legs
+00:13:57.839 combined
+00:13:59.279 and probably double so that is the
+00:14:02.040 explanation behind why it's such a high
+00:14:03.540 R multiple because it's completely
+00:14:04.920 mechanical they are multiple is
+00:14:06.600 mechanical of the system so
+00:14:09.360 higher high uh sorry lower high lower
+00:14:13.019 low great so we are bearish so that
+00:14:15.839 brings us up into the present moment and
+00:14:17.339 again I'll bring this on right here
+00:14:18.899 because you can understand that this is
+00:14:20.339 the exact session that we trade anything
+00:14:21.959 marked out in gray box like this is the
+00:14:25.139 session that I will trade so this gray
+00:14:28.680 box here represents the Asian session
+00:14:30.420 and then this represents the um
+00:14:33.420 Frankfurt open then we have 60 Minutes
+00:14:35.700 of Frankfurt into 11 which is London
+00:14:38.880 open for my time I'm in Dubai so 11 is
+00:14:41.699 when London opens and this is the you
+00:14:44.220 know uh four hour three to four hour
+00:14:46.320 window that I will look at getting
+00:14:48.240 involved in every single day and so
+00:14:50.100 London opens for us
+00:14:52.199 and where are we well we have a high we
+00:14:54.600 have a lower low and now it's about
+00:14:56.579 identifying the points of interest for
+00:14:58.800 us to get involved in this position
+00:15:00.720 very important thing I want you guys to
+00:15:02.279 notice here is the gap that price makes
+00:15:04.320 to the downside right here central price
+00:15:06.420 pulls up high impact news event comes in
+00:15:08.820 we gap down to the downside now very
+00:15:11.699 rarely do we have gaps on the FX Market
+00:15:14.940 it's super rare it's usually an
+00:15:17.399 extremely low or high areas of Market
+00:15:20.639 volatility
+00:15:21.720 so in this specific scenario we have
+00:15:24.000 this Gap right here and anybody who's
+00:15:25.740 ever traded anything like Futures
+00:15:27.060 understands that the majority of the
+00:15:28.260 time gaps get filled because essentially
+00:15:30.000 it acts as an area of imbalance in price
+00:15:32.220 that needs to be rebalanced
+00:15:34.440 so we have that as our
+00:15:36.720 um number one area of interest it's
+00:15:39.360 essentially the area that you know we
+00:15:41.279 have some level of pullback and then
+00:15:42.420 continuation to the downside the gapped
+00:15:44.880 and we have the final buy to sell candle
+00:15:46.980 that that created that and then
+00:15:48.540 secondary to that we have the point of
+00:15:51.000 Interest right up here in the origin of
+00:15:53.639 the move which is the final buy to sell
+00:15:55.500 before the huge area of memento come in
+00:15:57.360 so we'll look at these two areas and we
+00:15:59.459 want exactly what we mentioned before
+00:16:02.820 we want to get into these areas and then
+00:16:05.160 once we're in these areas on a lower
+00:16:07.079 time frame we want to see our
+00:16:09.180 predominant entry model which is again
+00:16:11.820 as price is coming back up to price it's
+00:16:14.459 going to be bullish right and the one
+00:16:16.500 minute time frame then we're going to
+00:16:17.519 get a shift and then on that shift we've
+00:16:19.980 realigned the one minute with the 15
+00:16:21.959 minute that's indicative of lower prices
+00:16:24.120 essentially we've we're perceiving the
+00:16:27.360 data flow of orders the order flow in
+00:16:30.300 the present moment on the one minute
+00:16:31.500 time frame so we're getting a very close
+00:16:33.660 interlock of how orders are interacting
+00:16:35.820 with each other at this very moment the
+00:16:37.740 moment that we see the the sell orders
+00:16:41.519 right the amount of liquidity that there
+00:16:43.079 are in in cells outweighs the amount of
+00:16:45.540 demand there is we instantly know the
+00:16:47.040 price is going down it's just a simple
+00:16:48.120 law of economics and so we're able to
+00:16:50.100 identify that based on a one minute in
+00:16:52.440 internal aligned with our external
+00:16:54.480 because we already have the bias that
+00:16:55.800 price is going down and then from there
+00:16:58.199 we want to get involved in this area
+00:17:00.060 that causes this down here and then take
+00:17:03.420 price down to the 50 minute lows that's
+00:17:05.400 the exact danger model and I'm going to
+00:17:06.540 show you exactly
+00:17:07.740 step by step how we're able to identify
+00:17:09.900 that here in the London session so once
+00:17:13.260 you meet your point of interest in here
+00:17:15.119 you do have to drop down to your one
+00:17:17.280 minute time frame and of course on your
+00:17:19.439 one minute time frame you're going to
+00:17:20.819 identify what the present Market
+00:17:22.799 structure is and then how it reverses
+00:17:25.500 itself essentially
+00:17:27.359 so again to understand this exact same
+00:17:30.320 mechanism of structure to understand
+00:17:32.100 where we are right now we have to
+00:17:33.480 understand where we've come from and
+00:17:34.620 then by understanding where we've come
+00:17:35.760 from and then where we are we're going
+00:17:37.380 to get to understand where we are going
+00:17:39.000 so without further Ado let's pull price
+00:17:41.760 back to the most recent structure lag
+00:17:45.720 which was does this break and close
+00:17:50.400 nope liquidation
+00:17:53.400 so let's come into
+00:18:00.120 okay well we end up breaking this anyway
+00:18:01.620 so let's just come into the
+00:18:05.100 Market structure essentially we had a
+00:18:07.860 high up in here so we had a higher high
+00:18:10.559 higher low higher high then we went
+00:18:13.200 lower low lower high
+00:18:16.140 three candle pullback no no
+00:18:19.919 no yes
+00:18:22.919 awesome
+00:18:24.539 great then we went back to bullish that
+00:18:26.640 was our Market structure then we went
+00:18:27.900 from bullish to change of character
+00:18:30.419 bearish so we had higher high lower low
+00:18:33.840 now we're bearish in the one minute time
+00:18:35.340 frame and then we don't break it from
+00:18:36.900 there so the range indeed actually was
+00:18:39.120 this High to this low and it said break
+00:18:42.179 out of that range we needed to see the
+00:18:45.059 swing low
+00:18:46.260 and again super large trading range in
+00:18:48.360 this area we needed to see this swing
+00:18:49.740 low down here be broken for a change of
+00:18:53.220 character why because this was actually
+00:18:54.960 our our range it was a a larger range
+00:18:57.600 than usual
+00:18:58.799 swing High to swing low so everything
+00:19:01.440 else inside of this low
+00:19:03.660 and this high is just internal just
+00:19:06.120 internal noise right
+00:19:08.220 so what we needed to see was if price is
+00:19:10.799 going to shift back to bearish we need
+00:19:13.679 to see one of two things even number one
+00:19:15.840 we need to see a break out of the high
+00:19:18.240 which gives us a higher high then a
+00:19:20.280 pullback and then another higher high so
+00:19:22.440 now we have our swing structure in here
+00:19:24.360 and then we have our realignment
+00:19:27.000 of a swing structure and then we go
+00:19:28.980 lower right or it was going to be
+00:19:31.500 something along the lines of
+00:19:33.780 this one
+00:19:34.919 it's just a simple break and close of
+00:19:38.100 the lows down here which would give us
+00:19:40.080 the change of character so let's see how
+00:19:41.940 price actually plays out on this one
+00:19:43.380 that time frame
+00:19:46.740 so
+00:19:48.720 there you have it that is and again this
+00:19:51.720 is a London open pretty much exactly
+00:19:54.240 11AM for me GST you can see we actually
+00:19:57.660 get that break so from there we can go
+00:20:00.059 change of character now we need to
+00:20:02.280 identify where we're going to be getting
+00:20:03.720 in because what have we just done the
+00:20:05.580 most important thing is we've gone from
+00:20:07.140 we've gone from bullish
+00:20:09.600 right we've gone from essentially being
+00:20:11.580 bullish to being bearish then having a
+00:20:15.059 pullback
+00:20:16.080 and then continue in bearish so right
+00:20:18.720 now our swing structure is from our
+00:20:22.799 swing High
+00:20:25.740 swing high up here and we don't know
+00:20:27.179 where is our swing low yet because we
+00:20:28.320 haven't heard the pullback so this is
+00:20:29.520 our swing high so now we have
+00:20:32.460 lower high and lower low right
+00:20:35.820 so now we need to identify great step
+00:20:39.059 one we know where we are in the 15
+00:20:40.679 minute we're inside of an area of
+00:20:42.120 Interest that's looking to go lower
+00:20:44.160 we've refined now now we're in a one
+00:20:46.080 minute time frame looking for our
+00:20:47.520 entries and by doing that first we have
+00:20:49.500 to understand the market structure we
+00:20:50.940 know where we've come from we were
+00:20:51.900 bearish we had a shift bullish and then
+00:20:53.460 we shifted back bearish now we've had a
+00:20:55.200 continuation of that bearish price
+00:20:56.460 action so we know that we're bearish so
+00:20:58.799 the the one minute is bearish inside of
+00:21:01.200 a bearish point of interest in the 50
+00:21:02.760 minute time frame great that's a very
+00:21:04.860 clear indication that price is now ready
+00:21:06.600 to go lower and most importantly it's
+00:21:09.539 going to take out the 15 minute week low
+00:21:12.179 if it wants to continue a day in to the
+00:21:15.120 present Market structure and the 15
+00:21:17.039 minute week low is down here so it's our
+00:21:19.500 job now to get involved up in here to
+00:21:21.780 take out the low down here it's that
+00:21:23.760 simple that's our Target
+00:21:25.980 so where do we get in that is the
+00:21:29.159 question this is where my upward
+00:21:30.780 refinement comes in what I will do is if
+00:21:34.020 there are many points of interest for
+00:21:35.520 example on the one minute time frame if
+00:21:37.440 we look at the different points of
+00:21:38.580 interest we can see we have the this
+00:21:40.740 point of Interest right here this one
+00:21:42.659 interests me the most why because as you
+00:21:45.299 can see price comes down respects the
+00:21:48.659 low
+00:21:49.440 comes up and then shifts from this this
+00:21:51.960 is what we would cook this is what we
+00:21:53.520 would call the decisional area the
+00:21:55.740 deciding area of Supply that broke the
+00:21:58.080 loan so that's our decisional so that's
+00:21:59.460 our first area that we are looking to
+00:22:01.620 take the short from the second area of
+00:22:04.020 course is the origin if we're looking at
+00:22:06.059 price again we have this as our
+00:22:07.620 decisional and then of course we have
+00:22:09.240 our final buy to sell of the origin what
+00:22:13.080 I like to do especially when the price
+00:22:15.360 ranges are large I will refine up to the
+00:22:17.880 three minute possibly even the five
+00:22:19.320 minute depending on how messy it is on
+00:22:22.020 there so when I come to the three minute
+00:22:23.760 I see very clearly the we have two
+00:22:27.059 clearer points of interest we have point
+00:22:28.320 of Interest number one and we have point
+00:22:29.940 of Interest number two so it's my job
+00:22:32.159 then to first position on our
+00:22:36.960 this three minute in here
+00:22:39.480 three Pips I'd like to go with 3.5 just
+00:22:41.820 to give a little bit of a buffer to the
+00:22:43.559 upside yes it makes the risk reward a
+00:22:45.900 little bit lower however more
+00:22:48.360 importantly than the potential upside is
+00:22:50.640 the potential downside so we want to be
+00:22:53.039 Capital preservation first and we're
+00:22:55.620 just targeting the swing low down here
+00:22:57.360 because it's just structure all we're
+00:22:59.159 doing is understanding structure from a
+00:23:00.900 fractal perspective if you just look at
+00:23:02.460 things from a 15 minute time frame we
+00:23:05.640 essentially had 15 minute lower high
+00:23:07.919 lower low lower high and then inside of
+00:23:11.400 here we've had our one minute that was
+00:23:12.960 bullish all the way up now shift from
+00:23:15.299 being bullish to bearish and so all
+00:23:17.340 we're doing now is trying to get
+00:23:18.360 involved in this and take out this low
+00:23:20.039 which is the most probable evolution of
+00:23:23.760 price it's that simple guys and so from
+00:23:26.340 there we have our entry on here and
+00:23:28.320 we're just looking at taking out the
+00:23:30.120 lows
+00:23:30.960 down at the bottom and notice price
+00:23:33.299 comes back price tags in
+00:23:36.120 at the point in which price breaks this
+00:23:37.980 low down here we're going to break even
+00:23:42.059 and then it's just a case of letting
+00:23:43.860 Price play out however it's going to
+00:23:46.740 play out and then you can notice that my
+00:23:49.020 session ends here but the position
+00:23:50.760 remains open nonetheless stops are
+00:23:53.100 already at break even partials are
+00:23:55.080 already off the table so at the end of
+00:23:56.700 the day all that really matters is just
+00:23:58.200 letting Price play out
+00:23:59.640 price plays out and then we open the
+00:24:02.340 high volume 60 Minute session
+00:24:05.039 um in this area right here which
+00:24:07.380 sometimes I'll come on for a scalp
+00:24:09.900 and then
+00:24:11.580 price runs all the way down eventually
+00:24:13.919 to our take profit level and that is the
+00:24:16.260 full breakthrough step-by-step top down
+00:24:18.900 of how we use one of our models to get
+00:24:21.299 into the market and get out of the
+00:24:22.620 market I hope you guys enjoyed that
+00:24:23.880 video if you did subscribe like the
+00:24:25.799 video and let me know what do you want
+00:24:28.380 to see next
+00:24:29.400 ciao

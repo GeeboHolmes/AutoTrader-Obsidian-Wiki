@@ -1,0 +1,336 @@
+# tactiq.io free youtube transcript
+# The Ultimate 3 Step Scalping Strategy To Become Profitable
+# https://www.youtube.com/watch/RC00A4aSi00
+
+00:00:00.080 So, this is the exact trade that we're
+00:00:02.240 going to be breaking down in this video.
+00:00:04.799 But before that, I want to explain to
+00:00:06.319 you the actual trading strategy, which
+00:00:08.080 is insanely simple. It's three simple
+00:00:10.400 steps. So, we'll go through each step
+00:00:12.599 individually, and then we'll go and
+00:00:14.639 apply it to this specific trade
+00:00:16.640 breakdown that is covering this
+00:00:18.640 strategy. This is a trade that one of my
+00:00:21.039 best students, Ralph, who made $50,000
+00:00:24.400 in the last three months using FTMO,
+00:00:27.039 actually took live, which is also the
+00:00:29.199 trade that I took live. So, let's dive
+00:00:31.359 deep into this trade and more
+00:00:33.520 importantly, this step-by-step strategy.
+00:00:36.000 So, three simple steps. Step one,
+00:00:38.239 session bias, which is essentially
+00:00:39.760 understanding what is price going to do
+00:00:42.480 today in this session. Step two,
+00:00:45.680 liquidity rate. What's an area of price
+00:00:47.600 that we can wait for price to liquidate
+00:00:49.920 before it reverses? There always needs
+00:00:52.000 to be a liquidation. And step three,
+00:00:54.160 lower time frame confirmation. On the
+00:00:56.160 lower time frame, what can we use to
+00:00:58.160 confirm that we are correct? Now is time
+00:01:00.800 to enter this position. And that's
+00:01:02.640 pretty much it. Let's start with session
+00:01:04.879 bias. So, this trade takes place on the
+00:01:08.240 8th of April. Now, what you want to be
+00:01:10.640 asking yourself when you first come into
+00:01:12.320 the market, when you're scalping, is
+00:01:14.560 what's the bias of the session? All you
+00:01:16.240 need to care about is what is going to
+00:01:18.080 happen in this next couple of hours.
+00:01:20.560 That is the most important thing. And so
+00:01:22.320 for me to understand session bias, I
+00:01:24.960 need to understand some type of market
+00:01:27.040 structure. So this is what I'm looking
+00:01:28.640 at when I'm understanding price. What I
+00:01:30.479 can see on the 15-minut time frame,
+00:01:32.400 which is a time frame I use for my
+00:01:34.000 session bias, I can see that we're
+00:01:35.759 obviously aggressively bullish, right?
+00:01:37.920 We've been very, very bullish on Euro
+00:01:40.880 dollar on the 15-minut time frame and on
+00:01:42.479 all time frames for the past multiple
+00:01:44.320 weeks at this point. But what we're
+00:01:46.000 starting to see as we get into the
+00:01:48.000 details of the days is we're actually in
+00:01:50.399 a pullback phase. So you can see that
+00:01:52.960 price is starting to put in these lower
+00:01:56.560 prices, right? That is ultimately what
+00:01:58.799 I'm seeing. And so what I want to do is
+00:02:00.719 can I dive into little swing points that
+00:02:03.200 clearly tell me what's going to happen
+00:02:05.200 today. So what we can see is we topped
+00:02:07.520 out up here, which also has some higher
+00:02:09.598 time frame relevance that I won't get
+00:02:10.959 into in this video, but we top out here.
+00:02:13.280 Then we go and put in a low. Then we go
+00:02:15.440 and put in a lower high. So this high is
+00:02:19.360 lower than the previous high. That
+00:02:21.599 automatically tells us that at this
+00:02:23.840 moment in time we are likely bearish in
+00:02:26.319 our order flow. So then we go and put in
+00:02:27.920 a lower low, meaning that this low is
+00:02:30.800 lower than the previous low. Clearly
+00:02:32.879 confirming the bearish price action.
+00:02:34.959 Then you can see we pull up, we respect
+00:02:37.840 this high, then we go and put in a new
+00:02:40.239 low. So now we have a lower low. Again,
+00:02:43.920 still bearish. Then what we have is we
+00:02:47.360 go and put in a lower high. So this high
+00:02:50.160 is lower than this previous high. And
+00:02:52.800 then a new lower low. After that, we
+00:02:55.840 actually go and put in a higher high. So
+00:02:58.319 we actually shift internally bullish,
+00:03:00.879 which to be honest with you, we're still
+00:03:02.640 extremely bullish. So this could be a
+00:03:04.720 time to look for buys. But ultimately
+00:03:08.720 that's not what price ends on because
+00:03:10.879 when we come down we respect this low
+00:03:13.840 and then we go and put in a new higher
+00:03:15.760 high. So now we have low to high. That
+00:03:18.640 is what's controlling price. But what
+00:03:21.400 happens? We break this low down here.
+00:03:24.400 That gives us a little market structure
+00:03:26.959 shift to the lows which also creates
+00:03:30.400 this low. So we have a low down here
+00:03:33.440 which is a lower low. So this low is
+00:03:35.120 lower than the previous low. That
+00:03:36.720 indicates to me that as of right now we
+00:03:39.440 are trading from the high up here to the
+00:03:43.680 low down here. Very simple. I understand
+00:03:47.840 that my current context range is high to
+00:03:51.200 low. So what am I expecting in this
+00:03:53.920 session? I'm expecting lower prices. If
+00:03:56.799 this is the high that's in control of
+00:03:58.319 price right here and this is the low and
+00:04:01.439 if I take my fib retracement from the
+00:04:04.439 low up here to this high what I can see
+00:04:09.200 is that we have now entered also into
+00:04:12.799 the premium of the price leg. So 50% of
+00:04:15.760 this region the ideal area or the
+00:04:18.238 optimal area for a lot of this is kind
+00:04:19.839 of this in between this 618 786 area.
+00:04:23.280 But honestly this is just an extra
+00:04:25.120 confluence. So, we have our fib. We're
+00:04:27.600 inside of the premium. We have our bias.
+00:04:29.840 I'm clearly expecting lower prices. Now,
+00:04:32.960 step number two is liquidity raid. I
+00:04:36.800 need to see some type of liquidation
+00:04:39.040 when I get into my London session. Why
+00:04:41.280 is that? The market needs to go in one
+00:04:43.600 direction first before the other
+00:04:45.880 direction. Ultimately, what happens in
+00:04:48.320 that process is if London session opens
+00:04:51.040 up bullish, well, all of the London
+00:04:53.280 people are going to be looking to buy.
+00:04:55.199 And if the market really wants to go
+00:04:57.120 lower, then the market can use that
+00:04:59.520 liquidity to position people who
+00:05:01.759 actually want to go short. And the ones
+00:05:03.680 who are going to come out on top are the
+00:05:05.280 ones who have the most control. And if
+00:05:07.199 we read that the bias for this session
+00:05:09.280 is to go lower, then guess what? Sellers
+00:05:12.560 are the ones who have the most control
+00:05:14.479 most likely. So, we're looking for a
+00:05:16.320 liquidity raid. Now for me the best
+00:05:19.199 setup for London session specifically as
+00:05:21.840 well is when London manipulates Asia
+00:05:25.479 high. O that is incredible inside of a
+00:05:29.280 premium price leg. O so that's what I'm
+00:05:32.080 looking for. That is my run on
+00:05:33.960 liquidity. So right here we have Asia
+00:05:36.479 session high in this blue box that
+00:05:38.000 represents Asia session. That is our
+00:05:40.639 liquidity. So we are currently right now
+00:05:43.919 145. Next 15-minute candle. There you
+00:05:46.880 go. That is our London open. So, if I go
+00:05:49.759 down to a one minute time frame, right,
+00:05:51.759 which is how we're going to get our
+00:05:52.880 lower time frame confirmation. What I
+00:05:55.360 can see is that we've had that liquidity
+00:05:57.919 raid. So, step one was directional bias,
+00:06:01.680 right? Our directional bias and then we
+00:06:04.639 had a liquidity raid. Liquidity raid was
+00:06:07.199 the run of this high. Now, we've had
+00:06:09.120 that bias. It's bearish. We've had the
+00:06:11.199 liquidity raid. Now, we need to have a
+00:06:13.199 lower time frame confirmation. So simply
+00:06:15.120 a lower time frame confirmation is just
+00:06:17.919 price moving as you can see on the one
+00:06:20.319 minute time frame. If you're looking at
+00:06:21.680 this, you can see that price is bullish
+00:06:23.039 on the 1 minute. What I want to see is
+00:06:25.520 price shift from essentially being
+00:06:29.120 bullish on the one minute time frame to
+00:06:31.600 bearish. When this happens, that tells
+00:06:34.000 me that now is time to act. I don't want
+00:06:37.280 to be trying to sell when the market is
+00:06:39.039 continuing higher. But the moment that
+00:06:40.880 the market shows me weakness, so it has
+00:06:43.039 this move and then it kind of just does
+00:06:44.680 this and then it shows me its weakness.
+00:06:48.080 That's me going confirmed. It's time to
+00:06:50.639 go. Let's act. That is what I'm waiting
+00:06:53.120 for. So at that point, that's also what
+00:06:55.440 my school members are waiting for. So
+00:06:57.759 every single day inside of my community,
+00:07:00.479 I actually share before London open and
+00:07:03.280 before New York open exactly what I am
+00:07:05.759 looking for on every single day. So,
+00:07:08.160 that's ultimately why many of my
+00:07:10.080 students end up taking the same trades
+00:07:11.759 as me, like Ralph, who I already kind of
+00:07:13.599 spoke about. If you want that kind of
+00:07:15.360 handheld guidance where you're watching
+00:07:17.759 someone who's doing this day in day out
+00:07:20.000 to understand what they're doing, plus
+00:07:22.160 all the strategies and everything else
+00:07:23.599 like that, then below this video, I'll
+00:07:25.199 leave a link. You can book a call, speak
+00:07:27.199 to one of our trading adviserss, and
+00:07:28.880 understand whether or not your current
+00:07:31.199 situation could be helped with our help.
+00:07:34.240 So, back to the video. Essentially, what
+00:07:36.400 we're looking for is a lower time frame
+00:07:37.919 shift. You can see that price is still
+00:07:39.599 developing bullish. And now, what do we
+00:07:41.599 have? A very aggressive run of a high.
+00:07:44.639 That is a clear indication of a
+00:07:47.199 liquidation, but still doesn't give me
+00:07:49.840 the sign that I want to see. So, now we
+00:07:52.240 have the run of the high. So, now at
+00:07:54.960 this point, what I want to see is a run
+00:07:56.800 of this low. And I'm just monitoring
+00:07:58.800 price to see when I'm going to get that
+00:08:00.720 reaction. Okay, we're still bearish.
+00:08:03.440 Create equal highs in there.
+00:08:05.919 Okay,
+00:08:06.840 cool. So, price is entering the level.
+00:08:09.520 Okay, there. That is my confirmation
+00:08:13.120 because what have we seen? We've seen
+00:08:14.800 price go from being bullish to stalling
+00:08:19.360 to shifting bearish. That's my
+00:08:21.440 confirmation. And it's that simple.
+00:08:22.800 Let's go to a 50-minut time frame. We
+00:08:25.280 can see that price is intentionally
+00:08:27.759 bearish. We've had the run on liquidity,
+00:08:30.240 right? So, we've liquidated Asia High,
+00:08:33.200 but guess what? But we've also
+00:08:34.159 liquidated these old equal highs that we
+00:08:37.120 had at New York session from the
+00:08:39.279 previous day. So previous day New York
+00:08:41.839 high has been very slightly manipulated
+00:08:45.839 which is also another great benefit. So
+00:08:48.320 now we're going to one minute time frame
+00:08:52.200 is bearish. It's shifted. Now I need to
+00:08:54.880 find an entry. Usually the reason I call
+00:08:56.880 this a fivem minute scalping video is
+00:08:58.640 because I'm looking for my entry on the
+00:09:00.959 five minute usually. And what I'm
+00:09:02.320 looking for is a fair value gap or an
+00:09:05.120 order block. In this sense, you can see
+00:09:06.880 the fair value gap, right? Very clear.
+00:09:08.640 For those who don't know what a fair
+00:09:09.839 value gap is, a three candle formation
+00:09:12.080 where the second candle, the middle
+00:09:13.600 candle, has a clear gap between one and
+00:09:15.760 three. That shows you that there is a
+00:09:17.519 liquidity void at that level. Very, very
+00:09:19.839 simple. It's essentially an imbalance
+00:09:21.519 between supply and demand. That
+00:09:22.720 imbalance is likely to get filled. So
+00:09:24.959 what we're looking for is to trade short
+00:09:27.680 from that level because it's the highest
+00:09:29.760 probability area that will be retested
+00:09:32.320 before price continues in its direction.
+00:09:34.080 So that's our entry point. That's our
+00:09:36.240 entry. My stop loss is above this high.
+00:09:38.880 My stop loss and your stop loss should
+00:09:40.800 always be placed at a place that
+00:09:42.720 invalidates the trade. If price trades
+00:09:45.680 above this high, that trade idea is
+00:09:48.480 over. I no longer expect this specific
+00:09:51.360 trade idea to play out. So why would I
+00:09:53.600 want to have my stop loss any higher
+00:09:55.120 than that? So stop losses are always
+00:09:57.120 invalidation points. So what about
+00:09:59.279 target? Where would we look at
+00:10:01.399 targeting? Well, if we go back to the
+00:10:03.440 15minut time frame, we can see that the
+00:10:06.480 low that we currently have is down here.
+00:10:09.519 A bonus is this is equal lows. Another
+00:10:12.640 bonus, this is Asia low unmanipulated.
+00:10:15.760 So there's a bunch of liquidity that's
+00:10:18.079 sitting at these lows. So that makes the
+00:10:21.360 perfect exit. And so we're looking at
+00:10:24.000 taking out the lows down here. And that
+00:10:27.760 is a 6.5 risk-to-reward. Meaning if you
+00:10:30.480 have a $200,000 account and you risk 1%
+00:10:33.279 of your account, you're going to be
+00:10:34.720 making a little bit over
+00:10:37.240 $13,000. And that's exactly, I think,
+00:10:39.360 how much Ralph made on this specific
+00:10:41.040 trade, if I'm not mistaken. I know he
+00:10:42.880 took a $23,000 payout which was a couple
+00:10:46.079 of days ago and I think 13K of it came
+00:10:48.320 from this specific trade. But let's play
+00:10:49.760 this out. So let's go to the 5minute
+00:10:51.040 time frame where our fair value gap is
+00:10:52.720 and our entry is. And let's literally
+00:10:54.959 just see how this trade plays out in
+00:10:58.079 real time. There you can see the next 5m
+00:11:00.959 minute candle perfectly tags into our
+00:11:06.399 fair value gap, right? And then
+00:11:08.800 immediately begins pushing away. When
+00:11:11.120 you're a scalper, when you're scalping,
+00:11:12.880 ideally, you want to see an immediate
+00:11:15.680 reaction from your level. That's what
+00:11:17.920 makes it a solid trade idea. So, session
+00:11:21.279 bias. I expected that this session would
+00:11:23.519 be bearish. Step two, liquidity raid
+00:11:26.160 after we raid on some kind of liquidity.
+00:11:28.640 That liquidity is Asia high. And then
+00:11:30.560 finally, step three is our lower time
+00:11:33.279 frame confirmation. So, what you've seen
+00:11:34.880 on the one minute time frame, that was
+00:11:37.040 our lower time frame confirmation.
+00:11:39.120 That's what told us that price was now
+00:11:41.279 getting ready to go short. And what you
+00:11:43.600 can actually see here is that during
+00:11:45.519 London session, we come down and test
+00:11:47.440 this low. We take out Asia low, but we
+00:11:50.399 don't take out these lows in here. And
+00:11:52.399 again, this creates more liquidity. Now,
+00:11:54.800 guess what happens? A lot of traders out
+00:11:57.360 there, ones that only have a technical
+00:11:59.920 edge, right? This is a huge difference
+00:12:01.440 and something that I have a 27 long
+00:12:04.480 course module, hours and hours and hours
+00:12:06.399 breaking down the psychology of trading.
+00:12:08.000 But do you know how many traders who
+00:12:09.440 would have been in this trade and then
+00:12:11.920 the moment that they seen price coming
+00:12:13.680 back up here and the New York session
+00:12:15.040 starts and price gets around here, do
+00:12:16.880 you know how many of those traders would
+00:12:18.399 have closed this trade here and taken
+00:12:21.600 maybe $3,000 instead of the overall
+00:12:24.800 $13,000 that was up for grabs. And the
+00:12:26.800 reason is is because of psychology.
+00:12:28.639 Price starts reversing against them.
+00:12:30.399 Even though they know that logically
+00:12:32.240 that's fine because that's a part of
+00:12:34.480 their plan, they act emotionally. And so
+00:12:38.079 instead they would have been getting out
+00:12:39.760 there and for the traders who actually
+00:12:41.839 have control of their mindset, they
+00:12:43.279 would have been able to hold this
+00:12:44.560 position all the way to the logical
+00:12:46.959 trade area to be able to make this trade
+00:12:49.519 a winner. So you need both a strategy
+00:12:52.240 and psychology combined in one. And like
+00:12:54.959 I said, if you want to work with me, my
+00:12:56.720 team, and actually get that dialed in
+00:12:58.720 for sure, you can check the link in the
+00:13:00.639 description and see if we can help

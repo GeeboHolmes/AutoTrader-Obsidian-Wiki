@@ -1,0 +1,559 @@
+# tactiq.io free youtube transcript
+# This is the truth about Market Structure (the real reason you lose)
+# https://www.youtube.com/watch/TWhBQSF-hyU
+
+00:00:00.160 Listen to me. If you're still struggling
+00:00:02.159 to become a profitable trader and you
+00:00:04.160 keep finding yourself losing trades or
+00:00:06.480 getting caught on the wrong side of the
+00:00:08.240 market, I'm telling you now, it is not
+00:00:10.480 random and it has nothing to do with
+00:00:12.639 luck. It's one of two things. Either you
+00:00:14.880 simply cannot map directional bias
+00:00:17.440 correctly. Or sometimes you get your
+00:00:20.000 bias right, but you get entries at the
+00:00:23.279 wrong time. Either way, the result is
+00:00:26.160 the same. You incur losses, you miss the
+00:00:29.119 right moves, and you have inconsistent
+00:00:31.679 results. And both of these problems come
+00:00:34.320 back to one thing, market structure.
+00:00:37.200 Now, here's where most traders go wrong.
+00:00:40.160 Most traders don't have a mechanical
+00:00:42.399 rule that clearly defines what a valid
+00:00:45.120 high, low, and pullback actually is. And
+00:00:47.840 if you don't have a clear set of rules,
+00:00:50.000 you cannot correctly identify your
+00:00:51.920 trend, your changes of character, or
+00:00:54.239 your breaks of structure. Which means
+00:00:56.000 from the very start your trading is
+00:00:58.320 random. It's not mechanical. And so
+00:01:00.559 random bias leads to random trades. And
+00:01:03.280 random trades lead to random results.
+00:01:05.920 And ultimately random results just
+00:01:07.680 create doubt. Doubt in your strategy,
+00:01:09.920 doubt in your entries, and doubt in
+00:01:12.320 yourself. All of this because you're
+00:01:14.560 missing one clear set of rules that
+00:01:17.680 would change everything. When you open
+00:01:19.280 up the charts and try to define your
+00:01:21.040 bias without a pullback rule, you're
+00:01:23.520 essentially just choosing random highs
+00:01:25.360 and random lows each time. And you see,
+00:01:27.200 once the foundation is wrong, everything
+00:01:29.520 that you try to build on top of that is
+00:01:31.680 worthless. All of a sudden, you're
+00:01:33.119 mapping the wrong internal shifts.
+00:01:35.360 You're thinking that internal shifts are
+00:01:37.200 external shifts and external shifts are
+00:01:38.799 internal shifts. And you don't know what
+00:01:40.799 a real change of character is, and you
+00:01:42.320 don't know what a real break of
+00:01:43.119 structure is. You ultimately just miss
+00:01:45.040 strong highs and strong lows. You think
+00:01:46.799 that weak highs and weak lows are
+00:01:48.799 actually strong highs and strong lows
+00:01:50.079 and it's all just a complete mess. And
+00:01:52.479 all of those seemingly small structural
+00:01:55.280 mistakes end up putting you in trades in
+00:01:57.680 the wrong direction or at the wrong
+00:01:59.360 time. And that's why you're getting
+00:02:00.799 stopped out of trades. Now, let's say
+00:02:02.320 you fixed the first problem. Let's say
+00:02:04.399 you correctly map your swing structure.
+00:02:06.560 You correctly identify that the market
+00:02:08.239 is bullish. So, your bias is right.
+00:02:10.560 There comes a second problem. Timing.
+00:02:13.520 Because the truth is, knowing direction
+00:02:16.560 simply isn't enough. You can know the
+00:02:18.800 market is bullish and still lose. You
+00:02:21.520 can enter too early. You get stopped out
+00:02:23.840 before the real move starts. Or you wait
+00:02:26.959 too long and price ultimately moves
+00:02:29.280 without you. Now, I know you've all
+00:02:31.360 experienced both of these scenarios
+00:02:33.280 probably more times than you would care
+00:02:35.040 to admit. So, even with a correct bias,
+00:02:37.920 your results are still inconsistent
+00:02:39.840 because direction without timing is
+00:02:42.560 incomplete. If you don't have clear
+00:02:44.000 rules for when momentum is actually
+00:02:46.080 shifting, when the market is actually
+00:02:48.080 moving, you're still guessing. You're
+00:02:50.080 just guessing in the right direction,
+00:02:51.680 which is a little bit better. But again,
+00:02:54.720 guessing even with the correct bias,
+00:02:56.800 still leads to inconsistency because
+00:02:58.640 bias and timing aren't separate skills.
+00:03:01.440 They're actually built on the exact same
+00:03:03.280 foundation, which is market structure.
+00:03:06.000 Proper structure across multiple time
+00:03:08.560 frames, direction from the higher time
+00:03:10.959 frame, and timing and accuracy from the
+00:03:14.159 lower time frame. Once you understand
+00:03:16.640 that, and truly understand it, trading
+00:03:19.440 becomes simple. Now, here's how it's
+00:03:22.239 supposed to work together. You see, the
+00:03:24.000 market can only do one of three things
+00:03:26.800 at any one time. It can either trend up,
+00:03:29.680 it can consolidate, or it can trend
+00:03:31.680 down. You see, your job isn't to predict
+00:03:34.159 the market. Your job is to correctly
+00:03:36.080 identify which phase of price you're in.
+00:03:38.640 If it's trending up, your job is to look
+00:03:40.879 for buys. If it's consolidating, your
+00:03:43.280 idea is probably to stay patient and
+00:03:45.200 wait for clear direction. And if it's
+00:03:46.560 trending down, you should be looking for
+00:03:48.400 sells. That is as simple as it is in
+00:03:51.519 theory, right? But that only works if
+00:03:53.920 your structure is truly defined properly
+00:03:56.720 because bias tells you the direction and
+00:03:58.799 direction removes half the
+00:04:00.319 decision-making. Once the direction is
+00:04:02.159 clear, the next step becomes timing and
+00:04:04.799 that's where multi-timeframe structure
+00:04:07.360 comes into play. The same pullback rules
+00:04:09.439 that you use to identify your bias on
+00:04:11.680 the higher time frame also applies to
+00:04:13.680 the structure and order flow on the
+00:04:15.519 lower time frames. You map your
+00:04:16.959 structure on the higher time frames.
+00:04:18.639 That defines your swing points. That
+00:04:20.399 gives you your higher time frame bias.
+00:04:22.320 That gives you your daily bias. And then
+00:04:24.560 you drop to the lower time frame. And at
+00:04:26.560 this point, you're not looking for
+00:04:28.080 direction. You're looking for accuracy.
+00:04:30.400 You're looking for timing precision.
+00:04:32.479 You're looking for confirmation. And
+00:04:33.840 when the lower time frame shows a valid
+00:04:35.919 change of character in alignment with
+00:04:37.600 the higher time frame bias, that's your
+00:04:40.080 entry. That's multi-time frame
+00:04:41.919 alignment. Direction from the higher
+00:04:43.440 time frame. timing, accuracy, and
+00:04:45.680 precision from the lower time frame.
+00:04:47.840 That's how market structure is supposed
+00:04:49.919 to work. And this is exactly why we have
+00:04:52.479 built orthos labs market structure OS.
+00:04:55.600 It's a structure engine that defines
+00:04:58.160 bias and timing mechanically. So you no
+00:05:00.880 longer have to manually map your swing
+00:05:03.600 points. You don't have to second guess
+00:05:05.600 what counts as a high and what counts as
+00:05:07.199 a low. You don't have to redraw your
+00:05:08.960 structure five times and check it five
+00:05:11.120 times to make sure it's correct. It
+00:05:12.560 reads swing structure to define your
+00:05:14.639 higher time frame bias with complete
+00:05:16.639 accuracy and predictability and it
+00:05:18.400 separates internal from swing structure
+00:05:20.639 properly. It places the valid changes of
+00:05:22.880 character so you know when the market is
+00:05:24.960 actually reversing not just noise. And
+00:05:27.039 in your top right hand screen you
+00:05:28.960 instantly see the multi-time frame
+00:05:30.720 trend. It will show you your weekly and
+00:05:32.320 daily bias along with the 4hour, 15minut
+00:05:35.440 and 1 minute market structure. So you
+00:05:37.759 immediately know whether each time frame
+00:05:40.320 is bullish or bearish. And it's all
+00:05:42.240 built on one mechanical pullback rule
+00:05:44.720 that I have created many years ago,
+00:05:46.720 which is the same rule that we've used
+00:05:48.880 internally inside of our mentorships
+00:05:50.880 that we've never showed externally. In
+00:05:52.800 essence, it's the actual solution to
+00:05:55.840 your market structure problem forever.
+00:05:58.320 Never have to guess about highs and
+00:06:00.240 lows, about trend ever again. You never
+00:06:02.479 have to assume or hope that you've chose
+00:06:04.240 the right high. It automatically does it
+00:06:06.319 for you with a simple click of a button.
+00:06:08.800 And in just a moment, I'm going to show
+00:06:10.319 you how it works and what it looks like
+00:06:12.400 on the actual charts. But just before
+00:06:14.240 that, understand this. If you trade SMC,
+00:06:17.280 everything comes back to market
+00:06:19.280 structure. Every entry, every setup, and
+00:06:21.680 every decision, it all depends on how
+00:06:24.080 you define your structure. Structure
+00:06:26.240 defines your trend. Structure also
+00:06:29.120 defines your timing. And so, if your
+00:06:31.440 structure isn't built on clear rules,
+00:06:34.000 your bias is random. And if it's random
+00:06:36.560 and it's not repeatable, then your
+00:06:38.479 results will also be random and
+00:06:40.080 inconsistent, which a lot of the times
+00:06:42.240 ultimately just leads to you being
+00:06:43.520 caught on the wrong side of the market.
+00:06:44.720 If you just had the right direction, you
+00:06:46.400 probably would have made money. But the
+00:06:47.440 truth is again, even if your bias is
+00:06:49.120 right, you might have the wrong entries
+00:06:51.280 or the wrong confirmations. And so
+00:06:53.680 that's why again, higher time frame
+00:06:55.840 bias, lower time frame confirmation, all
+00:06:58.319 built on the same principles that I
+00:07:00.000 developed quite a few years ago now at
+00:07:01.599 this point to be honest with you. And it
+00:07:02.880 has worked extraordinarily well. So, all
+00:07:05.599 that to say, this will solve your market
+00:07:08.479 structure in a click of a button, and it
+00:07:10.800 will provide you consistency in your
+00:07:13.120 rule-based approach. Now, let's talk
+00:07:14.639 about access. Right now, we are
+00:07:16.400 literally running a founders's lifetime
+00:07:19.360 access to this tool, meaning you will
+00:07:21.360 have access to this tool forever for a
+00:07:23.199 onetime fee of $197. But the truth is,
+00:07:26.479 we are building this aggressively right
+00:07:28.400 now. It defines structure and bias
+00:07:30.319 mechanically. We're actively integrating
+00:07:32.080 our strategy models into this operating
+00:07:34.560 system, which means soon it won't just
+00:07:36.400 define the direction and timing. It's
+00:07:38.880 going to be showing when to enter and
+00:07:41.199 how to enter. And once that layer goes
+00:07:43.199 live, pricing will dramatically be
+00:07:45.199 shifting. Instead of it being a onetime
+00:07:47.280 fee of $197, we're going to be moving to
+00:07:50.880 $1497 per year. That's $1,500 a year or
+00:07:55.120 $197 a month. And when that happens,
+00:07:58.400 lifetime access is gone forever. So
+00:08:01.280 founders pricing is early positioning
+00:08:03.680 before we expand on what we're building.
+00:08:06.319 And again, if you want to lock it in as
+00:08:07.919 of right now at $197, no monthly, no
+00:08:11.440 yearly, no upgrades, you're in. So ask
+00:08:15.440 yourself something simple. If your two
+00:08:17.680 biggest problems are bias and timing,
+00:08:20.639 and both can now be defined
+00:08:22.879 mechanically, why continue doing it
+00:08:25.440 manually? And this is something that I
+00:08:27.120 drastically changed in my own personal
+00:08:28.960 trading. I stopped trying to rely on my
+00:08:30.720 own read on structure and just used my
+00:08:32.240 own indicator. That's why I built it to
+00:08:34.399 help my trading and now I want to bring
+00:08:36.240 it to you guys. So again, it's up to
+00:08:38.000 you. The choice is yours. You can take
+00:08:39.360 it now one-time payment or you can wait
+00:08:41.519 and pay monthly. That's ultimately your
+00:08:43.760 decision. So if you're serious about
+00:08:45.519 directional bias and SMC done properly,
+00:08:47.839 this ultimately makes sense for you. You
+00:08:49.680 can go ahead and lock in your founders
+00:08:51.200 lifetime access before the pricing
+00:08:53.279 shifts. you can just click the button
+00:08:54.880 below and you'll get access. Now, what I
+00:08:57.120 would like to do if you don't want to go
+00:08:59.279 there and get that right now is I would
+00:09:00.720 actually like to walk you through some
+00:09:02.240 examples of this indicator of this tool
+00:09:06.160 in action. So, let's do that. Okay,
+00:09:08.720 cool. So, let me walk you through a
+00:09:10.560 couple of examples of what the indicator
+00:09:13.120 looks like, how it works, and ultimately
+00:09:15.600 what you're really here for is how it
+00:09:18.000 makes your life easier. So, that being
+00:09:20.399 said, I'm on EU, which is for the most
+00:09:22.880 part the primary currency pair that I
+00:09:24.880 trade, but this works on anything that
+00:09:26.880 you want to put it on. You could look at
+00:09:28.240 this market now and you know, maybe
+00:09:31.440 there's a thousand of you watching this
+00:09:33.120 video right now. And so many of you
+00:09:36.160 could be marking your structure and
+00:09:38.160 swing points different, right? Some of
+00:09:40.399 you may see this that we are bearish
+00:09:42.800 right now. Some of you may see that
+00:09:44.160 we're bullish right now. Like some of
+00:09:47.200 you may be looking at this like, okay,
+00:09:48.320 we consolidated. Okay, now we had this
+00:09:49.839 massive sell off. We're bearish. Maybe
+00:09:51.920 some of you are looking at like, okay,
+00:09:53.200 well actually, you know, we're putting
+00:09:54.880 in bullish structure and now we're kind
+00:09:57.120 of coming back into this area and we're
+00:09:59.360 going to go for the new highs. Like
+00:10:00.959 there's there could be so many different
+00:10:02.640 angles. And the interesting part is it's
+00:10:05.920 not really about how different people
+00:10:08.080 see it, right? The big thing that this
+00:10:11.600 solves is maybe one week you come into
+00:10:14.320 the market and this price action to you
+00:10:16.160 looks bullish. Maybe a different week
+00:10:18.959 you come into the market and this price
+00:10:20.720 action to you looks bearish. When you
+00:10:22.640 have those situations when you don't
+00:10:24.079 know is this a low or is this the low?
+00:10:27.600 Um you know is this the high or is this
+00:10:29.920 the high or is the high issue.
+00:10:33.760 When you don't really know which high
+00:10:35.200 and which lows to actually mark out. you
+00:10:38.079 don't know what actually is a change of
+00:10:39.360 character. That's when trading becomes
+00:10:41.519 random. And that's just the reality. If
+00:10:43.600 you don't have a systematic, repeatable
+00:10:46.240 process that follows the same rules all
+00:10:48.160 the time, then you're going to get
+00:10:50.320 random results because you're going to
+00:10:51.680 be taking random actions. So you look at
+00:10:53.040 this market and you know again you could
+00:10:57.760 look at it one week and it's bullish one
+00:10:59.120 week it's bearish one week it's neutral
+00:11:00.399 you don't want to trade it but in the
+00:11:01.440 click of a button you can just apply the
+00:11:02.640 orthos labs structure OS and it will
+00:11:05.839 tell you like quite literally it will
+00:11:08.399 tell you uh you can see not only does it
+00:11:10.560 tell you the structure but it also gives
+00:11:11.680 you the session indicators again if
+00:11:13.920 you're coming from the YouTube channel
+00:11:15.600 God knows how many people have asked me
+00:11:17.600 about my session boxes how to draw Asia
+00:11:20.480 low how to draw Asia high what about
+00:11:22.000 London session, right? New York session.
+00:11:24.320 This comes pre-built for you. So, the
+00:11:27.200 indicator is with the session timings
+00:11:30.000 inside of the indicator already. Uh you
+00:11:31.839 can see on the screen, it shows us all
+00:11:34.720 the highs and lows as far back as we
+00:11:36.959 would like to go, right? It shows us all
+00:11:38.800 of the highs, all the actual real breaks
+00:11:40.560 of structure. Again, you look at this
+00:11:42.640 situation in here, right?
+00:11:44.959 And you see we come lower, we put in a
+00:11:46.959 higher high. Now many people would
+00:11:50.399 overlook this little pullback here for
+00:11:52.880 example right maybe many people are
+00:11:54.240 looking at this like okay high low high
+00:11:57.519 high low high high okay now we're
+00:12:00.480 bullish and they're trying to buy this
+00:12:01.839 in entire price leg not realizing that
+00:12:04.240 it actually shifted bearish all the way
+00:12:05.839 down here and actually we should have
+00:12:07.279 been selling and so yeah like a click of
+00:12:09.680 a button and it just tells you and it's
+00:12:11.120 again the key part is the current actual
+00:12:13.839 swing highs and swing lows. So the story
+00:12:15.360 of this market is you know it was
+00:12:18.160 bearish in here and then it shifted
+00:12:20.079 bullish and that's a higher high and we
+00:12:22.480 had a pullback and we had a break of
+00:12:23.760 structure and we had a continuation
+00:12:28.800 and this is actually a high and this is
+00:12:30.959 actually a low. And the reason that this
+00:12:33.040 isn't an actual high and this is an
+00:12:34.560 actual low is because it doesn't follow
+00:12:37.200 the pullback criteria that this
+00:12:39.279 indicator is coded on. It's coded on a
+00:12:41.360 very specific set of rules that tell you
+00:12:43.279 whether it's a high or a low. So this is
+00:12:44.720 a higher high, higher low, higher high.
+00:12:46.800 So we're bearish, right? So because
+00:12:48.959 we're bearish, this is the low that's in
+00:12:50.959 control until we break and close below
+00:12:54.320 it. Notice that we didn't change
+00:12:57.680 character just upon wicking below it. We
+00:13:00.480 only changed character when we actually
+00:13:01.839 closed below the low. And so you look at
+00:13:04.240 this market now and it clearly tells
+00:13:05.760 you, it actually tells you very
+00:13:08.399 obviously the market structure. We are
+00:13:10.560 H4 bullish and M15 bearish. So, if I'm
+00:13:13.200 an introday trader trading the M15 as my
+00:13:15.519 primary daily bias, I'm interested in
+00:13:17.519 cells, right? That's simply it, right?
+00:13:20.240 And you find an area of interest, which
+00:13:22.160 in this instance, you know, just a
+00:13:24.240 simple area of inefficiency, fair value
+00:13:26.639 gap, and any time frame you go on,
+00:13:28.079 right, you go on the 1 minute time
+00:13:29.120 frame, it's going to tell you the same
+00:13:30.399 thing. And so, in this situation, what
+00:13:32.160 you can see is the M1 is already
+00:13:33.440 bearish. So, the 15-minut is bearish and
+00:13:35.920 the M1's bearish. So, that's our
+00:13:37.120 confirmation. But notice that we
+00:13:39.519 actually have internal as well. You see
+00:13:41.680 the external here is swing high to swing
+00:13:44.720 low. But sometimes when an external
+00:13:46.880 range is so large, we actually have to
+00:13:49.519 go internal and use the internal as our
+00:13:52.480 confirmation. And so for example, like
+00:13:54.959 you can see here, right? We are higher
+00:13:57.360 highs, higher lows, higher highs, higher
+00:13:59.519 lows, higher highs. I like to have my
+00:14:01.680 indicator settings on quite faint. I
+00:14:04.160 like a minimalist chart. But if you want
+00:14:06.240 to put them on,
+00:14:08.480 you know, large, you can put them on
+00:14:10.079 large and it will give you a lot larger.
+00:14:11.920 Now it's quite clearer than what it was
+00:14:14.240 before, for example. But I personally
+00:14:16.959 like to have it on a little bit
+00:14:18.959 different. So you can see here internal
+00:14:20.720 higher high. The IH means internal
+00:14:23.199 higher high. IHL internal higher low.
+00:14:26.560 IBOS internal breaker structure.
+00:14:28.480 Internal higher high. Higher low.
+00:14:30.160 Breaker structure higher high. So right
+00:14:31.760 now the internal is actually bullish.
+00:14:33.600 So, if you're a bearish M15, which we
+00:14:35.360 are, you're not really interested in
+00:14:36.800 trying to short the market whilst it's
+00:14:38.399 bullish. You need to wait and on an
+00:14:40.079 internal change of character, then
+00:14:42.639 really and truly, you know, that's when
+00:14:44.639 you can actually look at trying to sell.
+00:14:47.839 And then again, you just got to find
+00:14:49.120 certain areas of interest like these
+00:14:51.760 levels in here. And again, not saying
+00:14:53.920 this is going to play out, but just to
+00:14:55.199 show you like this is it kind of tells
+00:14:58.399 you
+00:15:00.480 itself ultimately. And even if you
+00:15:02.959 adjust again simple ones five again no
+00:15:04.959 idea does it tag or not it does tag in
+00:15:07.600 this instance right internal change of
+00:15:09.519 character and now you can see now we
+00:15:10.959 have internal lower low right
+00:15:15.360 and we're coming back to this level now
+00:15:17.519 maybe you didn't get involved in the
+00:15:19.199 first trade maybe you wanted to get
+00:15:21.279 involved
+00:15:24.000 you know in the in the second
+00:15:25.199 opportunity because prices trading
+00:15:28.639 bearish right again these are just some
+00:15:30.320 examples minimum you guys know me,
+00:15:32.079 especially coming from YouTube, I like
+00:15:33.519 to use a 1 to5 riskreward. [laughter]
+00:15:36.560 But yeah, I mean,
+00:15:39.040 it's coded off of
+00:15:42.800 like the actual, you know, what the
+00:15:46.079 structure should be, right? There's
+00:15:47.680 another entry opportunity just trading
+00:15:51.199 well the trend
+00:15:53.759 like what what else you need to trade.
+00:15:55.600 And again, even though it's just simple
+00:15:56.880 one to fives,
+00:16:00.320 right? All right. And it tells you on
+00:16:01.120 every single time frame, even the 5m
+00:16:02.320 minute time frame. You can see here,
+00:16:03.759 swing low. All right. Swing high.
+00:16:06.560 Sometimes the M15, the five, they're
+00:16:08.639 similar.
+00:16:10.320 But I mean, yeah. Does it hit it?
+00:16:20.800 Again, most of them have hit the lows
+00:16:26.959 and yeah, again, just trading the the
+00:16:31.120 structure, right? It's
+00:16:34.480 so I just want to kind of show you a
+00:16:35.759 visible walk through on any single time
+00:16:37.279 frame. No matter if you trade the 1 hour
+00:16:38.720 time frame or you trade the 15-minut
+00:16:40.399 time frame, it'll tell you anything,
+00:16:41.519 right? So, 1 hour time frame
+00:16:44.160 in this instance is also bearish. So,
+00:16:47.519 the 1 hour is bearish. This is the swing
+00:16:49.279 low on the 1 hour, swing high, swing
+00:16:51.839 low, right? You go to the 4 hour, it
+00:16:55.120 already tells you is here. This what I
+00:16:56.320 like about it as well. If I go to the 1
+00:16:57.680 minute time frame, right, it tells me up
+00:17:00.800 here, we have market structure, which is
+00:17:04.400 bullish,
+00:17:06.160 H4, bullish, expansion, M15, bearish,
+00:17:10.000 confirm shift, M1 bearish, continuation.
+00:17:14.319 Right? Right? And I'll explain this in
+00:17:15.679 more detail inside of the trainings of
+00:17:18.720 the indicator as well. But there's also
+00:17:20.240 another thing here which is directional
+00:17:22.000 bias. Right? Directional bias is telling
+00:17:24.160 you if the weekly is has a bullish
+00:17:26.880 directional bias. If the daily has a
+00:17:28.640 bearish directional bias, again, if you
+00:17:30.240 understand daily bias and what it's
+00:17:31.520 built off of, this literally tells you
+00:17:33.120 what the the daily bias is. I have a few
+00:17:35.200 different YouTube videos on this uh
+00:17:37.120 concept as well. So yeah, that's kind of
+00:17:38.960 it in action. Look, I could show you
+00:17:40.480 multiple different scenarios and
+00:17:42.960 examples.
+00:17:44.480 Like let's look at this GU for example,
+00:17:46.880 right? Again, maybe one day this is
+00:17:48.880 bearish for you, right? High swing low.
+00:17:52.960 Maybe one day it's bullish for you.
+00:17:55.280 You're looking more internal, right? Or
+00:17:58.320 maybe now it's bearish for you, right?
+00:18:00.240 So you're like, &quot;Oh, okay. We've taken
+00:18:01.600 the lows out in here.&quot; Why guess is that
+00:18:03.280 the low? Is that the low? Is that the
+00:18:05.039 low? Maybe the low is down here. You
+00:18:07.360 don't have to guess. Click of a button.
+00:18:10.880 Oh, okay. So, that's the swing low. So,
+00:18:14.000 actually, if we take out
+00:18:17.039 this low down here,
+00:18:19.919 we're not actually bearish. We're still
+00:18:21.840 bullish. So, look at this now. Weekly
+00:18:25.200 bullish, daily bullish, H4 bullish,
+00:18:27.039 15-minute bullish. What do you think is
+00:18:29.280 the likelihood that price is going to
+00:18:30.960 trade higher? I could just answer that.
+00:18:34.160 What's this in here? little 15-minute
+00:18:35.840 order block across here. Like, you have
+00:18:39.440 full structural confidence and
+00:18:41.840 confluence to trade bullish. Again, like
+00:18:44.880 I'm telling you, the the primary driver
+00:18:46.559 of SMC is going to be your market
+00:18:50.960 structure. And again, you can make this
+00:18:52.640 smaller, larger, like whatever. But
+00:18:55.120 like, let's say this, for example, some
+00:18:57.520 people are bearish right now. Some
+00:18:59.120 people are and maybe you yourself you're
+00:19:01.760 looking at this you're like okay well
+00:19:03.360 you know we shifted in here oh we're
+00:19:05.440 taking this low we're threating this
+00:19:06.640 high okay like I'm going to I'm going to
+00:19:08.799 short this level and I'm going to also
+00:19:10.720 target one to Oh,
+00:19:23.293 [laughter]
+00:19:28.320 okay. Like, are you in the least bit
+00:19:29.840 surprised? And as soon as it breaks, you
+00:19:31.120 can see now we have a new swing low.
+00:19:33.840 Everything told us that it was yes,
+00:19:37.039 bullish.
+00:19:39.840 Understand? So yeah, like I could show
+00:19:42.320 you these examples for days. Look at
+00:19:44.000 this example here. Price is trending
+00:19:45.440 bearish, right? We're bearish. Maybe you
+00:19:47.200 don't see this as a high. Maybe this is
+00:19:48.480 a high for you. Maybe this is a high.
+00:19:49.679 Maybe this is a high. Who knows? But if
+00:19:52.320 you don't catch on, then you're in a
+00:19:54.799 blind spot. You're in the unknown.
+00:19:56.160 You're trading in the unknown. That's
+00:19:58.320 why you get caught on the wrong side of
+00:19:59.440 the market so much. Maybe you were
+00:20:01.120 someone who thought it was bullish and
+00:20:02.799 first you tried to buy in here, not
+00:20:04.480 realizing this was an actual inducement.
+00:20:06.640 And then you took a trade and you got a
+00:20:07.919 stop loss. Then you're like, &quot;Okay, now
+00:20:08.960 I got a stop loss. and I'm going to
+00:20:10.080 sell. And your trade starts going well
+00:20:11.520 and you're like, okay, maybe I'm going
+00:20:12.400 to sell again or maybe you missed out on
+00:20:13.520 that one. Now you're trying to trade
+00:20:14.400 again and you get break even and stop
+00:20:16.559 losses. So that's my solution for it.
+00:20:18.880 I've tried to teach market structure so
+00:20:20.559 many times and still people have
+00:20:23.520 questions, people have doubts, people
+00:20:24.880 don't understand how to apply. I don't
+00:20:26.080 know how many market structure videos I
+00:20:27.679 need to create. People still don't get
+00:20:29.360 it. So here's a tool that does it for
+00:20:31.360 you. Enjoy.

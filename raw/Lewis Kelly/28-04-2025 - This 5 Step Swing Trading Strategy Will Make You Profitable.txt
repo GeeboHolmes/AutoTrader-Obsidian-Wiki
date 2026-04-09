@@ -1,0 +1,316 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/f7MzjI_zdKQ
+
+00:00:00.240 this one swing trading strategy that I'm about to share with you is extremely simple but it could be the answer to
+00:00:07.120 your profitability I'm going to be walking you through a stepbystep checklist that takes you through every
+00:00:13.679 stage of taking a profitable trade On top of that I'm going to be back testing a live strategy with you so that you
+00:00:21.359 understand exactly how it works and how to trade it consistently So let's dive
+00:00:26.560 straight into the video Now as you can see on the chart right now these are actually the trades that we're going to
+00:00:32.079 be looking at that were available with this specific strategy in December And
+00:00:37.120 I'm going to be going over to Tradzilla to start back testing this specific system and showing you step by step how
+00:00:43.760 this would have played out So here in the top right hand corner what you can see is the steps to the strategy So very
+00:00:50.239 simple five steps We're going to be going through them one by one and showing them how they apply to this
+00:00:56.800 market context So Euro US dollar 4hour time frame very very important So step
+00:01:02.879 one as you can quite clearly see is higher time frame bias right Htf bias
+00:01:08.479 that simply means understanding what's the bias of the higher time frame By bias we're referring to what's the
+00:01:13.840 likely directional intention for price Is price most likely to trade higher or
+00:01:19.439 is price most likely to trade lower to do that we're using very simple market structure Essentially want to zoom out a
+00:01:25.360 little bit and understand the context of price in terms of where we have been going So if we look at this delivery of
+00:01:30.799 price on the 4hour time frame it is very very very clear to see that price is aggressively bearish So what we're going
+00:01:37.280 to do is we're going to take out our highlighter tool and we're going to zoom back in to understand you know we have
+00:01:42.560 been aggressively bearish Then we want to kind of refine that approach and look at structural levels So you can see we
+00:01:48.399 have a swing down here We have a swing up in here right so that makes for pretty much you know swing low swing
+00:01:54.240 high swing low So this is a lower low So that's a breaker structure So we're bearish We have a pullback in here we
+00:02:00.719 continue bearish We have a pullback in here we continue bearish And right now we're here So we are neither above the
+00:02:08.239 high or below the low That is our trading range Very simple That is how
+00:02:13.520 you define a trading range Many traders make the mistake of not understanding where they should be trading because
+00:02:18.879 they don't understand how to build a bias The way you simply build a bias is just understanding what's the
+00:02:23.920 directional intention for price So if this was the low this was the high and then we break down and give a new low
+00:02:29.840 and as of right now price is high here low here we want to be trading with a
+00:02:35.920 swing trading strategy on this time frame in the direction of the overall trend in this scenario So we want to
+00:02:42.560 trade in bearish right we want to be looking for sell positions So our higher time frame bias equals bearish Now what
+00:02:49.680 we're going to be looking for is premium and discount alignment So simply put our premium and discount is just literally
+00:02:55.760 take a fib So the Fibonacci retracement tool and you want to draw it from the
+00:03:01.120 high of the price leg to the low of the price leg in this darker gray area This
+00:03:08.959 is our premium and this is our discount What does that mean anything above this
+00:03:14.560 50% level after we break this low is premium That is the area we want to be
+00:03:20.480 selling in So it's very clear to see we are well inside of our premium So as long as we're inside of our premium
+00:03:26.319 we're good to move on to next step Step number three is a lower time frame shift
+00:03:31.440 So we have our directional bias and essentially what we're looking for is a lower time frame shift So when you're in
+00:03:37.680 this specific level of price you want to be looking at the 15minut time frame Our 15-minut time frame is going to be the
+00:03:43.040 time frame we're using to enter the market Now if we look at the 15-minut time frame what you will notice is we're
+00:03:49.120 actually pretty bullish So we don't want to be looking to sell until this
+00:03:54.480 15-minut time frame has shifted bearish along with the H4 Why is that important
+00:04:00.159 let's have a look at that theoretically Imagine the 4hour time frame looks like this right the 4-hour time frame is
+00:04:06.640 bearish We put in a lower low We had a pullback We put in a new lower low And
+00:04:11.840 then we have a pullback That's what it looks like right we're operating We had a low lower high lower low Now we have
+00:04:18.959 swing low swing high We're in the premium So the premium is about here So above here we want to be looking at
+00:04:24.560 selling So what we're going to be seeing is as price comes down like this the 15minut time frame is going to be
+00:04:30.160 looking like this And then as price starts to come back up on the 4 hour the 15minut is going to be looking bullish
+00:04:36.000 But then when price gets into this level we're waiting essentially for this 15-minut time frame to shift bearish
+00:04:42.080 because when this 15-minut time frame shifts bearish the 4hour time frame will start like this right and if we kind of
+00:04:48.880 put them next to each other you'll see them So the 4our starts to come back the 15 minute shifts and
+00:04:55.840 then the 15minut can come back That's when we're going to be looking at entering the market That is our entry
+00:05:01.680 model Essentially we're just literally going to be looking at a 15-minute shift like this and then an entry in here and
+00:05:08.240 then start trading this trend as it trades down What that's going to look like on the 4hour time frame The 4hour
+00:05:13.759 time frame is pretty much going to be looking like this all the way until
+00:05:19.800 ideally we take out this low down here This low is going to be our target This
+00:05:25.440 4hour low right we're going to trade in in the direction of that The 4hour is going to look like this And the 50-minut
+00:05:30.479 time frame is going to be looking a lot more bearish So let's take a look at what that kind of plays out on Here we are 50-minut time frame And if we just
+00:05:36.639 zoom out like really zoom out we will see that our 4hour remember guys we're
+00:05:41.919 trading based off the 4 hour That was the low that was the high that was the low So our 4hour high is here Our 4hour
+00:05:49.120 low is down here So we want to be trading this move down here on the 15-minut time frame And what we also
+00:05:55.360 want to be doing is as price starts moving down right we want to be getting in again We want to be scaling into this
+00:06:01.440 trade idea When you're a swing trader you don't have a high quality setup that
+00:06:06.880 shows to you every day or even every other day You have to capitalize on one
+00:06:11.919 big move maybe in a few weeks maybe in a few months And you want to capitalize on that one big move and you want to scale
+00:06:17.680 into that position as much as possible That's kind of what I'm going to be showing you in just a moment Here we are 15-minut time frame right and then I'm
+00:06:22.880 going to show you something very very important now as this 15-minute time frame develops in New York session So just for context this blue box is Asia
+00:06:29.639 session This green box is London session This orange box is New York session So this is New York session Friday the 6th
+00:06:35.759 of December And notice that price comes with a very very aggressive run on price
+00:06:43.199 uh run on this high followed by a very aggressive selloff So this is NFP NFP is
+00:06:50.240 known to be manipulative That for another video But if we go to the 4hour time frame now what we see is that was
+00:06:56.880 our swing high And now we have aggressively manipulated that high
+00:07:02.319 Please please please understand this There is a huge difference between a breakup structure and a liquidation A
+00:07:08.400 liquidation is when you see price wicks above an old high and then closes back
+00:07:15.520 inside the range The reason that's so important is because it shows us that the market doesn't agree that price
+00:07:22.080 should be above this high because if it did agree then it would have closed above that high at the market close on
+00:07:29.120 any time frame that is the absolute agreed upon price by the market participants So if price has attacked
+00:07:35.360 that high in a manipulation and then closed back down right inside of this
+00:07:41.360 range below this low the market has agreed that price should not be trading above that level Then the next 4hour
+00:07:46.720 candle what happens it gives us another aggressively bearish candle This is a
+00:07:52.560 textbook sign of pretty much a stop hunt from this level so that smart money
+00:07:57.840 right large institutions are able to position themselves into the move in these regions right getting better
+00:08:03.680 averages on price because they are getting ready to move price lower which is already clear in their bias We've
+00:08:11.360 already got our higher time frame bias Now it's about capitalizing on it So if we go to the 15minute time frame again
+00:08:18.560 and understand what has just happened we've just had an aggressive manipulation right and then the
+00:08:24.080 aggressive selloff we've also created a fair value gap in this region For those of you who don't know what a fair value
+00:08:30.080 gap is yet pretty much look at any three candles So if we look at candle one here
+00:08:35.120 candle two here candle three here if the the high of candle three and the low of
+00:08:40.240 candle one do not meet simply put that is a fair value essentially a liquidity void in that specific price leg High
+00:08:47.279 probability that that area gets filled providing you have context But structurally really and truly what we
+00:08:52.640 want to be looking at is some kind of swing low to be broken So for me it's
+00:08:57.680 still not complete yet The moment we get some kind of swing low broken like this now that trade idea is complete and now
+00:09:04.640 we have this newly formed fair value gap So that is really what you want to be looking for right which takes me on to
+00:09:11.120 step number four right which is a lower time frame entry model and kind of how we get into price We've got a higher
+00:09:16.959 time frame bias that's bearish We're in the premium and discount level We've had now a lower time frame shift Now we have
+00:09:22.959 a lower time frame entry model Lower time frame entry model can be pretty much any run on liquidity into a fair
+00:09:29.040 value gap into a order block a breaker block or even an inverse fair value gap
+00:09:34.480 A run into any of those on this 15-minut time frame is what we're looking for So as price begins to enter into the next
+00:09:42.560 day Asia session getting ready to open right so there's Asia
+00:09:48.600 session Now London session is getting ready to open So what we have here is we
+00:09:54.640 have our textbook Asia session high which for those of you who have watched me for long enough understand that's a
+00:10:00.000 void of liquidity We have relative equal highs in here as well Again void of
+00:10:05.440 liquidity And then in here we have a 1 hour order block on the supply range and
+00:10:10.880 a 15-minute fair value gap in here So that's what we really want to be looking to trade Want to be looking at putting an entry in here So short and then stop
+00:10:17.839 loss placement Want to be looking at either a the high or b honestly the the
+00:10:23.839 body of this candle Because the reality is is if price is going to come back and test the body of this it's not a good
+00:10:29.760 sign It's probably going to run the high So from a risk-to-reward metric you could be okay just covering the body of
+00:10:37.440 this specific high and kind of just trading this fair value And then where do you want to be targeting now your
+00:10:42.959 overall trade idea is based off of price
+00:10:48.160 running into the lows down here This is our overall target but sometimes price can go up down up down up down And so we
+00:10:56.320 also want to factor in the idea of being able to position ourselves and get out
+00:11:01.760 of our positions with partial profits So looking for these little internal swing points if price pulls back up into here
+00:11:07.760 and then looking at this swing point down in here looking to take a little bit of your position off in these little
+00:11:13.600 swing points essentially is going to make sure that you're locking in profit and then leaving you know the other half
+00:11:18.640 or 60% of your position to run for these big kind of swing target levels So if we drop into the 15minute again to see how
+00:11:25.600 we kind of get in for our entry So we're going to look at entering this position I'm going to place an actual order So
+00:11:31.440 we'll come over into here We'll go 1% risk If you're wondering what platform
+00:11:36.480 I'm currently using to actually be able to simulate what it's like in real time to trade Uh I'm using Tradella Uh it's
+00:11:43.519 kind of the tool that I use to both back test and journal all of my trades and review all of my performance I'll leave
+00:11:48.720 a link in the description down below You can kind of get yourself using this Honestly if you aren't using Tradzella
+00:11:53.760 or some kind of back testing or journaling software yeah you're doing yourself a great disservice Uh 1% risk
+00:11:59.600 Uh we're going to be looking at we'll put a stop loss and take profit So for the overall position itself we're going
+00:12:06.079 to place a stop loss up here Sorry our sell limit down here And then remember our target is all the way down here our
+00:12:12.399 4hour low So our overall target down here is going to be this low right see
+00:12:17.920 we're risking $2,000 1% of a 200k account which is pretty standard If the trade comes through it's $18,000 take
+00:12:23.839 profit So that's the sell that we're looking at going for We'll kind of close this for now That's the sell limit
+00:12:31.120 placed and then just playing price out So London session opens with the manipulation of these Asia highs Then we
+00:12:37.120 come into the um L of London New York New York session opens and then tagged inside of our New
+00:12:45.760 York window right not inside of our specific kill zone but this is a tag uh 11:15 a.m Eastern Standard Time That's
+00:12:52.800 our first position So after this essentially you can see price continues running out I'm going to remove this for
+00:12:57.839 now You can see that we're tagged into that position We have down here our unrealized P&L So currently running up
+00:13:03.360 $2,500 in profit on this position We'll keep it running We're heading into tomorrow So again important to
+00:13:09.920 understand what's happening now contextually Asia session is forming again So we're still bearish we're still
+00:13:15.519 expecting price to trade lower So this is how you can start scaling into your swing positions As a swing trader you
+00:13:21.519 don't have all of these opportunities present consistently So when you get in on a right move at the top of a price
+00:13:27.440 leg on the higher time frame you want to be looking at getting in as many positions as possible on that ride down
+00:13:33.279 but you have to do it very intentionally and very smart And so here's what you
+00:13:39.120 should do Essentially what you want to be looking at is you can see that price puts in this low leg comes back pushes
+00:13:44.320 in We come temporarily bullish whilst we look at coming to tag in this position mitigating the fair value gap and highs
+00:13:50.880 of NFP And then what happens well price expands higher We create a high We pull
+00:13:56.320 back We create a higher low Right this high is higher than the previous low Then we go higher high We tag in And
+00:14:03.680 then we give a change of character So here we shift from internally bullish to bearish That is our sign that this high
+00:14:11.680 is in control of the market At this point the assumption is is if price is
+00:14:17.279 going to continue lower it is going to do so whilst respecting this high If
+00:14:22.959 price is going to be heading back above this high the likelihood is is it's also going to be heading above this high With
+00:14:30.320 that information we can make an informed decision What I would look at doing is how can I get into this market before I
+00:14:37.199 do that is how can I reduce risk that I'm already exposed in So I have currently you know $2,000 worth of risk
+00:14:43.440 exposure What I want to do is I want to bring that risk down to here I am now going to put my stop loss above this
+00:14:50.079 high because if price breaks above this high the likelihood is is it's going to
+00:14:55.839 be heading for this high That's what probability would indicate So I can reduce this risk to 350 which then
+00:15:02.079 allows me to do what it allows me to add a new layer of risk another trade without doubling my total risk exposure
+00:15:09.600 I still have the opportunity to make $18,000 off this trade that's open This
+00:15:15.120 target is still $18,000 So I'm still running in that position But what I want to do is look at getting myself scaled
+00:15:21.360 in to this position because we have shifted market structure So we have Asia session high And for those of you who
+00:15:27.199 know me understand the importance of this Asia session high and the manipulation therein right we have this
+00:15:33.040 entire pretty much you know buy to sell range I don't want to fuss over exactly
+00:15:38.240 where I need to get into price in here There's no real fair value gaps It's all mitigated price action So pretty much
+00:15:45.519 what I want to do is I want to wait for London session to come in and look at
+00:15:51.519 you know can we get a reaction from London session so you can see this is Frankfurt Now there's 1:00 a.m Now we've
+00:15:59.480 manipulated Asia high So we're in play with the manipulation of Asia High When
+00:16:05.120 London opens we want to be looking at a bearish reaction at London open and then we're good to go Usually what I would
+00:16:11.120 like to see is London sweep this high But if Frankfurt has done it the job has been done So now it's 130
+00:16:20.040 and there we have London open So you can
+00:16:25.120 see London opens with an aggressive bearish M15 candle off the back of
+00:16:30.759 sweeping this Asia session high So what we want to be looking at is how can we get involved in another short position
+00:16:37.279 That's the confirmation But still we don't know whether price could come back up in here So I don't want to sell here
+00:16:43.440 put my stop loss here I still want to be protected For me personally I would rather have a larger stop size and a
+00:16:49.920 lower overall risk-to-reward but have a higher likelihood of staying in the position as opposed to being overly
+00:16:55.440 aggressive on risk and expectation of risk-to-reward when it doesn't really make sense So how can we get ourselves
+00:17:01.360 involved well this is the logical high for price that I expect to be respected This is where we currently are for price
+00:17:09.520 So if I can just get involved and the risk-to-reward makes sense and the riskreward on something like that is you
+00:17:16.720 know almost a 1 to7 risk-reward it's a no-brainer The risk-to-reward is there Can we look at scaling into this
+00:17:22.400 position we can create a new order advanced Uh we'll go 1% of initial balance So an extra $2,000 worth of risk
+00:17:28.960 is what I'm willing to spend here My stop loss goes here So now if I place this trade I have a total of $2,300 of
+00:17:37.120 risk exposed But if price hits my target or at least some of my target profits I stand to make for this specific position
+00:17:44.799 That's the first position The second position would be an extra $13,000 So I've added basically a total
+00:17:53.520 of $347 of total risk to this position in exchange for potentially an extra
+00:18:00.200 $13,000 if things play out That to me makes sense I've adjusted my risk I
+00:18:05.280 still have open pretty much the total one lot of risk $2,347 of risk That to
+00:18:10.799 me is pretty much 1% total risk but I stand to make the 18,000 and the 13,000
+00:18:18.640 So a 9% move and a 6 12% move And I still have only my 1% give or take my
+00:18:25.480 1.2% worth of risk open That is how you want to be managing risk not just forcing yourself into price So we can
+00:18:31.919 remove this for now Now we're in two open positions and we can just essentially watch and see how price
+00:18:38.400 reacts to these levels We immediately start running in profit And honestly
+00:18:43.919 this is an area in which I would be looking at securing something or at least moving my stops to break even if I
+00:18:50.000 hadn't taken anything off the table And again you're swing trading You're not
+00:18:55.440 actively watching these positions play out You're allowing them to unfold You're checking in day by day New York
+00:19:00.559 session presented nothing Now we come in to the next day So here we have Asia session again and honestly you can look
+00:19:08.039 at continuing to position yourself in this market The learner session begins
+00:19:14.240 Now why can't we continue to get ourselves involved in this market we stand to be able to position ourselves
+00:19:19.360 again into price with a sweep of Asia session high right which is the the classic sweep reversal Sweep reversal
+00:19:26.640 sweep reversal With a sweep of Asia session high we can look at getting involved in price London session doesn't
+00:19:32.160 give us the pullback If we can get above here I'll be looking at selling and we don't We get the continue continued
+00:19:38.880 momentum and then London finishes Now New York opens again Now what we have is
+00:19:44.160 new structural levels right because we had price puts in a low we have a
+00:19:49.280 pullback we get a new lower low Usually I would sell this high but because it's
+00:19:54.400 Asia I'm not interested So usually if this wasn't Asia session I would be looking at selling above this London
+00:20:00.000 session but because it's Asia I'm not interested You can see we respect Asia
+00:20:06.240 in this instance which doesn't happen most times I don't mind not taking a trade Just because it plays out once or
+00:20:13.280 twice doesn't mean it will continuously play out So for me that's a no-go taking a trade like that But now we have a new
+00:20:20.000 high right we've taken these lows Well in all fairness we actually only have manipulated them So we still haven't
+00:20:25.520 created the new high yet until we can break them and confirm the break Now we can So now we've broken structure So now
+00:20:32.000 we've broken the lows and now we have new structure Now we do have equal highs in here But if we kind of allow
+00:20:37.679 ourselves to come to Asia session next day right we're getting ready for the
+00:20:43.360 London session open This for me is a textbook setup what we're about to see So now we start heading open There's
+00:20:50.559 London open Now what I want to be doing is I want to be getting involved again I want to be scaling into my positions We
+00:20:56.159 have swing high to swing low We do have relative equal highs So I don't want to be moving my stops above that Asian
+00:21:01.520 session high because it is possible to get manipulated but we're kind of playing with the strength of overall
+00:21:07.440 price I want to be getting involved in this supply zone in here I'm going to put my stops above the highs in here
+00:21:13.039 which yes it is risky in all honesty but nonetheless just playing out the edge if Asia wants to be respected Occasionally
+00:21:19.679 it can be and just looking at pretty much just playing ourselves back in Right so again that would be a high-risisk reward trade and want to get
+00:21:26.559 ourselves back in for this price So another order comes in We're going to go
+00:21:32.000 initial balance 1% and we're going to go uh stop because I actually got myself a
+00:21:38.000 little bit too late Imagine we've already been tagged into this position Um so in here if this gets
+00:21:45.200 traded through we would have got tagged at this level That's where I would be getting in My stop loss would be going above Asia high Again not a great place
+00:21:52.400 for a stop loss to be totally honest with you Uh but for the context I just want to show you the strategy I don't want to do discretion for you guys
+00:21:58.480 because discretion is something that you have to learn in greater detail It's not something I can just teach you in a 30
+00:22:04.320 minute YouTube video right discretion is something that you need to understand contextually It's something that I have to teach day in and day out for you to
+00:22:10.480 start understanding context If that's something that you would be looking for i.e me walking you through price every
+00:22:16.960 single day twice a day exactly what I'm looking for That is actually something that I do with all of my students inside
+00:22:23.280 of my inner circle And that's actually one of the main things that enabled Ralph one of our top students to make
+00:22:29.360 over $50,000 with FTMO in the last 3 months of this specific year If that's
+00:22:35.200 something that you think would help you then down below in the description I've left a link for you to check a little bit more about that out But let's get
+00:22:41.760 back to the video So we'll just place this trade and we'll take it regardless So that's open now Uh if price pretty
+00:22:47.799 much trades through that level So there you go We would be executed into this
+00:22:53.520 position We have an extra $2,000 worth of risk up here but we have an extra $20,000 worth of profits to take down
+00:23:00.080 here So now we have a total of $4,400
+00:23:05.240 $4,350 worth of total risk exposure available Uh I wouldn't move these stop
+00:23:10.480 losses above here because it's possible that these highs get manipulated given the context But we'll we'll keep moving
+00:23:16.559 So what we see here is again another position See how price plays out Price
+00:23:22.240 starts moving in our desired direction That's pretty solid right again we don't break this low If we can break this low
+00:23:28.640 we can look at scaling back in Sometimes price does respect Asia high right something you have to understand But now what we're doing is we are building a
+00:23:34.480 lot of buy side above these highs objectively speaking But what I will say is we have now broken those lows So in
+00:23:42.400 London session in New York session sorry Again we could be looking at getting ourselves back in the market in this
+00:23:49.360 level The problem is is we're already in a position in this level and the risk is still open Therefore it doesn't make
+00:23:54.799 sense to do so So we just literally play price out as it is You can see very very
+00:24:00.559 beautiful respect of this level Again like I said if I wasn't already in a position from this level with my stop
+00:24:07.440 loss open I would definitely be selling from this level But because I'm already in a position at this level with my stop
+00:24:14.000 loss still open it doesn't make sense I'm just doubling down my risk on the same trade idea technically Therefore it
+00:24:20.720 doesn't make any sense And so again we're still we there's a stack of liquidity above these highs but we having a very very nice uh reaction We
+00:24:27.840 currently have you know $19,000 of open profit What we can do now is we can move this stop loss So we
+00:24:35.200 currently have $4,350 worth of risk on the table And this $2,000 worth of risk here can be
+00:24:42.720 moved pretty much to break even So the initial entry is in here What we really
+00:24:48.480 want to be looking at doing is understanding price comes back up to here trades out the low pulls back and
+00:24:54.640 then trades out the low again And so by moving our stops to this level that's
+00:25:01.039 pretty much a break even level So we've removed the risk entirely from that one So now we have just
+00:25:06.760 $2,350 worth of risk open And the reason I'm keeping the stop losses up here for
+00:25:12.640 this specific position is because of this arc of liquidity that is building up We have one two three four session
+00:25:20.880 highs Plus this is high of Tuesday high of Wednesday high of Thursday The
+00:25:26.400 likelihood is is that is getting ran for liquidity When you understand context but again for the purpose of this we're
+00:25:32.080 just repeating strategy We keep playing price out Another day passes You can see price comes and respects that level So
+00:25:38.320 we're still not taken out at break even from that price Next day what happens asia session is opening Again no real
+00:25:46.240 way for us to kind of scale into into this position And then we get tagged out at
+00:25:51.840 break even So out of that position and then price begins to trade out of that
+00:25:58.559 level which is totally fine What are we doing though more liquidity being built across these highs And what I want to do
+00:26:04.640 in context is I want to see if we can get some kind of run into this pocket of
+00:26:10.559 liquidity and a bearish reaction That's when I want to execute another position because I want to scale into this trade
+00:26:16.159 idea If we look at the 4hour time frame remember our overall trade uh is based off of this price action We're expecting
+00:26:24.480 a new lower low So as price comes down we're just scaling in the highs And the purpose is really is to catch these
+00:26:31.840 highs We want to be catching these highs As price expands down when it comes back
+00:26:36.880 and then starts moving again we want to be catching these highs to scale into
+00:26:43.039 this overall move That is the overall idea especially when you're a swing trader You don't get these opportunities
+00:26:48.640 to get involved like this every week You know it can take a month for a great
+00:26:54.480 setup like this to occur So when you get into that leg of price that trend you want to be executing like crazy versus
+00:27:01.760 when you're a scalper you can be in and out of positions you know uh every day You don't need to be trying to force
+00:27:07.440 yourself into one price leg So we'll continue playing price out There we go There's through the weekend
+00:27:14.320 Back into Monday market open again What have we created here more liquidity We
+00:27:20.240 have Asia high with a New York high with a London high with a New York high with an Asia high This is a crazy amount of
+00:27:27.279 liquidity that's building up in this area of price If we can manipulate this and then sell off that is the the setup
+00:27:33.760 of the week London opens
+00:27:38.799 London gives a really nice liquidation of this high but still still stacking
+00:27:46.080 for that overall liquidity right still stacking For me personally that's still uh a breach on liquidity In
+00:27:54.799 the moment you may feel like you missed out on taking that type of position but again price is building up liquidity at
+00:28:01.600 these highs This is a very shallow sweep for me That's still high of day high of day high of day high of day high of day
+00:28:08.240 I want to see a real sweep into that area like that There's an Asia just
+00:28:13.760 before Asia Then you get a sweep Now we're talking because now what we've done is we've run into one high two
+00:28:21.760 highs three highs four highs and their high of days Super super liquid areas of
+00:28:27.520 price just before Asia session just before that Asia session begins and then Asia starts to sell off Now we can look
+00:28:35.440 at getting involved inside of London session So here we can see London session opens and we can see that again
+00:28:41.679 we want to be looking at these little internal market structure shifts So push up pull back push up pull back push up
+00:28:47.279 pull back that's a shift So that right there is where you can understand that
+00:28:52.799 price has shifted and we could be looking at getting ourselves involved in some more sells with the right level of
+00:28:59.520 confirmation I'm not a huge fan of trying to sell when Asia high is still open but because of context it makes
+00:29:05.200 sense So now we can see that London begins to sell off There's still no setup for me in this specific price
+00:29:12.080 region Uh but as New York opens now what I can do is I can look at a manipulation
+00:29:17.360 of London high as my entry So manipulation of London high and then I
+00:29:23.600 can use this high here to protect I can use the open of that high to protect that position And if I kind of zoom out
+00:29:29.520 what's the risk-reward like on a position like that still make sense absolutely Now we can look at getting
+00:29:35.200 ourselves back involved in price 1% of initial balance So we're going with
+00:29:40.559 $2,000 risk Our stop loss we're going to put in here In fact we'll put it just above the Asia high Uh the takeprofit
+00:29:47.919 level we're going to put down here $4,000 worth of profit potential for an extra $2,000 worth of risk And we still
+00:29:54.559 we're still running in these profitable positions as well So that's the limit that we're essentially going with We can
+00:30:01.200 remove it now because that trade is open And we can look at if we can get involved in the high of that level
+00:30:08.159 getting breached There's your entry That puts this stop loss in
+00:30:14.760 play And then we begin selling off with not the hugest amount of momentum but really nice sweep of London Again all
+00:30:21.760 playing on the idea and understanding of intraday liquidity London session really nice Um
+00:30:30.000 but for me there's no way to scale in because I'm scaling on the same trade idea So for me it just doesn't make
+00:30:36.360 sense A really nice liquidity If we come into the next day and then we get a huge
+00:30:41.600 amount of sell off Now at this point now we can look at our stop levels and begin
+00:30:47.840 positioning and managing them So what we can do is we can bring this stop loss down to here because price should not be
+00:30:53.840 running past this swing high now We can be looking at this stop loss down into here So they're now locked in for profit
+00:31:00.720 as well So we have pretty much no risk on the table Zero Everything now is
+00:31:06.159 essentially upside and we want to see where's our overall takeprofit levels They're down here So let's kind of see
+00:31:12.000 how the rest of price plays out You can see price comes to this level but does actually respect it We have a reaction
+00:31:18.080 We create somewhat equal lows in here again failed to take it We end up pulling back all the way in here Still
+00:31:24.720 for me personally I we're in the middle of no man's land For me to get back involved in shorts I need to see price
+00:31:30.480 at least coming back into the somewhat of this range Otherwise I'm just trading inside of no man's land And now we're
+00:31:36.480 inside of the
+00:31:44.760 weekend And this for me is just a bunch of noise There's nothing actually
+00:31:50.320 available in this price leg Neither wins or losses Uh price is pretty much reacting from nothing I wouldn't be
+00:31:56.480 interested until we get a reaction into here which only comes in here And then there was no entry off the back of that And this is also understanding that this
+00:32:03.120 is the end of the year So end the second half of December If you know price action you understand that second half
+00:32:08.240 of December is always this choppy And then eventually we do end up running straight through our profit target and
+00:32:15.760 all of those positions essentially are able to close themselves

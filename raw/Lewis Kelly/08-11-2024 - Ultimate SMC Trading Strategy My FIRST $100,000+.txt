@@ -1,0 +1,705 @@
+# tactiq.io free youtube transcript
+# I Made My First $100k Using This Simple Strategy (Backtesting Proven Results)
+# https://www.youtube.com/watch/Fj0iZjMOyDU
+
+00:00:00.040 I've been trading for 4 years and this
+00:00:02.360 one simple and easy to implement system
+00:00:05.560 is the system that made me my first 100K
+00:00:08.240 in this video I'm going to break down
+00:00:09.800 that system for you step by step in a
+00:00:11.960 couple of minutes and then I'm going to
+00:00:13.599 walk you through a live back testing
+00:00:16.160 showing you this system in action and
+00:00:18.880 the results that it generates if you're
+00:00:20.920 new to the channel my name is Louis
+00:00:22.680 Kelly and I've helped hundreds of
+00:00:25.080 Traders become consistently profitable
+00:00:27.560 get funded and take consistent payout
+00:00:30.199 from the market subscribe if you want no
+00:00:32.960 BS trading education that will actually
+00:00:35.399 make you profitable before we get into
+00:00:37.200 the back testing I'm just going to give
+00:00:38.480 you a quick couple of minutes walk
+00:00:40.399 through of the strategy so you
+00:00:42.280 understand it in detail then we're going
+00:00:44.000 to go and head into the back testing
+00:00:45.960 let's dive in so this strategy has only
+00:00:49.079 three simple steps right and if you know
+00:00:51.879 me you know that I like to keep things
+00:00:54.559 stupid simple is that it so the thing is
+00:00:58.239 is we understand the the Market moves
+00:01:01.559 primarily based on Market structure
+00:01:03.559 right meaning that the best way to
+00:01:05.760 actually read price action is to
+00:01:08.080 understand Market structure it's very
+00:01:09.520 simple Market structure is just the
+00:01:11.159 external swings of price so if you look
+00:01:13.119 at any price chart you'll always see
+00:01:15.000 these swings and these swings that cause
+00:01:17.720 reversals essentially set the precedent
+00:01:19.960 for the direction the market is in it's
+00:01:22.079 either trending down like this or it's
+00:01:24.280 even trending up like this typically
+00:01:26.840 speaking there are certain areas that
+00:01:28.960 you want to buy and sell
+00:01:30.439 for example in a bearish market what you
+00:01:33.040 want to be doing is you want to be
+00:01:34.200 selling the bearish swings so when price
+00:01:37.280 puts in let's say you know a new lower
+00:01:39.200 low then it pulls back you want to be
+00:01:41.439 selling in this swing point right here
+00:01:43.640 and there is some simple kind of
+00:01:45.719 strategies that you can use to identify
+00:01:47.680 this reversal point every time and then
+00:01:50.520 again when you're buying if you're
+00:01:52.240 buying a bearish market which is
+00:01:54.240 possible you have to make sure that
+00:01:56.159 you're buying the bottom you need to be
+00:01:58.200 buying the reversal back into these
+00:02:01.200 areas and that would be this low down
+00:02:03.280 here and again there is a simple
+00:02:04.759 approach to that so this one strategy
+00:02:07.560 that I'm going to teach you today there
+00:02:08.919 is three simple steps to profitability
+00:02:11.840 is predicated only based off of Market
+00:02:14.480 structure and liquidity and it's
+00:02:16.480 actually very simple this is the
+00:02:18.120 principle you need to understand to make
+00:02:19.920 sure that you know the strategy you see
+00:02:22.239 in a trending Market the market will
+00:02:24.560 always move in this ratio you'll have a
+00:02:27.080 high a low a lower high a lower low a
+00:02:30.840 lower high a lower low a lower high a
+00:02:33.080 lower low right that's what essentially
+00:02:34.519 creates a bearish market now the thing
+00:02:37.120 is is what is the pattern that you
+00:02:39.360 notice here well there are two main
+00:02:41.239 takeaways the first takeaway is the fact
+00:02:44.680 that after price puts in a new lower low
+00:02:47.560 so there's a low after price puts in a
+00:02:49.720 new lower low there's a reversal period
+00:02:52.280 right price pulls back and then price
+00:02:54.560 will get into a certain area and then it
+00:02:56.920 will begin to reverse again and price
+00:02:58.760 will continue and and then after we make
+00:03:00.599 a new lower lower gain price will give
+00:03:02.640 us our confirmation and reverse
+00:03:05.239 confirmation and continue so that's the
+00:03:08.080 theme so when I seen that I was like
+00:03:10.319 okay how can I build a model over that
+00:03:12.239 because that's something that actually
+00:03:13.840 occurs over and over and over again what
+00:03:16.319 model can I build off of that and it's
+00:03:18.640 it's so simple that it's actually crazy
+00:03:21.120 the model is in a trending Market
+00:03:23.840 whether bullish or bearish this is how
+00:03:25.560 we're going to view the market three
+00:03:27.040 simple Steps step number one identify
+00:03:29.920 your direction so if we're bearish like
+00:03:32.480 this we want to be selling when we're in
+00:03:36.840 the premium of the price leg so for
+00:03:39.000 example if you take the FIB level right
+00:03:41.040 here and you look at this high and you
+00:03:42.760 look at this low right if I can get rid
+00:03:45.000 of all of these so that's 8
+00:03:48.480 79.1 uh 6 we'll keep the 50% so this is
+00:03:52.799 the mid-range right this is the high
+00:03:55.280 this would be your swing high right this
+00:03:58.040 would be your swing low and above this
+00:04:03.280 Above This halfway point that's 50%
+00:04:06.000 anything in here is
+00:04:07.439 premium if you are bearish you want to
+00:04:10.720 sell in a
+00:04:12.360 premium right that's pretty much it and
+00:04:15.040 then if you are bearish
+00:04:18.238 and we are in a different phase of price
+00:04:21.120 so for example this is the phase in
+00:04:22.800 which we've just broken structure and
+00:04:24.759 now we've pulled back and guess where
+00:04:26.440 we're going now now we would likely be
+00:04:28.479 going to continue so if you are in this
+00:04:31.560 phase of price and you are above this
+00:04:33.560 level you want to be selling right you
+00:04:35.520 want to look for your entry model in
+00:04:36.800 here and you want to essentially take
+00:04:38.400 price lower the second phase is when you
+00:04:41.840 are down here now if you are in the
+00:04:45.039 discount again swing high is up here
+00:04:47.120 swing low is down here if you're below
+00:04:48.960 this green line you want to look at
+00:04:50.560 buying and you want to buy back up to
+00:04:53.720 more or less this green line right it's
+00:04:55.919 very simple but you wait for your entry
+00:04:57.440 model so what you do is after price
+00:05:00.600 break structure to the downside so for
+00:05:03.600 example we have a high a low a high when
+00:05:06.199 we get this break of structure you need
+00:05:08.039 to wait wait for confirmation you need
+00:05:10.000 to wait for confirmation of a reversal
+00:05:12.000 and that usually is if you go to a lower
+00:05:14.120 time frame you'll see price shift up
+00:05:17.240 shift back shift the high pull back
+00:05:21.600 that's your confirmation and that's your
+00:05:22.960 entry right and that is essentially your
+00:05:24.680 model that would be your first model
+00:05:27.759 right the first model is after we have a
+00:05:30.360 break of structure we would wait for a
+00:05:32.880 lower time frame shift to reverse
+00:05:35.360 telling us what that it's now time to
+00:05:37.880 pull back it's that simple and so we try
+00:05:40.880 to long in here and we want to fix our
+00:05:43.520 take profit at 1 to three meaning for
+00:05:45.919 every $100 that I risk I will return
+00:05:49.880 $300 return every single trade is fixed
+00:05:53.039 at that risk to reward and the second
+00:05:56.560 one is when we are in the premium so
+00:06:00.560 we're above this green line we want to
+00:06:02.639 short we want to go back with the trend
+00:06:05.520 and so to do that you would again wait
+00:06:07.800 for confirmation shift of a high shift
+00:06:10.479 of a low pull back in here and then sell
+00:06:14.880 and so again we would wait for a
+00:06:16.680 liquidation of some kind of high a break
+00:06:20.520 of some kind of low and that pattern
+00:06:23.400 right there indicates to us that we're
+00:06:26.160 ready to trade lower and the target is
+00:06:29.680 this low but again I always partial at 1
+00:06:32.599 to three risk reward for a fixed
+00:06:35.440 position that is pretty much the system
+00:06:37.919 it's very simple so a little bit of
+00:06:40.680 context the first model would look like
+00:06:43.120 this right where you are essentially in
+00:06:45.319 a bearish market you have a high you
+00:06:47.479 have a low you have a high you have a
+00:06:49.080 low a low right at some point in time
+00:06:51.759 price is going to pull back and we want
+00:06:54.039 to trade long on that pullback but for
+00:06:56.680 that to happen we need to see a lower
+00:06:58.639 time frame push up push lower liquidate
+00:07:02.120 the low shift above the high right break
+00:07:04.840 the high and then pull back uh kind of
+00:07:08.080 retest the same level that broke it and
+00:07:10.120 then trade one to three risk reward
+00:07:12.599 right that is the first model and then
+00:07:15.960 as I've just explained the second model
+00:07:17.919 would be when you get into this High you
+00:07:20.000 would wait for a pullback a liquidation
+00:07:23.720 a shift of a low and then a mitigation
+00:07:26.639 of the area that shifted the low cuz
+00:07:28.879 this tells you you you know buyers are
+00:07:30.440 in control great buyers are in control
+00:07:33.440 great sellers take control sellers break
+00:07:36.000 this low sellers take control then we
+00:07:38.840 get involved in the retest of the area
+00:07:42.160 in which sellers took control from and
+00:07:44.000 we go one to three and then we can hold
+00:07:46.039 some partials for the swing low as well
+00:07:47.840 because we are prot Trend right it's a
+00:07:50.919 very very simple strategy so now let's
+00:07:52.840 take that into back testing and let's go
+00:07:55.000 and back test some price action cool so
+00:07:57.560 here we are Euro USD 50 15 minute time
+00:08:00.120 frame so the system you know at least
+00:08:02.639 for me and how I use it is primarily
+00:08:04.720 just 15 minute and 1 minute that's it 15
+00:08:07.199 minute time frame for my structure one
+00:08:08.759 minute time frame for my entry so very
+00:08:11.240 simple now the first and most important
+00:08:13.319 thing is I always want to be trading
+00:08:14.919 inside of my hours right so I have my
+00:08:16.800 London session here in green and I have
+00:08:20.639 my New York session here in kind of this
+00:08:23.560 orange and I am New York time so it is 2
+00:08:29.680 to 5 a.m. EST and then 7 till 10 a.m.
+00:08:36.399 EST for my New York so that is pretty
+00:08:40.000 much it and I will extend that from 10:
+00:08:43.039 to 11: if there is a setup occurring but
+00:08:46.040 only in the scenario where there is
+00:08:47.720 already a setup brewing and I just need
+00:08:49.279 to execute so the system is very simple
+00:08:53.000 now first and foremost we need to kind
+00:08:54.920 of establish where we are from a trend
+00:08:56.720 perspective so if we take this old high
+00:08:58.839 we take this old low right you can see
+00:09:00.959 price was ranging inside of this High
+00:09:02.320 inside of this low until eventually at
+00:09:04.200 some point in time price broke that low
+00:09:07.200 right so we are obviously bearish Okay
+00:09:10.040 cool so now we have our understanding
+00:09:12.440 now we are bearish we know then that
+00:09:15.399 heading into London session we are
+00:09:17.480 looking for one of two things either we
+00:09:19.480 are looking for a pullback right into
+00:09:23.480 kind of this area for a shift of the
+00:09:26.120 lows in here and then a continuation
+00:09:28.720 lower like that or we are looking for a
+00:09:32.120 shift of the lows a liquidation a shift
+00:09:35.680 a pullback and a continuation higher
+00:09:38.120 right that is pretty much it so we're
+00:09:40.040 going to map out this old low because
+00:09:41.600 this low represents liquidity to us so
+00:09:44.399 we always want to be executing once
+00:09:46.440 there has been a liquidation so it
+00:09:49.720 currently is
+00:09:51.640 130 um we'll match the times and we'll
+00:09:53.959 go cool so there is 2: a.m. that is your
+00:09:57.399 London open so I'm going to drop down to
+00:09:58.720 the 1 minute time frame and pretty much
+00:10:00.680 just wait for a liquidation so it is
+00:10:05.440 cool there's London open and London open
+00:10:08.519 as you can see aggressively moves into
+00:10:10.959 our low Okay cool so now we've had a
+00:10:13.800 break of the lows we are aggressively
+00:10:15.680 bearish all I am taking into
+00:10:17.800 consideration is the probability that
+00:10:20.720 price is going to reverse at some point
+00:10:22.839 in time but I'm not just I don't want to
+00:10:24.720 just buy from this level because price
+00:10:26.360 could just continue you know selling off
+00:10:28.959 for the the entirety of the London
+00:10:30.560 session I need confirmation so now I
+00:10:33.160 need to see a shift I need to see some
+00:10:35.240 kind of Market structure shift of an old
+00:10:37.399 high so at this point in time I would be
+00:10:39.079 looking at this high right so it was
+00:10:41.320 high to low and it's just Market
+00:10:43.440 structured now on the one minute time
+00:10:44.760 frame so you can see price pulls back
+00:10:46.680 like that and then when price goes lower
+00:10:49.399 high lower low then I just move my
+00:10:52.040 market structure shift to this high and
+00:10:54.760 again you just keep playing it until
+00:10:56.959 eventually you get a shift of the high
+00:10:59.360 when you get that right there that's
+00:11:01.279 your entry confirmation that's your
+00:11:03.320 shift from the one minute time frame
+00:11:05.399 being bearish sell is in control sellers
+00:11:08.079 in control buyers aggressively take
+00:11:10.000 control of the market right that is
+00:11:11.760 essentially your entry and then you want
+00:11:15.399 to to actually get into the market you
+00:11:17.279 just want to use the area in which the
+00:11:19.720 volume came from so if we look at this
+00:11:21.639 you can see that this is the sell and
+00:11:23.440 this is the buy so if you just use this
+00:11:25.320 right here this entire range access the
+00:11:28.600 area in which you would expect the
+00:11:29.959 retest to be so you can just put your
+00:11:31.639 entry on the open of the range you can
+00:11:34.360 just put your stop plus four Pips I
+00:11:36.200 always like to give a little bit of Bria
+00:11:37.440 in room 4.5 Pips and you can fix your TP
+00:11:41.399 for three risk reward right this is in
+00:11:44.000 the scenario in which we are bearish so
+00:11:46.519 we are longing so I don't want to take
+00:11:47.880 any partials just three risk reward and
+00:11:51.040 we're going to place our order 1% Always
+00:11:54.120 by limit from this level and then we
+00:11:57.160 wait we wait for price to play out price
+00:11:58.880 tags us into the trade so we are now
+00:12:00.800 officially tagged in you can see our
+00:12:02.040 unrealized pnl at this moment in time is
+00:12:04.040 minus $177 this is a 400k funded account
+00:12:08.360 and then you can see price shifts to the
+00:12:10.959 high now in this system I don't actually
+00:12:13.279 have any break even rule any partial
+00:12:15.600 profit rule at anything other than
+00:12:17.800 unless we are prot Trend which I'll have
+00:12:19.320 a partial profit but no break even this
+00:12:22.000 thing either hits take profit or it hits
+00:12:24.800 stop loss and because I have a 50% win
+00:12:27.040 rate meaning you know if I take 10
+00:12:28.639 trades the probability indicates that I
+00:12:30.199 will win five and lose five but I have a
+00:12:32.199 one to three risk reward so when I lose
+00:12:34.920 five I lose five lots of 1% but when I
+00:12:38.360 win five I win five lots of 3% so when I
+00:12:42.360 take 10 trades in theory I lose 5% but I
+00:12:47.199 gain 15% so 15 minus my 5 gives me a net
+00:12:51.920 profit of 10% those are the numbers of
+00:12:55.600 the system this is October the 15th um
+00:12:58.680 this was a very very good trading week
+00:13:00.040 which is kind of why I'm sharing it with
+00:13:01.079 you it's a really nice Showcase of this
+00:13:02.800 system in action but again let's
+00:13:05.120 continue playing the trade you can see
+00:13:07.000 them we are tagged in and again it
+00:13:08.839 literally just becomes a waiting game we
+00:13:10.800 either get tagged out for a stop loss or
+00:13:14.079 we get tagged for a take profit there is
+00:13:17.320 no in
+00:13:19.079 between and you can see for this
+00:13:21.320 specific trade we end up getting
+00:13:23.040 extremely fortunate and taking a take
+00:13:25.440 profit uh we come very very low to our
+00:13:28.839 kind of stop loss we obviously don't
+00:13:30.279 break the the low in here um but we do
+00:13:33.360 come you know relatively tight but yeah
+00:13:35.399 that pretty much becomes that that's it
+00:13:37.680 and so then you know we're heading into
+00:13:40.399 the end of um our London session now we
+00:13:43.600 kind of head into New York session right
+00:13:45.760 so New York opens or coming to an open
+00:13:48.519 sorry New York's 15 minutes away from
+00:13:50.440 opening so we need to re-evaluate the
+00:13:53.800 market right what are we looking at well
+00:13:55.639 we are overall bearish right so we are
+00:13:58.480 overall bearish we are expecting lower
+00:14:00.880 prices this in here for those of you who
+00:14:03.560 may be sitting there and wondering at
+00:14:04.759 home cuz I'm sure there some of you you
+00:14:06.199 know why isn't this a high and that's
+00:14:08.519 broken aren't we bullish now well here's
+00:14:10.680 something that I'll give you a little
+00:14:11.920 kind of nugget of gold of a principle
+00:14:14.000 that I use anytime you see a high where
+00:14:17.040 there is Asia session high so anything
+00:14:19.399 in blue you know that with a very high
+00:14:22.480 statistical probability that high is
+00:14:24.720 going to get broken now what the problem
+00:14:27.160 becomes is many Traders look at that and
+00:14:28.880 they go oh that's a break of structure
+00:14:30.680 not realizing that was actually an
+00:14:32.360 inducement and therefore they tried to
+00:14:35.040 long after that and then they just
+00:14:38.040 essentially get stopped out because Asia
+00:14:39.839 High usually enforces inducement and I
+00:14:41.920 don't want to give you some Theory let's
+00:14:43.320 literally take a look at it right now
+00:14:45.120 this is Asia session high on Monday you
+00:14:47.519 can see that it gets manipulated this is
+00:14:50.000 Asia session high on the previous week
+00:14:52.639 right which is Friday I'm not sure oh
+00:14:54.600 cuz it's this time you can see the Asia
+00:14:56.959 High gets liquidated the day before Asia
+00:15:00.040 High gets liquidated the day before Asia
+00:15:02.560 High gets liquidated right most days
+00:15:05.320 Asia High gets liquidated and then
+00:15:07.040 reverses right liquidation reversal
+00:15:09.800 liquidation reversal liquidation
+00:15:12.040 reversal liquidation reversal there's
+00:15:14.360 some game for you you've probably heard
+00:15:15.959 me break it down in other videos but
+00:15:18.160 that's kind of that's it so that's
+00:15:20.040 important that's an important part of
+00:15:21.360 our strategy because we need to see this
+00:15:23.320 liquidation occur right so now we are
+00:15:25.720 bearish we've taken this long position
+00:15:28.120 here because it's just a bullish pull
+00:15:29.680 back but now that we're in the highs now
+00:15:33.040 we want to be looking to short again so
+00:15:35.240 what do we do heading into our New York
+00:15:37.079 session we do need to line out a piece
+00:15:39.040 of external liquidity right so the
+00:15:41.240 external liquidity is a high that's
+00:15:43.440 outside of the it's either this low or
+00:15:45.720 this High everything else is internal
+00:15:48.160 this external liquidity we need to wait
+00:15:49.560 for that to get run so New York
+00:15:52.279 opens like so none this matters we're
+00:15:54.880 waiting for an external uh liquidation
+00:15:57.759 and once you get that EX liquidation
+00:15:59.920 like so you can begin to look for shorts
+00:16:03.360 because we are overall bearish so all
+00:16:05.360 we're doing now is realigning with a
+00:16:06.639 high time frame but we need to see some
+00:16:09.240 kind of shift in structure so if we look
+00:16:12.120 you know you can see that there's a low
+00:16:13.480 right here and this low you know is
+00:16:16.279 essentially responsible of putting in
+00:16:17.600 the high so that would be a little bit
+00:16:19.160 of a market structure shift right a
+00:16:20.560 displacement I need to see a break of
+00:16:22.759 that level with a close personally that
+00:16:25.399 right there is not a close it is just a
+00:16:27.920 wick that right there is a close so for
+00:16:31.360 me again exactly the same model all I'm
+00:16:33.920 looking at is you know where's the area
+00:16:36.000 that's likely going to be um retargeted
+00:16:39.920 and it I'm always looking at the ranges
+00:16:41.959 so imagine for a second right you have
+00:16:44.639 some liquidity like this and then you
+00:16:47.680 see that liquidity gets run and then you
+00:16:49.600 see the price aggressively moves away
+00:16:52.279 I'm interested in the buy to sell of
+00:16:56.199 that liquidity right as my primary
+00:16:58.480 objective
+00:16:59.440 so if we look at this right here you can
+00:17:00.759 see we have liquidity across the highs
+00:17:02.680 you can see price pushes up pulls back
+00:17:04.839 buy to sell so that's the area that I'm
+00:17:07.559 interested in I always want to see that
+00:17:09.319 same area in where the momentum came in
+00:17:11.400 and out in both directions in and out in
+00:17:14.319 both directions so that's the area that
+00:17:16.319 I would like to be retested that's the
+00:17:17.760 area that I would like to Short from so
+00:17:19.400 we can look at this level in here we can
+00:17:22.520 look at our short position we can enter
+00:17:25.439 in here we can put our stops uh 4.1
+00:17:28.199 again we'll give a little bit Breathing
+00:17:29.280 Room 4.5 and then for this one we want
+00:17:31.440 to go three r as our main takeprofit
+00:17:34.520 level but we also want to keep in
+00:17:38.480 mind with 1% sell limit we're currently
+00:17:41.480 up
+00:17:42.320 $112,000 um we also want to keep in mind
+00:17:44.440 the fact that this is a pro Trend move
+00:17:46.360 so in these scenarios what we can do is
+00:17:48.200 we can hold out some of the partial
+00:17:49.840 profits for these lows down here so
+00:17:52.200 something like this we'll take off some
+00:17:54.960 here and some down here because we're
+00:17:57.360 expecting price to go with the overall
+00:17:59.039 Trend right so continue playing
+00:18:02.400 price you can see that we actually just
+00:18:04.760 miss out on the tag right we have a
+00:18:06.480 pullback we miss out on the tag and then
+00:18:08.799 we continue no kind of looking in
+00:18:10.559 hindsight you see we have this double uh
+00:18:12.400 inverted for Value Gap fine it's not
+00:18:14.880 what I use for an entry model but then
+00:18:16.480 we can look at kind of re-entering right
+00:18:18.640 how could we essentially look at
+00:18:19.880 re-entering well now we have a new Range
+00:18:24.240 liquidation of an old high right so we
+00:18:27.200 have you know a range
+00:18:29.400 we break an old high and then we
+00:18:32.400 continue moving lower so the again the
+00:18:35.120 buy before the momentum comes in you can
+00:18:37.720 use this you can put your entry in here
+00:18:40.640 again stops in here 3.4 I'm always going
+00:18:43.400 to give a little bit of breathing room
+00:18:45.120 that would give me four pip stop loss
+00:18:46.799 and then I want to go 1 to three as my
+00:18:48.960 primary right we're looking at 1 to
+00:18:51.480 three that's always pretty much what I
+00:18:53.200 use for my fixed take profit and then
+00:18:56.320 again we can place this order 1% risk
+00:18:59.159 but what I will do is I will stretch the
+00:19:03.280 final take profit all the way down to
+00:19:05.679 here which will give us a risk for
+00:19:06.880 reward of
+00:19:09.000 5.85 and we'll take off partials at 1 to
+00:19:11.280 three and we'll let the rest run because
+00:19:13.679 the expected orderflow is to take out
+00:19:15.880 this low so let's see how that one plays
+00:19:18.480 out okay price pulls in tags us back in
+00:19:22.320 right and again now if you didn't for
+00:19:25.159 whatever reason get into the initial one
+00:19:28.240 if we had have another break of
+00:19:29.679 structure to the downside you can kind
+00:19:31.679 of scale back in so we break the low
+00:19:34.840 right you could essentially now look at
+00:19:37.120 scaling back in you could look at
+00:19:39.400 scaling back in to what well you have
+00:19:41.480 the buy to sell you could use the final
+00:19:44.679 buy to sell area that you could
+00:19:46.320 essentially look at getting back
+00:19:47.720 involved in now for the purpose of this
+00:19:50.360 I'm already in a position so I wouldn't
+00:19:51.840 take an extra position wouldn't be how
+00:19:54.320 the edge works but just a hypothetical
+00:19:56.080 if you didn't get back in additional
+00:19:58.039 confirmation we're essentially
+00:19:59.520 continuing in our price direction right
+00:20:01.640 you can see again in here comes back in
+00:20:03.840 respects the old high begins trading out
+00:20:06.720 ends up back in the same level begins
+00:20:08.679 the process of pushing away and now
+00:20:09.840 we're heading to our three hour level
+00:20:12.480 right so at that point I would have it
+00:20:14.600 at least closed um 50% of my position so
+00:20:18.840 I'll close 50% of my position there's
+00:20:21.520 50% closed and then 50% to run to the
+00:20:25.400 swing low now again just a quick recap
+00:20:28.080 why do we want to run to this swing low
+00:20:29.840 if we go back to the higher time frame
+00:20:31.440 which always gives us the
+00:20:32.880 Insight we're bearish right we are
+00:20:35.640 having lows pull back going for new lows
+00:20:40.280 right so the expectation is that we'll
+00:20:42.200 just shift this low right exactly the
+00:20:43.760 same as we did previously when you shift
+00:20:45.880 a low you pull back you shift a low you
+00:20:47.120 pull back it's just the market structure
+00:20:48.880 so I play around the M15 and that was
+00:20:51.440 pretty much the the days of price action
+00:20:54.000 very very very clean price delivery
+00:20:56.840 right again to recap old low entry model
+00:21:00.600 higher liquidation of external liquidity
+00:21:03.840 shift trade lower let's go into the next
+00:21:06.720 day worth of price action so then we
+00:21:08.799 come into London session the very next
+00:21:11.159 day and again what do we have now we
+00:21:14.080 have a more obvious structural range
+00:21:15.880 right we have a swing high and we have a
+00:21:18.360 swing low it's it's that simple and in
+00:21:21.559 fact what I'll do in here is because
+00:21:23.559 Wednesdays I take live sessions with my
+00:21:25.520 team well very simple we're bearish so
+00:21:27.840 again if we run on these lows we'll be
+00:21:31.440 expecting a pullback right if we run on
+00:21:34.960 the highs we'll be expecting a
+00:21:36.799 continuation so there's only really two
+00:21:38.760 ways we can go we go like this and then
+00:21:41.720 we sell here or we go like this and we
+00:21:46.720 buy here and then we sell here those are
+00:21:50.000 the only two scenarios so we'll play
+00:21:52.200 this price out it is currently 145 so
+00:21:55.840 that marks the London open so London
+00:21:58.600 open Rocket into the lows right as you
+00:22:01.400 can quite clearly see so at this point
+00:22:04.039 in time there's no pullback for me so we
+00:22:06.200 continue playing price we see we see we
+00:22:09.360 see boom there's our liquidation so once
+00:22:12.480 we get this low in here now we can look
+00:22:14.679 long in after we get confirmation of
+00:22:16.840 course if we break this High that's
+00:22:19.440 confirmed that we can now go higher so
+00:22:23.600 again continue trading lower we pull
+00:22:26.200 back up
+00:22:28.840 we respect our high and we go lower so
+00:22:31.440 now my confirmation will come in here
+00:22:34.320 right so now we've broken this
+00:22:36.520 low and our confirmation the market
+00:22:39.840 structure has shifted would be this high
+00:22:42.240 so boom when this High shifts like so
+00:22:46.640 that would be your confirmation to go
+00:22:48.720 higher where do we want to look at we
+00:22:50.760 want to look at this little range here
+00:22:52.279 getting mitigated right retested it's
+00:22:54.240 the same thing it's the sell into the
+00:22:56.559 low before the buy that break structure
+00:22:59.320 the exact same thing that we looked at
+00:23:01.039 yesterday so we want to be longing from
+00:23:04.840 in
+00:23:06.000 here so long positions
+00:23:08.880 in stops on here again that's 2.6 very
+00:23:12.159 very small stop I would give 3.5 Pips so
+00:23:14.799 o just under a pip of extra room and
+00:23:17.600 then a 1 to three which is very very
+00:23:20.600 very conservative for a setup like this
+00:23:23.200 place order but because it's counter
+00:23:25.039 Trend always has to be fixed at 1: three
+00:23:27.679 now there's argument of course because
+00:23:29.360 when you know the statistical
+00:23:30.840 probability behind this High being
+00:23:32.720 liquidated remember this is the Asia
+00:23:34.520 high as you guys know right if we go to
+00:23:36.799 the 50-minute time frame day in day out
+00:23:39.080 this High gets liquidated and reversed
+00:23:40.600 on right liquidate liquidated reversed
+00:23:44.480 liquidated reversed liquidated reversed
+00:23:46.919 liquidated reversed guess what's going
+00:23:49.360 to happen today right again this doesn't
+00:23:51.360 happen every single time obviously but
+00:23:53.559 it's with a high statistical probability
+00:23:55.840 and that is what we do as Traders we
+00:23:57.120 manage risk we trade probability
+00:23:59.320 so we go back to our lower time frame we
+00:24:02.919 come out that is the area that we're
+00:24:04.720 looking at continue playing
+00:24:07.720 price cool continue playing price
+00:24:10.240 continue playing
+00:24:12.720 price okay we just miss our
+00:24:23.080 tag price eventually tags Us
+00:24:27.039 in then again get very choppy day uh in
+00:24:30.360 terms of London session until we get to
+00:24:32.320 the end of London session and that tags
+00:24:34.240 us out for three Rich reward now again
+00:24:37.720 the
+00:24:38.880 M5 for those of you who are familiar
+00:24:41.320 with kind of what we look at that you
+00:24:43.159 can see the sell to buy order Block in
+00:24:44.840 here there's the M5 now we know that
+00:24:46.880 this Agia high is probably going to get
+00:24:48.279 liquidated but you know I always just
+00:24:51.640 follow my plan three W reward fix take
+00:24:54.200 profit and then there's the London
+00:24:57.039 session finished let's go to New York
+00:24:58.559 session right so New York liquidates the
+00:25:01.080 high so now what we want to see if we go
+00:25:03.760 to the 15 minute if you remember is
+00:25:05.520 yesterday right we want to map out our
+00:25:07.320 external high so the external high would
+00:25:09.919 be here and then I want to
+00:25:13.039 see a run on that
+00:25:16.559 high a
+00:25:18.279 shift and an entry and we can look at
+00:25:21.200 this low but we're also going to Target
+00:25:23.360 our three risk to reward so let's play
+00:25:28.120 price 15 minute there's the New York run
+00:25:31.399 so now what we want to see is some kind
+00:25:33.440 of structural shift so if we play price
+00:25:35.880 our structural shift would be here again
+00:25:38.120 this is not change of character it's a
+00:25:39.799 displacement model for those of you who
+00:25:41.559 are familiar with my already existing
+00:25:43.200 Concepts so that's not a break because
+00:25:45.360 it's a wick but that does then become
+00:25:47.880 the
+00:25:50.720 low and there is the shift so again if
+00:25:55.200 you look at where the momentum comes in
+00:25:57.360 you see we go Buy sell now if we exclude
+00:26:00.679 the wick and we just use this where the
+00:26:02.799 buying momentum comes in and then the
+00:26:05.039 selling momentum takes control if we can
+00:26:07.399 get involved in that it's good we can
+00:26:09.960 put our entry on here we can put our
+00:26:12.039 stop loss on the high we'll give it five
+00:26:13.840 don't need to go much higher because
+00:26:15.159 it's already a relatively large area and
+00:26:17.600 we just go in for one to three risk to
+00:26:20.279 reward right in from here place order
+00:26:24.200 sell limit we want to go in here and
+00:26:26.919 again we can take off some of our
+00:26:28.720 partial profits at the low but we're
+00:26:31.000 already almost at that low level and
+00:26:33.520 again just for kind of you know
+00:26:35.799 reconfirmation if you're following along
+00:26:38.440 why because here's our swing High here's
+00:26:41.039 our swing low this Asia high is
+00:26:43.640 inducement we're expecting lower prices
+00:26:46.880 and yeah structurally speaking this is
+00:26:49.200 the low right here that we will likely
+00:26:50.799 be targeting and we're just following
+00:26:52.600 that higher time frame trend on the
+00:26:54.559 lower time frame so we'll play out on
+00:26:56.520 the one minute time frame
+00:27:01.159 price pulls back
+00:27:05.760 okay
+00:27:07.440 pullback that's a very nice Wick a very
+00:27:10.320 nice
+00:27:15.559 reaction okay that would be my three R
+00:27:17.960 so what I can do is I can close 50% at
+00:27:20.600 least 50% when it's uh Pro Trend move
+00:27:23.679 and then we can kind of just skip to the
+00:27:24.919 5 minute time
+00:27:26.279 frame to see this thing play out faster
+00:27:28.799 and there you go right right into the
+00:27:31.200 lows again realized
+00:27:34.399 pnl right so that's what over the space
+00:27:39.080 of two really nice trading days you have
+00:27:44.399 uh Tuesday 15th October again go back
+00:27:46.200 test this price action for yourself but
+00:27:48.039 you can see again very nice buy limit so
+00:27:50.399 we have three R locked in here we had
+00:27:53.600 another three r p plus partials so
+00:27:56.559 that's going to a average out uh five so
+00:28:00.640 we have eight R here we have three R
+00:28:03.840 again in here that's 11 and then this is
+00:28:08.360 2.15 + 3 it's 5 16 RIS to reward in two
+00:28:13.679 days with a 100% win streak right 100%
+00:28:17.000 win rate now to clarify does this system
+00:28:19.600 have a 100% win rate no I've just
+00:28:21.000 already told you it has a 50% strike
+00:28:23.240 rate flip of a coin probability but yeah
+00:28:25.640 it's an extremely profitable model and
+00:28:27.760 if you want want to go check it out for
+00:28:29.039 yourself go and give it a back test for
+00:28:30.840 yourself and for those of you who are
+00:28:32.519 looking to become consistently
+00:28:33.799 profitable Traders you can check the
+00:28:35.240 link down below you can apply to work
+00:28:36.919 with me and the team one to one

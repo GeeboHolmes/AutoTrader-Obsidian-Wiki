@@ -1,0 +1,997 @@
+# tactiq.io free youtube transcript
+# Copy My Insane 3 Rule SMC Trading Strategy (& Finally Becoming Profitable)
+# https://www.youtube.com/watch/iGuFJyX1EUU
+
+00:00:00.080 I just made $35,000
+00:00:03.040 in one trade following this insanely
+00:00:06.160 simple SMC trading strategy. And not
+00:00:08.639 only did I take this trade, but over a
+00:00:10.559 hundred of my inner circle students who
+00:00:13.200 trade live with me every day also took
+00:00:15.440 this trade. And collectively, our
+00:00:17.199 community made over $100,000 on prop
+00:00:20.400 firms from [music] taking this trade.
+00:00:21.680 And in today's video, I want to break
+00:00:23.279 down this trade. But more importantly, I
+00:00:25.600 want to break down [music] the
+00:00:26.640 stepbystep trading strategy that's
+00:00:29.119 behind this one trade. You see, one
+00:00:31.359 trade is something, but hundreds of
+00:00:33.840 trades taken that are following the
+00:00:36.000 exact same rules, [music] the same
+00:00:37.520 playbook. Well, that's how you build
+00:00:39.440 real profitability in these [music]
+00:00:41.280 markets. And if you're serious about
+00:00:42.879 becoming a profitable trader in 2026,
+00:00:45.760 this is a mustwatch video for you. I'm
+00:00:48.239 going to be starting with three simple
+00:00:50.239 rules, theoretical and practical, and
+00:00:53.120 then we're going to apply it all to the
+00:00:54.640 markets and break down step by step the
+00:00:57.039 exact trade that was taken. Let's dive
+00:00:59.359 straight in. So, let me start with step
+00:01:01.920 number one, which as you can see here is
+00:01:04.720 directional bias. What is directional
+00:01:07.280 bias? Simply put, directional bias is
+00:01:10.479 the bias that you have for the day. It's
+00:01:12.560 the direction in which you believe that
+00:01:14.640 price is going to trading in that one
+00:01:16.799 specific day. You see what I found after
+00:01:19.200 years and years of trading and
+00:01:20.880 collecting data is the number one
+00:01:23.119 indicator of whether you will take
+00:01:25.200 profitable trades is your read on the
+00:01:27.920 direction. If you get the direction
+00:01:29.680 right then half of the job is done. If
+00:01:32.799 you get the direction wrong then it
+00:01:34.479 becomes very difficult to make money. So
+00:01:36.479 the main thing is that you need to
+00:01:38.000 understand and get the direction
+00:01:39.759 correct. And the way that I do that is
+00:01:42.240 simple market structure. So if you look
+00:01:44.720 on screen right now, you can clearly see
+00:01:46.880 what we have as a directional trend,
+00:01:49.439 right? I think anybody in their right
+00:01:51.200 mind who would look at this image would
+00:01:53.200 say that we are bullish. Why? Because we
+00:01:55.280 have a swing low, we have a high in
+00:01:58.320 here. So we have swing low down here,
+00:02:00.880 swing high up here. Then price comes
+00:02:02.880 down, puts in this low and then reverses
+00:02:05.360 from this low and then puts in a higher
+00:02:07.439 high. So this becomes a break of
+00:02:09.280 structure, right? We broke the previous
+00:02:11.280 high and we put in a new higher high. So
+00:02:13.760 higher high, right? Highs are going
+00:02:16.160 higher than highs. Lows are trending
+00:02:19.200 lower than lows. So you can see that
+00:02:21.920 we're moving in an upward direction.
+00:02:25.360 Very, very, very simple. So we have
+00:02:27.440 higher high, then we come back down. We
+00:02:29.920 respect this low and we start reversing
+00:02:32.959 away from that low. And then we go and
+00:02:34.640 put in a higher high. This is that
+00:02:37.680 higher high. And then we come down
+00:02:39.440 again. You can see we respect this low,
+00:02:43.440 we reverse, and then we continue toward
+00:02:46.400 the upside and we take out this high.
+00:02:48.959 Now, what do you think is likely to
+00:02:50.480 happen off the back of this? Well, in my
+00:02:53.280 experience, there's likely to be some
+00:02:55.120 kind of a pullback and then some kind of
+00:02:58.319 continuation. Just continuing this
+00:03:00.160 trend, right? Respecting this low,
+00:03:02.959 finding a reversal point and then
+00:03:05.440 targeting the high, right? That is a
+00:03:09.040 trend. And very simply put, it's your
+00:03:11.760 job to identify this trend. And in doing
+00:03:14.959 so, you will identify the likelihood of
+00:03:18.560 price movement for that one specific
+00:03:21.200 day. Now, you've probably heard this a
+00:03:22.800 million times, right? Everybody says the
+00:03:24.560 trend is your friend. Everybody tells
+00:03:26.239 you follow market structure, right?
+00:03:27.680 Market structure will tell you what to
+00:03:28.879 do. Well, there are many different
+00:03:30.879 problems that come with market
+00:03:32.080 structure. If it were just as simple as
+00:03:33.599 following the market structure, then
+00:03:34.959 everyone would be profitable. The
+00:03:36.159 problem that I have seen in my personal
+00:03:38.560 experience when I first started trading
+00:03:40.159 and the reason that it was so difficult
+00:03:41.840 to become profitable is because well
+00:03:44.400 truth be told you could look at many
+00:03:47.360 different price charts from different
+00:03:49.040 points of view so different time frames
+00:03:51.519 different zooms and you could get a
+00:03:53.519 completely different picture for example
+00:03:55.040 let's do this right now so let's look at
+00:03:57.680 this price chart right now we are on the
+00:03:59.519 15-minut time frame Euro USD you tell me
+00:04:02.799 are we bullish or are we bearish Now,
+00:04:05.920 some of you who are watching at home,
+00:04:07.760 you may say, &quot;Oh, we're bearish because
+00:04:09.439 we have a swing low down here, a swing
+00:04:11.360 high up here, a swing low down here. Now
+00:04:13.920 we're coming up into this old low. So, I
+00:04:15.760 should actually be technically looking
+00:04:16.880 for shorts.&quot; Right? That's maybe what
+00:04:18.720 some of you will say. Others may say,
+00:04:20.798 you know, maybe this was a low, but then
+00:04:22.320 we broke this low and now we're trading
+00:04:24.800 down in here and then we've shifted
+00:04:26.960 higher and so now we're bullish. Right?
+00:04:30.400 Some of you may look internally into
+00:04:33.759 this structure, right? Again, this is I
+00:04:35.600 want to look at before we took the
+00:04:36.800 trade. Some of you may look at the price
+00:04:38.639 leg like this and you may want to get a
+00:04:41.199 much better perspective of price. And
+00:04:42.880 maybe this is your perspective of price.
+00:04:45.120 And for you looking at this chart, you
+00:04:47.440 say that we're bearish. You say, &quot;Oh,
+00:04:49.199 well, you know, we have a high up here,
+00:04:50.800 right? And price is clearly putting in a
+00:04:53.440 series of higher highs, higher lows. We
+00:04:55.600 shift bullish for a second. We go lower
+00:04:57.680 low, lower high, lower low. Oh, so we're
+00:05:00.639 clearly bearish. and I'm expecting we'll
+00:05:03.040 continue this trend to the downside.
+00:05:04.720 Well, that's just the 15minute time
+00:05:06.320 frame. What if I then show you a 4hour
+00:05:08.880 time frame and then we do the same
+00:05:10.320 thing? What if we zoom out? Well, some
+00:05:12.800 of you might say we're bullish. You may
+00:05:14.560 be looking at this swing low to this
+00:05:16.880 swing high. And you might say, well,
+00:05:18.080 we're inside that range. That's what
+00:05:19.840 some of you may say. Some of you may say
+00:05:21.759 we're bearish because you can see quite
+00:05:23.520 clearly we've been putting in these
+00:05:24.639 swings like this. And then again a
+00:05:27.840 different part of you will zoom into
+00:05:29.680 this price leg and will tell me oh we
+00:05:31.600 are bullish because we take highs right
+00:05:34.800 and we're trending like this we are
+00:05:37.360 definitely bullish and again that is
+00:05:39.039 just one time frame and so the reality
+00:05:41.199 is market structure is amazing right it
+00:05:44.320 works very very well but it only works
+00:05:46.880 if you have a structure a guideline a
+00:05:50.639 set of rules that you have thoroughly
+00:05:53.120 tested to prove it works because the
+00:05:55.360 truth is in trading
+00:05:56.960 Everything actually does work to some
+00:05:59.039 degree. But becoming a truly profitable
+00:06:01.199 trader is about taking a set of rules,
+00:06:03.919 principles if you would like. Logic
+00:06:06.000 flows. If this then this. This is my
+00:06:08.639 definition. Everything should be
+00:06:10.240 defined. I personally I like to be a
+00:06:12.319 trader that operates from logic, data,
+00:06:16.960 and rules. That's how I like to trade
+00:06:19.520 personally. Data tells me what to do. I
+00:06:22.160 have the data of over a thousand trades
+00:06:25.199 worth of data that tell me that my rules
+00:06:28.000 work. So, I built these rules myself
+00:06:30.560 personally for market structure. That's
+00:06:32.800 not to say that it's the only way you
+00:06:34.880 can read market structure. There are
+00:06:36.639 probably other ways. Maybe some of them
+00:06:38.400 are correct, maybe some of them are
+00:06:39.520 incorrect. But I will tell you for a
+00:06:41.199 fact that the way that I read market
+00:06:43.039 structure works phenomenally well. I was
+00:06:45.759 a trader who struggled with this. I
+00:06:47.759 would have on one day something else and
+00:06:50.000 another day something else. And that led
+00:06:51.680 to extremely inconsistent results in my
+00:06:54.160 trading. One day I would come to the
+00:06:55.360 market and look at the price action and
+00:06:56.880 I would think that we're bullish. The
+00:06:58.160 next day, very similar price action, but
+00:06:59.919 maybe now I think we're bearish. That's
+00:07:01.520 because I didn't have specific
+00:07:02.960 step-by-step rules in place. And so I
+00:07:04.880 want to share with you right now my
+00:07:06.160 market structure playbook. This is the
+00:07:07.680 type of stuff that I genuinely share
+00:07:09.280 inside of my inner circle. And if you
+00:07:12.080 think that it would be a good fit for
+00:07:13.440 you or beneficial to you to be one of
+00:07:15.840 those people that I live trade with
+00:07:17.599 every single day, you first have to be a
+00:07:19.919 verified member of Prosperity School. So
+00:07:22.080 if you want to go down that route, I'm
+00:07:24.000 leaving a 45minut training down below
+00:07:26.560 that I think will massively help your
+00:07:28.479 trading. It's first, but secondly is the
+00:07:30.479 route into our ecosystem. Check that
+00:07:32.639 out. It's the first link in the
+00:07:33.680 description. But let's get into our
+00:07:34.800 market structure principles. As many of
+00:07:36.560 you just seen, we had this kind of
+00:07:39.919 overall very simple view of market
+00:07:42.560 structure, which is awesome in theory,
+00:07:44.479 but the truth is is that's not how
+00:07:46.080 market structure looks 90% of the time.
+00:07:48.160 In fact, a lot of the times market
+00:07:49.840 structure is built something along the
+00:07:52.000 lines of this,
+00:07:54.160 right? Where price is kind of trending
+00:07:56.400 in a direction, but there's loads of
+00:07:57.680 these like other
+00:08:00.080 swing points. And this is really what a
+00:08:02.960 trending market looks like. Even clean
+00:08:05.120 trends often look like this. And so
+00:08:07.199 again, it begs the question as to, well,
+00:08:09.440 what's my market structure, right? And
+00:08:11.440 especially if price hasn't reached out
+00:08:12.960 high yet. Let's say we're down in here.
+00:08:14.560 And it's your job right now. You're
+00:08:15.919 coming into the market. We're right
+00:08:17.360 here. And you have to decide, am I a
+00:08:18.879 buyer of this market today or am I a
+00:08:20.400 seller of this market today? And like I
+00:08:21.919 said, the number one rule is your read
+00:08:24.160 on the direction for this one day. As an
+00:08:26.080 intraday trader, lower time frame trader
+00:08:28.080 who wants to trade in 3 to 4 hour time
+00:08:30.000 windows, you better understand the
+00:08:31.599 direction of price for that day. that's
+00:08:33.120 going to help you make the most money.
+00:08:34.320 Again, many different ways to read this
+00:08:35.760 same price action. For me, I keep it
+00:08:37.519 stupidly simple and I follow the same
+00:08:39.599 rules as you would in simple markets.
+00:08:41.440 So, what do I do? So, I use the external
+00:08:44.720 swing points, right? Very, very
+00:08:46.480 important. The external swing points.
+00:08:48.959 What is an external swing point? An
+00:08:50.640 external swing point is a point on the
+00:08:53.680 edge of price that causes a reversal
+00:08:57.760 before breaking or after breaking
+00:08:59.680 structure. So you can see here we have a
+00:09:02.000 low and then price goes and puts in a
+00:09:03.760 high. Notice that this high is a
+00:09:06.160 reversal point, right? We go and put in
+00:09:07.920 the high and we go and put in the low.
+00:09:09.360 So that in of itself is a swing point.
+00:09:11.600 But then we come down here, but then so
+00:09:14.160 is this a swing point because it's a low
+00:09:15.920 that reverses. And so is this a swing
+00:09:17.920 point and so is this a swing point and
+00:09:19.920 this and this and so is this. So is this
+00:09:23.440 and so is this. So, they're all swinging
+00:09:25.519 points, but only four of them are actual
+00:09:29.120 external swing points. And this is how I
+00:09:31.120 define it. You want to start with a
+00:09:32.560 swing low. Then you want to find your
+00:09:35.360 swing high. And after this, it's very
+00:09:38.000 simple. Take a box from the low to the
+00:09:41.440 high and just stretch it out. Now,
+00:09:44.080 anything inside of that box is internal
+00:09:47.519 structure, internal swing points until
+00:09:50.240 we break outside of that box and create
+00:09:52.959 a new swing high. So notice now that we
+00:09:54.959 have a swing low. Price puts in here. We
+00:09:57.440 start reversing. We have a swing high.
+00:09:59.279 Then we put in all of these other
+00:10:00.800 swings, which again, a lot of the times
+00:10:02.480 people see this and they're like, &quot;Okay,
+00:10:03.839 lower high, lower low. Okay, I'm going
+00:10:05.839 to short. Lower high, lower low. Okay,
+00:10:07.839 I'm going to short.&quot; And then they just
+00:10:09.279 get stopped out because the reality was
+00:10:10.640 is they were on the wrong side of the
+00:10:12.160 market. So when we get a break of
+00:10:14.320 structure, this becomes the new swing
+00:10:16.800 high. So we'll mark out the swing points
+00:10:18.880 in green, the correct swing points. So
+00:10:20.880 this is swing point number one, uh swing
+00:10:22.480 point number two, sorry. This is swing
+00:10:24.160 point number one. And then this is swing
+00:10:26.000 point number three. Right? So let's get
+00:10:27.600 rid of this blue. This is swing point
+00:10:30.000 number four. In here there is another
+00:10:31.279 swing point. And it is the swing low can
+00:10:33.519 be defined as the lowest point in price
+00:10:35.600 that price pulls back after a breakout
+00:10:37.680 structure. So we have a breakout of this
+00:10:39.760 trend. We have a new high which means
+00:10:41.600 this is no longer the low. We need the
+00:10:43.360 lowest point that respected that low. Is
+00:10:45.680 it this one? Well no because price comes
+00:10:47.519 lower. Is it this one? Well no. Again
+00:10:49.680 price goes lower. Is it this one? Yes.
+00:10:52.000 Absolutely. because this is the lowest
+00:10:54.000 point before we break structure. So now
+00:10:56.640 when we break out of that structure, now
+00:10:58.880 we have a new swing range from the low
+00:11:00.959 down here to the high up in here. And
+00:11:03.760 then the same thing happens again. Now
+00:11:05.519 you have a new swing. So you have a
+00:11:07.680 swing low and you have a swing high.
+00:11:10.560 Same thing again. We're going to take
+00:11:12.240 our box from the low to the high and
+00:11:15.600 we're going to drag it out and then it's
+00:11:17.920 up to the point of when we break outside
+00:11:20.320 of this box. The structure inside of
+00:11:22.320 this box is internal structure. And
+00:11:24.800 honestly, I can't tell you how many
+00:11:26.959 times I see traders take losing trade
+00:11:30.800 after losing trade after losing trade
+00:11:32.800 because they're trying to trade the
+00:11:34.320 internal structure. And bearing in mind
+00:11:35.839 this right here, this is very clean and
+00:11:38.560 cute looking internal structure. A lot
+00:11:40.320 of the times you might see a low to a
+00:11:42.079 high to a low to a low to a high to a
+00:11:44.720 low. And they're just like getting
+00:11:46.320 beaten up left, right, and center.
+00:11:47.839 They're short and then it goes long.
+00:11:49.120 Then they're long and then it goes
+00:11:50.160 short. then they're short and maybe they
+00:11:51.440 get a win and then it's long and they
+00:11:52.800 they're just a mess and they're just
+00:11:54.720 getting nailed time after time after
+00:11:57.600 time by the market. The truth is you
+00:11:59.440 have to be trading these external swing
+00:12:01.839 points. And so again, we get a break of
+00:12:03.279 structure that becomes our swing high.
+00:12:05.279 Where's our swing low? It's the lowest
+00:12:07.440 point of price before the break of
+00:12:09.120 structure. So that becomes our swing
+00:12:10.560 low. This becomes our swing high. So now
+00:12:13.120 let me ask you, what are you expecting
+00:12:14.720 price to do from here? Again, a lot of
+00:12:16.399 traders would maybe look at this and
+00:12:17.680 they'd say, &quot;Okay, now we're bearish.&quot;
+00:12:19.279 Or maybe many traders look at this and
+00:12:21.040 they're like, &quot;Okay, now we're bearish.&quot;
+00:12:22.959 And so what they're expecting is for
+00:12:25.120 price to trade lower only for price to
+00:12:28.320 tempt them and then just run them
+00:12:30.800 completely. And the reality was is that
+00:12:32.639 we were never bearish. We were always
+00:12:35.040 bullish. Right? And that is principle
+00:12:38.240 number one and the most important
+00:12:40.399 principle for me, which is directional
+00:12:42.959 bias. And now we'll look at how that
+00:12:45.040 applies to this trade itself. So we come
+00:12:47.519 back. This is before we've taken the
+00:12:49.120 trade, right? New York session, which is
+00:12:50.959 highlighted here in orange. This is
+00:12:52.399 before we've taken the trade. So, let's
+00:12:54.000 take a look at our structure. Again, if
+00:12:55.920 we zoom out here, it can be quite
+00:12:57.519 confusing, right? Maybe even a little
+00:12:58.959 bit intimidating all of this structure.
+00:13:00.639 What we know for sure is that we were
+00:13:02.160 bearish. We shifted bullish, right?
+00:13:04.079 These internal swings, and then we
+00:13:05.519 shifted bearish again, and then we
+00:13:06.720 started to be bearish up until around a
+00:13:09.279 couple weeks ago when we shifted
+00:13:10.720 bullish. So, we had a swing high in
+00:13:13.279 here. We had a break of structure to the
+00:13:15.839 downside and then price puts in lows
+00:13:19.120 right in here and then a reaction from
+00:13:21.760 this external point into here. So we'll
+00:13:24.160 mark this low high lower low high lower
+00:13:28.880 low lower high lower low lower high and
+00:13:31.279 then price kind of comes down into this
+00:13:32.959 consolidation and the actual swing low
+00:13:35.360 here is this lower low. So at this point
+00:13:37.360 in time you would be a seller of this
+00:13:39.440 market and again every trend after some
+00:13:41.760 period of time becomes exhausted. It's
+00:13:43.279 completely normal. Maybe you hit a
+00:13:44.480 higher time frame point of interest.
+00:13:45.760 There are many different reasons. But at
+00:13:47.200 some point, you've milked the cow. I
+00:13:49.440 took shorts in here. I took shorts in
+00:13:51.440 here. Right? We milked this price
+00:13:53.040 action. Eventually, at some point, we'll
+00:13:54.560 shift bullish. And we do. When we get a
+00:13:57.040 break of this, it becomes a change of
+00:13:58.800 character. Change of character simply
+00:14:00.240 just means the transition from bearish
+00:14:02.720 price action to bullish price action.
+00:14:05.120 That is it. And then what happens? Then
+00:14:06.800 we become bullish. So then we have a
+00:14:09.120 swing high, a swing low. Now, this is a
+00:14:11.120 swing low because it meets my criteria
+00:14:13.040 for a specific pullback. Again, even my
+00:14:15.279 swing points have a complete rulebased
+00:14:19.279 mechanism as to you can objectively say
+00:14:22.160 this is a pullback or this isn't a
+00:14:24.240 pullback. This is definitely a swing
+00:14:26.000 high and this is definitely a swing low.
+00:14:28.000 No ifs or buts or may or this or that.
+00:14:30.880 It's purely objective and rule-based.
+00:14:33.279 So, it meets my criteria. Then we come
+00:14:35.279 back higher high, right? Break of
+00:14:37.040 structure. So then this is the low and
+00:14:39.120 then we come back and then higher low
+00:14:41.199 and then break of structure and then
+00:14:43.360 higher high. So at this point in time,
+00:14:45.680 what are we? We're bullish, right? Our
+00:14:47.519 swing low is down here. Our swing high
+00:14:50.079 is here. Right? Many people just get
+00:14:51.839 confused. They look at this price action
+00:14:53.199 then and it just destroys them because
+00:14:54.720 maybe they're going, &quot;Okay, well now
+00:14:56.399 we're bearish, so I'm going to try and
+00:14:57.760 sell.&quot; Right? Okay, definitely bearish.
+00:14:59.199 Let me sell. Get tagged in. Oh, okay.
+00:15:00.959 Now we're bullish. Let me buy. Get
+00:15:02.720 tagged in. Okay, now we're bearish. Let
+00:15:04.639 me sell. Get tagged in. Right? Right?
+00:15:06.800 And they're just getting beaten around
+00:15:08.480 because they are just wasting their time
+00:15:10.079 trying to trade internal structure. And
+00:15:11.760 this is where most of traders take
+00:15:13.279 losses these internal range. And the
+00:15:14.880 thing is is you could have a trading
+00:15:16.240 strategy, right, that let's say your
+00:15:17.680 average riskreward is five and your win
+00:15:19.440 rate is let's say 30%. So on average out
+00:15:22.560 of 10 trades, you win three, you lose
+00:15:24.560 seven, you lost 7%, you gained 15%,
+00:15:26.959 right? 3* 5. So net profit, you're
+00:15:29.279 eight. And that can work. But then what
+00:15:31.279 happens to most traders and failing
+00:15:33.360 traders is death by a thousand paper
+00:15:35.839 cuts. What I mean by that is constantly
+00:15:38.240 taking stupid losses in stupid areas of
+00:15:42.720 prices that just completely ruin their
+00:15:45.040 trading results. That if they would have
+00:15:46.800 just had a simple rule base and had some
+00:15:48.880 patience and not try to just chase the
+00:15:50.639 market in these scenarios, I didn't take
+00:15:52.480 any trades for two whole days because
+00:15:54.959 the the market just wasn't giving me
+00:15:56.639 what I needed to see. I'll sit back, no
+00:15:58.399 problem, patience, waiting for the right
+00:16:01.440 time to strike because that's the
+00:16:02.880 difference. I would rather take no
+00:16:04.160 trades for two days than take five
+00:16:06.000 losing trades. It just doesn't make
+00:16:07.360 sense to me. In my head, five losing
+00:16:09.199 trades not taken is a gain of 5%. Which
+00:16:12.160 for many people, like if you've got a
+00:16:13.360 million dollars under management, which
+00:16:14.639 sounds far-fetched for most people, but
+00:16:16.399 not for myself, not for my inner circle
+00:16:18.160 members with prop firms, that's $50,000
+00:16:20.320 saved. So again, complete noise,
+00:16:22.560 rubbish, right? People just getting
+00:16:24.399 trapped inside of a range. We clearly
+00:16:26.560 know that we are bullish. So we break
+00:16:28.959 structure and we go higher high. So now
+00:16:32.240 you find the lowest point of the swing
+00:16:33.920 price which is here and then the highest
+00:16:35.600 point of the reversals. And now you can
+00:16:37.759 start to see right if I just zoom out a
+00:16:40.320 little bit you'll kind of start to see
+00:16:41.839 the swing points. You can see the trend
+00:16:45.839 and it's purely objective. No
+00:16:48.000 wishy-washy today this tomorrow that.
+00:16:50.320 Purely objective. And so that's all it
+00:16:51.839 is. And then this becomes my swing low
+00:16:54.240 down here. And then this becomes my
+00:16:56.320 swing high. So when I come into the
+00:16:58.240 market for this specific day, Wednesday
+00:17:00.160 the 12th of November, I am a buyer of
+00:17:03.040 Euro dollar. And I will prove it right
+00:17:04.959 now with a video that I sent out 7 hours
+00:17:08.160 before this trade was taken saying that
+00:17:10.160 I'm a buyer below this Asia session low.
+00:17:12.799 The two main targets for me is this
+00:17:15.039 current London high. The high is above
+00:17:17.679 here and then the high is above here. So
+00:17:19.839 I will partial out 5R, 7 1/2 R, and I
+00:17:23.839 think that's 12 or 13 R. As you can see,
+00:17:26.240 my bias, we were all the way up here,
+00:17:28.880 right? We're up here, and my bias is to
+00:17:31.600 trade long, but it's to trade long below
+00:17:33.679 this level. So, I'm a buyer. So, all of
+00:17:35.840 this bearish price action, it's not
+00:17:37.520 fooling me. But there are many traders
+00:17:39.280 again who are probably just trying to
+00:17:41.200 short the market in these levels, and
+00:17:42.799 it's not going to work out very well for
+00:17:44.160 them. So, that is my rule number one.
+00:17:46.000 And the most important thing, cuz if you
+00:17:47.200 can be on the right side of the market,
+00:17:49.039 the rest of trading is a lot easier. So,
+00:17:52.400 here we are, step number two. In step
+00:17:55.120 number two, I'm going to be teaching you
+00:17:57.039 sniper entries. I'm talking turning a
+00:18:00.000 threehour trade into a 13-hour trade
+00:18:03.600 with one simple principle. So, we have
+00:18:06.080 our higher time frame bias. That is a
+00:18:08.160 directional bias. So, we have swing low
+00:18:10.160 on the 15-minut time frame, swing high,
+00:18:12.400 higher low, higher high, higher low,
+00:18:15.440 higher high. So, the direction of the
+00:18:18.000 day, the bias of the day is bullish.
+00:18:21.200 This is our swing point. So the bias of
+00:18:23.280 the day is bullish. Now what a lot of
+00:18:26.160 people fail to understand or what a lot
+00:18:28.240 of people do wrong in my opinion is they
+00:18:30.720 trade kind of one-dimensional. So let's
+00:18:32.880 say you have 15-minute time frame which
+00:18:34.720 is for me the green, right? And that's
+00:18:36.480 literally what I use. I use the green as
+00:18:38.960 the 15
+00:18:41.679 minute. So the green is the 15 minute.
+00:18:43.840 The blue is the one minute. So we have
+00:18:47.360 the 15minut in green and black. And then
+00:18:50.400 we have the blue for the one minute. So
+00:18:52.480 what a lot of people do is, you know,
+00:18:54.400 they'll have a trend and they have their
+00:18:56.240 direction and then if they're SMC
+00:18:58.559 traders, you know, they'll have this
+00:18:59.919 direction and maybe inside of this price
+00:19:01.840 leg from the swing low to the swing
+00:19:03.120 high, maybe there's two different entry
+00:19:04.720 points that they could possibly take.
+00:19:06.080 Maybe one is an order block in here or
+00:19:08.480 maybe one is, you know, a fair value gap
+00:19:11.200 in here, right? Let's just say that. So
+00:19:13.919 there's two types of traders in here.
+00:19:15.440 Now the first type of trader you know he
+00:19:18.559 takes this position here and maybe he
+00:19:20.960 takes this order block and he puts his
+00:19:22.640 stop loss below this order block and
+00:19:24.480 then he puts his takerit
+00:19:26.799 right his takerit
+00:19:29.360 above this high as a target which is
+00:19:31.840 understandable but that's what he's
+00:19:33.039 going for. Let's say he's going for a
+00:19:34.080 one to three riskreward. Now, there's
+00:19:35.600 nothing wrong with that, but it's just
+00:19:37.520 not the most ideal and optimized way
+00:19:39.600 because if that same SMC trader puts his
+00:19:41.360 trade on here, maybe in his head, he's
+00:19:43.280 also thinking, ah, okay, I should
+00:19:45.280 probably put another position on because
+00:19:46.960 I don't know, is price going to trade
+00:19:48.400 from this level or it could also trade
+00:19:50.000 from here, you know, cuz there's a point
+00:19:51.039 of interest down here. There's a fair
+00:19:52.080 value gap. So, maybe I have something
+00:19:53.280 like this. And in this scenario, right,
+00:19:55.200 maybe it's on the on the low. And in
+00:19:56.640 this scenario, again, maybe it's a a 1
+00:19:58.480 to four, a 1 to three, right? Let's just
+00:20:00.480 call it a 1 to four because there's fair
+00:20:02.160 value gap. Or maybe they're the type of
+00:20:04.480 trader from this uh fair value gap,
+00:20:06.640 right, with their stop loss below the
+00:20:07.919 swing low because it increases their win
+00:20:09.600 rate so they win more and they have a
+00:20:11.600 one to two risk-to-reward, right? This
+00:20:13.760 is quite literally how it works. Now,
+00:20:15.679 the issue with all of these trades is
+00:20:17.440 sure some of them might win. So, let's
+00:20:19.520 go through step-by-step scenarios. First
+00:20:21.600 and foremost, you have the one to two
+00:20:22.960 risk-reward guy. Very, very simple,
+00:20:25.200 right? This is his trade. He gets into
+00:20:27.440 his trade. Let's say it goes to take
+00:20:29.360 profit. Amazing one to two risk-reward.
+00:20:31.440 honestly can't knock it. Like I'm not
+00:20:33.280 knocking Mon Serious Rewards, but he
+00:20:34.880 needs to have a very high win rate for
+00:20:36.559 this to be a very profitable system. He
+00:20:38.799 also needs to have high trade frequency
+00:20:42.559 for it to be worth trading. In my
+00:20:44.559 opinion, it's going to struggle to pass
+00:20:46.400 prop firms and to get high amount of
+00:20:48.240 payouts because this strategy on the
+00:20:50.640 15-minut time frame, let's say, you
+00:20:52.159 might only get one or two trades a week,
+00:20:54.240 maybe in a good market condition. And
+00:20:56.000 then those one or two trades, you might
+00:20:57.280 win one, lose one, and so you've
+00:20:58.640 finished the week on 1% in profit. Now,
+00:21:00.559 I'm not doubting a 1% profit, but that's
+00:21:02.159 not the type of stuff that I go for. My
+00:21:03.840 systems have collectively returned me
+00:21:06.320 hundreds of percent for a year, right?
+00:21:09.039 An entire trading year. So, for me, this
+00:21:11.039 kind of one to two with a 50% win rate
+00:21:14.320 doesn't really make sense unless it's
+00:21:16.159 very high frequency trading. So, he's
+00:21:18.400 quite flawed. The second guy, one to
+00:21:20.480 four reward, sure, but what's going to
+00:21:22.559 happen to him is there's going to be
+00:21:23.919 lots of times where price might come
+00:21:25.280 into this order block in here and then
+00:21:26.799 he missed that trade. Or maybe he takes
+00:21:28.960 both of these positions and then one of
+00:21:30.880 them gets stopped out and then he has
+00:21:32.799 this trade on and that hits and he made
+00:21:34.799 three R in total. But if both of them
+00:21:37.360 lose because the direction's wrong,
+00:21:39.039 which happens, then he makes two bad
+00:21:41.919 trades and loses two trades. So there
+00:21:43.840 are many different flaws in trading
+00:21:46.320 without the sniper entries that I'm
+00:21:47.840 going to show you. Or maybe you have the
+00:21:49.200 type of trader who uses the fib
+00:21:50.640 extension and maybe they put their fibs
+00:21:52.240 on the highs, right? Like so. And maybe
+00:21:54.080 they're a 61.8 trader, right? They take
+00:21:57.360 their longs and they're 618 and they put
+00:21:59.679 their stop loss on the swing low down
+00:22:01.120 here and they're returning, you know,
+00:22:02.960 1.6 R. Again, if you're really really
+00:22:06.240 correct a lot of the times and you're
+00:22:07.600 taking loads and loads of trades a day,
+00:22:09.200 then sure, possible. Still not the most
+00:22:11.520 efficient, but it's possible. And then
+00:22:13.280 you have the type of trader like myself
+00:22:15.440 and what I trade and that's the reason
+00:22:17.360 why I am able to achieve such high
+00:22:19.600 risk-to-reward trades a lot of the time
+00:22:22.000 without sacrificing my win rate and that
+00:22:24.799 is lower time frame confirmation. You
+00:22:26.960 see we have a 15-minute directional
+00:22:28.799 trend which tells us that we're bullish.
+00:22:30.880 I want to be a buyer but I am only
+00:22:33.840 understanding that we are bullish. Price
+00:22:35.840 is taken at this high. If I'm up here I
+00:22:37.840 don't want to be buying here, right? No.
+00:22:41.200 This one minute structure here is
+00:22:43.039 bearish. So if we mark out the swing
+00:22:45.280 points, we can see that we have a swing
+00:22:47.120 high in here. We have a swing low,
+00:22:49.200 right? Which is a change of character.
+00:22:50.559 We've shifted from bullish. As the
+00:22:52.159 15-minut expands, 1 minute is bullish.
+00:22:54.080 As the 15-minut comes for a pullback,
+00:22:56.000 the 1 minute is bearish. So in this
+00:22:58.080 scenario, the 1 minute is probably
+00:22:59.440 bullish, then it's bearish, then it's
+00:23:00.960 bullish. Then it's bearish, then it's
+00:23:02.400 bullish, then it's bearish. Then it's
+00:23:04.240 bullish, bearish, bullish,
+00:23:07.280 bearish,
+00:23:09.280 right? at some point may be bullish.
+00:23:11.360 That's how the one minute time frame
+00:23:12.640 works inside the 50-minute. It's
+00:23:14.159 fractals. So, what I like to do is I
+00:23:16.240 will look at the one minute structure
+00:23:18.000 and I will make sure that my one minute
+00:23:20.480 structure shifts from bearish like this
+00:23:23.679 to bullish like this. and only only when
+00:23:28.720 my structure shifts from bearish to
+00:23:31.840 bullish on the one minute time frame
+00:23:33.440 which again I have a very specific
+00:23:35.760 rule-based criteria for then and then
+00:23:38.159 only am I willing to trade and because I
+00:23:42.000 have that lower time frame confirmation
+00:23:44.480 that order flow shift because again what
+00:23:46.640 you have to understand is that whilst
+00:23:48.320 price is trading lower who is in control
+00:23:50.240 of this market it's not buyers it's
+00:23:52.159 sellers because right now in the order
+00:23:54.400 book sellers are dominating buyers. But
+00:23:56.880 when that flips, when we see that buyers
+00:24:00.960 become more aggressive and they're
+00:24:02.880 protecting some type of level and then
+00:24:05.280 we've had a shift from a point of
+00:24:07.039 control that sellers were controlling
+00:24:09.039 the market at well, you just have to
+00:24:10.400 understand what's just happened. We have
+00:24:11.600 had a shift from sellers in control,
+00:24:13.279 price is trading lower to buyers in
+00:24:15.600 control, price is now trading higher and
+00:24:17.520 I am a buyer. So what I want to do as a
+00:24:20.000 very small fish in this massive ocean is
+00:24:22.640 I want to wait for the whale to move
+00:24:26.799 first and then simply just ride on the
+00:24:29.679 back of the whale. It is literally that
+00:24:31.679 simple. I wait for smart money for big
+00:24:33.919 money to show me that they are ready to
+00:24:36.720 go and push price higher and then I
+00:24:39.679 simply as a very insignificant fish in
+00:24:42.720 this vast open simply hop on the whale's
+00:24:45.600 back and it takes me for the ride. I
+00:24:48.080 don't do any of the work. The market
+00:24:49.840 does the work for me. I am just simply
+00:24:51.760 waiting for the whale to turn up and
+00:24:53.200 that's it. Price is trading lower. When
+00:24:55.520 it tells me, shows me that price is
+00:24:58.240 shifting. Then I'm willing to risk my
+00:25:00.320 money. And I simply just trade on the
+00:25:01.919 lower time frame, right? Stops in here,
+00:25:04.480 something like this. And then I take a
+00:25:06.240 trade like this, right? And that is what
+00:25:09.520 I'm looking for. That's how I get these
+00:25:12.080 sniper-like entries. And now here's the
+00:25:13.679 thing. Many people will say, &quot;You can't
+00:25:14.880 trade with small stop losses or don't
+00:25:16.320 you take many losses?&quot; Well, you can
+00:25:17.760 take a couple of losses, but let me
+00:25:19.360 again show you the numbers, right? Let's
+00:25:21.039 say that's the first trade that I tried
+00:25:22.400 to take, which coincidentally, just
+00:25:24.320 before I took this winning trade, I took
+00:25:26.480 a losing trade. In fact, I'll even show
+00:25:28.080 you that right now. But you know what's
+00:25:29.279 crazy? That losing trade made me more on
+00:25:33.440 my winning trade. Let me explain it. So,
+00:25:35.520 my first trade, it looks something like
+00:25:37.120 this. And I had a little bit of a higher
+00:25:39.440 stop-loss. So, my end goal actually
+00:25:41.919 ended up being 1 to5 risk-to-reward,
+00:25:44.799 right? Which is still very decent. So my
+00:25:46.960 first trade was a 1 to5 risk-to-reward.
+00:25:49.279 And what happened was is I got into that
+00:25:51.120 trade and then I got stopped out of that
+00:25:54.080 trade and so now I'm minus one again
+00:25:55.840 with all done documented live in front
+00:25:58.080 of my members and then what happens? We
+00:26:00.240 have a bearish shift, right? And then
+00:26:02.640 price shifts bullish again on the one
+00:26:04.240 minute time frame. So what happens? I
+00:26:06.480 follow my rules and go again. This time
+00:26:09.279 two things are here. First of all, I'm
+00:26:11.279 getting in at a lower point, which means
+00:26:13.279 I have a longer distance to go, which
+00:26:16.080 means I could make more money. You know,
+00:26:17.760 if I'm a buyer, let's say I'm a buyer
+00:26:20.240 here, and price has to move 40 pips to
+00:26:24.720 my takerit or let's say I am a buyer
+00:26:28.000 here and then price has to move 50 pips
+00:26:31.279 to my takerit. Well, I have just gained
+00:26:33.520 50 pips, right? Uh 10 pips, sorry. And
+00:26:36.080 then another thing in this scenario my
+00:26:38.240 stop loss was 7.9 pips. In this scenario
+00:26:41.200 my stop loss was 4.2 pips. So I have
+00:26:43.840 literally doubled my risk-to-reward
+00:26:45.840 because my stop loss size was halfed.
+00:26:47.600 Now that's not something that I do
+00:26:49.520 randomly or how I feel. No, I'm just
+00:26:52.159 following my rules. On some trades I
+00:26:53.840 will have a smaller stop loss than
+00:26:54.960 others because that's how the trade sets
+00:26:56.559 itself up. So I got back into this trade
+00:26:58.960 and then price eventually ran all the
+00:27:00.880 way to my takerit. And so what happens
+00:27:02.799 was if this trade would have worked out
+00:27:04.640 great, I would have made 5%. Amazing.
+00:27:08.240 But this trade didn't work out. So I
+00:27:10.320 actually lost 1%. But this trade did
+00:27:12.799 work out. And this trade netted me over
+00:27:15.919 7%. Right? Because I'm going to explain
+00:27:17.840 in rule number three how I manage these
+00:27:19.840 positions. Cuz again, management is a
+00:27:21.919 whole other ball game that very few
+00:27:24.080 understand. So, I managed this position
+00:27:25.919 very well and I gained 7.5%
+00:27:30.159 or 8% somewhere near there. 7.5 8%. So,
+00:27:33.039 what does that tell you? Well, I lost 1%
+00:27:34.799 on the first trade, which would have
+00:27:36.799 gained me 5% if it would have won. So,
+00:27:39.360 if this trade plays out, I gain 5%. It
+00:27:41.520 doesn't. I lose 1%. I'm down 1%. Boohoo.
+00:27:44.400 I take this trade. This trade plays out,
+00:27:46.799 I gain 7.5%. Do the math. 7.5
+00:27:51.840 minus the one that I lost equals 6.5. So
+00:27:56.880 I lost this first trade and then I got
+00:27:58.960 in on my second trade. But because I
+00:28:00.880 lost my first trade, I got a better
+00:28:02.399 opportunity and made 6.5 even with the
+00:28:04.880 loss, which is more than I would have
+00:28:06.640 made if I didn't lose the trade. Can you
+00:28:08.399 imagine being rewarded for losing a
+00:28:10.640 trade? How good of a trader would you
+00:28:12.480 be, right? if you could actually make
+00:28:14.799 more from losing trades. And it
+00:28:16.320 completely reframes your perspective on
+00:28:18.799 what it means to lose a trade when you
+00:28:21.200 trade in this way. So, let's move on to
+00:28:23.840 step number three. So, let's take a look
+00:28:26.720 at all of this in the live market,
+00:28:29.200 right? How I was actually able to take
+00:28:30.799 this specific trade. Let's take a look.
+00:28:32.559 So, here we are on Euro Dollar and I
+00:28:34.480 will very quickly show you a live run
+00:28:36.240 through of this trade being executed
+00:28:37.919 right now.
+00:28:43.360 And then you can see that we finished
+00:28:44.880 our live session just before this trade
+00:28:46.960 had actually peaked out. So here are
+00:28:49.520 some screenshots as the trade played out
+00:28:51.200 from inside the community and also a
+00:28:53.600 bunch of other traders taking the exact
+00:28:55.120 same trade of course. So 15-minut time
+00:28:57.440 frame bullish step number one I'm a
+00:28:59.679 buyer. Very important that I'm below
+00:29:01.440 this Asia low. That's one of my rules,
+00:29:03.039 right? I have a few other different uh
+00:29:05.039 rules here and there but everything in
+00:29:07.279 my strategy is completely rulebased. So
+00:29:09.919 if we take a look right now, what I do
+00:29:11.679 then is I come to the 1 minute time
+00:29:12.960 frame. You can see the 15-minut
+00:29:14.240 structure, right? 15-minut swing low,
+00:29:15.760 15-minut swing high. As the 1 minute
+00:29:17.279 comes in here, it's bearish. So where is
+00:29:19.679 my 1 minute structure points? Well, you
+00:29:21.520 can see that we shifted bearish up here,
+00:29:23.200 right? Swing high, swing low, higher
+00:29:24.720 high, we break lower low, then we trend
+00:29:26.640 down. None of this is really important.
+00:29:28.080 We trend back up, then we trend back
+00:29:29.440 down again. And you can see my first
+00:29:30.880 trade that I took. I took this trade,
+00:29:33.520 right? We shifted back bullish when I
+00:29:35.440 came into New York. We shifted from
+00:29:37.039 lower low to higher high, right? I was a
+00:29:39.039 buyer in here as you probably seen the
+00:29:40.799 recording already. I was a buyer
+00:29:42.399 somewhere in here at my stop loss down
+00:29:44.399 at these lows and I was targeting the
+00:29:47.440 highs in here for a 125 reward. Right?
+00:29:51.600 That was the first trade. Now what
+00:29:52.880 happens is we get stopped out right and
+00:29:55.200 actually the one minute structure is
+00:29:57.840 bullish. We have a pullback here. We
+00:29:59.840 have a break of structure up here. It's
+00:30:01.520 very very minor but again it follows my
+00:30:03.760 rules. That's why we have rules so that
+00:30:05.520 we don't get confused. We break
+00:30:06.799 structure. We change character. So, we
+00:30:08.720 become bearish, which is fine. I can
+00:30:10.799 still be a buyer even if the one minute
+00:30:12.320 is bearish after my trade. We continue
+00:30:14.080 bearish.
+00:30:15.760 We continue bearish. And then there's a
+00:30:18.480 very important lower level shift in
+00:30:20.960 here, which is we're bearish,
+00:30:24.480 right? And then I have low, high, low,
+00:30:31.120 high. Right? So you can see here we have
+00:30:33.600 a swing low, we have a break of
+00:30:35.120 structure and then we have a swing high
+00:30:37.679 and that's break structure. So change of
+00:30:39.440 character. So now we become bullish. In
+00:30:41.200 this example, my entry is the this level
+00:30:45.919 here. I'm a buyer at this price point.
+00:30:48.720 Now my stop loss is it could have been
+00:30:51.360 2.8. I could have maybe squeezed a
+00:30:53.279 little bit more. I ended up going out at
+00:30:54.960 three pip stop putting a little bit
+00:30:56.399 below the low. And yeah, my target is
+00:30:58.960 all the way at the swing highs up here,
+00:31:01.600 right? But here's the key. I don't just
+00:31:03.840 let this trade run all the way up to
+00:31:05.840 these highs because there are some times
+00:31:08.080 where I may be wrong on direction. Can
+00:31:10.159 you believe it? Sometimes it may not
+00:31:11.760 play out exactly how you planned, right?
+00:31:13.360 I know that's trading. Welcome.
+00:31:15.039 Sometimes what happens is price may
+00:31:17.200 move, right? And then the market just
+00:31:20.159 decides that it no longer wants to move,
+00:31:21.760 right? Completely fine. Don't take
+00:31:23.679 offense. So many people I find get
+00:31:25.440 offended by the market's decisions. Like
+00:31:27.120 you have no control of what the market
+00:31:28.559 does. So figure out how to take money
+00:31:30.159 out of it and keep it moving. So for me,
+00:31:32.480 what I have is I have again verified by
+00:31:36.000 hundreds and hundreds and hundreds of
+00:31:37.200 trades, over a thousand trades of data
+00:31:38.880 to verify why I do what I do. My first
+00:31:40.960 takeprofit is 5R. So I take off some of
+00:31:44.799 my position at 5 R. My second take
+00:31:46.799 profit is usually some type of major
+00:31:49.200 accomplishment which is like a high of
+00:31:50.960 session or equal highs or high of day or
+00:31:53.200 something like that. Right? That's my
+00:31:54.799 second takeprofit. So in this example,
+00:31:56.480 my second take profit was seven
+00:31:57.679 risk-to-reward or just a little bit over
+00:31:59.039 seven risk reward. And then my final
+00:32:00.320 take profit is a swing high which is the
+00:32:02.000 basically the idea of the whole trade.
+00:32:03.679 But sometimes you know you might get up
+00:32:05.679 in here and then you see a pullback to
+00:32:07.600 break even and then maybe you still
+00:32:09.120 bullish by the way. Maybe you still stay
+00:32:10.559 like this right? You come in, you get in
+00:32:12.399 a trade and then we just come lower and
+00:32:14.559 then tomorrow we run higher and it just
+00:32:16.799 is what it is, right? It just happens.
+00:32:18.399 Like nothing you can do about it. So I
+00:32:20.320 apply management principles and my
+00:32:22.240 management principles make sure that
+00:32:24.399 even when I am wrong, I make money. So
+00:32:26.399 how did I actually end up getting on in
+00:32:28.720 this trade? Then let's see price shifts.
+00:32:31.279 We get tagged in to the trade.
+00:32:34.480 We have an immediate move toward the
+00:32:37.120 upside. after we get this move, I know
+00:32:39.919 that I'm on the right track. The first
+00:32:41.600 thing I want to do is reduce my risk.
+00:32:43.919 So, I want to get my stops to break even
+00:32:46.399 because if price is going to come back
+00:32:47.600 to this level, then we're probably wrong
+00:32:50.080 and probably price probably going to go
+00:32:51.279 to the downside. So, a lot of the times
+00:32:54.000 you can, especially when you're a sniper
+00:32:55.679 trader, right? You're getting sniper
+00:32:57.039 entries, very small entries. You want to
+00:32:59.200 remove your risk as soon as possible
+00:33:00.960 because the reality is you only need a
+00:33:02.960 little bit of a push to get your risk
+00:33:04.720 off the table and then you can still be
+00:33:06.480 wrong but you will lose nothing. You
+00:33:08.000 know in the thousand trades that I've
+00:33:09.279 taken a decent portion of them maybe you
+00:33:12.159 know 50 to 100 of those trades are break
+00:33:15.360 even trades meaning that I didn't win I
+00:33:17.679 didn't lose but what I have the data for
+00:33:20.240 this is crazy amounts of data. 97% of my
+00:33:23.360 break evens saved me money. I mean if I
+00:33:25.600 took a 100 break evens so I did this
+00:33:27.440 rule I followed this rule you know 100
+00:33:30.640 times and out of those 100 times 97% of
+00:33:34.720 the time so 97 out of 100 I saved money
+00:33:37.840 meaning when price came back to me here
+00:33:40.240 97 times it continued through my stop
+00:33:42.320 loss and only three times did price come
+00:33:44.480 back here and then go to my intended
+00:33:46.480 take-profit. So again everything I do is
+00:33:48.720 battle tested with data. It's not just
+00:33:50.559 random BS that you find out here on
+00:33:52.480 YouTube these days. So that's how things
+00:33:53.840 play out. And then my first takeprofit,
+00:33:56.240 as you know, is five risk-to-reward. So
+00:33:59.600 I just need to see that get hit. And
+00:34:01.360 again, this saves me a lot of the time
+00:34:02.559 as well because there were many times in
+00:34:04.399 my testing where price would run and
+00:34:06.559 then like I said, it would come back
+00:34:07.760 down. And what I noticed is it would
+00:34:10.480 damage me psychologically because I
+00:34:12.000 would see the profits, but then I wasn't
+00:34:14.159 actually getting to keep any of them.
+00:34:15.440 And there were so many trades that would
+00:34:17.679 do this, right? Or this.
+00:34:20.800 So many trades. And I thought there's a
+00:34:22.800 way that I can still make money here.
+00:34:24.159 And so by taking a portion of my
+00:34:25.839 position off at 5R, let's say 50%,
+00:34:28.480 right? Then I'm locking in 2 and a
+00:34:30.159 half%. Guaranteed no matter what, 2 and
+00:34:32.879 a half% 2 and 1 half% 2 and 1 half%. And
+00:34:34.800 these 2 and 1 half% moves that end up
+00:34:36.960 like this, they end up stacking up a
+00:34:39.280 lot. So my first position is up here at
+00:34:42.159 2 and 1/2 R. And again, you can see here
+00:34:44.560 TP1 was hit shared inside of the
+00:34:46.560 community after our live session. TP2 is
+00:34:49.359 up here. TPU gets smashed pretty quickly
+00:34:52.079 after and again that got hit and then it
+00:34:54.159 wasn't until the next day open at London
+00:34:57.040 session right did we end up getting the
+00:35:00.320 rest of this trade played out but I'll
+00:35:02.000 just show it you again it's the day
+00:35:04.160 after now just while this is playing out
+00:35:06.480 next day London session massive amounts
+00:35:08.960 of volume takes me out for my full take
+00:35:11.359 profit up here and that's the trade that
+00:35:14.160 made me $35,000 and again if you want my
+00:35:17.200 step-by-step trading strategies with
+00:35:19.200 years worth of back testing and
+00:35:20.880 everything you need to become
+00:35:21.920 profitable.

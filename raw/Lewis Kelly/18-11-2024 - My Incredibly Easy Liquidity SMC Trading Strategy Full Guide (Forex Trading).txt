@@ -1,0 +1,721 @@
+# tactiq.io free youtube transcript
+# My Incredibly Easy Liquidity SMC Trading Strategy : Full Guide (Forex Trading)
+# https://www.youtube.com/watch/f0BcDi89BE4
+
+00:00:00.040 if you truly want to become a
+00:00:01.760 consistently profitable Trader and
+00:00:04.160 consistently make $10,000 a month from
+00:00:07.480 Trading then I'm going to share with you
+00:00:09.559 exactly how in this video I'm going to
+00:00:11.639 give you my full trading process on
+00:00:14.080 exactly how smart money Banks and
+00:00:16.920 financial institutions are manipulating
+00:00:18.880 you on a daily basis and you can't even
+00:00:21.960 see it I'll teach you exactly how to see
+00:00:24.199 it and more importantly how to
+00:00:26.160 capitalize from this crucial
+00:00:28.679 manipulation that happens on a daily
+00:00:30.599 basis so stay tuned this is a five part
+00:00:33.600 episode part one I'm going to share with
+00:00:35.520 you the smart money Banks and financial
+00:00:37.680 manipulation model and then through the
+00:00:39.840 rest of the steps how to build a trading
+00:00:41.879 edge around that knowledge and then
+00:00:44.320 finally into a trade breakdown of a
+00:00:46.039 trade that I took today incorporating
+00:00:48.520 all of these principles together into
+00:00:50.600 one step-by-step plan and I'll show you
+00:00:53.000 the proof let's dive in on the screen
+00:00:56.000 right now you are seeing the exact trade
+00:00:58.000 that I took today and the exact trade
+00:01:00.239 that I'm going to break down to you at
+00:01:01.519 the end of the video here's an mt5
+00:01:03.519 screenshot of this specific trade and
+00:01:06.200 let's dive into the principles and
+00:01:08.040 trading plan behind this trade so you
+00:01:10.080 can take trades just like this on a
+00:01:11.880 daily basis okay let's dive into lesson
+00:01:14.600 number one about how smart money's
+00:01:16.840 actually manipulating you on a
+00:01:18.600 consistent basis and you can't even see
+00:01:21.159 it just before that don't forget to like
+00:01:23.000 this video And subscribe to the channel
+00:01:24.840 if you're not already so you don't miss
+00:01:27.040 no BS trading education that will
+00:01:29.520 actually make you profitable let's dive
+00:01:31.560 in okay so how does Smart money
+00:01:33.920 manipulate you well this is a primary
+00:01:36.840 principle that I need to share with you
+00:01:38.600 just before we get into the technicals
+00:01:40.479 okay so how is smart money manipulating
+00:01:42.920 you more importantly why you see to
+00:01:45.640 understand the how we have to first
+00:01:47.399 understand the why we have to understand
+00:01:48.719 the motive and how they actually operate
+00:01:51.200 on a daily basis you see smart money
+00:01:53.640 that we refer to is actually large banks
+00:01:56.000 financial institutions governments big
+00:01:58.039 corporations and all these large en
+00:01:59.880 ities that actually move the market now
+00:02:02.119 how do they manipulate your positions
+00:02:03.719 here's the thing let's say Bank a needed
+00:02:06.439 to push the price higher they wanted to
+00:02:08.399 put a billion dollars of orders in the
+00:02:10.598 market well they can't just get a
+00:02:12.239 billion dollars of orders filled at this
+00:02:14.280 specific price level right here because
+00:02:16.160 for them to do that they would need
+00:02:17.879 another participant on the other side of
+00:02:19.959 the market who would also match that
+00:02:21.800 same order of a billion dollars so what
+00:02:23.760 do they have to do first they have to
+00:02:25.160 manipulate hundreds or thousands or
+00:02:27.480 millions of Traders into taking the
+00:02:29.360 other side of the market how do they do
+00:02:31.120 that well what they do is they
+00:02:32.519 understand primary trading strategies in
+00:02:34.720 the market I'll give you an example
+00:02:35.879 right now every low and every high that
+00:02:37.959 you see are very important levels
+00:02:39.959 because everybody yourself included
+00:02:42.319 probably Paces your stop loss below a
+00:02:44.519 low or above a high so we know that
+00:02:46.879 every low and every High has stop losses
+00:02:48.800 and those stop losses sell stops they
+00:02:51.120 trigger as buy orders so again don't
+00:02:53.239 want to get too technical here but let's
+00:02:54.800 say price comes down like this right and
+00:02:57.480 let's say the bank wants to actually buy
+00:02:59.480 right it wants to put a billion dollars
+00:03:01.040 of buy orders again not going to get
+00:03:02.680 filled for a billion in here mine get
+00:03:04.120 filled for 10 million and another 10
+00:03:05.680 million and another 10 million and
+00:03:06.760 another 10 million to up to a billion
+00:03:08.400 and by that point they brought some here
+00:03:10.159 some here some here some here some here
+00:03:11.680 some here and they didn't get the
+00:03:13.120 average order value that they actually
+00:03:14.760 wanted so they have to engineer
+00:03:17.159 liquidity what we call inducement so
+00:03:19.720 they understand that at these stop- loss
+00:03:22.040 levels like down here let's say for
+00:03:24.080 example you are a buyer right you buy
+00:03:26.560 your position in here and when price
+00:03:28.439 comes down to here so there you get
+00:03:30.280 tagged in you take a stop loss which
+00:03:31.879 isn't surprising this stop loss right
+00:03:34.519 here acts as a sell so if you put a
+00:03:36.920 $100,000 trade on and it hits your stop
+00:03:39.280 loss you are putting liquidity into the
+00:03:41.319 market you are selling at that level and
+00:03:43.640 adding sell side liquidity right very
+00:03:46.040 important to understand so what they do
+00:03:47.640 is they push price into these very
+00:03:49.840 lucrative and liquid areas just before
+00:03:52.599 the real move number one there are a lot
+00:03:54.400 of stop losses on here so they know then
+00:03:56.560 that if there is let's say you know 300
+00:03:59.159 million
+00:04:00.480 worth of stop losses at this level that
+00:04:03.120 when they push price into this level at
+00:04:05.120 that very moment they can execute $300
+00:04:08.079 million of buy orders and they will get
+00:04:10.599 filled at a balanced price because their
+00:04:13.120 goal is to let's say get into the market
+00:04:15.079 at this specific price level let's say
+00:04:17.238 1.51 right that's their goal they get to
+00:04:19.639 the market they have a weekly plan I
+00:04:21.279 need to buy x amount of dollars worth at
+00:04:23.000 this specific price for 3 weeks time
+00:04:25.400 they will first manipulate into these
+00:04:27.040 lowers because they know that all of the
+00:04:28.680 stop losses are there which which means
+00:04:30.320 those stop losses act as sell orders so
+00:04:32.639 that they can use those sell orders to
+00:04:34.400 get their positions in without moving
+00:04:36.080 the market and getting better prices
+00:04:37.840 better yet guess what there are also
+00:04:40.160 other types of Traders those that we
+00:04:41.840 call breakout Traders right or support
+00:04:43.680 and resistance Traders because what
+00:04:45.320 happens is when price comes into this
+00:04:47.160 level like this there are so many sell
+00:04:49.479 orders below this low because you have
+00:04:51.360 the types of traders that look at this
+00:04:52.720 level of the market and they say if we
+00:04:54.360 break this level I'm going to sell
+00:04:55.919 because we are obviously bearish right
+00:04:57.400 selling momentum is going to take price
+00:04:58.960 lower so now you have all of the stop
+00:05:00.759 losses of the buyers which acts as sell
+00:05:02.600 orders and now you have all of the
+00:05:04.120 sellers in the market that think the
+00:05:05.759 market is bearish so now you have
+00:05:07.360 thousands if not hundreds of thousands
+00:05:09.400 of Market participants that are all
+00:05:11.240 putting sell liquidity in the market and
+00:05:13.880 what do they do they absorb all of that
+00:05:16.240 liquidity to fill their goal right which
+00:05:19.479 is a certain amount of orders at a
+00:05:21.360 certain price level once they've
+00:05:22.919 fulfilled that prophecy then price can
+00:05:25.919 continue then they can move the market
+00:05:28.120 or other participants can move the
+00:05:29.440 market market for them so once you see
+00:05:31.400 this a run on a very clear and obvious
+00:05:34.360 cell side area and then you see a shift
+00:05:37.600 in some kind of Market structure and a
+00:05:39.560 pullback that is our that's our trigger
+00:05:42.199 that now it's time to go they've done
+00:05:43.880 what they needed to do and then we push
+00:05:45.479 price higher into buy stop regions right
+00:05:48.720 and again this sounds very easy very
+00:05:50.440 simple and you know like anyone can do
+00:05:52.560 it but there are a couple of things I'm
+00:05:54.240 not yet shared with you because it's not
+00:05:56.240 every high and every low it's specific
+00:05:58.840 highs and specific specific lows that
+00:06:00.400 they do this to on a daily basis and
+00:06:02.560 that's what I'm going to share with you
+00:06:03.600 in the coming episodes let's dive in and
+00:06:05.919 that leads us into lesson number two
+00:06:08.240 which are the key liquidity levels that
+00:06:10.440 these bfis right the smart money
+00:06:12.520 entities use to manipulate you that you
+00:06:15.039 probably didn't even know existed so
+00:06:17.479 let's dive into them you see what we
+00:06:19.160 have on my chart right now is a
+00:06:20.800 multitude of different colored boxes and
+00:06:23.440 I get a lot of questions in the comments
+00:06:25.120 all the time what are these boxes how do
+00:06:26.759 you mark them out etc etc well the GRE
+00:06:29.560 green box represents London session this
+00:06:32.479 is my London window right the yellow box
+00:06:35.880 represents New York session the blue box
+00:06:38.800 represents Asia session each of these
+00:06:42.400 different levels have different jobs to
+00:06:44.919 do in the market and they all kind of
+00:06:47.400 have each of these levels are primary
+00:06:50.000 drivers of Market liquidity so how do we
+00:06:53.360 understand that well the key here really
+00:06:56.120 and truly is the Asia session high and
+00:06:59.000 one of level which is the previous day
+00:07:02.280 low and arguably one of the most
+00:07:04.199 important levels in your entire
+00:07:06.879 understanding of liquidity previous
+00:07:08.479 day's low and previous week's high or
+00:07:10.280 low previous day's high is also
+00:07:12.000 effective you see when you have a very
+00:07:14.120 bearish market like we have right now
+00:07:17.080 what this essentially is is number one
+00:07:18.800 we are very overextended right one thing
+00:07:21.520 you have to understand about these
+00:07:22.879 markets is that the market is always
+00:07:24.879 gravitating towards external liquidity
+00:07:27.479 internal liquidity that's what creates
+00:07:29.199 our Market Market structure so what are
+00:07:30.680 these internal to external levels well
+00:07:32.599 if you look at Market structure for
+00:07:34.400 example right let's say price generates
+00:07:37.199 like this so okay let's say we're
+00:07:38.840 bearish well now what we have is we have
+00:07:41.720 our swing high for those of you who do
+00:07:43.120 know Market structure amazing for those
+00:07:44.639 of you who want a truly comprehensive
+00:07:46.960 guide to knowing exactly what direction
+00:07:48.599 the market goes every single time I'll
+00:07:50.080 leave a link to another video in the
+00:07:51.680 description down below but these
+00:07:53.599 external points right this High here
+00:07:55.319 this low here they are external ranges
+00:07:57.879 of liquidity they are on the outside of
+00:07:59.680 price everything inside is internal
+00:08:01.879 liquidity so what happens is price
+00:08:04.720 gravitates towards one of these external
+00:08:06.720 levels and then what does it do it comes
+00:08:08.960 back up to internal levels and then it
+00:08:11.479 will continue to external levels and
+00:08:13.639 then once it's run those external levels
+00:08:15.919 it will come back to internal and so
+00:08:18.120 what we have to understand is what are
+00:08:19.960 these external liquidity levels let's go
+00:08:21.919 back to the price jart for a second and
+00:08:23.080 let's have a look if you can see this
+00:08:24.560 low that I'm mapping out right here is
+00:08:26.720 the low of the previous day so number
+00:08:30.080 one we already know that there are a
+00:08:32.240 bunch of stop losses in this level we
+00:08:35.159 also know that if this previous day low
+00:08:37.120 gets liquidated there are going to be so
+00:08:39.200 many sellers that rush to the market to
+00:08:41.919 try to get involved in selling price so
+00:08:44.000 we now know in this specific area there
+00:08:46.920 are a lot of buyers and a lot of sellers
+00:08:50.880 right buyers meaning you know this is
+00:08:53.560 the area in which they brought from
+00:08:55.040 previously and their stop losses are in
+00:08:56.959 these levels so there is a lot of sell
+00:08:59.519 side liquidity meaning when price
+00:09:00.839 triggers this level so much selling
+00:09:03.560 liquidity is going to come in and smart
+00:09:05.600 money can consume that liquidity another
+00:09:08.360 very key and important liquidity level
+00:09:11.160 coming into London specifically is the
+00:09:13.360 Asia session High and the Asia session
+00:09:15.920 low it's very very common to have a
+00:09:18.920 daily cycle where price manipulates Asia
+00:09:21.279 low and Asia high in one session if
+00:09:23.480 you've watched any of my other content
+00:09:24.920 you will know this principle in depth
+00:09:27.440 already it's one of the primary
+00:09:28.839 principles that I use so this blue box
+00:09:30.600 right here a lot of the times the high
+00:09:32.839 and the low are very very important
+00:09:34.920 targets now our goal every time we come
+00:09:37.560 into the market is to understand where
+00:09:40.360 is the target for liquidity so if we
+00:09:43.360 look at this right here we see two
+00:09:45.000 things and I came into my trading
+00:09:48.240 session today and gave this exact
+00:09:50.399 step-by-step plan to my members I'll
+00:09:51.839 even put a little bit of a clip in there
+00:09:53.480 if you would like of what exactly it is
+00:09:55.640 that I'm looking for step one because we
+00:09:57.839 are bearish by the way I'm expecting
+00:09:59.600 lower prices we're very bearish but we
+00:10:01.839 can always have after an external range
+00:10:04.160 liquidity we will always have some kind
+00:10:06.480 of temporary pullback before potential
+00:10:09.120 continuation so that's a very important
+00:10:11.240 concept to understand so my game plan
+00:10:12.720 was simple I'm either waiting for this
+00:10:15.720 liquidity to get taken out because the
+00:10:17.600 problem is is how many Traders are in
+00:10:19.160 here well this is Asia High a lot of
+00:10:21.240 liquidity not only is it Asia high it's
+00:10:23.399 at a level of relatively equal highs
+00:10:26.279 liquidity not only is it at equal highs
+00:10:28.760 it's also so at a you know an area of
+00:10:31.079 what a lot of Traders will look at as a
+00:10:33.120 very aggressive area of resistance right
+00:10:36.160 and again these are the things that you
+00:10:37.600 have to understand you have to
+00:10:38.760 understand where are all the other
+00:10:39.920 Traders because smart money needs that
+00:10:42.360 liquidity the market Hunts for liquidity
+00:10:45.680 on a consistent basis so if you can
+00:10:47.680 identify where everybody else is
+00:10:49.160 positioned then you can start trading in
+00:10:51.399 that direction because that's where the
+00:10:52.880 market is going to that is the job of
+00:10:54.920 the market so when I come in I identify
+00:10:57.079 all of this buy side liquidity identify
+00:10:59.120 this sell-side liquidity and then I
+00:11:01.000 literally go okay if we run buy side
+00:11:03.760 first so if we run into the buy side
+00:11:05.600 liquidity first then I will trade short
+00:11:09.519 if we run into the sells side liquidity
+00:11:12.320 first then I will trade long that was my
+00:11:15.279 game plan quite very simple why because
+00:11:18.560 I'm focused on key liquidity levels that
+00:11:21.760 again you probably didn't know existed
+00:11:24.040 so to recap very briefly key liquidity
+00:11:26.560 levels previous day's low or previous
+00:11:28.440 day's High a AIA session high or Asia
+00:11:30.639 session low anywhere there are equal
+00:11:32.800 highs or anywhere there is an area of
+00:11:35.920 resistance right all of these levels are
+00:11:38.360 where there are stop- losses and price
+00:11:40.440 is going to hunt those levels so that
+00:11:43.800 smart money can fill their orders at a
+00:11:46.600 price that they actually want to fill
+00:11:48.320 their orders at so that takes me into
+00:11:51.639 lesson number three which is really and
+00:11:53.639 truly how do you trade off the back of
+00:11:56.480 that right you need some kind of model
+00:11:59.040 so so let me give you a quick
+00:12:00.320 theoretical lesson and we'll dive
+00:12:01.639 straight into the Practical lesson right
+00:12:03.680 the theoretical lesson is what we just
+00:12:06.040 had right here when you have this kind
+00:12:07.959 of you know let's say you're bearish in
+00:12:09.839 your price delivery and you have kind of
+00:12:11.839 something like this right this kind of
+00:12:13.959 price delivery and then you say you know
+00:12:16.160 Asia session range looks something like
+00:12:19.040 this you have previous days low which is
+00:12:21.600 down here you have equal highs across
+00:12:24.800 here okay so we have buy side liquidity
+00:12:27.199 like that we have sells side liquidity
+00:12:30.079 like that we are overall bearish cool so
+00:12:32.880 now it becomes a game of we wait for a
+00:12:34.600 liquidation right which again we had so
+00:12:38.160 if it was buy side or sells side same
+00:12:39.560 thing we wait for a Liquidation on the
+00:12:41.199 15minute time frame once I see that it's
+00:12:43.240 a clear liquidation that is usually
+00:12:45.240 confirmed with a lower time frame Market
+00:12:47.800 structure shift so if I'm looking at the
+00:12:49.240 market on the 15minute time frame which
+00:12:51.519 I do on the 1 minute time frame once we
+00:12:54.360 run into that level this is what I'm
+00:12:56.279 looking for because on the one minute
+00:12:57.839 time frame when price comes down is
+00:12:59.680 obviously bearish in its overall Market
+00:13:02.120 structure so I just simply wait for some
+00:13:05.360 kind of pullback and shift once I see
+00:13:07.800 this I already understand the order flow
+00:13:10.000 has changed guys the market is very very
+00:13:12.320 simple all you have to understand is if
+00:13:14.279 there are more buyers than there are
+00:13:15.399 sellers price will go higher if there
+00:13:17.120 are more sellers than there are buyers
+00:13:18.480 price will go lower you can see in the
+00:13:21.079 Candlestick chart what side of the
+00:13:23.480 market is in control at any one given
+00:13:25.839 time the lower the time frame you go the
+00:13:27.760 quicker the data that you see C is but
+00:13:29.920 doesn't mean it's always the most
+00:13:31.000 accurate that's why you have to combine
+00:13:32.560 multiple different time frames that is
+00:13:34.680 the key if you don't have an
+00:13:36.519 understanding of how to read all priced
+00:13:38.800 multiple time frames and tie them all in
+00:13:41.199 together for a comprehensive
+00:13:42.760 understanding of where the Market's
+00:13:43.760 going to go to you're already pretty
+00:13:45.639 much doomed so the 50-minute time frame
+00:13:48.160 runs into a key area of liquidity the
+00:13:50.199 lower time frame is putting in high low
+00:13:53.920 high lower low lower high lower low
+00:13:56.560 lower high lower low okay so we're
+00:13:58.680 obviously bearish but we've just run
+00:14:00.600 into a key liquidity level and then when
+00:14:02.800 you see lower low higher high right so a
+00:14:05.399 change of character or some kind of
+00:14:06.920 Market structure shift could be a
+00:14:08.279 displacement could be a market structure
+00:14:09.680 shift could be a change of character
+00:14:12.079 right there is our confirmation the
+00:14:15.320 order flow has shifted and that means we
+00:14:18.000 are now heading in a different direction
+00:14:20.040 to go and take the next area of
+00:14:22.600 liquidity it's that simple price goes
+00:14:24.880 from external range liquidity to
+00:14:26.680 internal range liquidity so and here's
+00:14:29.320 where this is and why it's such a genius
+00:14:31.759 understanding of the market because
+00:14:32.920 guess what if we run this low and price
+00:14:35.480 just continues trading lower we don't
+00:14:38.199 trade we're not just putting an order on
+00:14:40.560 this level and stop loss down here and
+00:14:42.360 hoping that price reverses no we are
+00:14:44.199 waiting for perfect orderflow
+00:14:46.839 realignment where price shifts from
+00:14:49.079 being lower time frame bearish to lower
+00:14:51.519 time frame bullish giving us a lower
+00:14:53.399 time frame low and a high and then a
+00:14:56.880 high that gets disrespected to the
+00:14:58.360 upside and then what we're looking for
+00:15:00.480 again this is where the market is truly
+00:15:03.839 magical honestly the way that the market
+00:15:06.360 Works in fractals which is you know
+00:15:08.639 you've probably seen fractals before
+00:15:10.199 right what you see on a higher time
+00:15:11.519 frame you see on a lower time frame the
+00:15:13.800 exact same thing so pay close attention
+00:15:16.560 to what you see right here because what
+00:15:18.240 I'm about to share with you on a lower
+00:15:19.720 time frame is just as key because what
+00:15:21.639 we wait for is we wait for a pushup a
+00:15:24.440 push down and a shift then we need to
+00:15:26.600 identify the area in which SM money kind
+00:15:29.720 of you know get in and that's where you
+00:15:31.120 see a cluster of orders so what you see
+00:15:33.639 in this level in our order blocks that
+00:15:35.560 we call them or Supply zones or demand
+00:15:37.600 zones or whatever you really want to
+00:15:39.040 call them all we're really understanding
+00:15:40.279 is where are the orders sitting what
+00:15:41.800 happens in this level is price just
+00:15:44.519 before it goes into the low we have some
+00:15:46.240 kind of range some kind of manipulation
+00:15:48.680 on the lows and then a shift higher
+00:15:50.560 right it's this same thing for those of
+00:15:51.959 you who know me you know this is my
+00:15:53.240 model over and over and over again we
+00:15:54.759 have a range a manipulation and then an
+00:15:57.040 aggressive bullish move and we want to
+00:15:58.680 ident identify where that range sold and
+00:16:01.079 then when that range bought and that
+00:16:02.519 becomes our order block that level right
+00:16:04.440 there is where we take our entry from
+00:16:06.600 Once We essentially take that entry
+00:16:08.800 right this is our entry then so what you
+00:16:10.839 go and do is you go Longs take your
+00:16:13.759 entry put your stops just on the low
+00:16:15.959 because the the reality is is if price
+00:16:17.759 continues going lower you've taken a
+00:16:19.480 loss that's completely fine right no
+00:16:21.800 strategy is ever going to work 100% of
+00:16:23.480 the time this specific strategy has the
+00:16:25.639 flip of a coin that probability so it's
+00:16:27.839 around about 49 51% win rate depending
+00:16:30.519 on any given day month week Etc so if
+00:16:33.600 that happens then great the trade is
+00:16:35.240 completely invalidated no problem but
+00:16:37.680 what we're essentially you know betting
+00:16:39.880 on is that this new structural level
+00:16:41.920 holds and now we go for a different area
+00:16:44.120 of liquidity well that area of liquidity
+00:16:46.680 again it can be Asia session High
+00:16:49.079 previous days high old London High old
+00:16:51.880 New York high equal highs um just a a
+00:16:55.600 random old high a area of support
+00:16:59.360 resistance all of these different
+00:17:00.800 liquidity ideas that I've shared with
+00:17:02.399 you many times over an area of key
+00:17:04.520 liquidity now what you want to do is you
+00:17:06.599 want to take the you know if you can the
+00:17:08.599 most important level of liquidity which
+00:17:10.439 for me is nine times out of 10 Asia
+00:17:13.039 session High you've seen it on this
+00:17:14.520 channel a 100 times already it doesn't
+00:17:16.480 change and I get this so many times why
+00:17:18.640 do you make the same videos all the time
+00:17:20.160 because I trade edges that actually work
+00:17:22.599 I trade fundamental Market principles
+00:17:24.599 that actually work I don't change things
+00:17:27.799 right so if broke don't fix it this is
+00:17:30.400 our entry model that's where we take our
+00:17:32.039 trade we look up into this level in here
+00:17:35.080 and this Asia session High becomes our
+00:17:37.039 take profit level or at least one of our
+00:17:38.840 take profit levels and that is literally
+00:17:40.640 it so now if we're going to translate
+00:17:42.320 what we've just taken away in that
+00:17:44.520 lesson right there now we come into the
+00:17:46.320 live market remember where in green is
+00:17:49.080 my London session window right this is
+00:17:51.080 the game plan I give to the members
+00:17:52.559 literally this morning and it's either
+00:17:54.280 we run the highs and I look for sells we
+00:17:56.400 run the lows and I look for buys because
+00:17:58.159 I understand that this is a key
+00:18:00.200 liquidity level and this is a key
+00:18:02.120 liquidity level so the likelihood is is
+00:18:04.080 once price collects these orders and
+00:18:06.039 artificially induces that level will
+00:18:08.440 have some kind of pullback and I just
+00:18:10.080 want to go to the next level so it's
+00:18:12.080 either boom boom or boom boom right one
+00:18:15.520 liquidity pocket to the other liquidity
+00:18:17.280 pocket combined with my confirmation
+00:18:20.080 entry model that's it so if we play
+00:18:22.360 price out this is essentially what
+00:18:24.120 happened we'll go to the 50-minute time
+00:18:25.440 frame right which is the time frame that
+00:18:27.880 I always read Market structure and all
+00:18:29.559 of these things in we have all of this
+00:18:31.159 buy side liquidity in here our main
+00:18:33.200 source of buy side liquidity is right
+00:18:35.080 here and yeah pretty much you can see
+00:18:37.640 this low down here oh and by the way
+00:18:40.000 guys smart Money traders even though I
+00:18:42.440 identify myself as an SMC Trader they
+00:18:44.360 can also be induced if they don't have a
+00:18:46.760 true understanding you know just order
+00:18:48.520 blocks aren't going to make you
+00:18:49.480 profitable just fair value gaps aren't
+00:18:51.080 going to make you profitable there are
+00:18:52.280 thousands of fair value gaps there are
+00:18:53.760 thousands of order blocks it's about
+00:18:55.520 understanding which ones work and which
+00:18:57.640 ones don't and why so you can already
+00:19:00.120 see it right here right there's a smart
+00:19:02.039 money order block right here on the edge
+00:19:04.039 of a low that you know arguably broken
+00:19:06.760 old high some smart Money traders that
+00:19:09.559 don't really understand the intricacies
+00:19:11.400 of why they do what they do right even
+00:19:13.280 some smart Money traders are liquidity
+00:19:15.640 because they have their buy orders in
+00:19:17.080 these levels of demand and their stop
+00:19:19.159 losses at these lows so what happens you
+00:19:21.480 wait for a run of liquidity you sit on
+00:19:23.039 your hands because you understand that
+00:19:24.440 everything that happens inside of that
+00:19:25.840 range is not important you're waiting
+00:19:27.679 for the move the real move and now look
+00:19:30.440 when you get that and again you can
+00:19:32.400 always identify liquidity from very
+00:19:34.200 sharp aggressive moves and fast
+00:19:36.080 reversals so when you get such an
+00:19:38.120 aggressive move into a low with such a
+00:19:40.960 heavy Wick it is so obvious what has
+00:19:44.000 just happened once you get your
+00:19:46.320 liquidation of the low you want to drop
+00:19:48.640 down into your one minute time frame
+00:19:50.520 right your one minute time frame CU this
+00:19:52.520 is what's going to give you the
+00:19:53.200 confirmation because look you can
+00:19:54.720 obviously see if you look at the market
+00:19:56.360 we are very bearish on the one minute
+00:19:58.200 time frame so we need to see some kind
+00:20:01.280 of old high get broken doesn't have to
+00:20:04.400 be a change of character because this
+00:20:06.200 isn't my traditional SMC model right
+00:20:08.320 some of you guys in the comments again
+00:20:10.120 understand that I have multiple edges I
+00:20:11.799 don't have just one system I have three
+00:20:13.840 different systems and they all have
+00:20:15.200 different rule sets based on all of the
+00:20:16.840 data that has been collected of what
+00:20:18.559 works best so you can use uh typically
+00:20:21.440 you want to have some kind of low that
+00:20:23.520 brushed a high that brushed a low very
+00:20:25.679 simple so you can see that we're
+00:20:27.120 obviously moving in this kind of bearish
+00:20:30.320 momentum and you need to see some kind
+00:20:32.640 of shift again the best part about the
+00:20:34.400 strategy is you don't have to execute if
+00:20:36.640 you don't get the confirmation if price
+00:20:37.919 would come up here and then just
+00:20:39.480 continue like this I don't take a loss
+00:20:42.000 right I only wait for the order flow to
+00:20:43.919 shift because sellers sellers I.E smart
+00:20:47.480 money purposefully sold into this level
+00:20:49.520 but again I'm not right all the time
+00:20:51.280 sometimes I think they did and they
+00:20:52.320 didn't that's the art of trading it's
+00:20:53.960 all about managing risk and
+00:20:55.280 probabilities but when you are right
+00:20:57.159 it's smart money manipulated into these
+00:20:58.679 lows that's why it's a very aggressive
+00:21:00.320 move right not accidentally they've
+00:21:02.520 deployed a lot of money because they
+00:21:04.600 want to see it go fast because guess
+00:21:07.120 what happens to you guys and a lot of
+00:21:09.280 other people when you see a big red
+00:21:11.039 candle or a big green candle you rush in
+00:21:14.080 because you think it's going to continue
+00:21:15.760 and guess what that is an inducement on
+00:21:17.440 your emotions and your technical
+00:21:18.919 knowledge so they dump price
+00:21:21.679 strategically because they know that
+00:21:23.400 number one there are stop losses here
+00:21:24.799 that acts as buy orders so if they push
+00:21:27.039 price into here now they can deploy
+00:21:28.919 their buys at a better price so they
+00:21:31.200 dump it in here stop losses get taken
+00:21:33.240 out and also sellers rush to the market
+00:21:36.200 people that are in London session look
+00:21:37.720 at this and they go oh my God I need to
+00:21:40.440 sell the market right not realizing
+00:21:42.799 what's actually going on at the higher
+00:21:44.440 level so then essentially what we're
+00:21:46.440 waiting for is a confirmation I need to
+00:21:48.279 see this High get shifted right again if
+00:21:50.559 this was now to just brush the lows I'm
+00:21:52.960 not involved because I need to see that
+00:21:55.080 smart money have not only manipulated
+00:21:56.799 levels but then they've initiated ated
+00:21:59.039 on their intention so that right there
+00:22:02.159 that break of that old high is my
+00:22:04.039 confirmation so now what I can do is I
+00:22:06.240 can go use a 5 minute time frame right I
+00:22:08.840 typically gravitate between the five and
+00:22:10.520 the three depending on what looks the
+00:22:11.880 most kind of Juicy and I will identify a
+00:22:14.480 strategic order block that I can look at
+00:22:16.799 trading from so in this scenario the
+00:22:19.159 order block as many of you guys know is
+00:22:22.120 the sell before the buy that breaks the
+00:22:25.960 high right so we're looking at the sell
+00:22:28.240 to buy level you can if you want refine
+00:22:30.799 it to the actual buying momentum that
+00:22:33.000 comes into the market that's something
+00:22:34.360 that sometimes I do depends on the
+00:22:36.000 market profile but for this example
+00:22:37.919 we'll go clean crisp the sell to buy as
+00:22:40.679 a primary principle that you can use I'm
+00:22:42.640 looking at taking my long positions in
+00:22:44.919 this level and again depending on the
+00:22:46.760 market sentiment you can put your stop
+00:22:48.400 loss below the low or your stop loss
+00:22:50.120 below the swing low depending on certain
+00:22:52.559 things for example in this scenario
+00:22:54.000 today I didn't put my stop loss below
+00:22:55.559 the swing low because it's too big of a
+00:22:58.120 stop loss it's 12 1/2 Pips so it makes
+00:23:00.360 more logical sense for me to go here at
+00:23:02.120 six Pips and then I can look at
+00:23:04.400 targeting our Asia session high right
+00:23:07.960 that is the overall trade basis and if
+00:23:09.799 I'm going to be totally transparent I
+00:23:11.120 did leave some of the position open
+00:23:13.120 because of how bearish we are I thought
+00:23:14.760 that we may have a higher time frame
+00:23:16.480 pullback but that's not relevant to the
+00:23:18.240 strategy that's a personal thing that I
+00:23:19.840 decided to do which I'll show you how
+00:23:21.240 that's going after so that is pretty
+00:23:23.880 much the exact step-by-step trade idea
+00:23:26.679 that was formed for me this morning draw
+00:23:29.240 in London session and then lo and behold
+00:23:31.600 you know if we play the 5 minute time
+00:23:32.880 frame in fact we'll play it on the one
+00:23:34.039 minute time frame so you can kind of see
+00:23:35.559 it play out right it's basically as you
+00:23:37.880 can already see right it's the sell to
+00:23:41.440 buy this is essentially how that plays
+00:23:43.320 out if you play price forward you can
+00:23:45.440 see that price gets tagged into the
+00:23:47.080 level that's the level that we're
+00:23:48.440 looking to buy from that is going to be
+00:23:51.120 our take profit so 1 to four risk reward
+00:23:53.360 pretty much then it's just a waiting
+00:23:54.640 game you're waiting to get tagged in
+00:23:56.039 then you're waiting to execute in on
+00:23:57.880 your position once price gets into your
+00:23:59.799 desired level once price gets into your
+00:24:02.120 desired level you can look at buying the
+00:24:03.720 market again we'll go to a 5 minute time
+00:24:05.559 frame to watch this play out I typically
+00:24:07.440 watch Market play out on a 5 minute time
+00:24:11.000 frame so price starts moving in your
+00:24:14.640 desired direction again uh for me
+00:24:17.559 personally stop loss to break even comes
+00:24:20.559 at a late point in time you have some
+00:24:22.400 sort of pullback once you have that
+00:24:23.679 aggressive move right there you can
+00:24:25.679 already essentially move your stoploss
+00:24:27.960 into your break even level and then boom
+00:24:31.039 that is pretty much the full trade and
+00:24:34.000 again like I said I did close only
+00:24:36.360 partially some of the position uh most
+00:24:38.799 of the position actually and let the
+00:24:40.480 rest run and currently where are we
+00:24:42.840 right now so we're still inside of this
+00:24:44.600 trade so I still have this trade active
+00:24:46.480 and open in fact I'll even pull it up
+00:24:49.120 because why not I'm not sure if you
+00:24:50.960 you'll be able to see from the camera
+00:24:52.840 but hopefully you'll see buys from the
+00:24:55.320 same level but you can also see that the
+00:24:56.760 trade is still actively open and we're
+00:24:58.840 still holding this position to trade
+00:25:01.279 higher it's possible that I see that
+00:25:03.600 price is potentially looking to trade
+00:25:06.679 higher right I definitely see that
+00:25:08.440 there's a lot of potential for Price
+00:25:10.120 trade higher for many different reasons
+00:25:11.440 that aren't relative to this strategy so
+00:25:13.320 for that reason we'll call this video
+00:25:15.240 done from there I really hope you guys
+00:25:16.520 enjoyed the video comment down below
+00:25:18.120 what video you want to see next if you
+00:25:19.440 like the video like it and don't forget
+00:25:21.120 to subscribe check the next video down
+00:25:23.360 in the description peace

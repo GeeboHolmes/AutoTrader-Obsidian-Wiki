@@ -1,0 +1,748 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/C6LobLv4RYA
+
+00:00:00.000 No text
+00:00:00.160 If you're trying to trade order blocks,
+00:00:02.000 but every trade that you seem to take
+00:00:04.000 ends up playing out just like this, and
+00:00:06.080 you're just left wondering why your
+00:00:07.600 order blocks aren't working. Well, in
+00:00:09.360 today's video, I'm going to reveal to
+00:00:10.880 you the only order blocks that actually
+00:00:13.599 work consistently. You see, here's the
+00:00:15.679 truth. Order blocks form everywhere, but
+00:00:18.640 there are only three types of order
+00:00:20.640 blocks that are proven to work time and
+00:00:23.119 time again. And in this video, I'm going
+00:00:24.720 to be revealing to you all of those
+00:00:26.720 order blocks step by step. At the end of
+00:00:29.119 this video, this right here, what you're
+00:00:30.960 seeing now, is the trade that I'm going
+00:00:32.960 to be breaking down. It's also the trade
+00:00:35.280 that before I even took it, I was able
+00:00:37.920 to forecast to my members inside of our
+00:00:40.960 daily game plan. Now, just before we
+00:00:42.800 dive into that, you may be thinking, how
+00:00:44.640 do you know what order blocks actually
+00:00:46.480 work? And the answer to that is data.
+00:00:49.200 You see, over the last two and a half
+00:00:50.960 years, I've collected data over hundreds
+00:00:53.760 and hundreds of trades showing you
+00:00:56.160 exactly which order blocks work and
+00:00:58.559 which order blocks don't. Because to
+00:01:00.559 just say something without having the
+00:01:02.399 data to prove it is just nonsense. And
+00:01:04.640 if you're wondering how I was able to do
+00:01:06.560 that, I used something that I created
+00:01:08.880 called the trader operating system. Down
+00:01:11.200 below the link in this video, I will
+00:01:13.200 leave you a 45minute free video
+00:01:15.920 explaining everything in detail about
+00:01:18.320 how this system actually works. You can
+00:01:20.080 check that out at the end of this video.
+00:01:21.680 So, let's dive in to the first type of
+00:01:23.680 order block that actually works. You
+00:01:25.520 see, how I'll be doing this is first
+00:01:27.360 I'll be explaining it in theory. I'll
+00:01:29.840 give you the theoretical construct on
+00:01:32.079 Trading View and then I'll go and show
+00:01:33.759 you a real moment in price where you're
+00:01:35.439 able to see this in the actual charts.
+00:01:37.520 And we'll do that each and every one of
+00:01:39.119 them until eventually we'll get to the
+00:01:40.000 No text
+00:01:40.479 end and then we'll dive into the trade.
+00:01:42.159 So without further ado, this is the
+00:01:44.640 first type of order block that actually
+00:01:47.360 works and I call it the strong one. Now
+00:01:50.399 just because order blocks work doesn't
+00:01:52.000 mean they all work, right? That's
+00:01:53.360 clearly established. You've probably
+00:01:54.479 already experienced that yourself. So
+00:01:56.000 here what we have are three different
+00:01:58.000 types of order blocks. We have our first
+00:01:59.840 order block, our second order block, and
+00:02:01.360 our third order block. But only one of
+00:02:04.079 these order blocks is most likely to
+00:02:06.640 work. and the other two are proven to
+00:02:09.280 fail consistently. Take a guess. Which
+00:02:11.360 one do you think it is? Do you think
+00:02:12.480 it's order block one, order block two,
+00:02:14.319 or order block three? So, let me break
+00:02:16.400 them down one by one. First and
+00:02:17.760 foremost, you see order block two right
+00:02:19.920 here, right? A lot of traders get stuck
+00:02:21.840 in this trap trying to trade from this
+00:02:24.000 order block. Maybe they see, you know, a
+00:02:25.840 bullish expansion, a little bit of
+00:02:27.280 retracement, a bearish order block is
+00:02:29.280 created, and now they want to try and
+00:02:30.879 short from this area of price. Or maybe
+00:02:32.959 they try to use order block number
+00:02:34.239 three. They see that we're bullish. We
+00:02:35.920 have a little bit of a reaction. And now
+00:02:37.280 they try to use this order block here.
+00:02:38.879 You see the thing that both of these
+00:02:40.879 order blocks lack is context. Order
+00:02:43.519 blocks alone are meaningless. They have
+00:02:46.160 to have context behind them to support
+00:02:49.040 them. And that is what I call again the
+00:02:51.120 strong one. The strong order block is
+00:02:53.280 the order block that is created in the
+00:02:55.360 process of breaking some kind of
+00:02:57.519 important structural level. So if we
+00:02:59.360 look at this price action here, what we
+00:03:01.360 can see is that we have price pushes up,
+00:03:04.560 we have a pullback, and then price
+00:03:06.400 expands again to the upside. What we
+00:03:08.319 have right here is a break of structure.
+00:03:10.400 So we break structure right here. And
+00:03:12.480 now we have bullish price action. We
+00:03:14.239 have a swing low, we have a swing high.
+00:03:16.400 So trying to trade this order block
+00:03:18.400 right here. Well, now you're trying to
+00:03:20.000 short the market, sell the market when
+00:03:22.239 we're actually bullish. And if you're
+00:03:23.599 trying to use order block number three
+00:03:25.120 right here, well, this is what I refer
+00:03:27.040 to as a weak order block. Why? Because
+00:03:29.440 it hasn't broken anything. If price
+00:03:31.920 starts to trade back towards this order
+00:03:33.680 block, this here becomes a failed low.
+00:03:36.720 You see, the only goal that a low or a
+00:03:40.400 high has is to take out the previous low
+00:03:43.120 or the previous high. Right? That is
+00:03:44.720 literally it. That's what tells you who
+00:03:46.319 is in control of the market. So you need
+00:03:48.239 to identify the order blocks that
+00:03:50.400 actually break a level of structure like
+00:03:52.799 this. And in this scenario right here,
+00:03:54.799 that would be order block number one. So
+00:03:56.560 if this was the market that I was
+00:03:57.920 looking at and this was the price chart
+00:03:59.200 that I had, if it was me, I would be
+00:04:01.519 making the decision based off of using
+00:04:03.840 order block number one because this is
+00:04:06.400 what I would likely expect to happen.
+00:04:08.319 Right? You can see that both of these
+00:04:09.760 levels may give some type of reaction,
+00:04:11.680 but the only one that has a strong
+00:04:13.519 enough reaction and follow-through is
+00:04:15.840 the order block that is created in the
+00:04:17.680 process of breaking a significant
+00:04:20.000 structural level. That is the big
+00:04:21.680 difference. So many traders are trading
+00:04:23.440 from these order blocks or these order
+00:04:25.520 blocks and they just fail consistently
+00:04:27.600 because again not all order blocks are
+00:04:29.840 equal. So here we are, Euro dollar on
+00:04:32.160 the actual market and let's just
+00:04:33.600 literally play this out understanding
+00:04:35.759 and looking at each order block and then
+00:04:37.919 labeling them and then let's see what
+00:04:39.600 actually happens with those order
+00:04:41.199 blocks. Let's see what works and what
+00:04:42.800 doesn't work. Essentially first things
+00:04:44.240 first is understanding our structural
+00:04:45.919 levels. So you can see that we are
+00:04:47.360 bullish, right? We had lows, highs,
+00:04:49.280 lows, highs, lows, highs. So we're
+00:04:51.600 bullish, right? So this is our swing
+00:04:53.199 low. This is our swing high. Okay. Well,
+00:04:55.520 straight away here I can already see two
+00:04:58.000 types of order blocks. The first one we
+00:05:00.080 have which is right here at this London
+00:05:02.320 low that would be our order block number
+00:05:04.080 one. Now this order block right here
+00:05:06.000 would be considered a strong order
+00:05:08.080 block. The reason for that is because it
+00:05:10.400 breaks the structural high. So we have a
+00:05:12.880 break of structure here. Then you can
+00:05:14.080 see when price puts in this high, price
+00:05:16.000 starts trading a little bit lower down
+00:05:17.600 here and you see we have this bearish
+00:05:19.680 order block. Right? So we have two
+00:05:21.520 different types of order blocks here.
+00:05:22.720 Now some people are looking at this
+00:05:24.240 order block as the perfect opportunity
+00:05:25.600 to trade. Fair value gaps down here,
+00:05:27.600 Asia lows, right? A little bit of a
+00:05:29.600 market structure shift in here. Let's
+00:05:30.960 just see how price plays out. So, you
+00:05:32.639 can see price comes into this first
+00:05:34.080 order block and we start getting a good
+00:05:35.520 reaction. Nice. That gives us then again
+00:05:38.639 another order block, right? So, now we
+00:05:41.440 have another bearish order block which
+00:05:42.960 again still counter trend. Play price
+00:05:45.440 out.
+00:05:47.600 Now, you can see that price has started
+00:05:49.280 reversing. It's coming making its way
+00:05:50.800 back up towards this order block in
+00:05:52.240 here.
+00:05:54.400 Now price has traded through this order
+00:05:56.400 block. So this one has already been
+00:05:57.840 invalidated. And now we've come back
+00:05:59.600 into this same order block once again.
+00:06:01.680 In that process, what have we also done?
+00:06:03.600 We've just created another bullish order
+00:06:05.360 block right down here. Now to categorize
+00:06:08.080 this order block, this for me is an
+00:06:09.840 order block that is a weak order block.
+00:06:12.160 Price would have to break this high in
+00:06:14.639 order for this to become strong. So
+00:06:16.400 right now this is weak and on top of
+00:06:18.400 that it's sitting on equal lows, right?
+00:06:20.639 So liquidity. Let's see how things play
+00:06:23.039 out.
+00:06:25.199 Okay, so price starts shooting its way
+00:06:27.520 down toward this demand level here. We
+00:06:30.080 get into that level. We have a little
+00:06:31.520 bit of reaction and then eventually we
+00:06:34.160 end up trading directly through that
+00:06:36.000 level. Now we make our way into the
+00:06:38.880 strong order block, right? So we're
+00:06:40.639 still battling between this one here and
+00:06:42.400 this one down here. Which side of the
+00:06:44.479 market is going to have the actual
+00:06:45.919 follow through?
+00:06:48.319 Okay, price.
+00:06:52.400 So now we can see that this one is
+00:06:54.000 producing a really nice reaction. And
+00:06:56.000 now we're coming back up to the old one
+00:06:57.759 that existed up in here. Remember this
+00:06:59.520 order block here hasn't taken out these
+00:07:01.199 lows. This one here has taken out the
+00:07:03.199 highs. This is the strong one. Continue
+00:07:04.800 playing price.
+00:07:08.560 Okay,
+00:07:10.560 cool. And now this order block gets
+00:07:12.880 completely annihilated. You can continue
+00:07:14.880 doing it again. Now what do we have? We
+00:07:17.120 have bullish structure continuation. So
+00:07:19.360 we have our swing high up here which we
+00:07:20.960 can draw across here and we can see that
+00:07:22.400 that broke structure. That's a break of
+00:07:23.919 structure. So we've continued to be
+00:07:26.000 bullish. Now we need to find the swing
+00:07:27.520 low. In order to do that just take the
+00:07:29.520 highest point before we break structure
+00:07:31.680 and bring it down to the lowest point.
+00:07:33.520 You find the lowest point before we
+00:07:35.440 break structure to the buy side. That is
+00:07:37.360 going to be your swing high. So we have
+00:07:39.280 high higher low higher high. So, this
+00:07:42.720 right here is our new strong low, which
+00:07:45.599 makes again another really clean bullish
+00:07:48.720 order block down here at a strong
+00:07:50.319 structural level. What else do we have
+00:07:51.919 here? Well, we also have a bearish order
+00:07:55.520 block right in here. So, again, you can
+00:07:57.599 see there are two different types of
+00:07:58.560 order blocks here. One is the bearish
+00:07:59.759 one, one is the bullish one that's
+00:08:01.520 actually broken structure, right? We
+00:08:03.759 keep playing this out. See, this one
+00:08:05.440 gets traded into. Okay, cool.
+00:08:10.240 We come back into the strong one again.
+00:08:12.000 Now we're really just battling out
+00:08:13.680 between these two. Is this high going to
+00:08:15.120 take this low or is this low going to
+00:08:16.319 take this high? Right,
+00:08:21.120 we're trading back into this one. We're
+00:08:22.479 having somewhat of a reaction.
+00:08:26.479 And there you have it. Right, we have
+00:08:28.479 that continuation follow through and
+00:08:30.479 this bearish order block gets destroyed.
+00:08:33.599 So you can see here this is a few days
+00:08:36.799 worth of price action and every single
+00:08:38.880 time that there is an area to trade
+00:08:41.839 from. It is the area that has the
+00:08:44.399 reaction and follow through because
+00:08:45.680 remember if you want to find the best
+00:08:47.600 order blocks they have to have the
+00:08:49.920 follow through. It's no good just
+00:08:51.920 reacting with a little reaction. No, it
+00:08:54.480 needs to come into that level and trade
+00:08:56.399 out of that level toward the opposing
+00:08:58.959 highs. So here you can see this is two
+00:09:01.360 examples within the space of two days of
+00:09:04.880 where the strong order block is
+00:09:07.360 continuously respected and then has the
+00:09:09.440 follow through. These are the levels
+00:09:11.279 that you want to be trading from. Notice
+00:09:12.800 how many other types of order blocks
+00:09:14.480 there are in this price leg. Right?
+00:09:16.080 Bearish order block here. Price comes
+00:09:17.920 into that level, gives a reaction and
+00:09:20.160 then trades straight through it. Bearish
+00:09:21.760 order block gives a reaction. Trades
+00:09:23.040 straight through it. Bearish order block
+00:09:24.640 in here. Right? So many traders are
+00:09:26.480 looking at something like this. bearish
+00:09:28.480 order block here for example and they're
+00:09:30.080 looking at this okay we break structure
+00:09:32.000 down here that's going to be our bearish
+00:09:34.560 order block and then it just gets
+00:09:35.519 straight straight through. The reason is
+00:09:37.040 is because this low is meaningless,
+00:09:40.240 right? This is a meaningless low because
+00:09:42.720 the structure is this low to this high.
+00:09:45.839 So so many of you are getting trapped
+00:09:47.839 when you see that these little breaks in
+00:09:49.600 here and then trying to trade from these
+00:09:51.920 but then they constantly get traded
+00:09:53.360 through and you're just left wondering
+00:09:54.560 why it's not working. It's because
+00:09:55.839 you're picking either weak order blocks,
+00:09:58.640 so levels from weak areas of price, or
+00:10:01.760 you're picking ones that are actually
+00:10:03.200 just counter trend, which is the worst
+00:10:05.120 type of order block. If we are moving
+00:10:06.800 bullish in a certain direction and we
+00:10:08.160 have some of a pullback, you do not want
+00:10:10.000 to be trying to sell here because the
+00:10:11.279 reality is is price is expected to trade
+00:10:13.360 through that level. So that's the first
+00:10:14.959 type of order block that is proven to
+00:10:15.000 No text
+00:10:16.640 work. Again, two and a half years of
+00:10:18.480 data, hundreds of trades taken that
+00:10:20.640 tells me that this works. Moving on to
+00:10:23.680 the winning order block number two,
+00:10:25.760 which is what I call the sweep. This is
+00:10:28.000 probably one of my personal favorites.
+00:10:29.600 It's essentially where we have a buildup
+00:10:32.320 of liquidity. This can be at some equal
+00:10:34.880 highs. It could be at Asia session high,
+00:10:36.640 Asia session low, previous days high,
+00:10:38.320 right? A pocket of liquidity and then we
+00:10:40.560 sweep into that level and then have an
+00:10:43.200 aggressive reaction out of that level
+00:10:45.040 and then we leave behind this order
+00:10:47.519 block. These again are some of my
+00:10:49.440 favorites. you're expecting then price
+00:10:50.880 to trade into this level and then trade
+00:10:52.880 away from it. Very very simple
+00:10:54.800 explanation. Let's just dive straight
+00:10:56.320 into a live example where you can see
+00:10:58.160 this play out. So here we are again on
+00:11:00.240 the actual chart itself and we're just
+00:11:01.680 looking at the different types of order
+00:11:02.959 blocks that are readily available to us
+00:11:05.040 at this moment in time. The first thing
+00:11:06.480 that I see is obviously this bullish
+00:11:09.440 order block here. But there's something
+00:11:11.200 very important that you must understand
+00:11:12.720 when you see these types of levels. You
+00:11:14.320 have to always be on the lookout for
+00:11:15.680 liquidity. You can see we have Asia
+00:11:17.279 session low here. We also have a bunch
+00:11:19.600 of stacked up lows internally in here.
+00:11:22.959 And you see price starts to have a bit
+00:11:25.760 of a reaction, but that there as well,
+00:11:28.959 this entire area then becomes a large
+00:11:30.800 level of liquidity. Now, it's not to say
+00:11:32.640 you can't trade this strong move. There
+00:11:35.040 going to be times where even your
+00:11:36.240 obviously strong order blocks don't
+00:11:38.000 hold, but you do want to be very
+00:11:39.440 cautious of these levels. And so, you
+00:11:41.120 know, if you know what you're doing, you
+00:11:42.079 want to be waiting for these types of
+00:11:43.279 sweeps. when you have a sweep of
+00:11:45.120 liquidity and then you create that order
+00:11:47.760 block. So here for example, we have a
+00:11:49.680 bullish order block from this level,
+00:11:50.959 that's the type of move that you want to
+00:11:51.920 be getting involved in because now we've
+00:11:54.079 taken liquidity. So the moment we take
+00:11:55.600 an area of liquidity and then produce an
+00:11:57.680 order block in that direction that's
+00:11:59.680 also aligned with kind of that high time
+00:12:01.440 frame trend, that's the level we're
+00:12:02.480 going to use in you see price comes in
+00:12:03.760 and gives immediate aggressive reaction.
+00:12:06.079 That's what you want to see from your
+00:12:07.279 levels. And again, look at the
+00:12:08.639 difference. There's a bearish order
+00:12:10.079 block in here, right? Many traders maybe
+00:12:12.240 looking at this level and thinking that
+00:12:13.680 okay, this is a bearish level. Maybe
+00:12:15.519 it's had some kind of, you know, uh,
+00:12:17.360 internal breaker structure. Maybe I'll
+00:12:19.040 trade it. But you're looking at it all
+00:12:20.480 wrong, right? There's no context behind
+00:12:22.240 why this would hold. But there's all the
+00:12:24.240 context as to why this would hold
+00:12:26.320 perfectly after a sweep in the direction
+00:12:29.040 of the overall trend. And so there's
+00:12:30.480 again just another example of
+00:12:32.480 understanding the actual sweep model.
+00:12:35.040 And we'll put this all together into
+00:12:37.360 practice when we move on. Let's kind of
+00:12:39.120 now take a step over into the third
+00:12:41.920 type. And this isn't actually a type of
+00:12:44.320 order block. It's something that I like
+00:12:46.000 to do to all of my order blocks in order
+00:12:48.720 to increase the probability of them
+00:12:50.880 playing out. This is honestly my
+00:12:52.720 favorite concept, which for me is
+00:12:54.959 confirmation of order blocks. There are
+00:12:55.000 No text
+00:12:56.880 order blocks everywhere. Not all order
+00:12:58.880 blocks are the same. And even the ones
+00:13:00.800 that work better, you still want to be
+00:13:02.800 able to confirm those order blocks
+00:13:04.800 before you trade them. So, I'm going to
+00:13:06.399 teach you now how I not only increase
+00:13:08.800 the probability of my order block
+00:13:10.959 working, but also increase my
+00:13:13.040 risk-to-reward from that order block.
+00:13:14.800 And again, I'll just kind of show you
+00:13:16.079 exactly what that would look like. Here
+00:13:17.440 we can see we are again bullish, right?
+00:13:19.839 We're expecting high prices. You can see
+00:13:21.360 that we had lows in here. Price pulled
+00:13:22.959 up, price put in new lows, and then we
+00:13:25.040 go higher high, higher low, higher high.
+00:13:26.639 So, we're bullish, right? Our swing low
+00:13:29.040 is down here. Swing high is up here. So,
+00:13:31.920 first and foremost, the different types
+00:13:34.320 of order blocks that we have here. Order
+00:13:35.920 block one, which you could use as this
+00:13:38.160 level in here, right? This is part of
+00:13:40.480 the bullish delivery. And then the
+00:13:42.320 second one really is we just want to
+00:13:43.600 look at this sell to buy that also takes
+00:13:45.839 the level of structure. So, really,
+00:13:47.600 we're just going to look at anything
+00:13:48.560 from this kind of sell to buy. And
+00:13:51.120 considering that we're already inside
+00:13:52.399 that range as we head into London
+00:13:54.160 session, we can just refine it to here.
+00:13:57.120 So, this is again very important thing
+00:13:59.199 is time. So now it's 1:45 a.m. So the
+00:14:03.279 London session is just about to start.
+00:14:05.760 So instead of just looking at this,
+00:14:07.199 maybe for example, you get yourself into
+00:14:08.959 the situation where you have, you know,
+00:14:10.720 two different order blocks in a price
+00:14:12.160 leg and you don't know what one to trade
+00:14:13.680 or maybe the order block is large and
+00:14:15.040 the risk-to-reward is low. If I wanted
+00:14:16.639 to just trade this, for example, right,
+00:14:18.399 and my target was here, then that would
+00:14:21.040 be a 1 to2 risk-reward. And then if I
+00:14:23.040 wanted to trade, let's say, from this
+00:14:25.360 one, it would be a one to
+00:14:29.600 3.8. 8 rward. Let's just say 1 to four
+00:14:31.519 riskreward. Okay, that's a little bit
+00:14:33.440 better. But then let's say because you
+00:14:35.360 don't know which one to use, you have to
+00:14:37.040 take your risk. So for example, maybe 1%
+00:14:39.519 and you have to split it across two
+00:14:41.360 positions. So now you're able to put 0.5
+00:14:43.920 on this trade and 0.5 on this trade. Or
+00:14:45.920 maybe you put your full 1% on this trade
+00:14:47.519 and your full 1% on this trade. However
+00:14:49.440 you try to do it, there are many
+00:14:51.519 limitations by doing this. The first one
+00:14:53.600 is you have a very low risk-toreward,
+00:14:56.320 right? That riskreward is unfavorable.
+00:14:59.040 The second thing is is that you don't
+00:15:01.360 know which one to use, right? And then
+00:15:02.959 the third thing is is you don't actually
+00:15:04.800 know whether they are going to work
+00:15:06.880 until you've done what I'm about to show
+00:15:08.800 you. So what I like to do instead of
+00:15:10.399 just trying to trade from here, taking
+00:15:11.839 lowrisisk reward and gambling in some
+00:15:14.880 sense on hoping that that order block
+00:15:16.800 plays out, I confirm them with lower
+00:15:19.760 time frame market structure. So here on
+00:15:22.240 the 15-minut time frame, now when price
+00:15:24.480 gets into this level, I don't just try
+00:15:25.920 and execute a long position. I wait for
+00:15:28.240 the market to tell me that this level is
+00:15:31.360 going to hold and then I make my move.
+00:15:34.639 So when I get into my levels like this,
+00:15:36.480 I just drop down into the one minute
+00:15:38.000 time frame. And then once I'm in the one
+00:15:39.680 minute time frame, right, again, if we
+00:15:41.680 zoom out, you can see that this is still
+00:15:43.120 those order block one, order block two.
+00:15:45.199 Once I get in here, well, it's clear to
+00:15:47.519 see as price makes its way down, we are
+00:15:49.600 extremely bearish. So we can kind of
+00:15:51.519 just look at our M1 structural levels,
+00:15:53.360 right? We have low, high, lower, low. We
+00:15:56.320 break higher high, higher low, higher
+00:15:58.560 high. We break bearish, lower low,
+00:16:01.600 right? Come into here. Where do we
+00:16:04.320 break? Really just here. And then I can
+00:16:06.959 just literally look at this high here.
+00:16:08.959 So that high right there for me is in
+00:16:11.120 control of price right now. Price is
+00:16:12.800 trading lower. So I could just risk it
+00:16:15.120 and just try to execute. But my
+00:16:17.120 risk-to-reward is low and I don't have
+00:16:20.079 the confirmation to tell me that this
+00:16:21.759 level is going to work. So I just simply
+00:16:24.000 apply patience. I will just wait
+00:16:27.440 until we get this. This right here is my
+00:16:30.959 confirmation. This tells me that this
+00:16:33.519 level is actually what I think it is. It
+00:16:36.000 tells me that there's a good chance that
+00:16:37.279 this level could end up holding. And
+00:16:38.720 then what I'll do is when we get that
+00:16:40.480 shift, I'll literally just head over to
+00:16:42.000 a 5minute time frame and find the exact
+00:16:44.160 same thing. Right? Notice the
+00:16:45.680 difference. What do we have here? We
+00:16:47.519 have a order block down here, right? a
+00:16:50.560 bullish order block from this level that
+00:16:54.160 does what? That breaks structure. So, we
+00:16:56.560 have the exact same thing replicated
+00:16:58.480 just on a lower time frame. Same
+00:17:00.240 principles. So, we're coming from this
+00:17:02.079 bullish order block, but we're coming
+00:17:03.680 from that level with the confirmation.
+00:17:05.839 Now, what's the difference? Well, first
+00:17:07.439 and foremost, I have the confirmation.
+00:17:09.280 So I know there's a higher probability
+00:17:11.280 of this now you know this order block
+00:17:13.520 here being respected because it's
+00:17:15.280 already coming in and given us the
+00:17:16.559 reaction telling us that yes there were
+00:17:18.799 likely orders in here or yes there is an
+00:17:21.039 interest of price to trade out of here
+00:17:23.760 up towards these levels. So it's
+00:17:25.760 confirmed and give me you know a higher
+00:17:27.839 level of conviction a higher probability
+00:17:29.760 of playing out secondly I don't have to
+00:17:32.480 split my risk across these two positions
+00:17:34.480 or gamble and hope that one of them
+00:17:36.400 works. And then finally, and most
+00:17:38.480 obviously and most favorably, we
+00:17:40.880 increase our riskreward. So where we
+00:17:42.960 could have just tried to enter here and
+00:17:44.799 just use this entire level and take a
+00:17:46.799 1:2, what we're able to do now is try to
+00:17:50.000 get in after we have the confirmation.
+00:17:52.799 So there's even more chance of this
+00:17:54.080 playing out and instead of it being a
+00:17:55.520 1:2, we're able to stretch it up to 1 to
+00:17:58.799 five. So the risk-to-reward increases,
+00:18:01.679 the likelihood of it being successful
+00:18:04.720 increases, and you remove having to
+00:18:07.039 guess and hope which order blocks are
+00:18:09.280 actually going to work. You wait for the
+00:18:10.960 market to show you which order blocks
+00:18:12.960 going to work. And so this in of itself
+00:18:15.760 will take most types of order blocks and
+00:18:18.799 transform them into definitely more
+00:18:20.720 profitable versions. And then it's just
+00:18:22.000 a waiting game. You're just then waiting
+00:18:23.520 for price to come back into your level
+00:18:25.039 and then seeing from here how things
+00:18:28.080 actually play out, right? And you can
+00:18:29.600 see, you can just follow the footprints,
+00:18:32.080 right? We get our first order block, we
+00:18:34.080 push out, we come back, we get another
+00:18:36.320 push out, which gives us what? Another
+00:18:39.679 bullish order block.
+00:18:41.840 And that same level is now currently
+00:18:43.600 being respected.
+00:18:45.600 And then we push out of that level. What
+00:18:47.280 does price do again? Gives us another
+00:18:48.720 bullish order block, respects that
+00:18:50.320 level, and then pushes out of that level
+00:18:52.000 again. It's just rinse and repeat of the
+00:18:54.880 same process and then eventually we just
+00:18:57.679 run straight into those highs. So that
+00:19:00.160 is how you actually confirm whether an
+00:19:02.880 order block is likely to play out or not
+00:19:04.960 and increase your risk-to-reward in the
+00:19:07.760 process. So now let's take all of those
+00:19:09.600 things and let's tie it together from
+00:19:11.919 the trade that I took today, 4th of
+00:19:13.919 July, along with a bunch of my inner
+00:19:16.000 circle members. Now, just before we dive
+00:19:18.240 into this trade, the actual system that
+00:19:20.400 I used to build this system is called
+00:19:23.280 the traders operating system. And just
+00:19:24.880 below this video, I'll link to you a 45
+00:19:27.120 minute long free breakdown of the entire
+00:19:29.760 system that you can watch at the end of
+00:19:31.200 this video. So, let's dive in to break
+00:19:32.960 this trade down. So, here we are, Euro
+00:19:34.640 Dollar, 50-minut time frame for this
+00:19:37.360 specific strategy. This is the time
+00:19:39.440 frame that I'm usually going for. You
+00:19:41.280 can see obviously we're extremely
+00:19:42.559 bearish, right? So, if we're just going
+00:19:43.840 to map out our structure points, you can
+00:19:45.280 see that we were bullish. We had a swing
+00:19:47.679 high here, a break, well change of
+00:19:49.520 character down here, swing low, swing
+00:19:52.960 high, lower low, pull back, lower high,
+00:19:55.840 lower low. Right? So, we're bearish. Our
+00:19:58.080 swing high is up here. Yes, there is a
+00:20:00.640 lot of liquidity above here, but we can
+00:20:02.640 cross that bridge if and when we
+00:20:04.880 approach it. It doesn't have to be right
+00:20:06.720 now. So, we're bearish, right? So,
+00:20:08.640 that's the first thing. I'm looking for
+00:20:10.240 shorts. Now, again, what do we have?
+00:20:13.600 Well, in this region, right, in this
+00:20:15.840 entire region, there's a huge build up
+00:20:17.679 before an aggressive selloff in NFP. We
+00:20:19.840 also have, you know, you could look at
+00:20:21.120 this here as a bearish order block. And
+00:20:23.520 now we're inside of this price region.
+00:20:26.080 But again, another key thing here that
+00:20:28.080 we have is we have Asia session high,
+00:20:30.080 which is above here, and we've already
+00:20:31.679 liquidated Asia session high. So, we're
+00:20:33.600 bearish. That's the most important thing
+00:20:35.200 for me. We've liquidated Asia session
+00:20:36.880 high. Now, I'm essentially, as London is
+00:20:39.919 about to open, it's 1:45 a.m. London
+00:20:41.840 opens at 2 a.m. As London about to open,
+00:20:44.640 I'm just waiting for confirmation that
+00:20:46.400 the market is going to reverse because
+00:20:47.919 I'm already expecting lower prices.
+00:20:50.000 Again, this is the biggest mistake that
+00:20:51.760 I think that traders are making with
+00:20:53.200 order blocks. Order blocks need context.
+00:20:55.000 No text
+00:20:55.440 You need to be trading in alignment with
+00:20:57.200 the overall direction of price. When you
+00:20:59.760 do that, the order blocks that you
+00:21:01.600 select are much higher probability. So
+00:21:03.520 for example, by us looking at, you know,
+00:21:05.280 these areas in here, right? These areas
+00:21:08.240 are responsible for breaking this low.
+00:21:09.840 And now we're inside of these areas
+00:21:13.200 after a sweep of Asia session high. And
+00:21:15.760 so I'm just looking at the market to
+00:21:17.840 tell me that it's going to reverse. And
+00:21:19.840 the way I do that is from lower time
+00:21:21.520 frame confirmation. So I'm here on the
+00:21:23.679 one minute time frame. And again, what
+00:21:25.679 do you notice as we head into London
+00:21:28.640 session? Look at this one minute chart.
+00:21:30.400 This one minute chart is aggressively
+00:21:33.039 bullish, right? We just kind of dive in
+00:21:34.799 here. As we really approach, right, 2 am
+00:21:37.840 is London open. As we really approach
+00:21:39.919 this area, you can see that we're just
+00:21:41.440 constantly getting higher high, higher
+00:21:43.280 low, higher high, higher low, higher
+00:21:45.120 high, higher low, right? Just constantly
+00:21:47.520 bullish structure without any shift. And
+00:21:49.600 then what happens? Notice as well that
+00:21:51.520 these are really just clean delivery on
+00:21:53.840 price. Then what happens? Well, we get
+00:21:55.840 to a turning point. We go from this
+00:21:57.679 bullish leg here and then we start
+00:21:59.520 slowing down. Now, this is the first
+00:22:01.679 sign of a reversal. When price has been
+00:22:03.440 moving aggressive like this and then we
+00:22:04.960 start slowing down and then we have this
+00:22:07.280 sell-off here, that's your first sign of
+00:22:10.159 a reversal, but it's not confirmed yet.
+00:22:12.240 What then happens is we get another
+00:22:14.159 break of structure. So, we're still
+00:22:15.520 bullish. So, nothing has been confirmed
+00:22:17.039 yet. For me, in order to go short, I
+00:22:19.280 would need to see this low here get
+00:22:21.280 taken out. If this low gets taken out,
+00:22:23.520 everything shifts. We go from demand in
+00:22:25.520 control, buyers in control, price
+00:22:27.360 trading higher to sellers in control,
+00:22:30.480 supply in control, price trading lower.
+00:22:32.720 That becomes my shift. And you can see,
+00:22:34.159 look how London opens. This is London
+00:22:36.159 open right here at 2 a.m. It opens with
+00:22:37.919 a massive sellside selloff. So that for
+00:22:40.559 me is clear indication that there is an
+00:22:43.600 interest in lower prices. Again, on top
+00:22:46.559 of all of the other context that we
+00:22:48.080 already have, we already have the idea
+00:22:49.360 that we're bearish. We're already above
+00:22:51.200 Asia session high. already inside of
+00:22:52.960 these areas of interest. So that becomes
+00:22:55.679 my guide. That becomes my insight. And
+00:22:57.679 then again, same thing that I did last
+00:22:59.280 time. I'm just going to the five minute
+00:23:00.720 time frame and I'm identifying the order
+00:23:03.120 block. Notice here, how clean is it,
+00:23:05.520 right? We have a very aggressive move.
+00:23:08.159 We have the final buy before that very
+00:23:10.480 aggressive move. Like look at the volume
+00:23:12.240 that's probably inside that candle
+00:23:14.240 confirmed by this change of character.
+00:23:16.480 Then it's just a case of shorts, right?
+00:23:19.600 Put my stops at these highs in here.
+00:23:21.120 pretty low stop size just because again
+00:23:23.039 it is the 4th of July is independence
+00:23:24.559 day. There is lower levels of volatility
+00:23:27.120 and liquidity in general. So you're
+00:23:28.480 going to get lower stops. You're going
+00:23:29.520 to get a little bit higher spreads but
+00:23:31.919 hey it's not that big of a deal. And
+00:23:33.679 really the main target that I have for
+00:23:35.679 any of my positions is just five
+00:23:37.200 riskreward. That's my first target. I'll
+00:23:39.360 add a couple of other targets on there.
+00:23:41.360 For example, like I also had here cuz
+00:23:43.280 it's also a Friday as well. Don't forget
+00:23:44.880 like I don't want to be holding my trade
+00:23:46.000 over the weekend. Not ideally if
+00:23:47.600 anything very small amount of my
+00:23:48.960 position. Um, another area you want to
+00:23:50.320 be looking at is, you know, your 50% of
+00:23:52.320 Asia as a retracement. So, we have my
+00:23:54.960 fiver, right, which is every single
+00:23:56.880 trade is going to be fixed 50% at 5 with
+00:24:00.320 this specific model. Don't forget, I
+00:24:01.919 have a couple of different systems,
+00:24:03.679 right? With this model, it's always like
+00:24:05.520 this. And then trade places are like
+00:24:07.679 this. We get tagged into the position.
+00:24:09.600 Price moves aggressively lower. Now,
+00:24:11.600 here's the difference. I don't go to
+00:24:12.799 break even here because what happens? we
+00:24:15.279 leave another bearish order block that
+00:24:18.720 does what? Also break structure. So if
+00:24:21.840 you didn't capitalize on the first one,
+00:24:24.320 then you could capitalize on the second
+00:24:26.400 one. Right? I can't go to break even yet
+00:24:31.440 now I can go to break even because we've
+00:24:33.600 continued lower. There's no reason for
+00:24:35.039 price to come higher. That's how I
+00:24:36.159 manage my positions. You can see the
+00:24:38.000 first level gets hit. That gives us five
+00:24:41.039 R. So 50% of my position is taken off at
+00:24:44.080 that level. And then we see the 50% of
+00:24:47.440 Asia get taken out inside of New York.
+00:24:50.000 Again, look how close we come back to
+00:24:52.080 this break even point. Right? This is
+00:24:53.440 why also the management side of things
+00:24:54.880 is super super important. Right? Then we
+00:24:57.440 come into my 50% of Asia as my second
+00:25:00.000 target. And then I also had some extra
+00:25:03.919 targets on for this position like Asia
+00:25:05.760 session low, swing lows down here, and
+00:25:08.000 even all the way down to the swing low
+00:25:09.760 down here. But as you can see, we didn't
+00:25:11.840 end up getting those targets. ended up
+00:25:14.480 trading back through and the rest of
+00:25:15.600 this position was taken out at break
+00:25:17.120 even, which is why this trade only ended
+00:25:19.600 up netting me $30,000 instead of what
+00:25:22.080 could have been a lot more in this
+00:25:24.000 specific trade setup.

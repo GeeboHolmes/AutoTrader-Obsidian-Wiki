@@ -1,0 +1,499 @@
+# tactiq.io free youtube transcript
+# The ONLY Fair Value Gap Video You’ll Ever Need
+# https://www.youtube.com/watch/FoBHG2gZ7mU
+
+00:00:00.240 The fair value gap is one of the most
+00:00:02.720 powerful trading concepts in all of
+00:00:05.359 trading and yet it's also one of the
+00:00:07.279 easiest to get wrong. I see so many
+00:00:10.480 traders try to master the fair value gap
+00:00:13.100 [music] and yet most of them fail. Now,
+00:00:16.239 as someone who has gathered over 5 years
+00:00:19.039 of data trading the fair value gap, over
+00:00:22.560 a thousand trades [music]
+00:00:24.160 executed, this video is broken down into
+00:00:27.039 three main parts. In part one, I will
+00:00:30.000 reveal what a fair value gap actually is
+00:00:33.040 on an institutional level in a way that
+00:00:35.520 you've most likely never heard of it
+00:00:37.440 before. In part two, I will reveal to
+00:00:39.840 you the three rules that will help you
+00:00:42.559 identify winning fair value gaps time
+00:00:45.200 and time again. And finally, in part
+00:00:47.840 three, I'll take everything we've
+00:00:49.520 learned together and apply it to a
+00:00:51.680 step-by-step trade breakdown following a
+00:00:54.399 very simple to understand trading
+00:00:56.640 strategy. Starting with part one, what
+00:00:59.039 actually is the fair value gap? You see,
+00:01:02.000 99% of traders who try to trade smart
+00:01:04.799 money concepts actually fail. And smart
+00:01:07.520 money concepts traders are literally
+00:01:09.360 being laughed at and actually called
+00:01:11.119 dumb money traders. And so, the thing
+00:01:13.600 that separates the 1% from everybody
+00:01:16.400 else who fails is understanding real
+00:01:19.360 context. You see, smart money concepts
+00:01:22.000 is just institutional level concepts
+00:01:26.479 rewarded, repackaged for [music] retail.
+00:01:29.360 The problem, however, is that retail
+00:01:31.200 traders just think that it's pattern
+00:01:33.119 recognition. The real traders [music]
+00:01:35.119 understand context, a narrative. That's
+00:01:38.240 what I want to explain to you in this
+00:01:39.520 video. So, a market is always trying to
+00:01:42.320 trade at fair value. What is fair value?
+00:01:45.759 Simply put, fair value or efficient
+00:01:48.560 pricing is an area of price where lots
+00:01:51.520 of trades can be executed. So if we look
+00:01:54.399 on the chart right here, you can see
+00:01:55.680 that this is the New York session here,
+00:01:58.000 Friday the 24th of October. This is the
+00:02:01.040 start of New York session on Euro
+00:02:02.240 dollar. You notice here that we have a
+00:02:05.040 kind of rangebound price delivery before
+00:02:07.520 a very aggressive move towards the
+00:02:10.000 upside. Well, this rangebound price
+00:02:12.879 delivery is what would be considered as
+00:02:15.200 efficient or fair value pricing. What we
+00:02:18.720 can see is a lot of transactions get
+00:02:21.120 traded at this level. How do we know
+00:02:23.040 that? Well, we can just simply use the
+00:02:25.440 volume profile. So, we want to get the
+00:02:27.680 volume that was traded from the
+00:02:29.200 beginning of this New York session to up
+00:02:31.760 until where we are right now, which is
+00:02:33.920 8:45. Now you'll notice here on the
+00:02:37.040 right hand side we have the total volume
+00:02:39.200 traded at each price level. So you can
+00:02:41.120 see the bulk of the volume is traded
+00:02:43.440 right here which congregates to this
+00:02:47.200 area in here. So what many people fail
+00:02:49.599 to understand is that a lot of the times
+00:02:52.400 most of the liquidity most of the
+00:02:54.319 trading volume is happening in the
+00:02:56.560 ranges of price and then notice we have
+00:02:58.959 this huge aggressive move towards the
+00:03:01.440 upside when we have CPI data come out.
+00:03:03.519 But notice something interesting that
+00:03:05.760 when this move starts taking off to the
+00:03:08.800 height of the level, notice that we have
+00:03:10.640 this huge gap in volume. Simply put,
+00:03:14.640 there was so little volume traded at
+00:03:17.200 this level compared to such a small
+00:03:19.360 range here. And yet price exploded
+00:03:22.239 towards the buy side. And then you can
+00:03:24.000 see that volume comes back into the
+00:03:26.159 market after this move has occurred. And
+00:03:28.239 then we start trading at this level. Now
+00:03:30.640 what is actually going on here? This is
+00:03:33.519 real inefficient pricing. So there's two
+00:03:36.239 ways to break this down. The first and
+00:03:38.000 most important thing that you must
+00:03:39.280 understand is that a fair value gap or
+00:03:42.239 commonly known in the institutional
+00:03:44.000 world as a market inefficiency is
+00:03:46.400 essentially an area of price where there
+00:03:48.720 is extremely low volume but we still
+00:03:51.360 have a movement towards the upside. What
+00:03:53.519 that means is that the aggressive buyers
+00:03:56.159 at this price point here has controlled
+00:03:59.040 price so aggressively toward the buy
+00:04:01.040 side and simply put there wasn't many
+00:04:04.480 passive sellers in this price point. So
+00:04:07.200 essentially very very few market
+00:04:08.879 participants specifically sellers at
+00:04:11.439 this price leg. Therefore a very small
+00:04:14.480 amount of volume was able to drastically
+00:04:17.918 change the current value of this market.
+00:04:21.519 Now a deeper detail for this specific
+00:04:23.919 fair value gap is that this was created
+00:04:26.160 from CPI. So what actually happens when
+00:04:29.360 you have these high impact news events
+00:04:30.960 is that market makers are able to
+00:04:33.280 legally pull their liquidity from the
+00:04:35.919 market. Now a very brief overview of
+00:04:37.680 what a market maker is. A market maker
+00:04:39.680 is somebody in the order book who
+00:04:41.520 provides liquidity on both the buy and
+00:04:43.520 sell side pretty much at most price
+00:04:45.680 levels so that other traders can get
+00:04:48.080 filled on their transactions. And then
+00:04:50.400 this market maker is rewarded by taking
+00:04:53.600 the spread. That's how market makers
+00:04:55.520 make money. Now a market maker for
+00:04:57.440 example is a citadel. Citadel actually
+00:05:00.479 makes most markets. It actually has a
+00:05:03.040 very high total volume of the overall
+00:05:05.919 market making. It's one of its largest
+00:05:07.680 kind of arms of its business. So those
+00:05:09.919 market makers are able to come out of
+00:05:12.560 the market at that price point and
+00:05:14.320 remove their liquidity from the order
+00:05:15.759 book. When that liquidity gets removed
+00:05:17.680 from the order book, it makes it very
+00:05:19.840 easy for a small amount of aggressive
+00:05:22.000 buyers at that time to push price higher
+00:05:25.280 and very fast because there is so few
+00:05:28.000 passive sellers at that price point. And
+00:05:30.240 that's the way an order book works. Now,
+00:05:32.160 what happens after that fact is that
+00:05:34.479 there is this gap, right? And from a
+00:05:37.520 technical standpoint and how most people
+00:05:39.840 view a fair value gap or an inefficiency
+00:05:42.720 is with a three candle formation. So
+00:05:45.520 what you want to see is you want to see
+00:05:48.160 a an aggressive candle is usually the
+00:05:50.639 first one and a kind of explosive candle
+00:05:52.639 but it's a three candle formation. So we
+00:05:54.880 have candle number one in here and then
+00:05:58.160 we have candle number two up here
+00:06:02.800 right and then we have candle number
+00:06:04.560 three which is here. So if I remove this
+00:06:08.000 gap for a second those are our three
+00:06:09.680 candles. Now what you will do is you
+00:06:11.759 will take in a bullish example the high
+00:06:14.000 of candle one and the low of candle
+00:06:17.360 three. Notice that they do not touch.
+00:06:20.720 This third candle in here and this first
+00:06:22.479 candle in here do not meet. That is
+00:06:24.800 essentially the potential for
+00:06:26.319 inefficient pricing or what you could
+00:06:28.240 call a fair value gap. So you would
+00:06:30.720 simply mark the first candle high and
+00:06:33.120 the third candle low and that area right
+00:06:36.319 there would be your fair value gap. And
+00:06:39.600 to confirm that level, simply just
+00:06:41.600 understand the total volume that was
+00:06:43.039 traded at this level and you will see
+00:06:44.960 that there is a huge gap essentially in
+00:06:48.319 the overall volume. That gap is
+00:06:50.800 inefficient pricing. Now the theory is
+00:06:53.440 is that price will want to trade back
+00:06:56.160 into this price leg at some point to
+00:07:00.000 essentially offer price or reoffer price
+00:07:03.199 at this price leg because again price
+00:07:06.000 has skipped a beat. So imagine if you
+00:07:08.400 are a buyer or a seller in the market
+00:07:10.800 and you actually wanted to buy or sell
+00:07:12.639 at this level. You just wasn't actually
+00:07:14.720 available at that time or maybe your
+00:07:16.960 orders actually didn't get triggered
+00:07:18.560 because there were so few other orders
+00:07:20.800 in the order book. Let's say you were a
+00:07:22.800 passive buyer but there was no sellside
+00:07:25.039 liquidity. So essentially what happens a
+00:07:27.120 lot of the time is there's a lot of
+00:07:29.680 traders that were not filled at these
+00:07:32.319 prices that may may have wanted to get
+00:07:34.560 filled at those prices. So a lot of the
+00:07:36.319 times price will regravitate back toward
+00:07:39.120 this level and a lot of the times close
+00:07:41.280 at least half or sometimes even the
+00:07:43.599 whole gap of price which is essentially
+00:07:46.319 price just reoffering at that price
+00:07:48.880 seeen as though many traders were not
+00:07:50.880 able to transact at that level. There
+00:07:52.400 were so few trades transacted at that
+00:07:54.560 level the market wants to reoffer price
+00:07:57.360 at that level. Very very simple. So
+00:07:59.520 that's why a lot of the times you'll see
+00:08:00.720 these these gaps, right? And you want to
+00:08:02.800 validate them with understanding what
+00:08:04.800 the actual volume at that price level
+00:08:06.479 is. That is a fair value gap. Now into
+00:08:09.599 part two, I'm going to reveal to you how
+00:08:12.080 to actually understand when to trade
+00:08:14.960 fair value gaps and what fair value gap
+00:08:16.960 to trade. As we look at the market here,
+00:08:19.520 I'll be honest, we can see that there
+00:08:21.919 are literally hundreds of fair value
+00:08:24.319 gaps that occur on any kind of one given
+00:08:26.800 daily basis depending on what time frame
+00:08:28.800 you're looking at. Now, why is it then
+00:08:31.199 that so few of them actually hold? I
+00:08:34.159 mean, if we just literally look at this
+00:08:35.679 market right now, you will see so many
+00:08:37.039 fair value gaps and you'll see some hold
+00:08:39.360 and some not hold. The thing is is there
+00:08:42.080 are distinct tells of whether a fair
+00:08:44.880 value gap is really a fair value gap
+00:08:46.560 that price will hold and that's what I
+00:08:48.560 want to break down to you right now. So
+00:08:51.040 essentially we just spoke about this
+00:08:52.640 fair value gap that was created from CPI
+00:08:54.720 on Friday the 24th of October right
+00:08:56.880 which is a couple of days ago as of
+00:08:58.480 recording this. Now notice that we have
+00:09:01.680 this fair value gap and actually me and
+00:09:03.600 my live trading members we actually took
+00:09:06.560 some short positions from up in this
+00:09:08.959 high right here. I'll actually put the
+00:09:10.240 screenshot in. Every New York session, I
+00:09:12.320 trade live with my inner circle members.
+00:09:14.240 If that's something that you think will
+00:09:15.680 help your trading or something that
+00:09:16.959 you're interested in, then down below,
+00:09:18.640 you can fill the form and apply to live
+00:09:20.880 trade with me every single day. So,
+00:09:22.640 yeah, some of us took these trades from
+00:09:24.959 here, literally just trading back into
+00:09:26.880 this fair value gap because we knew that
+00:09:28.640 the likelihood is is that gap is going
+00:09:30.399 to get filled. Now, notice when I come
+00:09:32.480 into the market today, right, Monday the
+00:09:35.360 27th of October, this is how the session
+00:09:37.760 looks. This is how price actually looks,
+00:09:39.600 right? We have yesterday, we have the
+00:09:41.680 Friday's price leg, we come into the end
+00:09:44.080 of Friday, we have this range. Notice as
+00:09:46.240 well, right, that this range here makes
+00:09:49.600 up the majority of the total volume,
+00:09:52.640 right? So, don't be confused. Ranges
+00:09:54.800 don't equal low volume and big moves
+00:09:56.880 equal high volume. That's not
+00:09:58.399 necessarily true. So, we have this right
+00:10:00.800 here. Now, there's a couple telltale
+00:10:02.880 signs of how I was able to catch this
+00:10:05.440 trade this morning that still hasn't
+00:10:06.880 fully completed, but I'll break it down
+00:10:08.800 anyway. So, we want to identify the best
+00:10:11.360 fair value gap to trade. Now, notice
+00:10:13.920 here that we had this fair value gap and
+00:10:17.200 notice that the majority of that fair
+00:10:19.040 value gap has been filled. Now, most
+00:10:21.519 traders, if they didn't have the volume
+00:10:23.120 profile, would actually think that this
+00:10:25.200 fair value gap is essentially just now
+00:10:27.839 finished, right? It's useless. But if
+00:10:29.279 you look carefully, you'll see that this
+00:10:31.839 candle right here, the first candle that
+00:10:34.320 initiated this move, still hasn't been
+00:10:36.480 traded into yet. And so from the lowest
+00:10:38.880 point that we come, which is literally
+00:10:40.800 right here, you can see that there's
+00:10:42.560 still actually a fair value gap here.
+00:10:44.320 And if you slide this fair value gap
+00:10:46.240 across, notice what we have on the
+00:10:48.720 overall volume. We have a very low
+00:10:51.680 volume area, which is essentially a
+00:10:54.000 market inefficiency. And so if we just
+00:10:56.160 look at this overall area, we mark out a
+00:10:58.640 fair value gap and we have this
+00:11:01.680 inefficiency. This is the first sign of
+00:11:05.200 a good fair value gap. Right? The second
+00:11:09.040 sign of a good fair value gap is the
+00:11:11.600 overall trend of price. This is the most
+00:11:14.399 important and honestly most simple. If
+00:11:17.600 we look at the directional kind of bias
+00:11:20.640 of this market, we are very clearly
+00:11:22.880 bullish, right? We were in this
+00:11:24.160 downtrend. and we're putting in lower
+00:11:25.600 lows, lower highs, lower lows, lower
+00:11:27.040 highs, lower lows. And then eventually,
+00:11:29.440 this is my kind of swing high. We take
+00:11:32.399 out this high and we become bullish,
+00:11:34.640 right? So, we're actually bullish coming
+00:11:36.959 into today. That's the most important
+00:11:39.120 thing. You have to understand what's the
+00:11:40.880 likelihood of price trading higher or
+00:11:44.000 lower in this one session. And the key
+00:11:46.240 telltale sign of what that is is going
+00:11:48.240 to be your market structure. So the
+00:11:50.480 second key after identifying the actual
+00:11:53.600 validated fair value gap from the volume
+00:11:56.079 inefficiency is the overall trend of
+00:11:58.800 price. You have to trade in alignment
+00:12:01.440 with the overall direction of price.
+00:12:03.200 Point blank period. It's a complete
+00:12:04.800 non-negotiable. You will be surprised at
+00:12:06.480 how many people try to short when the
+00:12:08.399 market is bullish. And it's very evident
+00:12:10.639 like if you look at the fair value gaps
+00:12:12.880 that come to the left when we're
+00:12:14.880 trending bullish,
+00:12:16.880 right? You can see in here we have all
+00:12:21.120 of these bearish fair value gaps that
+00:12:24.320 are getting formed
+00:12:26.639 at these price points and eventually all
+00:12:29.920 of them get traded through because fair
+00:12:33.440 value gaps are great but they have to be
+00:12:35.600 traded in alignment with understanding
+00:12:38.160 the overall context of price. So when
+00:12:40.639 I'm coming into the market today the
+00:12:42.480 first thing honestly that I'm looking
+00:12:43.760 for is low to high bullish. Okay, second
+00:12:48.320 thing point of interest which is my fair
+00:12:51.760 value gap in here which I've just
+00:12:53.200 explained to you. Now another thing and
+00:12:56.079 a very important thing is liquidity
+00:12:58.399 right? So notice here that on these lows
+00:13:00.800 we have equal lows down here we have an
+00:13:03.200 old low down here. Now these equal lows
+00:13:06.160 this old low here represents to me
+00:13:08.320 liquidity. We have Asia low as well. So
+00:13:10.800 for me all the time I need to see a
+00:13:12.959 liquidation of price. What I like to see
+00:13:15.120 is I like to see liquidity get built at
+00:13:17.120 a certain price leg and then sweep that
+00:13:20.079 liquidity into my point of interest. So,
+00:13:22.560 I like to see price sweep into a point
+00:13:25.279 of interest. That's the third thing. And
+00:13:27.680 the second part of the third thing is
+00:13:29.839 liquidity to target, right? Liquidity to
+00:13:32.639 take, liquidity to target. You've heard
+00:13:34.240 me say it before. Liquidity to take down
+00:13:36.320 here on the sell side. Liquidity to
+00:13:38.480 target is the high of the previous week.
+00:13:42.480 It's the high of the previous day. It's
+00:13:45.760 the high of the Friday session. It's the
+00:13:48.639 high of New York session. And we have
+00:13:51.680 Asia high here creating an relative
+00:13:54.320 equal high across here. So this is a
+00:13:57.040 very very obvious point that price will
+00:14:00.079 want to revisit. And so this trade setup
+00:14:02.639 becomes literally super simple to me.
+00:14:05.120 Now if I didn't have these, right, if I
+00:14:07.440 just had a fair value gap or just a fair
+00:14:09.440 value gap, I wouldn't know which way to
+00:14:12.480 go. Right? There's fair value gaps in
+00:14:14.160 here. Should I trade those? Should I
+00:14:15.600 trade these fair value gaps? What about
+00:14:16.880 these ones? Right? Just understanding a
+00:14:19.279 fair value gap and seeing them in the
+00:14:21.199 market isn't enough. You have to have
+00:14:23.120 context. And so for me, the context is
+00:14:25.839 the direction of price, right? Bullish
+00:14:28.399 is the the low volume in here, the
+00:14:32.880 context of what this move represents,
+00:14:34.959 the liquidity that we're going to take
+00:14:36.560 out on the way, and the liquidity that
+00:14:38.959 we're going to target. So trend
+00:14:41.519 verification of a fair value gap plus
+00:14:44.160 the top level in here. that makes an
+00:14:47.199 actual good fair value gap. And so now
+00:14:49.680 moving into the final part, how does
+00:14:51.760 this all come together into an actual
+00:14:53.920 tradable setup? How do I go from
+00:14:56.560 identifying this to actually executing a
+00:14:59.199 trade? That's what I'm going to show you
+00:15:00.720 right now. So for now, we're going to
+00:15:02.320 remove this volume profile because we
+00:15:04.160 can clearly see where it is. In fact,
+00:15:05.920 we'll wait for price to come into this
+00:15:07.440 level. So you can see what do most
+00:15:09.600 people do, right? Most people are
+00:15:11.440 looking at this when London session
+00:15:13.199 opens and they're seeing this volume
+00:15:15.040 come up and they're seeing these equal
+00:15:16.959 lows or this double bottom or this
+00:15:18.720 support level across here and they're
+00:15:21.839 trying to buy this straight away. For
+00:15:25.199 me, I'm seeing this as inducement. This
+00:15:27.600 is pushing price up going to make people
+00:15:29.600 want to look to go long, right? and then
+00:15:31.839 the real move is going to happen and
+00:15:33.440 then everyone's going to shift and then
+00:15:34.880 the real move is going to happen because
+00:15:36.800 institutions need liquidity to process
+00:15:39.839 orders. It's that simple. So that's
+00:15:42.560 essentially what's occurring. So I'm
+00:15:44.000 patiently waiting for this right now
+00:15:47.600 what we can see. Look at that. Right? We
+00:15:50.399 sweep these lows literally perfectly
+00:15:53.680 into this fair value gap. We have now
+00:15:56.480 come into this kind of low volume area.
+00:16:00.079 added a little bit of volume to it and
+00:16:02.000 we're immediately having an aggressive
+00:16:03.680 reaction here on the 15 minute. But
+00:16:05.680 that's not enough. I need confirmation.
+00:16:08.160 So I gonna drop to the five minute time
+00:16:10.160 frame, right? And here on the fivem
+00:16:12.720 minute time frame, if we again remove
+00:16:14.560 this for now on the fivem minute time
+00:16:17.839 frame, notice that we have this, you
+00:16:20.720 know, structural high in here. So as
+00:16:23.759 we're coming in, we're kind of coming in
+00:16:25.199 bearish and we have this structural
+00:16:26.480 high. Again, what this means is that
+00:16:28.720 right now sellers are dominating this
+00:16:31.360 market. That's why price is trading
+00:16:32.959 lower. So I need to see the realtime
+00:16:35.120 order flow shift from sellers in control
+00:16:37.279 to buyers in control. And that starts
+00:16:39.839 with the shift of this high. So notice
+00:16:42.480 now that we have actually shifted this
+00:16:46.240 high, right? We have broken above this
+00:16:48.560 high. And if you just simply apply the
+00:16:52.079 volume again, so the fixed volume
+00:16:54.480 profile, right? And if you look at the
+00:16:56.880 volume, let's say from yeah, from here,
+00:17:01.920 what do you notice? Right? And if we go
+00:17:03.519 to the 15-minut time frame, let's say,
+00:17:05.280 right, we have the volume in here,
+00:17:07.679 right? What do we notice? We notice that
+00:17:10.319 at this moment in time, the low volume
+00:17:13.439 is down here. So on the fivem minute
+00:17:16.079 time frame, that's where I'm first
+00:17:18.160 looking at trading. I'm first looking at
+00:17:20.799 trading this fair value gap that takes
+00:17:24.319 place here. that's perfectly aligned
+00:17:26.319 with this area of low volume. Right?
+00:17:29.760 Then what happens?
+00:17:32.640 Price starts to aggressively shift. Now
+00:17:35.840 notice that there's a lot of volume in
+00:17:39.039 here, low volume in here, more volume in
+00:17:42.559 here. So now the area can be expanded. I
+00:17:45.600 don't need to just look at this level
+00:17:47.039 because the low volume area is in this
+00:17:49.200 entire area. So if we go to let's say a
+00:17:51.360 15-minut time frame and keeping a
+00:17:52.960 monitor on this on the chart again
+00:17:55.919 notice what we have here right we have
+00:17:59.039 the verified fair value gap in the terms
+00:18:02.320 of how it looks on a chart and we have
+00:18:04.640 this low volume area of price right
+00:18:07.360 which literally starts from here and
+00:18:09.840 finishes here. So now what I can do is I
+00:18:14.559 can place this order long position on
+00:18:17.440 this fair value gap. You look at this
+00:18:19.039 and you you identify this as a fair
+00:18:20.799 value gap.
+00:18:22.559 And where do I place my stop loss? A lot
+00:18:25.120 of people might place their stop losses
+00:18:26.400 down here. Me, I'm looking at the
+00:18:28.640 volume. I'm looking at these lows across
+00:18:30.799 here. The volume stops here. The volume
+00:18:33.600 becomes large here. So, I can
+00:18:34.880 technically just put my stop loss on the
+00:18:37.600 volume in here. And where am I looking
+00:18:40.320 to target? I can simply just target
+00:18:42.640 whatever. I can target a one to two
+00:18:44.080 riskreward or I can look at targeting
+00:18:46.160 the swing highs up in here. And that's
+00:18:48.640 pretty much it, right? You want to see
+00:18:52.480 number one directional bias,
+00:18:55.200 number two, liquidity to take, clean
+00:18:58.160 fair value gap that makes objective
+00:19:00.160 sense from a volume perspective, clean
+00:19:02.480 liquidity or intended intentional
+00:19:05.280 target, nothing random. And what
+00:19:08.320 happens?
+00:19:10.480 Price sweeps into the fair value gap,
+00:19:12.720 starts moving forward. And again, this
+00:19:14.640 trade is now still open.
+00:19:17.840 But understand that the overall target
+00:19:20.720 for me is here. Now, I might not hit
+00:19:22.640 this trade. This may be a trade that
+00:19:24.480 doesn't get hit. Maybe it is a trade
+00:19:25.840 that gets hit. Maybe you'll find out.
+00:19:28.000 But regardless of this, this is the
+00:19:29.760 setup. And then it's about how many
+00:19:31.440 times does this setup work out. And so
+00:19:33.679 that is in essence how to truly
+00:19:36.880 understand fair value gaps in a way
+00:19:38.240 you've probably never been explained
+00:19:39.679 this before. And if you want to join me
+00:19:41.840 live every single day trading New York
+00:19:44.480 session, then again check the link in
+00:19:46.559 the description.
