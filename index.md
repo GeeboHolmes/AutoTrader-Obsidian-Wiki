@@ -1,6 +1,6 @@
 # Wiki Index
 
-_Last updated: 2026-04-06 — 79 sources ingested, 4 entities, 16 concepts, 21 strategies, 1 analysis_
+_Last updated: 2026-04-15 — 81 sources ingested, 5 entities, 34 concepts, 25 strategies, 2 analyses_
 
 ## Sources
 
@@ -86,7 +86,10 @@ _Last updated: 2026-04-06 — 79 sources ingested, 4 entities, 16 concepts, 21 s
 | [[sources/karpathy-autoresearch\|Karpathy Autoresearch]] | karpathy/autoresearch: AI agents running research on single-GPU nanochat training automatically | other | Andrej Karpathy | 2026-03-01 |
 | [[sources/karpathy-llm-wiki\|Karpathy LLM Wiki]] | LLM Wiki — a pattern for building personal knowledge bases using LLMs | other | Andrej Karpathy | 2026-04-06 |
 
-_Note: All 77 Lewis Kelly transcripts ingested. 0 raw files remaining._
+| [[sources/institutional-trading-mastery-guide\|Institutional Trading Mastery Guide]] | Institutional Trading Mastery Guide — Technical Indicators, Strategy Frameworks & Institutional Edge | other | Unknown | 2025-01-01 |
+| [[sources/sd-fib-confluence\|S&D × Fibonacci Confluence]] | This Supply & Demand X Fibonacci Indicator Is Game Changing | video-transcript | Unknown (YouTube Short) | 2026-04-15 |
+
+_Note: All 77 Lewis Kelly transcripts + 1 institutional indicator guide + 1 SD×Fib short ingested._
 
 ## Entities
 
@@ -96,6 +99,7 @@ _Note: All 77 Lewis Kelly transcripts ingested. 0 raw files remaining._
 | [[entities/lewis-kelly\|Lewis Kelly]] | educator | SMC YouTube educator; 75 transcripts in raw/ — primary research source ingested |
 | [[entities/python-bot\|Python Bot]] | project | The AI-powered automated trading bot being built |
 | [[entities/karpathy\|Andrej Karpathy]] | person | AI researcher; creator of nanochat and autoresearch — reference for the Karpathy optimization pipeline stage |
+| [[entities/luxalgo\|LuxAlgo]] | tool | LuxAlgo Quant — AI-driven Pine Script indicator builder; used for research prototyping, not production runtime |
 
 ## Concepts
 
@@ -117,6 +121,24 @@ _Note: All 77 Lewis Kelly transcripts ingested. 0 raw files remaining._
 | [[concepts/top-down-analysis\|Top-Down Analysis]] | execution | Three-timeframe framework: Daily → 15m → 1m → 5m entry (LK approach) |
 | [[concepts/risk-management\|Risk Management]] | risk-management | Position sizing, daily limits, and capital protection rules |
 | [[concepts/backtesting\|Backtesting]] | backtesting | Development pipeline and validation methodology |
+| [[concepts/ema\|EMA]] | technical | Exponential Moving Average — dynamic S/R, EMA stack directional bias |
+| [[concepts/sma\|SMA]] | technical | Simple Moving Average — institutional reference levels, SMA 200 |
+| [[concepts/vwap\|VWAP]] | technical | Volume Weighted Average Price — intraday fair value, SD bands |
+| [[concepts/supertrend\|Supertrend]] | technical | ATR-based trend direction and dynamic trailing stop |
+| [[concepts/adx\|ADX]] | technical | Average Directional Index — trend strength and regime filter |
+| [[concepts/ichimoku\|Ichimoku Cloud]] | technical | Complete trend system — S/R, momentum, direction in one indicator |
+| [[concepts/dema-tema\|DEMA & TEMA]] | technical | Reduced-lag moving averages for faster signal generation |
+| [[concepts/rsi\|RSI]] | technical | Relative Strength Index — context-dependent momentum, divergence |
+| [[concepts/macd\|MACD]] | technical | Moving Average Convergence Divergence — momentum shifts, histogram |
+| [[concepts/stochastic\|Stochastic Oscillator]] | technical | Price position vs range — entry timing oscillator |
+| [[concepts/cci\|CCI]] | technical | Commodity Channel Index — cyclical momentum, unbounded oscillator |
+| [[concepts/mfi\|MFI]] | technical | Money Flow Index — volume-weighted RSI, smart money detection |
+| [[concepts/williams-percent-r\|Williams %R]] | technical | Overbought/oversold timing with failure swing signals |
+| [[concepts/roc\|ROC]] | technical | Rate of Change — pure unsmoothed price momentum percentage |
+| [[concepts/indicator-confluence\|Indicator Confluence]] | execution | Multi-signal confirmation scoring system (0–10 points) |
+| [[concepts/indicator-divergence\|Indicator Divergence]] | technical | Price vs oscillator disagreement — high-probability reversal signal |
+| [[concepts/fibonacci-retracement\|Fibonacci Retracement]] | technical | 0.5/0.618 golden pocket as anchored retracement tool on swing legs |
+| [[concepts/fib-sd-confluence\|Fib × S&D Confluence]] | execution | Entry filter requiring golden pocket to overlap an S&D/OB zone |
 
 ## Strategies
 
@@ -143,10 +165,15 @@ _Note: All 77 Lewis Kelly transcripts ingested. 0 raw files remaining._
 | [[strategies/lk-5-phase-manipulation\|LK 5-Phase Manipulation]] | research | Forex | Intraday |
 | [[strategies/lk-simple-ob-model\|LK Simple OB Model]] | research | Multi | Intraday |
 | [[strategies/lk-london-bias-ob\|LK London Bias OB]] | research | Multi | Intraday |
+| [[strategies/institutional-trend-rider\|Institutional Trend Rider]] | research | Multi | Swing |
+| [[strategies/vwap-mean-reversion\|VWAP Mean Reversion]] | research | Multi | Intraday |
+| [[strategies/divergence-reversal\|Divergence Reversal System]] | research | Multi | Swing |
+| [[strategies/sd-fib-confluence\|S&D × Fibonacci Confluence]] | research | Multi | Intraday |
 
 ## Analyses
 
 | Page | Question | Date |
 |------|----------|------|
 | [[analyses/strategy-conviction-ranking\|Strategy Conviction Ranking]] | Which strategies have the strongest evidence base for the crypto bot pipeline? | 2026-04-06 |
+| [[analyses/strategy-coverage-gaps\|Strategy Coverage Gaps]] | Which of the 14 canonical SMC concepts are covered / missing in `successful/`? Strategist research roadmap. | 2026-04-26 |
 | [[pipeline-status\|Pipeline Status]] | Current state of 10MGFoxAgents strategy pipeline — strategy stages, session logs, next steps | 2026-04-08 |
