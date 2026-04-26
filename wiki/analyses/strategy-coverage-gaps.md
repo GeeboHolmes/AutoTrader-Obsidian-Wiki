@@ -1,7 +1,7 @@
 ---
 type: analysis
 created: 2026-04-26
-last_audited: 2026-04-26 (S52 + S53 promoted; S54 attempted + failed — sweep-reversal pattern confirmed broken)
+last_audited: 2026-04-27 (S55 attempted + failed — mitigation-as-FVG too permissive without secondary selectivity)
 status: living-doc
 ---
 
@@ -29,18 +29,21 @@ This page maps the 14 canonical SMC strategy concepts to the strategies currentl
 | 10 | Range Liquidity Sweep Reversal | ⚠️ PARTIAL | `vwap_mr_v1` covers mean-reversion in range regime via VWAP SD bands, but NOT pure range-extreme sweep + rejection |
 | 11 | Premium/Discount Continuation | ✅ COVERED | `sweep_fvg_ote_v1` (OTE 0.618-0.786), `sd_fib_confluence_v1` (golden pocket 0.5-0.618). Note: `sweep_fvg_discount_v1` deep-discount variant FAIL'd 2026-04-26 |
 | 12 | Multi-Timeframe OB Alignment | ✅ COVERED (5×) | `simple_ob_mtf_v1`, `h4_fvg_retest_v1`, `pdl_retest_v1`, `candle_char_ob_v1`, `stacked_ob_v1` |
-| 13 | **Mitigation Block Continuation** | ❌ MISSING | never attempted as a distinct mechanic (mitigation = unmitigated zone return for rebalance, distinct from OB retest) |
+| 13 | **Mitigation Block Continuation** | ❌ MISSING (v1 attempted) | **S55 `mitigation_block_continuation_v1` ATTEMPTED 2026-04-27 → FAILED initial QA** (PF 1.13, OOS DD 29.7%, IS DD 35.2% — both breach 25% cap). Used unfilled FVG as mitigation zone with three-state ledger. **Diagnosis: mitigation-state tracking is necessary-but-not-sufficient for edge** — concept takes any FVG in BOS impulse, no secondary selectivity. Future v2 must layer OTE / premium-discount / HTF-bias filter on top of the mitigation tracking, OR find a non-FVG mitigation definition that is intrinsically more selective. Adding OTE would essentially duplicate S7 — be careful with v2 design. |
 | 14 | **Double Liquidity Sweep (SSL+BSL)** | ❌ MISSING | `double_sweep_ob_v1` ATTEMPTED → in `failed/` |
 
 ---
 
 ## Priority order for strategist research
 
-1. **Mitigation Block Continuation** (#13) — distinct from OB retest. Mitigation = price returns to rebalance an *unmitigated* zone before continuing the trend. No code in book attempts this mechanic. Wiki: [[concepts/mitigation|mitigation]]. **Now top priority after S54 failure (2026-04-26) deferred #5.**
-2. ~~**Liquidity Grab → Reversal** (#5)~~ — DEFERRED 2026-04-26 after S54 v1 failed initial QA. The OB-at-CHoCH-origin variant of #5 is a confirmed structural failure pattern (S6 + S54). Future v2/v3 must use fundamentally different mechanic (FVG entry, HTF bias gate, momentum-confirmed sweep). Not a top priority until a novel-enough angle is proposed.
-3. **Range-Sweep Reversal** (#10) — true range high/low sweep + reversal mechanic, complementing VWAP MR's regime-driven approach. Identify range → wait for sweep → CHoCH → reverse to opposite extreme.
-4. **Double Sweep v2** (#14) — review `Agents/Strategies/failed/double_sweep_ob_v1.py` failure mode first. Often appears before big moves; concept is sound, execution likely the issue.
-5. **Inducement** (#9) — fake-structure-trap-before-sweep. Wiki: [[concepts/inducement|inducement]]. Mechanism is fuzzier than other concepts — harder to formalise but high novelty.
+**Active queue (top of stack first):**
+1. **Double Sweep v2** (#14) — review `Agents/Strategies/failed/double_sweep_ob_v1.py` failure mode FIRST. Often appears before big moves; concept is sound, execution likely the issue. **Promoted to top after S55 failure deferred #13 (2026-04-27).**
+2. **Range-Sweep Reversal** (#10) — true range high/low sweep + reversal mechanic, complementing VWAP MR's regime-driven approach. Identify range → wait for sweep → CHoCH → reverse to opposite extreme.
+3. **Inducement** (#9) — fake-structure-trap-before-sweep. Wiki: [[concepts/inducement|inducement]]. Mechanism is fuzzier than other concepts — harder to formalise but high novelty.
+
+**Deferred (failed v1 — needs new angle before re-attempt):**
+- ~~**Mitigation Block Continuation** (#13)~~ — DEFERRED 2026-04-27 after S55 v1 failed initial QA (PF 1.13, IS/OOS DD both >25% cap). FVG-only-mitigation variant lacks selectivity. Future v2 must layer OTE / premium-discount / HTF bias on top of mitigation tracking — risk of duplicating S7.
+- ~~**Liquidity Grab → Reversal** (#5)~~ — DEFERRED 2026-04-26 after S54 v1 failed initial QA. OB-at-CHoCH-origin variant is confirmed structural failure pattern (S6 + S54). Future v2/v3 must use fundamentally different mechanic (FVG entry, HTF bias gate, momentum-confirmed sweep).
 
 **Design rule reinforced 2026-04-26 (S53 split):** one strategy per concept. If a strategy is pitched as "covers concepts X and Y", split into separate specialists. Bundling adds optional/disabled code paths that confuse AR optimization and dilute concept coverage claims.
 
@@ -72,3 +75,4 @@ This page maps the 14 canonical SMC strategy concepts to the strategies currentl
 | 2026-04-26 | Orchestrator | 8 | 4 missing (#5/#6/#9/#13/#14), partial #10 | S52 breaker_block_v1 PROMOTED (#3 ✅). Next priority remains #5/#6 CHoCH+OB Reversal v2. |
 | 2026-04-26 | Orchestrator | 9 | 4 missing (#5/#9/#13/#14), partial #10 | S53 choch_ob_reversal_v2 PROMOTED (#6 ✅) with BTC stress risk-accepted. Originally pitched as covering #5+#6; user split scope to one-strategy-per-concept. **Next priority: #5 (Liquidity Grab → Reversal) — dedicated S54 specialist with mandatory sweep precondition.** |
 | 2026-04-26 | Orchestrator | 9 | 4 missing (#5/#9/#13/#14), partial #10 | S54 liq_grab_reversal_v1 ATTEMPTED → FAILED initial QA (29.5% WR, both IS and OOS negative). **Joins S6 as 2nd sweep-reversal failure** — pattern confirmed: sweep+OB-at-CHoCH-origin doesn't work in 1H crypto. #5 stays MISSING with structural-failure flag. **Next priority: #13 (Mitigation Block Continuation)** — distinct from OB retest; no prior attempt. |
+| 2026-04-27 | Orchestrator | 9 | 4 missing (#5/#9/#13/#14), partial #10 | S55 mitigation_block_continuation_v1 ATTEMPTED → FAILED initial QA (PF 1.13, OOS DD 29.7%, IS DD 35.2%). FVG-as-mitigation-zone with three-state ledger is mechanically sound but lacks selectivity. #13 stays MISSING with "needs OTE/fib/bias filter on top of mitigation tracking" flag. **Next priority: #14 (Double Liquidity Sweep) — review failed/double_sweep_ob_v1 first.** |
