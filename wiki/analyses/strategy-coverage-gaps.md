@@ -1,7 +1,7 @@
 ---
 type: analysis
 created: 2026-04-26
-last_audited: 2026-04-26
+last_audited: 2026-04-26 (S52 promoted same day)
 status: living-doc
 ---
 
@@ -19,7 +19,7 @@ This page maps the 14 canonical SMC strategy concepts to the strategies currentl
 |---|---|---|---|
 | 1 | BOS Retest Continuation | ✅ COVERED | `bos_retest_continuation_v2` |
 | 2 | OB Retest Continuation | ✅ COVERED (10×) | `ob_retest_continuation_v1`, `simple_ob_stf_v1`, `simple_ob_mtf_v1`, `adx_gate_ob_v1`, `roc_align_ob_v1`, `btc_confirm_ob_v1`, `squeeze_ob_v1`, `stoch_ob_v2`, `candle_char_ob_v1`, `supertrend_regime_ob_v1` |
-| 3 | **Breaker Block Setup** | 🚧 IN PIPELINE (S52) | `breaker_block_v1` (in `new/`, AR running 2026-04-26) — first OB-lifecycle strategy in book |
+| 3 | Breaker Block Setup | ✅ COVERED | `breaker_block_v1` (S52) — first OB-lifecycle strategy in book. Promoted 2026-04-26 with $330k OOS PnL / PF 2.74 / 0/6 stress collapses. AR plateau-confirmed across 75 iter / 2 runs. |
 | 4 | Liquidity Grab → Continuation | ✅ COVERED | `sweep_gated_ob_v1`, `sweep_fvg_ote_v1` |
 | 5 | **Liquidity Grab → Reversal** | ❌ MISSING | `choch_ob_reversal_v1` ATTEMPTED → in `failed/` |
 | 6 | **CHoCH + OB Entry** | ❌ MISSING | overlaps with #5 — same `choch_ob_reversal_v1` failure |
@@ -67,3 +67,4 @@ This page maps the 14 canonical SMC strategy concepts to the strategies currentl
 | Date | Auditor | Concepts covered | Concepts missing | Notes |
 |---|---|---|---|---|
 | 2026-04-26 | User + orchestrator | 7 | 5 (#3 in pipeline), partial #10 | Initial audit. S33 sweep_fvg_discount FAIL'd same day; S52 breaker_block_v1 entered pipeline as response to #3 gap. |
+| 2026-04-26 | Orchestrator | 8 | 4 missing (#5/#6/#9/#13/#14), partial #10 | S52 breaker_block_v1 PROMOTED (#3 ✅). Next priority remains #5/#6 CHoCH+OB Reversal v2. |
