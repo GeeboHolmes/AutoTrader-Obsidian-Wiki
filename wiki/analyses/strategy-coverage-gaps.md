@@ -1,7 +1,7 @@
 ---
 type: analysis
 created: 2026-04-26
-last_audited: 2026-04-27 (S55 attempted + failed — mitigation-as-FVG too permissive without secondary selectivity)
+last_audited: 2026-04-27 (S56 promoted with BNB risk-accepted — coverage now 10/14)
 status: living-doc
 ---
 
@@ -30,16 +30,15 @@ This page maps the 14 canonical SMC strategy concepts to the strategies currentl
 | 11 | Premium/Discount Continuation | ✅ COVERED | `sweep_fvg_ote_v1` (OTE 0.618-0.786), `sd_fib_confluence_v1` (golden pocket 0.5-0.618). Note: `sweep_fvg_discount_v1` deep-discount variant FAIL'd 2026-04-26 |
 | 12 | Multi-Timeframe OB Alignment | ✅ COVERED (5×) | `simple_ob_mtf_v1`, `h4_fvg_retest_v1`, `pdl_retest_v1`, `candle_char_ob_v1`, `stacked_ob_v1` |
 | 13 | **Mitigation Block Continuation** | ❌ MISSING (v1 attempted) | **S55 `mitigation_block_continuation_v1` ATTEMPTED 2026-04-27 → FAILED initial QA** (PF 1.13, OOS DD 29.7%, IS DD 35.2% — both breach 25% cap). Used unfilled FVG as mitigation zone with three-state ledger. **Diagnosis: mitigation-state tracking is necessary-but-not-sufficient for edge** — concept takes any FVG in BOS impulse, no secondary selectivity. Future v2 must layer OTE / premium-discount / HTF-bias filter on top of the mitigation tracking, OR find a non-FVG mitigation definition that is intrinsically more selective. Adding OTE would essentially duplicate S7 — be careful with v2 design. |
-| 14 | **Double Liquidity Sweep (SSL+BSL)** | ❌ MISSING | `double_sweep_ob_v1` ATTEMPTED → in `failed/` |
+| 14 | Double Liquidity Sweep (SSL+BSL) | ✅ COVERED | `double_sweep_v2` (S56) — promoted 2026-04-27. **First strategy in book to require BOTH-side sweeps within window.** $50.3k OOS / 5/6 canonical stress pass + 8/11 extended OK / BNB borderline risk-accepted. v1 (S27) was hidden S22 duplicate (same-side sweeps); v2 is truly novel. AR iter #17 stress-improv selected over AR best after extended-pair sweep showed iter #17 generalises better. |
 
 ---
 
 ## Priority order for strategist research
 
 **Active queue (top of stack first):**
-1. **Double Sweep v2** (#14) — review `Agents/Strategies/failed/double_sweep_ob_v1.py` failure mode FIRST. Often appears before big moves; concept is sound, execution likely the issue. **Promoted to top after S55 failure deferred #13 (2026-04-27).**
-2. **Range-Sweep Reversal** (#10) — true range high/low sweep + reversal mechanic, complementing VWAP MR's regime-driven approach. Identify range → wait for sweep → CHoCH → reverse to opposite extreme.
-3. **Inducement** (#9) — fake-structure-trap-before-sweep. Wiki: [[concepts/inducement|inducement]]. Mechanism is fuzzier than other concepts — harder to formalise but high novelty.
+1. **Range-Sweep Reversal** (#10) — true range high/low sweep + reversal mechanic, complementing VWAP MR's regime-driven approach. Identify range → wait for sweep → CHoCH → reverse to opposite extreme. **Promoted to top after S56 cleared #14 (2026-04-27).** Note: this is a reversal strategy — sweep-reversal pattern has 2 prior failures (S6, S54) so design must justify why range-context differs from trend-extreme context.
+2. **Inducement** (#9) — fake-structure-trap-before-sweep. Wiki: [[concepts/inducement|inducement]]. Mechanism is fuzzier than other concepts — harder to formalise but high novelty.
 
 **Deferred (failed v1 — needs new angle before re-attempt):**
 - ~~**Mitigation Block Continuation** (#13)~~ — DEFERRED 2026-04-27 after S55 v1 failed initial QA (PF 1.13, IS/OOS DD both >25% cap). FVG-only-mitigation variant lacks selectivity. Future v2 must layer OTE / premium-discount / HTF bias on top of mitigation tracking — risk of duplicating S7.
@@ -76,3 +75,4 @@ This page maps the 14 canonical SMC strategy concepts to the strategies currentl
 | 2026-04-26 | Orchestrator | 9 | 4 missing (#5/#9/#13/#14), partial #10 | S53 choch_ob_reversal_v2 PROMOTED (#6 ✅) with BTC stress risk-accepted. Originally pitched as covering #5+#6; user split scope to one-strategy-per-concept. **Next priority: #5 (Liquidity Grab → Reversal) — dedicated S54 specialist with mandatory sweep precondition.** |
 | 2026-04-26 | Orchestrator | 9 | 4 missing (#5/#9/#13/#14), partial #10 | S54 liq_grab_reversal_v1 ATTEMPTED → FAILED initial QA (29.5% WR, both IS and OOS negative). **Joins S6 as 2nd sweep-reversal failure** — pattern confirmed: sweep+OB-at-CHoCH-origin doesn't work in 1H crypto. #5 stays MISSING with structural-failure flag. **Next priority: #13 (Mitigation Block Continuation)** — distinct from OB retest; no prior attempt. |
 | 2026-04-27 | Orchestrator | 9 | 4 missing (#5/#9/#13/#14), partial #10 | S55 mitigation_block_continuation_v1 ATTEMPTED → FAILED initial QA (PF 1.13, OOS DD 29.7%, IS DD 35.2%). FVG-as-mitigation-zone with three-state ledger is mechanically sound but lacks selectivity. #13 stays MISSING with "needs OTE/fib/bias filter on top of mitigation tracking" flag. **Next priority: #14 (Double Liquidity Sweep) — review failed/double_sweep_ob_v1 first.** |
+| 2026-04-27 | Orchestrator | 10 | 3 missing (#5/#9/#13), partial #10 | S56 double_sweep_v2 PROMOTED — first true dual-side-sweep specialist. AR best (DISP=floor) gave $97k OOS but 3/6 canonical stress collapses + 5/11 extended fails; user selected AR iter #17 stress-improv (DISP=default-area) for $50k OOS + 5/6 canonical pass + 8/11 extended OK. BNB borderline -$23 PnL flip risk-accepted. Extended-pair informational sweep was the deciding factor. Concept #14 ✅ COVERED. **Next priority: #10 (Range-Sweep Reversal) — note 2 prior sweep-reversal failures (S6, S54), design must justify range-context.** |
