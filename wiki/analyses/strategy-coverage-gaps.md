@@ -1,7 +1,7 @@
 ---
 type: analysis
 created: 2026-04-26
-last_audited: 2026-04-27 (S57 attempted + failed scarcity-trap; coverage stays 10/14, #10 remains partial)
+last_audited: 2026-04-27 (S58 PROMOTED — fills LAST green-field concept #9; coverage 11/14, all remaining missing concepts are deferred-failed-v1)
 status: living-doc
 ---
 
@@ -25,7 +25,7 @@ This page maps the 14 canonical SMC strategy concepts to the strategies currentl
 | 6 | CHoCH + OB Entry | ✅ COVERED | `choch_ob_reversal_v2` (S53) — promoted 2026-04-26. $87.7k OOS PnL / PF 2.97 / 6/6 profitable / 1/6 stress collapse (BTC risk-accepted). v1 (S3) failed on signal scarcity; v2 fixed via custom internal-swing detector + removal of redundant trend-confirmation gate. |
 | 7 | FVG Retest Entry | ✅ COVERED | `fvg_ote_continuation_v1`, `h4_fvg_retest_v1` |
 | 8 | OB + FVG Confluence | ✅ COVERED | `ob_fvg_confluence_tsl_v2` |
-| 9 | **Inducement → Sweep → Entry** | ❌ MISSING | never attempted (despite [[concepts/inducement|inducement]] page existing in wiki) |
+| 9 | Inducement → Sweep → Entry | ✅ COVERED | `inducement_sweep_v1` (S58) — promoted 2026-04-27. **Last green-field SMC concept covered.** $10.7k OOS / PF 4.41 / 6/6 profitable / **0/6 stress collapses (no carve-outs)**. AR ext STRICTLY CONVERGED (first of session). Inducement classification = shallow-retrace counter-trend swing (< 0.618 of prior BOS impulse) — distinguishes "retail trap" from "legitimate pullback." AR multi-objective rescue resolved 3 initial-QA hard fails simultaneously. |
 | 10 | Range Liquidity Sweep Reversal | ⚠️ PARTIAL (v1 attempted) | `vwap_mr_v1` (S49) covers regime-driven mean-reversion via VWAP SD bands. **`range_sweep_reversal_v1` (S57) ATTEMPTED 2026-04-27 → FAILED** initial QA (18 OOS trades, gate 50) + AR scarcity-rescue (0/50 accepts). Edge real on rare setups (PF 2.92 on 18t / 0/6 stress) but does NOT scale — AR best loosening (MIN_RANGE_TOUCHES 2→1) lifted to 119t but PF crashed 1.43 + 3/6 stress collapses. **Diagnosis: classic scarcity-trap.** Future v2 must use fundamentally different range-detection (Bollinger / Donchian / ATR-band) — pure swing-cluster horizontal levels are below 1H crypto trade-count viability. |
 | 11 | Premium/Discount Continuation | ✅ COVERED | `sweep_fvg_ote_v1` (OTE 0.618-0.786), `sd_fib_confluence_v1` (golden pocket 0.5-0.618). Note: `sweep_fvg_discount_v1` deep-discount variant FAIL'd 2026-04-26 |
 | 12 | Multi-Timeframe OB Alignment | ✅ COVERED (5×) | `simple_ob_mtf_v1`, `h4_fvg_retest_v1`, `pdl_retest_v1`, `candle_char_ob_v1`, `stacked_ob_v1` |
@@ -37,8 +37,12 @@ This page maps the 14 canonical SMC strategy concepts to the strategies currentl
 ## Priority order for strategist research
 
 **Active queue (top of stack first):**
-1. **Inducement** (#9) — fake-structure-trap-before-sweep. Wiki: [[concepts/inducement|inducement]]. Mechanism is fuzzier than other concepts — harder to formalise but high novelty. **Now top priority after S57 v1 failed scarcity-trap on #10 (2026-04-27).**
-2. ~~**Range-Sweep Reversal** (#10)~~ — DEFERRED 2026-04-27 after S57 v1 scarcity-trap failure (18 OOS / AR 0/50 accepts). Edge real but does not scale; structural-range detection too rare for 1H crypto. Future v2 needs Bollinger/Donchian/ATR-band detection — pure swing-cluster horizontal levels structurally below trade-count viability. #10 stays PARTIAL via S49 VWAP MR coverage.
+
+**🎯 ALL GREEN-FIELD CONCEPTS COVERED 2026-04-27.** No new concept to attempt — only deferred-failed-v1 retries remain. Future research must either:
+- Find genuinely novel angles for the 3 deferred concepts (#5/#10/#13)
+- Source new SMC concepts from outside the original 14 (e.g. LK's newer videos, ICT advanced concepts)
+- Expand existing successful strategies (TSL variants, MTF variants, indicator confluence)
+- Address book-level diversification gaps (asset class, timeframe, regime)
 
 **Deferred (failed v1 — needs new angle before re-attempt):**
 - ~~**Mitigation Block Continuation** (#13)~~ — DEFERRED 2026-04-27 after S55 v1 failed initial QA (PF 1.13, IS/OOS DD both >25% cap). FVG-only-mitigation variant lacks selectivity. Future v2 must layer OTE / premium-discount / HTF bias on top of mitigation tracking — risk of duplicating S7.
@@ -77,3 +81,4 @@ This page maps the 14 canonical SMC strategy concepts to the strategies currentl
 | 2026-04-27 | Orchestrator | 9 | 4 missing (#5/#9/#13/#14), partial #10 | S55 mitigation_block_continuation_v1 ATTEMPTED → FAILED initial QA (PF 1.13, OOS DD 29.7%, IS DD 35.2%). FVG-as-mitigation-zone with three-state ledger is mechanically sound but lacks selectivity. #13 stays MISSING with "needs OTE/fib/bias filter on top of mitigation tracking" flag. **Next priority: #14 (Double Liquidity Sweep) — review failed/double_sweep_ob_v1 first.** |
 | 2026-04-27 | Orchestrator | 10 | 3 missing (#5/#9/#13), partial #10 | S56 double_sweep_v2 PROMOTED — first true dual-side-sweep specialist. AR best (DISP=floor) gave $97k OOS but 3/6 canonical stress collapses + 5/11 extended fails; user selected AR iter #17 stress-improv (DISP=default-area) for $50k OOS + 5/6 canonical pass + 8/11 extended OK. BNB borderline -$23 PnL flip risk-accepted. Extended-pair informational sweep was the deciding factor. Concept #14 ✅ COVERED. **Next priority: #10 (Range-Sweep Reversal) — note 2 prior sweep-reversal failures (S6, S54), design must justify range-context.** |
 | 2026-04-27 | Orchestrator | 10 | 3 missing (#5/#9/#13), partial #10 | S57 range_sweep_reversal_v1 ATTEMPTED → FAILED initial QA (18 OOS, gate 50) + AR scarcity-rescue (0/50 accepts). Edge real on rare setups (PF 2.92, 0/6 stress) but does NOT scale. AR best stress-improv (iter #14, MIN_RANGE_TOUCHES 2→1) lifted to 119t but PF crashed 1.43 + 3/6 stress collapses. Classic scarcity-trap. Strategist's failure-pattern justification vs S6/S54 was sound (ADX gate + multi-touch + displacement) but the qualification stack is structurally too rare. #10 stays PARTIAL with deferred-v2 flag. **Next priority: #9 (Inducement) — last remaining green-field concept; fuzzier mechanism but no failed-attempt baggage.** |
+| 2026-04-27 | Orchestrator | 11 | 3 missing (all deferred-failed-v1: #5/#10/#13), no green-field remaining | S58 inducement_sweep_v1 PROMOTED — **fills #9, the LAST green-field SMC concept**. OOS 82t / 72% WR / $10.7k / PF 4.41 / 0/6 stress / **NO carve-outs (first of session)**. AR multi-objective rescue resolved 3 initial-QA hard fails simultaneously (35t→82t / 2/6 stress→0/6 / 19pp IS-OOS WR drop→clean). Ext run **STRICTLY CONVERGED at iter #18/25 (first strict convergence of session)** — high-confidence operating point. Manual MAX_RETRACE_PCT sweep before formal QA established invariants ceiling (0.618). Inducement classification (shallow-retrace counter-trend swing) is the novel filter that distinguishes from S22's any-sweep approach. **Coverage 11/14 — all green-field concepts now attempted.** Remaining missing concepts are all deferred-failed-v1 awaiting fundamentally new angles. **Future research must source new concepts outside the original 14 OR find novel v2 mechanics for #5/#10/#13.** |
