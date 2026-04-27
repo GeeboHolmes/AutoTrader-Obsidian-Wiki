@@ -1,7 +1,7 @@
 ---
 type: analysis
 created: 2026-04-26
-last_audited: 2026-04-27 (S56 promoted with BNB risk-accepted — coverage now 10/14)
+last_audited: 2026-04-27 (S57 attempted + failed scarcity-trap; coverage stays 10/14, #10 remains partial)
 status: living-doc
 ---
 
@@ -26,7 +26,7 @@ This page maps the 14 canonical SMC strategy concepts to the strategies currentl
 | 7 | FVG Retest Entry | ✅ COVERED | `fvg_ote_continuation_v1`, `h4_fvg_retest_v1` |
 | 8 | OB + FVG Confluence | ✅ COVERED | `ob_fvg_confluence_tsl_v2` |
 | 9 | **Inducement → Sweep → Entry** | ❌ MISSING | never attempted (despite [[concepts/inducement|inducement]] page existing in wiki) |
-| 10 | Range Liquidity Sweep Reversal | ⚠️ PARTIAL | `vwap_mr_v1` covers mean-reversion in range regime via VWAP SD bands, but NOT pure range-extreme sweep + rejection |
+| 10 | Range Liquidity Sweep Reversal | ⚠️ PARTIAL (v1 attempted) | `vwap_mr_v1` (S49) covers regime-driven mean-reversion via VWAP SD bands. **`range_sweep_reversal_v1` (S57) ATTEMPTED 2026-04-27 → FAILED** initial QA (18 OOS trades, gate 50) + AR scarcity-rescue (0/50 accepts). Edge real on rare setups (PF 2.92 on 18t / 0/6 stress) but does NOT scale — AR best loosening (MIN_RANGE_TOUCHES 2→1) lifted to 119t but PF crashed 1.43 + 3/6 stress collapses. **Diagnosis: classic scarcity-trap.** Future v2 must use fundamentally different range-detection (Bollinger / Donchian / ATR-band) — pure swing-cluster horizontal levels are below 1H crypto trade-count viability. |
 | 11 | Premium/Discount Continuation | ✅ COVERED | `sweep_fvg_ote_v1` (OTE 0.618-0.786), `sd_fib_confluence_v1` (golden pocket 0.5-0.618). Note: `sweep_fvg_discount_v1` deep-discount variant FAIL'd 2026-04-26 |
 | 12 | Multi-Timeframe OB Alignment | ✅ COVERED (5×) | `simple_ob_mtf_v1`, `h4_fvg_retest_v1`, `pdl_retest_v1`, `candle_char_ob_v1`, `stacked_ob_v1` |
 | 13 | **Mitigation Block Continuation** | ❌ MISSING (v1 attempted) | **S55 `mitigation_block_continuation_v1` ATTEMPTED 2026-04-27 → FAILED initial QA** (PF 1.13, OOS DD 29.7%, IS DD 35.2% — both breach 25% cap). Used unfilled FVG as mitigation zone with three-state ledger. **Diagnosis: mitigation-state tracking is necessary-but-not-sufficient for edge** — concept takes any FVG in BOS impulse, no secondary selectivity. Future v2 must layer OTE / premium-discount / HTF-bias filter on top of the mitigation tracking, OR find a non-FVG mitigation definition that is intrinsically more selective. Adding OTE would essentially duplicate S7 — be careful with v2 design. |
@@ -37,8 +37,8 @@ This page maps the 14 canonical SMC strategy concepts to the strategies currentl
 ## Priority order for strategist research
 
 **Active queue (top of stack first):**
-1. **Range-Sweep Reversal** (#10) — true range high/low sweep + reversal mechanic, complementing VWAP MR's regime-driven approach. Identify range → wait for sweep → CHoCH → reverse to opposite extreme. **Promoted to top after S56 cleared #14 (2026-04-27).** Note: this is a reversal strategy — sweep-reversal pattern has 2 prior failures (S6, S54) so design must justify why range-context differs from trend-extreme context.
-2. **Inducement** (#9) — fake-structure-trap-before-sweep. Wiki: [[concepts/inducement|inducement]]. Mechanism is fuzzier than other concepts — harder to formalise but high novelty.
+1. **Inducement** (#9) — fake-structure-trap-before-sweep. Wiki: [[concepts/inducement|inducement]]. Mechanism is fuzzier than other concepts — harder to formalise but high novelty. **Now top priority after S57 v1 failed scarcity-trap on #10 (2026-04-27).**
+2. ~~**Range-Sweep Reversal** (#10)~~ — DEFERRED 2026-04-27 after S57 v1 scarcity-trap failure (18 OOS / AR 0/50 accepts). Edge real but does not scale; structural-range detection too rare for 1H crypto. Future v2 needs Bollinger/Donchian/ATR-band detection — pure swing-cluster horizontal levels structurally below trade-count viability. #10 stays PARTIAL via S49 VWAP MR coverage.
 
 **Deferred (failed v1 — needs new angle before re-attempt):**
 - ~~**Mitigation Block Continuation** (#13)~~ — DEFERRED 2026-04-27 after S55 v1 failed initial QA (PF 1.13, IS/OOS DD both >25% cap). FVG-only-mitigation variant lacks selectivity. Future v2 must layer OTE / premium-discount / HTF bias on top of mitigation tracking — risk of duplicating S7.
@@ -76,3 +76,4 @@ This page maps the 14 canonical SMC strategy concepts to the strategies currentl
 | 2026-04-26 | Orchestrator | 9 | 4 missing (#5/#9/#13/#14), partial #10 | S54 liq_grab_reversal_v1 ATTEMPTED → FAILED initial QA (29.5% WR, both IS and OOS negative). **Joins S6 as 2nd sweep-reversal failure** — pattern confirmed: sweep+OB-at-CHoCH-origin doesn't work in 1H crypto. #5 stays MISSING with structural-failure flag. **Next priority: #13 (Mitigation Block Continuation)** — distinct from OB retest; no prior attempt. |
 | 2026-04-27 | Orchestrator | 9 | 4 missing (#5/#9/#13/#14), partial #10 | S55 mitigation_block_continuation_v1 ATTEMPTED → FAILED initial QA (PF 1.13, OOS DD 29.7%, IS DD 35.2%). FVG-as-mitigation-zone with three-state ledger is mechanically sound but lacks selectivity. #13 stays MISSING with "needs OTE/fib/bias filter on top of mitigation tracking" flag. **Next priority: #14 (Double Liquidity Sweep) — review failed/double_sweep_ob_v1 first.** |
 | 2026-04-27 | Orchestrator | 10 | 3 missing (#5/#9/#13), partial #10 | S56 double_sweep_v2 PROMOTED — first true dual-side-sweep specialist. AR best (DISP=floor) gave $97k OOS but 3/6 canonical stress collapses + 5/11 extended fails; user selected AR iter #17 stress-improv (DISP=default-area) for $50k OOS + 5/6 canonical pass + 8/11 extended OK. BNB borderline -$23 PnL flip risk-accepted. Extended-pair informational sweep was the deciding factor. Concept #14 ✅ COVERED. **Next priority: #10 (Range-Sweep Reversal) — note 2 prior sweep-reversal failures (S6, S54), design must justify range-context.** |
+| 2026-04-27 | Orchestrator | 10 | 3 missing (#5/#9/#13), partial #10 | S57 range_sweep_reversal_v1 ATTEMPTED → FAILED initial QA (18 OOS, gate 50) + AR scarcity-rescue (0/50 accepts). Edge real on rare setups (PF 2.92, 0/6 stress) but does NOT scale. AR best stress-improv (iter #14, MIN_RANGE_TOUCHES 2→1) lifted to 119t but PF crashed 1.43 + 3/6 stress collapses. Classic scarcity-trap. Strategist's failure-pattern justification vs S6/S54 was sound (ADX gate + multi-touch + displacement) but the qualification stack is structurally too rare. #10 stays PARTIAL with deferred-v2 flag. **Next priority: #9 (Inducement) — last remaining green-field concept; fuzzier mechanism but no failed-attempt baggage.** |
